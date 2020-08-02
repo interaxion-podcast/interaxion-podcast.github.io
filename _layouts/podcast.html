@@ -1,0 +1,27 @@
+---
+layout: post
+---
+
+<br>
+<div id="summary">
+  {{ page.excerpt | markdownify}}
+</div>
+<div id="anchor_embedding">
+  <p align="center">{{page.anchorEmbedding}}</p>
+</div>
+<br>
+<div id="starring">
+  <h2>Starring</h2>
+    {% for star in page.starring %}
+      {% for member in site.data.members %}
+        {% if star == member.name %}
+          <a href="https://twitter.com/{{ member.twitter }}"><img src="{{ member.profile_image}}" width="64" height="64" alt="{{ member.name }}"></a>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+</div>
+<br>
+<div id="show_notes">
+  <h2>Show notes</h2>
+  {{ content }}
+</div>

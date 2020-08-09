@@ -22,14 +22,15 @@ layout: default
           </a>
         </h3>
         <p></p>
-        {% for star in post.starring %}
-          {% for member in site.data.members %}
-            {% if star == member.name %}
-              <a href="https://twitter.com/{{ member.twitter }}"><img src="{{ member.profile_image}}" width="32" height="32" alt="{{ member.name }}"></a>
-            {% endif %}
+        <div class="twicon">
+          {% for star in post.starring %}
+            {% for member in site.data.members %}
+              {% if star == member.name %}
+                <a href="https://twitter.com/{{ member.twitter }}"><img src="{{ member.profile_image}}" width="32" height="32" alt="{{ member.name }}"></a>
+              {% endif %}
+            {% endfor %}
           {% endfor %}
-        {% endfor %}
-
+        </div>
         {%- if site.show_excerpts -%}
           {{ post.excerpt | markdownify}}
         {%- endif -%}

@@ -12,13 +12,15 @@ layout: post
 <br>
 <div id="starring">
   <h2>Starring</h2>
-    {% for star in page.starring %}
-      {% for member in site.data.members %}
-        {% if star == member.name %}
-          <a href="https://twitter.com/{{ member.twitter }}"><img src="{{ member.profile_image}}" width="64" height="64" alt="{{ member.name }}"></a>
-        {% endif %}
+    <div class="twicon">
+      {% for star in page.starring %}
+        {% for member in site.data.members %}
+          {% if star == member.name %}
+            <a href="https://twitter.com/{{ member.twitter }}"><img src="{{ member.profile_image}}" width="64" height="64" alt="{{ member.name }}"></a>
+          {% endif %}
+        {% endfor %}
       {% endfor %}
-    {% endfor %}
+    </div>
 </div>
 <br>
 <div id="show_notes">

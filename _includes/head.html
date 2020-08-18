@@ -16,7 +16,7 @@
   <meta name="twitter:site" content="@interaxion">
   <meta name="twitter:creator" content="@interaxion">
   <meta name="twitter:title" content="{{ page.title }}">
-  <meta name="twitter:description" content="{{ page.excerpt }}">
+  <meta name="twitter:description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">
   <meta name="twitter:image" content="favicon.jpg">
   <!-- end of Twitter cards -->
 </head>

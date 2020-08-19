@@ -10,7 +10,7 @@ layout: post
   <p align="center">{{page.anchorEmbedding}}</p>
 </div>
 <br>
-<div id="starring">
+<div class="starring">
   <h2>Starring</h2>
     <div class="twicon">
       {% for star in page.starring %}
@@ -21,6 +21,14 @@ layout: post
         {% endfor %}
       {% endfor %}
     </div>
+</div>
+</br>
+<div class="episode_tags">
+  <h2>Tags</h2>
+  {% assign sortedTags = page.tags | sort %}
+  {% for tag in sortedTags %}
+    <span class="span-tag"><a href="{{ site.url}}/tags#{{ tag }}">{{ tag }}</a> </span>
+  {% endfor %}
 </div>
 <br>
 <div id="show_notes">

@@ -1,0 +1,25 @@
+---
+layout: default
+---
+{% assign sortedTags = site.tags | sort %}
+
+<div class="tag-list">
+  <h2>タグ一覧</h2>
+  {% for tag in sortedTags %}
+  <span class="span-tag"><a href="#{{ tag[0] }}">{{ tag[0] }}</a></span>
+  {% endfor %}
+</div>
+<br><br>
+
+<h2>タグを含むエピソード一覧</h2>
+{% for tag in sortedTags %}
+  <div id="{{ tag[0]}}">
+    <h3>{{ tag[0] }}</h3>
+    <ul>
+    {% for post in tag[1] reversed %}
+      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+    </ul>
+  </div>
+{% endfor %}
+

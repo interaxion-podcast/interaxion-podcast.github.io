@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<h2>出演者一覧</h2>
+{% assign reversedPosts = site.posts | reverse %}
+{% for member in site.data.members %}
+  <h3>{{member.name}}</h3>
+  <ul>
+  {% for post in reversedPosts %}
+    {% for star in post.starring %}
+      {% if star == member.name %}
+        <li><a href="{{site.url}}/{{post.permalink}}">{{post.title | strip}}</a></li>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  </ul>      
+{% endfor %}

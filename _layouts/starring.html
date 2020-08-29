@@ -9,7 +9,7 @@ layout: default
   {% for post in reversedPosts %}
     {% for star in post.starring %}
       {% if star == member.name %}
-        <li><a href="{{site.url}}/{{post.permalink}}">{{post.title | strip}}</a></li>
+        <li><a href="{{post.url}}">{{post.title | strip}}</a></li>
       {% endif %}
     {% endfor %}
   {% endfor %}

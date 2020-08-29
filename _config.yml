@@ -58,3 +58,5 @@ show_excerpts: true
 
 # Google Analytics
 google_analytics: UA-174930527-1
+
+source: ./_source

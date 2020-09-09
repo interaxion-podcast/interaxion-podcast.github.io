@@ -5,4 +5,4 @@
 layout: home
 title: Interaxion Podcast
 ---
-Interaxion は物理やテクノロジーなどについてゆるく話すポッドキャストです。感想、コメント、リクエストなどは [#interaxion](https://twitter.com/hashtag/interaxion) で tweet して頂けるとうれしいです。
+Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。感想、コメント、リクエストなどは [#interaxion](https://twitter.com/hashtag/interaxion) で tweet して頂けるとうれしいです。

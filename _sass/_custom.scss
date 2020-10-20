@@ -1,5 +1,14 @@
-.twicon  img {
+.twicon img {
     max-width: 100%;
     vertical-align: middle;
     border-radius: 50%;
+}
+
+.tag-list .span-tag {
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.tag-list .span-tag::before {
+    content: "#";
 }

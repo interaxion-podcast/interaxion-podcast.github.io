@@ -25,10 +25,12 @@ layout: post
 </br>
 <div class="episode_tags">
   <h2>Tags</h2>
-  {% assign sortedTags = page.tags | sort %}
-  {% for tag in sortedTags %}
-    <span class="span-tag"><a href="{{ site.url}}/tags#{{ tag }}">{{ tag }}</a> </span>
-  {% endfor %}
+  <div class="tag-list">
+    {% assign sortedTags = page.tags | sort %}
+    {% for tag in sortedTags %}
+      <span class="span-tag"><a href="{{ site.url}}/tags#{{ tag }}">{{ tag }}</a> </span>
+    {% endfor %}
+   </div>
 </div>
 <br>
 <div id="show_notes">

@@ -22,6 +22,7 @@ title: Interaxion Podcast
 #email: podcast@okanaoya.com
 description: >- # this means to ignore newlines until "baseurl:"
   Interaxion は物理、テクノロジーなどについて話すポッドキャストです。
+  (Amazon.co.jp アソシエイトメンバー)
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://interaxion-podcast.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: interaxion

@@ -16,7 +16,7 @@ layout: post
       {% for star in page.starring %}
         {% for member in site.data.members %}
           {% if star == member.name %}
-            <a href="https://twitter.com/{{ member.twitter }}"><img src="{{ member.profile_image}}" width="64" height="64" alt="{{ member.name }}"></a>
+            <a href="https://twitter.com/{{ member.twitter }}"><img src="https://twivatar.glitch.me/{{ member.twitter}}" width="64" height="64" alt="{{ member.name }}"></a>
           {% endif %}
         {% endfor %}
       {% endfor %}

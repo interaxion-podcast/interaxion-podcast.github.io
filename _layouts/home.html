@@ -23,7 +23,7 @@ layout: default
           {% for star in post.starring %}
             {% for member in site.data.members %}
               {% if star == member.name %}
-                <a href="https://twitter.com/{{ member.twitter }}"><img src="{{ member.profile_image}}" width="32" height="32" alt="{{ member.name }}"></a>
+                <a href="https://twitter.com/{{ member.twitter }}"><img src="https://twivatar.glitch.me/{{ member.twitter}}" width="32" height="32" alt="{{ member.name }}"></a>
               {% endif %}
             {% endfor %}
           {% endfor %}

@@ -4,7 +4,7 @@ layout: default
 <h2>出演者一覧</h2>
 {% assign reversedPosts = site.posts | reverse %}
 {% for member in site.data.members %}
-  <h3>{{member.name}}</h3>
+  <h3><span class="twicon"><a href="https://twitter.com/{{ member.twitter }}"><img src="https://twivatar.glitch.me/{{ member.  twitter}}" width="32" height="32" alt="{{ member.name }}"></a></span> {{member.name}}</h3>
   <ul>
   {% for post in reversedPosts %}
     {% for star in post.starring %}

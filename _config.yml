@@ -56,5 +56,14 @@ exclude:
 # 抜粋を表示
 show_excerpts: true
 
+# 脚注を使う https://stackoverflow.com/a/48250535/11480802
+markdown: kramdown
+# Twitter の埋め込みに失敗する
+
+# 目次を使う https://stackoverflow.com/a/38419441/11480802
+kramdown:
+  parse_block_html: true
+
+
 # Google Analytics
 google_analytics: UA-174930527-1

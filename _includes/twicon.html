@@ -1,0 +1,15 @@
+<div class="twicon">
+  {% for star in include.starring_list %}
+    {% for member in site.data.members %}
+      {% if star == member.name %}
+        {% if member.profile_image == nil or member.profile_image == "" %}
+          {% capture profile_image %}https://twivatar.glitch.me/{{member.twitter}}{% endcapture %}
+        {% else %}
+          {% assign profile_image = member.profile_image %}
+        {% endif %}
+        <!-- include にパラメータを渡す方法 https://jekyllrb.com/docs/includes/#passing-parameters-to-includes -->
+        <a href="https://twitter.com/{{ member.twitter }}"><img src="{{ profile_image }}" width="{{ include.twicon_size }}" height="{{ include.twicon_size }}" alt="{{ member.name }}"/></a>
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+</div>

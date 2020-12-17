@@ -12,15 +12,7 @@ layout: post
 <br>
 <div class="starring">
   <h2>Starring</h2>
-    <div class="twicon">
-      {% for star in page.starring %}
-        {% for member in site.data.members %}
-          {% if star == member.name %}
-            <a href="https://twitter.com/{{ member.twitter }}"><img src="https://twivatar.glitch.me/{{ member.twitter}}" width="64" height="64" alt="{{ member.name }}"></a>
-          {% endif %}
-        {% endfor %}
-      {% endfor %}
-    </div>
+  {%- include twicon.html twicon_size=64 starring_list=page.starring -%}
 </div>
 </br>
 <div class="episode_tags">

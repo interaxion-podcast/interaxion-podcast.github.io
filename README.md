@@ -24,11 +24,12 @@ _sass # ページのデザインを決める
 
 ### Build
 
-Ruby が入っていれば大体これで動く。
+Ruby が入っていれば大体これで動く。  
+`--future` をつけないと未来の日付のポストはビルドされない。
 
 ```sh
 gem install bundler jekyll
-bundle exec jekyll serve
+bundle exec jekyll serve  --future
 ```
 
 #### Docker (ARMv8) でやる場合

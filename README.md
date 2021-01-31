@@ -29,7 +29,8 @@ Ruby が入っていれば大体これで動く。
 
 ```sh
 gem install bundler jekyll
-bundle exec jekyll serve  --future
+bundle install
+bundle exec jekyll serve  --future --draft
 ```
 
 #### Docker (ARMv8) でやる場合

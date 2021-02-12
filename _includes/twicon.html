@@ -1,4 +1,4 @@
-<div class="twicon">
+<span class="twicon">
   {% for star in include.starring_list %}
     {% for member in site.data.members %}
       {% if star == member.name %}
@@ -12,4 +12,4 @@
       {% endif %}
     {% endfor %}
   {% endfor %}
-</div>
+</span>

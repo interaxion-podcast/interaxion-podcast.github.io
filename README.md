@@ -33,10 +33,20 @@ bundle install
 bundle exec jekyll serve  --future --draft
 ```
 
-#### Docker (ARMv8) でやる場合
+#### Dockerでやる場合
+
+##### Intel/AMD 64
+
+Mac (Homebrew) の Ruby が 3.0 になって動かなくなったので Docker 作った。
+
+```bash
+bash _serve-docker-amd64.sh
+```
+
+##### ARMv8
 
 使っている Chromebook (Lenovo Ideapad Duet) で Ruby の環境を作るのが難しかったので Docker でやった。
 
 ```bash
-bash _serve-docker.sh
+bash _serve-docker-armv8.sh
 ```

@@ -63,7 +63,7 @@ markdown: kramdown
 # 目次を使う https://stackoverflow.com/a/38419441/11480802
 kramdown:
   parse_block_html: true
-
+  math_engine: mathjax
 
 # Google Analytics
 google_analytics: UA-174930527-1

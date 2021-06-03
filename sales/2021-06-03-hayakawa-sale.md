@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2021/06 ハヤカワ Kindle 本セール"
-permalink: /sale/2021-06-03
+permalink: /sales/2021-06-03
 excerpt: "ハヤカワ Kindle 本セールの情報です"
 
 ---

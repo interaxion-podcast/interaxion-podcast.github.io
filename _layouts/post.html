@@ -13,6 +13,10 @@ layout: default
       {%- if page.author -%}
         • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
       {%- endif -%}</p>
+    <div class="share-button">
+      {% assign tweet = page.excerpt | markdownify | strip_html %}
+      <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text={{ page.title }}%0A%0A{{ tweet }}%0A%0A#interaxion #podcast #ポッドキャスト%0A">Tweet Button</a>
+    </div>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">

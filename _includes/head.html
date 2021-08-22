@@ -21,10 +21,15 @@
   {%- if page.excerpt -%}
     <!-- episode page は抜粋を表示する (Markdown syntax が入らないようにする)-->
     <meta name="twitter:description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">
-    {%- else -%}
+  {%- else -%}
     <!-- その他のページは _config.yml の description を使う -->
     <meta name="twitter:description" content="{{ site.description }}">
   {%- endif -%}
-  <meta name="twitter:image" content="{{ site.url }}/favicon.jpg">
+
+  {%- if page.twitter_image -%}
+    <meta name="twitter:image" content="{{ site.url }}/{{ page.twitter_image }}">
+  {%- else -%}
+    <meta name="twitter:image" content="{{ site.url }}/favicon.jpg">
+  {%- endif -%}
   <!-- end of Twitter cards -->
 </head>

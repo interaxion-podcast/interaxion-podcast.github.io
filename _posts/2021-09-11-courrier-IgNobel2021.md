@@ -14,6 +14,7 @@ tags:
 2021年のイグノーベル賞に関する情報を集めました。
 
 - [The 2021 Ig Nobel Prize Winners - Improbable Research](https://www.improbable.com/2021-ceremony/winners/)
+- [The 31st First Annual Ig Nobel Ceremony - Improbable Research](https://www.improbable.com/2021-ceremony/)
 - [2021 Ig Nobel Prizes - C&EN - Chemistry news from around the world](https://cen.acs.org/people/awards/2021-Ig-Nobel-Prizes/99/i33)
 - [イグノーベル賞を科学コミュニケーターと楽しもう ニコニコ生放送 - 日本科学未来館 (Miraikan)](https://www.miraikan.jst.go.jp/events/202109112124.html)  
   本家をリスペクトした芸が細かい。

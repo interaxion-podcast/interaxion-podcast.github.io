@@ -24,5 +24,7 @@ tags:
 - 今年唯一の日本人受賞者の方のツイート。10兆ジンバブエドル欲しい。。  
   <blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">イグノーベル賞を受賞しました。今年発表した歩行者群集の予期に関する論文に対してです。<a href="https://t.co/9lO5X1fX5Q">https://t.co/9lO5X1fX5Q</a><br><br>本研究について日本語の紹介文はこちら：<a href="https://t.co/xGUe6ADOWS">https://t.co/xGUe6ADOWS</a><br><br>写真は表彰盾と賞金の10兆ジンバブエドル。盾はエアコンの風で飛ばされそうなほど頼りないです <a href="https://t.co/8TuRHsh14y">pic.twitter.com/8TuRHsh14y</a></p>&mdash; 村上久研究室 Hisashi Murakami Lab (@hmurakami_lab) <a href="https://twitter.com/hmurakami_lab/status/1436111999147012131?ref_src=twsrc%5Etfw">September 9, 2021</a>
   </blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- [2021年『第31回イグノーベル賞』の解説｜彩恵りり｜note](https://note.com/science_release/n/nbaf3dd105916)  
+  VTuber 彩恵りりさんによる解説。
 
 ---

@@ -39,7 +39,7 @@ tags:
 
 - [A Search for Solar Axions and Anomalous Neutrino Magnetic Moment with the Complete PandaX-II Data - IOPscience](https://iopscience.iop.org/article/10.1088/0256-307X/38/1/011301)
   - [[2008.06485] A search for solar axions and anomalous neutrino magnetic moment with the complete PandaX-II data](https://arxiv.org/abs/2008.06485)  
-  → イベント超過はないが XENON1T より感度が低いためため矛盾はしない結果。
+  → イベント超過はないが XENON1T より感度が低いため矛盾はしない結果。
 
 #### 理論
 

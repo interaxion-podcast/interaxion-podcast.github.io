@@ -26,6 +26,7 @@ tags:
 ## 作成編
 
 Microsoft Word などでアニュアルレポートを作成します。Google Documents で作成する場合のサンプルを[こちらで配布しています](https://docs.google.com/document/d/1jD2xMqcktRi8fl3Qswjimv2CkfUUjspElJrfxkEjrxk/edit?usp=sharing)。Google Documents ははがきサイズの文書が作れないので、 A4 で余白を狭めにして作ります。A4とはがきは縦横比がほぼ同じため、[ネットプリントでいい感じに縮小してくれます](https://www.printing.ne.jp/support/attention.html#printspec)。
+なお Google Documents で PDF を作成するときはフォントにちょっとした注意が必要です (cf. [Googleドキュメントに日本語フォントを追加してPDF変換時の文字化けを回避 - てふてふさんぽ](https://www.tefutefusanpo.net/entry/2021/05/07/123000))。
 
 ## 配布編
 

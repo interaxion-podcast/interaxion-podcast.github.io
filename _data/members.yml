@@ -90,7 +90,7 @@
 
 - name: たかちお
   twitter: 
-  profile_image: "{{site.url}}/assets/takachio.png"
+  profile_image: "https://interaxion-podcast.github.io/assets/takachio.png"
 
 - name: oka
   twitter: nowohyeah

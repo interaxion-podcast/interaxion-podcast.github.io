@@ -67,19 +67,19 @@ Quick Time を使います。Mac に予め入っていますので、Spotlight �
 
 oka の声、ゲストの声とも Zoom の録音機能で録音。
 
-<iframe src="https://anchor.fm/interaxion/embed/episodes/5-Sci-Fi-is-more-fun-with-physics-and-linguistics-efjbci" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/interaxion/embed/episodes/5-Sci-Fi-is-more-fun-with-physics-and-linguistics-efjbci" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ### Ep. 6
 
 oka の声は手元で録音、ゲストの声は Zoom 越しの音声を Audio Hijack で録音。
 
-<iframe src="https://anchor.fm/interaxion/embed/episodes/6-I-love-this-company-eh61b6" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/interaxion/embed/episodes/6-I-love-this-company-eh61b6" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ### Ep. 7
 
 oka の声、ゲストの声ともに、それぞれの手元で録音 (ソフト Audio Hijack と Audacity)
 
-<iframe src="https://anchor.fm/interaxion/embed/episodes/7-Improving-the-quality-of-podcast-life-ei758j" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://anchor.fm/interaxion/embed/episodes/7-Improving-the-quality-of-podcast-life-ei758j" width="100%" frameborder="0" scrolling="no"></iframe>
 
 ## よりよい録音のための tips
 

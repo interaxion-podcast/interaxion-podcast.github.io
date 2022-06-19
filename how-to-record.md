@@ -79,7 +79,7 @@ Windows ボタンを押し、「レコーダー」と入力して「ボイスレ
 
 ![Windows Recorder]({{ site.url }}/assets/windows-recorder2.png)
 
-録音中は以下のような画面になります。中心の円が声に反応していることを確認してください。録音を終了するときは停止ボタンを押します。
+録音中は以下のような画面になります。中心の円が声に反応していることを確認してください。録音を終了するときは停止ボタンを押します。なお録音時間の上限は3時間です。
 
 ![Windows Recorder]({{ site.url }}/assets/windows-recorder3.png)
 

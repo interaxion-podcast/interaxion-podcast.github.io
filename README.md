@@ -50,3 +50,8 @@ bash _serve-docker-amd64.sh
 ```bash
 bash _serve-docker-armv8.sh
 ```
+
+## めも
+
+- `{%- seo -%}`: github-pages plugin で使用
+- `{%- feed_meta -%}`: jekyll-feed plugin で使用

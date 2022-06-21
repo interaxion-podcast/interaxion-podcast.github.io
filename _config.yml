@@ -31,6 +31,8 @@ github_username:  interaxion-podcast
 theme: minima
 plugins:
   - jekyll-feed
+  # https://github.com/avillafiorita/jekyll-datapage_gen
+  - jekyll-datapage-generator
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -58,7 +60,7 @@ show_excerpts: true
 
 # 脚注を使う https://stackoverflow.com/a/48250535/11480802
 markdown: kramdown
-# Twitter の埋め込みに失敗する
+# Twitter の埋め込みに失敗する -> </backquote> の前に改行を入れて解決
 
 # 目次を使う https://stackoverflow.com/a/38419441/11480802
 kramdown:
@@ -67,3 +69,15 @@ kramdown:
 
 # Google Analytics
 google_analytics: UA-174930527-1
+
+# jekyll-datapage-generator
+page_gen-dirs: true
+
+page_gen:
+  - index_files: false
+    data: 'keywords'
+    template: 'keyword_article'
+    dir: 'keywords'
+    name: 'index'
+    title: 'title'
+    debug: true

@@ -3,15 +3,7 @@ FROM ruby:2.7
 RUN apt update
 RUN gem install bundler
 
-RUN echo 'source "https://rubygems.org" \n\
-gem "jekyll" \n\
-gem "minima", "~>2.5" \n\
-gem "mini_portile2" \n\
-gem "github-pages","~> 206", group: :jekyll_plugins \n\
-group :jekyll_plugins do \n\
-  gem "jekyll-feed", "~> 0.12" \n\
-end \n\
-' > Gemfile
+COPY Gemfile Gemfile
 RUN cat Gemfile
 RUN bundle install
 RUN gem info

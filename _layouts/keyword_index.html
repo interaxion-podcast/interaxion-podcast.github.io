@@ -3,4 +3,8 @@ layout: default
 ---
 <h1>Interaxion Keywords</h1>
 
-{{ content }}
+<ul>
+{% for keyword in site.data.keywords %}
+<li><a href="{{ site.url }}/{{ keyword.index | datapage_url: 'keywords' }}">{{ keyword.title }}</a>
+{% endfor %}
+</ul>

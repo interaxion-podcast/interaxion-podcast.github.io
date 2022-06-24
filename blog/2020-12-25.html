@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://interaxion-podcast.github.io/assets/main.css">
+  <link rel="shortcut icon" href="https://interaxion-podcast.github.io/favicon.jpg" ><link type="application/atom+xml" rel="alternate" href="https://interaxion-podcast.github.io/feed.xml" title="Interaxion Podcast" /><script src="https://kit.fontawesome.com/92995ae33b.js" crossorigin="anonymous"></script>
+  <!-- mathjax -->
+  <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+  <!-- Twitter cards -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@interaxion">
+  <meta name="twitter:creator" content="@interaxion">
+  <meta name="twitter:title" content="Blog: ポッドキャスト再生数の分析 (書きかけ)"><!-- episode page は抜粋を表示する (Markdown syntax が入らないようにする)-->
+    <meta name="twitter:description" content=""><meta name="twitter:image" content="https://interaxion-podcast.github.io/favicon.jpg"><!-- end of Twitter cards -->
+</head>
+<body><header class="site-header" role="banner">
+
+  <div class="wrapper"><a class="site-title" rel="author" href="/">Interaxion Podcast</a><nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.032C17.335,0,18,0.665,18,1.484L18,1.484z M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.032C17.335,6.031,18,6.696,18,7.516L18,7.516z M18,13.516C18,14.335,17.335,15,16.516,15H1.484 C0.665,15,0,14.335,0,13.516l0,0c0-0.82,0.665-1.483,1.484-1.483h15.032C17.335,12.031,18,12.695,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger"><a class="page-link" href="/how-to-listen">ポッドキャストを聴く方法</a><a class="page-link" href="/tags">タグ一覧</a><a class="page-link" href="/starring">出演者一覧</a><a class="page-link" href="/blog">Blog</a><a class="page-link" href="/courrier">Courrier</a><a class="page-link" href="/feedback">おたより</a></div>
+      </nav></div>
+</header>
+<main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">Blog: ポッドキャスト再生数の分析 (書きかけ)</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="2020-12-25T00:00:00+00:00" itemprop="datePublished">Dec 25, 2020
+      </time>• <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">oka</span></span></p>
+    <div class="share-button">
+      
+      <a class="twitter-share-button" href="https://twitter.com/intent/tweet?text=Blog: ポッドキャスト再生数の分析 (書きかけ)%0A%0A
+%0A%0A#interaxion #podcast #ポッドキャスト%0A">Tweet Button</a>
+    </div>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    <div class="starring"><span class="twicon">
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+        
+        <!-- include にパラメータを渡す方法 https://jekyllrb.com/docs/includes/#passing-parameters-to-includes -->
+        <a href="https://twitter.com/nowohyeah"><img src="https://pbs.twimg.com/profile_images/1113230201/P8290176_400x400.JPG" width="64" height="64" alt="oka"/></a>
+      
+    
+  
+</span>
+</div>
+</br>
+<div class="episode_tags">
+  <div class="tag-list">
+    
+    
+      <span class="span-tag"><a href="https://interaxion-podcast.github.io/tags#ポッドキャスト">ポッドキャスト</a> </span>
+    
+   </div>
+</div>
+<br>
+<div id="show_notes">
+  <p>このポッドキャストの配信に使用している <a href="https://anchor.fm/">Anchor</a> のダッシュボードからは、ポッドキャストの再生数を見ることができる<sup id="fnref:Analysis" role="doc-noteref"><a href="#fn:Analysis" class="footnote" rel="footnote">1</a></sup>。<br />
+一応、データを CSV として落とすことができるのだが、なぜかブラウザ上で表示しているデータのみしかダウンロードできない。そのため最も詳細なデータ (各エピソードごとの日ごとの再生数) を得るには、ブラウザ上で以下の手順を<strong>エピソードごとに</strong>繰り返す必要がある。</p>
+
+<ol>
+  <li>表示範囲を全期間にする</li>
+  <li>集計を日ごとにする</li>
+  <li>CSV をダウンロードする</li>
+  <li>次のエピソードに移動</li>
+</ol>
+
+<p>当然、エピソードが増えてくると手動でこれを行うのはしんどいし、定期的に再生数を知りたくなる。というわけで、 <a href="https://github.com/SeleniumHQ/selenium">Selenium</a> を使って自動化することにした。<br />
+スクリプトは以下の GitHub リポジトリにあるので、 Anchor を使っている podcaster の皆様は興味あれば使ってみてください。<br />
+Pandas と matplotlib でグラフを描くスクリプトも入っています。</p>
+
+<ul>
+  <li><a href="https://github.com/pn11/anchor-stats">pn11/anchor-stats</a></li>
+</ul>
+
+<p>これを使って各エピソードの最初の8日間の再生数を描くと以下のような感じ (横軸は日、縦軸は再生数だが絶対値は現時点では非公開。上のグラフが再生数/日、下がその累積。)。7日くらい経つと再生数は落ち着くのだが、このグラフに載っていない9日目以降も細々と再生され、時間が経っても意外と聞かれていることが分かった。</p>
+
+<div style="text-align: center;">
+  <p><img src="https://interaxion-podcast.github.io/assets/podcast-plays.png" alt="podcast number of plays" /></p>
+</div>
+
+<p>使い方やもっと詳しい解析結果など気が向いたときに書きたいと思いますが、とりあえず書いたスクリプトのご紹介まで。</p>
+
+<h3 id="20210112-追記">2021/01/12 追記</h3>
+
+<p>このスクリプトは Anchor のソーシャルログインに対応していませんが、対応したバージョンを<a href="https://twitter.com/ark_b">あらB</a>さんが作ってくれました。</p>
+
+<ul>
+  <li><a href="https://github.com/arkB/anchor-stats">GitHub - arkB/anchor-stats</a></li>
+</ul>
+
+<p>以下の記事で、あらB.fm の再生数が見れます。</p>
+
+<ul>
+  <li><a href="https://arkbb3.medium.com/%E3%81%82%E3%82%89b-fm-%E3%81%B2%E3%81%A8%E3%81%93%E3%81%A8%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88-ep-1-ep-10-b20163d451a9">あらB.fm ひとことコメント（Ep.1~Ep.10） - ark B - Medium</a></li>
+</ul>
+
+<h2 id="参考リンク">参考リンク</h2>
+
+<ul>
+  <li><a href="https://note.com/ysdyt/n/n9dcf556fcde9">Podcast「白金鉱業.FM」の2020年 視聴数などを公開します！｜吉田勇太｜ysdyt｜note</a></li>
+</ul>
+
+<hr />
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:Analysis" role="doc-endnote">
+      <p>ちなみに、<a href="https://podcastsmanager.google.com/">Google Podcast Manager</a>, <a href="https://podcasters.spotify.com/">Spotify</a>, <a href="https://podcastsconnect.apple.com/">Apple Podcast Connect</a> の書くアナリティクスツールにもアカウントの登録はしているが、 Google と Spotify は使っている人が少ないため再生数が少なく、Apple の出してくる数字は明らかに実際の数よりも少ないという残念な点がある。 Anchor の数字は再生数のみで、再生時間 (どこで脱落しているか) などは見れないが、数としては一番信用できそう。 <a href="#fnref:Analysis" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+</div>
+
+  </div>
+
+  <div class="page-nav">
+    
+    <a class="prev" href="/13">&laquo; 13: Superconductivity in your brain</a>
+  
+  
+    <a class="next" href="/14">14: Compute R with R &raquo;</a>
+  
+  </div><a class="u-url" href="/blog/2020-12-25" hidden></a>
+</article>
+
+      </div>
+    </main><footer class="site-footer h-card">
+  <data class="u-url" href="/"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Interaxion Podcast</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <p>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。(Amazon.co.jp アソシエイトメンバー)</p>
+      </div>
+
+      <div class="footer-col footer-col-2"><ul class="social-media-list"><li><a href="https://github.com/interaxion-podcast"><svg class="svg-icon"><use xlink:href="https://interaxion-podcast.github.io/assets/minima-social-icons.svg#github"></use></svg> <span class="username">interaxion-podcast</span></a></li><li><a href="https://www.twitter.com/interaxion"><svg class="svg-icon"><use xlink:href="https://interaxion-podcast.github.io/assets/minima-social-icons.svg#twitter"></use></svg> <span class="username">interaxion</span></a></li></ul>
+</div>
+
+      <div class="footer-col footer-col-3">
+        <p class="rss-subscribe"><i class="fas fa-rss"></i> <a href="https://anchor.fm/s/138b2640/podcast/rss">RSS</a></p>
+        <p class="rss-subscribe"><i class="fas fa-podcast"></i> <a href="https://podcasts.apple.com/jp/podcast/interaxion/id1503487109">Apple Podcasts</a></p>
+        <p class="rss-subscribe"><i class="fab fa-google"></i> <a href="https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8xMzhiMjY0MC9wb2RjYXN0L3Jzcw==">Google Podcasts</a></p>
+        <p class="rss-subscribe"><i class="fab fa-spotify"></i> <a href="https://open.spotify.com/show/7GeJFJrriIfj3Gr8xYQR9f">Spotify</a></p>
+      </div>
+    </div>
+    <div class="footer-source"><p>このウェブサイトのソースコードは<a href="https://github.com/interaxion-podcast/interaxion-podcast.github.io">こちら</a>です。</p>
+</div>
+  </div>
+
+</footer>
+</body>
+
+</html>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-06-25T05:12:35+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">39: Ultracold Atoms Enable Everything</title><link href="https://interaxion-podcast.github.io/39-draft" rel="alternate" type="text/html" title="39: Ultracold Atoms Enable Everything" /><published>2022-06-22T00:00:00+00:00</published><updated>2022-06-22T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep39</id><content type="html" xml:base="https://interaxion-podcast.github.io/39-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-06-26T10:58:21+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">39: Ultracold Atoms Enable Everything</title><link href="https://interaxion-podcast.github.io/39-draft" rel="alternate" type="text/html" title="39: Ultracold Atoms Enable Everything" /><published>2022-06-22T00:00:00+00:00</published><updated>2022-06-22T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep39</id><content type="html" xml:base="https://interaxion-podcast.github.io/39-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -69,7 +69,7 @@
   <li><a href="https://news.mynavi.jp/techplus/article/20220322-2299852/">理研、量子スケールでもアクティブマター特有の相転移の発生を理論的に証明 - TECH+</a>
     <ul>
       <li><a href="https://www.riken.jp/press/2022/20220317_1/index.html">量子の世界で群れを作る - 理化学研究所</a></li>
-      <li><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013194">Adachi, Takasa, and Kawaguchi, Phys. Rev. Research 4, 013194 (2022) - Activity-induced phase transition in a quantum many-body system</a></li>
+      <li><a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013194">Adachi, Takasan, and Kawaguchi, Phys. Rev. Research 4, 013194 (2022) - Activity-induced phase transition in a quantum many-body system</a></li>
     </ul>
   </li>
 </ul>

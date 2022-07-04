@@ -3,6 +3,13 @@ layout: default
 ---
 <h2>出演者一覧</h2>
 
+{% for member in site.data.members %}
+<a href="#{{member.name}}">
+{%- include twicon_nolink.html twicon_size=32 starring_list=member.name -%}
+</a>
+{% endfor %}
+<br><br>
+
 {% assign reversedPosts = site.posts | reverse %}
 {% for member in site.data.members %}
   <h3 id="{{member.name}}">{%- include twicon.html twicon_size=32 starring_list=member.name -%}<a href="#{{member.name}}">{{member.name}}</a></h3>

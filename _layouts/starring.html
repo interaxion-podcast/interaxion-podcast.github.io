@@ -2,9 +2,10 @@
 layout: default
 ---
 <h2>出演者一覧</h2>
+
 {% assign reversedPosts = site.posts | reverse %}
 {% for member in site.data.members %}
-  <h3>{%- include twicon.html twicon_size=32 starring_list=member.name -%}{{member.name}}</h3>
+  <h3 id="{{member.name}}">{%- include twicon.html twicon_size=32 starring_list=member.name -%}<a href="#{{member.name}}">{{member.name}}</a></h3>
   <ul>
   {% for post in reversedPosts %}
     {% for star in post.starring %}

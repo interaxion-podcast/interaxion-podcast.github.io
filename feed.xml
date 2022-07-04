@@ -1,4 +1,35 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-07-03T16:29:49+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">39: Ultracold Atoms Enable Everything</title><link href="https://interaxion-podcast.github.io/39-draft" rel="alternate" type="text/html" title="39: Ultracold Atoms Enable Everything" /><published>2022-06-22T00:00:00+00:00</published><updated>2022-06-22T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep39</id><content type="html" xml:base="https://interaxion-podcast.github.io/39-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-07-04T17:10:37+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">40:</title><link href="https://interaxion-podcast.github.io/40-draft" rel="alternate" type="text/html" title="40:" /><published>2022-07-04T00:00:00+00:00</published><updated>2022-07-04T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep40</id><content type="html" xml:base="https://interaxion-podcast.github.io/40-draft"><![CDATA[<details>
+  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
+  <summary>目次</summary>
+  <nav>
+<ul id="markdown-toc">
+  <li><a href="#イントロ" id="markdown-toc-イントロ">イントロ</a></li>
+  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
+</ul>
+    <!-- https://stackoverflow.com/a/38419441/11480802 -->
+  </nav>
+</details>
+<p><br /></p>
+
+<h3 id="イントロ">イントロ</h3>
+
+<ul>
+  <li><a href="https://hinata152.github.io/engimono/">Engimono</a></li>
+  <li><a href="https://arkbfm.github.io/">あらB.fm</a></li>
+  <li><a href="https://interaxion-podcast.github.io/starring/#あらB">Interaxion あらBさん出演回</a></li>
+</ul>
+
+<h3 id="お知らせ">お知らせ</h3>
+
+<ul>
+  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
+  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="流体力学" /><category term="HPC" /><summary type="html"><![CDATA[[雛形](https://twitter.com/hinahypersonica)さん、[あらB](https://twitter.com/ark_B)、[oka](https://twitter.com/nowohyeah)で流体力学、HPCなどについて話しました。]]></summary></entry><entry><title type="html">39: Ultracold Atoms Enable Everything</title><link href="https://interaxion-podcast.github.io/39-draft" rel="alternate" type="text/html" title="39: Ultracold Atoms Enable Everything" /><published>2022-06-22T00:00:00+00:00</published><updated>2022-06-22T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep39</id><content type="html" xml:base="https://interaxion-podcast.github.io/39-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -1321,270 +1352,4 @@ oka が愛用している低温調理器と真空シーラー</li>
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<hr />]]></content><author><name></name></author><category term="原子核乾板" /><category term="ゆるキャン△" /><category term="ドイツ" /><summary type="html"><![CDATA[[あゆみさん](https://twitter.com/ayumisalt)と[oka](https://twitter.com/nowohyeah)で原子核乾板、ゆるキャン△で絶叫、研究室の13人などについて話しました。]]></summary></entry><entry><title type="html">33: Science Communication in Metaverse</title><link href="https://interaxion-podcast.github.io/33" rel="alternate" type="text/html" title="33: Science Communication in Metaverse" /><published>2022-01-31T00:00:00+00:00</published><updated>2022-01-31T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep33</id><content type="html" xml:base="https://interaxion-podcast.github.io/33"><![CDATA[<details>
-  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
-  <summary>目次</summary>
-  <nav>
-<ul id="markdown-toc">
-  <li><a href="#000-イントロ" id="markdown-toc-000-イントロ">0:00 イントロ</a></li>
-  <li><a href="#0200-たかちおさんの自己紹介" id="markdown-toc-0200-たかちおさんの自己紹介">02:00 たかちおさんの自己紹介</a></li>
-  <li><a href="#433-リモートワーク" id="markdown-toc-433-リモートワーク">4:33 リモートワーク</a></li>
-  <li><a href="#1700-vr-で仕事" id="markdown-toc-1700-vr-で仕事">17:00 VR で仕事</a></li>
-  <li><a href="#2549-ワーケーション" id="markdown-toc-2549-ワーケーション">25:49 ワーケーション</a></li>
-  <li><a href="#2900-サイエンスコミュニケーション" id="markdown-toc-2900-サイエンスコミュニケーション">29:00 サイエンスコミュニケーション</a></li>
-  <li><a href="#3640-次のコンテンツって動画なの音声なの" id="markdown-toc-3640-次のコンテンツって動画なの音声なの">36:40 次のコンテンツって動画なの？音声なの？</a></li>
-  <li><a href="#4434-おすすめのもの" id="markdown-toc-4434-おすすめのもの">44:34 おすすめのもの</a></li>
-  <li><a href="#4645-科学コミュニケーターになるまで" id="markdown-toc-4645-科学コミュニケーターになるまで">46:45 科学コミュニケーターになるまで</a>    <ul>
-      <li><a href="#5242-未来館" id="markdown-toc-5242-未来館">52:42 未来館</a></li>
-      <li><a href="#10344-カミオカラボ" id="markdown-toc-10344-カミオカラボ">1:03:44 カミオカラボ</a></li>
-    </ul>
-  </li>
-  <li><a href="#13139-宇宙飛行士" id="markdown-toc-13139-宇宙飛行士">1:31:39 宇宙飛行士</a></li>
-  <li><a href="#13617-ニュース" id="markdown-toc-13617-ニュース">1:36:17 ニュース</a>    <ul>
-      <li><a href="#13640-情報収集方法" id="markdown-toc-13640-情報収集方法">1:36:40 情報収集方法</a></li>
-      <li><a href="#13938-はやぶさ2" id="markdown-toc-13938-はやぶさ2">1:39:38 はやぶさ2</a></li>
-      <li><a href="#14614-jwst" id="markdown-toc-14614-jwst">1:46:14 JWST</a></li>
-      <li><a href="#15303-太陽系付近の局所泡" id="markdown-toc-15303-太陽系付近の局所泡">1:53:03 太陽系付近の局所泡</a></li>
-      <li><a href="#15745-ハッブル定数" id="markdown-toc-15745-ハッブル定数">1:57:45 ハッブル定数</a></li>
-      <li><a href="#20600-マルチメッセンジャー天文学" id="markdown-toc-20600-マルチメッセンジャー天文学">2:06:00 マルチメッセンジャー天文学</a></li>
-    </ul>
-  </li>
-  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
-</ul>
-    <!-- https://stackoverflow.com/a/38419441/11480802 -->
-  </nav>
-</details>
-<p><br /></p>
-
-<h3 id="000-イントロ">0:00 イントロ</h3>
-
-<ul>
-  <li><a href="https://www.city.hida.gifu.jp/site/kamiokalab/13651.html">カミオカラボ情報誌を創刊 - 飛騨市公式ウェブサイト</a><br />
-<a href="https://kamiokalab.note.jp/n/nc5c18a19c56b">カミオカラボ機関誌 “Interaction” 2022冬号｜ひだ宇宙科学館 カミオカラボ</a><br />
-まさかの名前かぶり！</li>
-  <li>Interaxion でたかちおさんの名前が出た回
-    <ul>
-      <li><a href="https://interaxion-podcast.github.io/2">2: The Year of Sparse Society</a></li>
-      <li><a href="https://interaxion-podcast.github.io/6">6: I love this company</a></li>
-      <li><a href="https://interaxion-podcast.github.io/31">31: Yamanashi next to Ogikubo</a></li>
-    </ul>
-  </li>
-</ul>
-
-<h3 id="0200-たかちおさんの自己紹介">02:00 たかちおさんの自己紹介</h3>
-
-<h3 id="433-リモートワーク">4:33 リモートワーク</h3>
-
-<ul>
-  <li><a href="https://www.listennotes.com/podcasts/%E3%81%82%E3%82%89bfm/ep-45-wild-mushrooms-H0Vwr9bYAWU/">Ep. 45 Wild mushrooms - あらB.fm (podcast) | Listen Notes</a><br />
-あらB.fm でZoomコワーキングが紹介されていた回</li>
-</ul>
-
-<h3 id="1700-vr-で仕事">17:00 VR で仕事</h3>
-
-<ul>
-  <li><a href="https://amzn.to/3H2R1Y6">Oculus Quest2</a></li>
-  <li><a href="https://www.businessinsider.jp/post-248736">メタバースで本気で仕事をする。｢Oculus Quest 2｣以外に必要なものとは？ - Business Insider Japan</a><br />
-<a href="https://www.oculus.com/experiences/quest/2514011888645651/?locale=ja_JP">Horizon Workrooms</a> や <a href="https://www.oculus.com/experiences/quest/2849273531812512/?locale=ja_JP">Immersed</a> で仕事をしている例</li>
-  <li><a href="https://www.moguravr.com/oculus-quest-keyboard/">【Oculus Quest】VR内で表示できるキーボードまとめ（2022年1月版） - Mogura VR</a></li>
-  <li><a href="https://jiri42.com/vrchat-1/">【簡単】初めてVRChatで遊ぶ人は初心者案内をしてもらおう！｜旅のしおり</a></li>
-  <li><a href="https://cluster.mu/">メタバースプラットフォーム cluster（クラスター）</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/Geant4">Geant4 - Wikipedia</a></li>
-</ul>
-
-<h3 id="2549-ワーケーション">25:49 ワーケーション</h3>
-
-<h3 id="2900-サイエンスコミュニケーション">29:00 サイエンスコミュニケーション</h3>
-
-<ul>
-  <li><a href="https://www.clubhouse.com/event/PD8BO3d4">科学コミュニケーターと雑談の部屋 day54 - サイエンスコミュニケーション - Clubhouse</a></li>
-  <li><a href="https://www.bbc.com/japanese/59947468">遺伝子操作したブタの心臓を男性に移植、世界初 アメリカ - BBCニュース</a></li>
-  <li>収録後、サイエンスコミュニケーション業界に大ニュース！<br />
-<a href="https://news.ntv.co.jp/category/culture/50e6b2b2927548f5a2a224b11be79214">桝太一アナ、大学の研究員に転身</a></li>
-</ul>
-
-<h3 id="3640-次のコンテンツって動画なの音声なの">36:40 次のコンテンツって動画なの？音声なの？</h3>
-
-<ul>
-  <li><a href="https://rebuild.fm/">Rebuild - Podcast by Tatsuhiko Miyagawa</a></li>
-  <li><a href="https://www.nejimakiblog.com/entry/podcast-audio-future-prediction-2022#Youtube%E3%82%92%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%82%A2%E3%83%97%E3%83%AA%E3%81%A7%E8%81%B4%E3%81%91%E3%82%8B%E3%82%88%E3%81%86%E3%81%AB%E3%81%AA%E3%82%8B">2022年のポッドキャスト界隈に起こりそうなことを予想してみた - 世界のねじを巻くブログ</a><br />
-YouTube と Podcast のウワサ</li>
-  <li>Cluster と乱数<br />
-カイヨワの<a href="https://amzn.to/3nWuFAf">『遊びと人間』</a>を思い出しました。<br />
-<a href="https://cultibase.jp/7516/">CULTIBASE - 遊びのメカニズムを理解する理論的枠組み：連載「遊びのデザイン」第6回</a></li>
-</ul>
-
-<h3 id="4434-おすすめのもの">44:34 おすすめのもの</h3>
-
-<ul>
-  <li><a href="https://postcoffee.co/">PostCoffee - コーヒーの定期便 あなた専用のコーヒーボックスがポストに届く</a></li>
-  <li><a href="https://amzn.to/3AwkMht">インフィニティチェア</a></li>
-</ul>
-
-<h3 id="4645-科学コミュニケーターになるまで">46:45 科学コミュニケーターになるまで</h3>
-
-<ul>
-  <li><a href="https://costep.open-ed.hokudai.ac.jp/">CoSTEP – 北海道大学 高等教育推進機構 科学技術コミュニケーション教育研究部門</a></li>
-</ul>
-
-<h4 id="5242-未来館">52:42 未来館</h4>
-
-<ul>
-  <li><a href="https://www.miraikan.jst.go.jp/">日本科学未来館 (Miraikan)</a></li>
-  <li><a href="https://live.nicovideo.jp/watch/lv315440186">【物理学賞】ノーベル賞発表の瞬間をみんなで迎えよう＠日本科学未来館 - 2018/10/02(火) 17:00開始 - ニコニコ生放送</a><br />
-たちおさんの出演したニコ生<br />
-その振り返り <a href="https://blog.miraikan.jst.go.jp/articles/201810102018-5.html">2018年未来館ノーベル活動を振り返る | 科学コミュニケーターブログ</a></li>
-  <li><a href="https://www.jst.go.jp/">国立研究開発法人 科学技術振興機構 (JST)</a></li>
-  <li><a href="https://www.kahaku.go.jp/learning/university/partnership/sc/sc.php">サイエンスコミュニケータ養成実践講座 - 国立科学博物館</a></li>
-</ul>
-
-<h4 id="10344-カミオカラボ">1:03:44 カミオカラボ</h4>
-
-<ul>
-  <li><a href="https://youtu.be/3czVG1q1yQ4">【企画】スーパーカミオカンデ研究者に一日密着！</a></li>
-</ul>
-
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/3czVG1q1yQ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
-
-<ul>
-  <li><a href="https://www.gifu-np.co.jp/articles/-/1657">ハイパーカミオカンデ着工「市民の誇り」地元歓迎、広がる夢 - 岐阜新聞Web</a></li>
-  <li><a href="https://www.stxst.com/">株式会社スペースタイム – “知の巡り”を良くする</a></li>
-  <li><a href="https://www.jitec.ipa.go.jp/1_11seido/ap.html">IPA 独立行政法人 情報処理推進機構：制度の概要：応用情報技術者試験</a></li>
-</ul>
-
-<h3 id="13139-宇宙飛行士">1:31:39 宇宙飛行士</h3>
-
-<ul>
-  <li><a href="https://astro-mission.jaxa.jp/astro_selection/">JAXA 宇宙飛行士候補者募集 特設サイト Hello! EXPLORES PROJECT</a></li>
-  <li><a href="https://youtu.be/HpTTNbC2q9s">宇宙に着いた前澤から、みなさんへ伝えたいこと。</a></li>
-</ul>
-
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/HpTTNbC2q9s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
-
-<ul>
-  <li><a href="https://www.nikkansports.com/general/nikkan/news/202112200000131.html">「宇宙女子」黒田有彩ら、13年ぶり宇宙飛行士試験に挑戦「月に行きたい」 - 社会 : 日刊スポーツ</a></li>
-  <li><a href="https://amzn.to/3AId1Fv">グレート宇宙パズル2</a></li>
-</ul>
-
-<h3 id="13617-ニュース">1:36:17 ニュース</h3>
-
-<h4 id="13640-情報収集方法">1:36:40 情報収集方法</h4>
-
-<ul>
-  <li><a href="https://support.google.com/websearch/answer/4815696?hl=ja">アラートの作成 - Google 検索 ヘルプ</a></li>
-  <li>たかちおさんのリンク集 <a href="https://osamuway.jimdofree.com/link/">Links - osamuway ページ！</a></li>
-</ul>
-
-<h4 id="13938-はやぶさ2">1:39:38 はやぶさ2</h4>
-
-<ul>
-  <li><a href="https://www.isas.jaxa.jp/topics/002891.html">リュウグウは水、有機物に富む始原的な小惑星だった ─ リュウグウ帰還試料の初期記載から分かったこと ─ - 宇宙科学研究所</a></li>
-  <li><a href="https://www.isas.jaxa.jp/topics/002892.html">赤外分光顕微鏡マイクロオメガによるリュウグウ帰還試料の初期成分測定 - 宇宙科学研究所</a></li>
-  <li><a href="https://interaxion-podcast.github.io/19">19: A professional bonderman needs no microscopes</a><br />
-リュウグウのサンプルのミュオン分析について話した回</li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">リュウグウの秘密にせまれるかも?!<br /><br />「はやぶさ２」 <a href="https://twitter.com/haya2_jaxa?ref_src=twsrc%5Etfw">@haya2_jaxa</a> が2020年12月に小惑星リュウグウから地球に届けたサンプルに関し、以下のサイトでサンプルカタログを公開いたしました。<a href="https://t.co/e1nA0B0JuJ">https://t.co/e1nA0B0JuJ</a> <a href="https://t.co/zFNPiu2jL5">pic.twitter.com/zFNPiu2jL5</a></p>
-  <p>— ISAS（JAXA宇宙科学研究所） (@ISAS_JAXA) <a href="https://twitter.com/ISAS_JAXA/status/1481521394869579776?ref_src=twsrc%5Etfw">January 13, 2022</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li><a href="https://youtu.be/gmh2lGjXm7w">「はやぶさ2」衝突装置 着弾の様子/Hayabusa2 situation of a collision test</a></li>
-</ul>
-
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/gmh2lGjXm7w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
-
-<ul>
-  <li>神岡での試験で中心となった方は若くして亡くなられていたようです<br />
-<a href="https://www.hayabusa2.jaxa.jp/en/enjoy/material/press/Hayabusa2_Press20190822_ver12.pdf">小惑星探査機「はやぶさ2」記者説明会 - JAXA (PDF)</a><br />
-<a href="https://www.meijo-u.ac.jp/news/detail_24151.html">探査機はやぶさ2のカプセル帰還の陰で農学部卒業生が活躍 | ニュース | 名城大学</a></li>
-  <li><a href="http://www.sorahaku.net/">【空宙博】岐阜かかみがはら航空宇宙博物館公式ウェブサイト</a></li>
-  <li><a href="https://jpn.nec.com/ad/cosmos/hayabusa/targetmarker/index.html">お手玉から導きの光へ ～ターゲットマーカー誕生の裏に～: はやぶさ、7年間の旅: NECの宇宙開発利用への取り組み「宙への挑戦」 - NEC</a></li>
-  <li><a href="https://www.miraikan.jst.go.jp/events/202111052206.html">特別企画『帰還一周年 「はやぶさ２」カプセル＆リュウグウの“かけら” 大公開』 - 日本科学未来館 (Miraikan)</a></li>
-</ul>
-
-<h4 id="14614-jwst">1:46:14 JWST</h4>
-
-<ul>
-  <li><a href="https://sorae.info/space/20220110-jwst.html">新型宇宙望遠鏡「ジェイムズ・ウェッブ」主鏡の展開作業も無事成功！ - sorae 宇宙へのポータルサイト</a></li>
-  <li><a href="https://blogs.nasa.gov/webb/2022/01/06/why-doesnt-webb-have-deployment-cameras/">Why Doesn’t Webb Have Deployment Cameras? – James Webb Space Telescope</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B0%E3%83%A9%E3%83%B3%E3%82%B8%E3%83%A5%E7%82%B9">ラグランジュ点 - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%B9%E3%83%A9%E3%83%BC%E3%82%B7%E3%83%B3%E3%83%89%E3%83%AD%E3%83%BC%E3%83%A0">ケスラーシンドローム - Wikipedia</a></li>
-  <li><a href="https://interaxion-podcast.github.io/28">Ep. 28: Solar system crusher</a> でも一瞬出てきた</li>
-</ul>
-
-<h4 id="15303-太陽系付近の局所泡">1:53:03 太陽系付近の局所泡</h4>
-
-<ul>
-  <li><a href="https://sites.google.com/cfa.harvard.edu/local-bubble-star-formation">The Local Bubble</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E5%B1%80%E6%89%80%E6%B3%A1">局所泡 - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%A4%E3%82%A2%E8%A8%88%E7%94%BB">ガイア計画 - Wikipedia</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">発表はこれのようです。<br />太陽系を包むローカルバブルという構造とその縁で進む星形成の関係を明らかにした。1400万年前の超新星爆発でガスが広がり、圧縮されたガスから星ができた。500光年程度の範囲にある若い星の起源は大体これ。太陽はローカルバブルの中心にあるけど、これは偶然。 <a href="https://t.co/LYGPVAeYty">https://t.co/LYGPVAeYty</a></p>
-  <p>— Masaaki Hiramatsu / 平松正顕 (@parsonii) <a href="https://twitter.com/parsonii/status/1481427057947332609?ref_src=twsrc%5Etfw">January 13, 2022</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<h4 id="15745-ハッブル定数">1:57:45 ハッブル定数</h4>
-
-<ul>
-  <li><a href="https://jbpress.ismedia.jp/articles/-/68414">ハッブル“定数”なのに、近くと遠くで食い違うのはなぜ？ 精密観測で深まる宇宙の謎、ますます高まるハッブルテンション - JBpress (ジェイビープレス)</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">ということで論文がarxivに上がりました！<br />近傍宇宙のハッブル定数は73.04 +/- 1.04 km/s/Mpcで、別の結果との比較をすると、これはかなり高い確率で僕たちの住む銀河の近所が宇宙全体と比べて速いスピードで膨張しているらしいことを示しています。これを説明できる理論は未だに見つかっていません🧐 <a href="https://t.co/OK8TmXE5AT">https://t.co/OK8TmXE5AT</a></p>
-  <p>— はなだ (@hanada_st) <a href="https://twitter.com/hanada_st/status/1469294622803480576?ref_src=twsrc%5Etfw">December 10, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li><a href="https://www.astroarts.co.jp/article/hl/a/10463_expansion">宇宙膨張が標準理論と不一致？クエーサーの観測から示唆 - アストロアーツ</a></li>
-  <li><a href="https://nazology.net/archives/50296">「暗黒エネルギーは存在しない」ことを示す新説が登場 - ナゾロジー</a></li>
-  <li><a href="https://phys.org/news/2022-01-superhorizon-modes-hubble-tension.html">Superhorizon modes can explain Hubble tension</a><br />
-<a href="https://twitter.com/elmizbuka">ブカさん</a>より情報
-    <blockquote>
-      <p>ちょうどこんな記事が、宇宙の起源からの光の最大行路より長い波長の揺らぎがHubble tensionの原因でないかという説。</p>
-    </blockquote>
-  </li>
-</ul>
-
-<h4 id="20600-マルチメッセンジャー天文学">2:06:00 マルチメッセンジャー天文学</h4>
-
-<ul>
-  <li><a href="https://www.cnn.co.jp/fringe/35181793.html">CNN.co.jp : 星が死にゆく最後の瞬間、超新星爆発をリアルタイムで観測 天文史上初</a><br />
-<a href="https://keckobservatory.org/dying-star">Astronomers Witness a Dying Star Reach Its Explosive End – W. M. Keck Observatory</a></li>
-  <li><a href="https://iopscience.iop.org/article/10.1088/0256-307X/38/1/011301">A Search for Solar Axions and Anomalous Neutrino Magnetic Moment with the Complete PandaX-II Data</a><br />
-<a href="https://iopscience.iop.org/article/10.1088/0256-307X/38/10/109902">Erratum: A Search for Solar Axions and Anomalous Neutrino Magnetic Moment with the Complete PandaX-II Data</a></li>
-  <li><a href="https://gendai.ismedia.jp/articles/-/90324">ノーベル賞受賞の「重力波初検出」その意外な舞台裏！（田中 雅臣） - ブルーバックス - 講談社</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AD%E3%83%8E%E3%83%B4%E3%82%A1">キロノヴァ - Wikipedia</a></li>
-  <li><a href="https://iopscience.iop.org/article/10.3847/2041-8213/aa91c9">Multi-messenger Observations of a Binary Neutron Star Merger - IOPscience</a><br />
-ボウリングのスコアっぽい図の載った論文</li>
-  <li><a href="https://ja.wikipedia.org/wiki/GW170817">GW170817 - Wikipedia</a>
-    <blockquote>
-      <p>この重力波の検出の後に世界中の観測施設や機関によって対応する天体が探索され、ガンマ線から近赤外線に至る広い波長域の電磁波で重力波源天体が発見されたことから、いわゆるマルチメッセンジャー天文学の嚆矢となった</p>
-    </blockquote>
-  </li>
-  <li><a href="https://www.sciencedirect.com/science/article/abs/pii/S0927650521000128">Search for event bursts in XMASS-I associated with gravitational-wave events - ScienceDirect</a></li>
-</ul>
-
-<h3 id="お知らせ">お知らせ</h3>
-
-<ul>
-  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="科学コミュニケーション" /><category term="メタバース" /><category term="宇宙飛行士" /><category term="はやぶさ2" /><category term="重力波" /><category term="ニュートリノ" /><category term="マルチメッセンジャー" /><category term="ダークマター" /><summary type="html"><![CDATA[たかちおさんと[oka](https://twitter.com/nowohyeah)で科学コミュニケーション、メタバース、宇宙系ニュースなどについて話しました。]]></summary></entry></feed>
+<hr />]]></content><author><name></name></author><category term="原子核乾板" /><category term="ゆるキャン△" /><category term="ドイツ" /><summary type="html"><![CDATA[[あゆみさん](https://twitter.com/ayumisalt)と[oka](https://twitter.com/nowohyeah)で原子核乾板、ゆるキャン△で絶叫、研究室の13人などについて話しました。]]></summary></entry></feed>

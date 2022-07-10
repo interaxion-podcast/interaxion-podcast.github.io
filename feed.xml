@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-07-04T17:32:17+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">40:</title><link href="https://interaxion-podcast.github.io/40-draft" rel="alternate" type="text/html" title="40:" /><published>2022-07-04T00:00:00+00:00</published><updated>2022-07-04T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep40</id><content type="html" xml:base="https://interaxion-podcast.github.io/40-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-07-10T05:59:24+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">40:</title><link href="https://interaxion-podcast.github.io/40-draft" rel="alternate" type="text/html" title="40:" /><published>2022-07-04T00:00:00+00:00</published><updated>2022-07-04T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep40</id><content type="html" xml:base="https://interaxion-podcast.github.io/40-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
 <ul id="markdown-toc">
   <li><a href="#イントロ" id="markdown-toc-イントロ">イントロ</a></li>
-  <li><a href="#ニュース" id="markdown-toc-ニュース">ニュース</a></li>
-  <li><a href="#おたよりと宇宙飛行士候補者試験結果" id="markdown-toc-おたよりと宇宙飛行士候補者試験結果">おたよりと宇宙飛行士候補者試験結果</a></li>
-  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
+  <li><a href="#hpcと流体力学" id="markdown-toc-hpcと流体力学">HPCと流体力学</a></li>
+  <li><a href="#section" id="markdown-toc-section">ニュース</a></li>
+  <li><a href="#section-1" id="markdown-toc-section-1">おたよりと宇宙飛行士候補者試験結果</a></li>
+  <li><a href="#section-2" id="markdown-toc-section-2">お知らせ</a></li>
 </ul>
     <!-- https://stackoverflow.com/a/38419441/11480802 -->
   </nav>
@@ -21,56 +22,125 @@
   <li><a href="https://interaxion-podcast.github.io/starring/#あらB">Interaxion あらBさん出演回</a></li>
 </ul>
 
-<h3 id="ニュース">ニュース</h3>
-
-<h3 id="おたよりと宇宙飛行士候補者試験結果">おたよりと宇宙飛行士候補者試験結果</h3>
+<h3 id="hpcと流体力学">HPCと流体力学</h3>
 
 <ul>
-  <li><a href="https://www.yozemi.ac.jp/koushi/ksilist/1225291_3521.html">代々木ゼミナール（予備校） - 講師紹介</a></li>
-  <li>これまでの<a href="https://interaxion-podcast.github.io/tags/#%E5%AE%87%E5%AE%99%E9%A3%9B%E8%A1%8C%E5%A3%AB">Interaxion 宇宙飛行士回</a></li>
-  <li><a href="https://www.jaxa.jp/press/2022/06/20220628-1_j.html">JAXA - 2021年度　宇宙飛行士候補者の第0次選抜結果について</a></li>
-  <li>Pod de Engineer</li>
+  <li><a href="https://www.top500.org/lists/top500/2022/06/">TOP500 (June 2022)</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/LINPACK">LINPACK - Wikipedia</a></li>
+  <li>RmaxとRpeakはそれぞれLINPACKベンチマークにおいて得られた性能値と、当該スパコンの理論ピーク演算性能を指す。ここで雛形はベンチマークに使用した連立1次方程式の元数Nmaxと混同して説明しており誤り（お詫びいたします）。
+    <ul>
+      <li>それぞれの定義は岩下武史、片桐孝洋、高橋大介著「<a href="http://www.utp.or.jp/book/b306961.html">スパコンを知る　その基礎から最新の動向まで</a>」東京大学出版会 (2015) p.26より引用。</li>
+    </ul>
+  </li>
+  <li><a href="https://www.top500.org/lists/hpcg/2022/06/">HPCG (High Performance Conjugate Gradient) (June 2022)</a>
+    <ul>
+      <li>“At the moment, we do not have HPCG data on Frontier. Therefore, Fugaku is the winner here with 16.0 HPCG-petaflops.”</li>
+    </ul>
+  </li>
+  <li><a href="https://www.cc.u-tokyo.ac.jp/public/VOL18/No5/06.201609hpcg-1.pdf">HPCGについて</a> 疎行列を係数とする連立一次方程式は、たとえば非圧縮性流体の解法における圧力のポアソン方程式にみられる。</li>
+  <li><a href="https://www.hpl-ai.org/doc/results">HPL-AI</a></li>
+  <li><a href="https://hpc-phys.kek.jp/workshop/workshop200924/kudo_200924.pdf">HPL-AI行列の観察</a></li>
+  <li><a href="https://graph500.org/">Graph500</a></li>
+  <li><a href="https://www.riken.jp/pr/news/2022/20220530_1/">スーパーコンピュータ「富岳」がGraph500のBFS部門において5期連続で世界第1位を獲得</a></li>
+  <li><a href="https://monoist.itmedia.co.jp/mn/articles/2105/31/news048.html">NVIDIAのスパコンは4EFlopsで「地球最速」、6000個超の「A100」搭載</a></li>
+  <li><a href="https://www.top500.org/lists/green500/2022/06/">Green500 (June 2022)</a></li>
+  <li><a href="https://www.preferred.jp/ja/news/pr20211116/">PFNの深層学習用スーパーコンピュータMN-3、39.38GFlops/Wの電力効率を記録しGreen500ランキングで3度目の世界1位を獲得</a> ※前回のランキング (November 2021) のニュース</li>
+  <li><a href="https://en.wikichip.org/wiki/pezy/pezy-scx/pezy-sc3">PEZY-SC3</a></li>
+  <li><a href="https://fugaku100kei.jp/fugaku/promoting_research.html">「富岳」成果創出加速プログラム</a></li>
+  <li><a href="http://www.astro.phys.s.chiba-u.ac.jp/mhd2017/presentations/MiyoshiTakahiro.pdf#page=6">MHD方程式</a> ナビエ–ストークス方程式（後述）における粘性項がローレンツ力の項に置き換わっている、とみなすこともできる。</li>
+  <li><a href="http://www.spring8.or.jp/ja/science/meetings/2022/220930/">第8回 大型実験施設とスーパーコンピュータとの連携利用シンポジウム</a></li>
+  <li><a href="https://www.fujitsu.com/jp/about/businesspolicy/tech/fugaku/">富岳の消費電力は30~40MW</a></li>
+  <li><a href="https://www.knt-liner.co.jp/station/807/">計算科学センター（神戸どうぶつ王国・「富岳」前）</a> かつての京コンピュータ前駅</li>
+  <li><a href="https://www.jss.jaxa.jp/mediadir/2022/03/JSS3_Brochure2022J.pdf#page=5">計算機システムが約7年おきにリプレースされていく一例</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%93%E3%82%A8%E2%80%93%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AF%E3%82%B9%E6%96%B9%E7%A8%8B%E5%BC%8F">ナビエ–ストークス方程式 - Wikipedia</a></li>
+  <li><a href="http://www.claymath.org/millennium-problems">クレイ数学研究所のミレニアム懸賞問題</a></li>
+  <li><a href="https://doi.org/10.1299/jsmemag.110.1063_App2">機械工学便覧 基礎編α6 計算力学</a>
+    <ul>
+      <li>ASME V&amp;V（<a href="https://www.jsce.or.jp/committee/amc/v&amp;v/activity/20220118_kanto_forum/sakurai.pdf#page=2">日本語の説明資料</a>）では物理モデルと数学モデルはそれぞれ実験と解析に対応する別個のものとして示されており、言葉の指すところはよく吟味する必要がある。</li>
+    </ul>
+  </li>
+  <li><a href="https://aics.riken.jp/jp/k/application.html">アプリケーション紹介</a> ページ下部に手法によるアプリケーションの分類がある。</li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%B3%E3%82%B2%EF%BC%9D%E3%82%AF%E3%83%83%E3%82%BF%E6%B3%95">ルンゲ＝クッタ法</a> 流体解析における有限差分法や有限体積法は空間の離散化のやり方を指すのに対して、ルンゲ＝クッタ法は時間進行の方法としていずれの手法でも用いることができる。</li>
+  <li>保存性について…有限差分法であっても保存形での離散化とすれば保存則は満足される。両者の違いはむしろ離散化のための格子にあって、有限差分法は一般的に構造格子上での離散化となる一方、有限体積法や有限要素法は非構造格子への適用が容易（前述の機械工学便覧 基礎編α6 計算力学 p.91に詳しい）</li>
+  <li><a href="https://www.cradle.co.jp/glossary/ja_A/detail0134.html">オイラーの方法</a>と<a href="https://www.cradle.co.jp/glossary/ja_L/detail0135.html">ラグランジュの方法</a></li>
+  <li><a href="https://www.hpci-office.jp/">High Performance Computer Infrastructure (HPCI)</a></li>
+  <li><a href="https://www.hpci-office.jp/pages/r04_boshu_hpci_resource">令和4年度課題募集におけるハードウェア・ソフトウェア資源一覧</a></li>
+  <li><a href="https://jpn.nec.com/hpc/sxauroratsubasa/index.html">SX-Aurora TSUBASA</a></li>
+  <li><a href="https://www.itmedia.co.jp/news/articles/2103/02/news007.html">AI処理で「100万円スパコン」使ってみた　GPUからの移行は手間？　対話AIベンチャーが手応え明かす</a></li>
 </ul>
 
-<iframe src="https://anchor.fm/pod-de-engineer/embed/episodes/111--KVM-Quest-2-e1kjcoj/a-a86dbjh" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
+<blockquote class="twitter-tweet">
+  <p lang="ja" dir="ltr">阪大にあったSX-9の宣伝用に「サマーウォーズ」のスティルを使えないか人伝に問い合わせたところ、NECに無断でデザイン使ってるから(公式にはSX-9ではない)だめ、といわれたことがある。えーっと、たしかそんな感じだった</p>
+  <p>— あ〜る菊池誠(反緊縮) (@kikumaco) <a href="https://twitter.com/kikumaco/status/616959654833205249?ref_src=twsrc%5Etfw">July 3, 2015</a>&lt;/blockquote&gt; <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
-<ul>
-  <li><a href="https://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E6%9C%89%E5%BD%A9">黒田有彩 - Wikipedia</a></li>
-</ul>
+  <ul>
+    <li>Fortran 77/90/95あたりの文法であれば現在のどのコンパイラでも共通に翻訳されると思いますが、昨今のFortran 2018をはじめとしたモダンな仕様への対応でいえば対応状況はコンパイラによって異なりそうです。</li>
+    <li><a href="https://www.openpbs.org/">OpenPBS</a></li>
+    <li><a href="https://www.r-ccs.riken.jp/fugaku/system/">富岳のシステム紹介</a> ただしコンテナとしてSingularityが使えるので、リストにない環境であっても使うことはできるはず</li>
+    <li><a href="https://aws.amazon.com/jp/hpc/">AWS HPC</a></li>
+    <li><a href="https://www.amazon.co.jp/dp/B07PYSVGXZ/">数理科学1989年8月号</a> サイエンス社の<a href="https://www.saiensu.co.jp/magazine/">数理科学バックナンバー一覧</a>からはなぜか辿れない</li>
+    <li><a href="https://doi.org/10.1063/1.3676783">Choi, Haecheon, and Parviz Moin. “Grid-point requirements for large eddy simulation: Chapman’s estimates revisited.” Physics of fluids 24.1 (2012): 011702.</a></li>
+    <li><a href="https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%A4%E3%83%8E%E3%83%AB%E3%82%BA%E6%95%B0">レイノルズ数 - Wikipedia</a></li>
+    <li><a href="https://fugaku100kei.jp/events/kasoku/2021/images/pdf/proceedings.pdf#page=44">富岳でしか達成できない超高解像度計算によって太陽の熱対流の難問を解決した様子</a></li>
+  </ul>
 
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">「<a href="https://twitter.com/hashtag/%E5%AE%87%E5%AE%99%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88?src=hash&amp;ref_src=twsrc%5Etfw">#宇宙タレント</a> <a href="https://twitter.com/hashtag/%E9%BB%92%E7%94%B0%E6%9C%89%E5%BD%A9?src=hash&amp;ref_src=twsrc%5Etfw">#黒田有彩</a> <a href="https://twitter.com/hashtag/%E3%82%A6%E3%83%BC%E3%83%81%E3%83%A5%E3%83%BC%E9%83%A8?src=hash&amp;ref_src=twsrc%5Etfw">#ウーチュー部</a> 」配信🎉<br /><br />【宇宙飛行士選抜試験】0次後半の軌跡<a href="https://t.co/XHnBk1nxng">https://t.co/XHnBk1nxng</a> 👈💖<a href="https://twitter.com/hashtag/%E5%AE%87%E5%AE%99%E9%A3%9B%E8%A1%8C%E5%A3%AB?src=hash&amp;ref_src=twsrc%5Etfw">#宇宙飛行士</a> <a href="https://twitter.com/hashtag/JAXA?src=hash&amp;ref_src=twsrc%5Etfw">#JAXA</a> <a href="https://twitter.com/hashtag/%E5%AE%87%E5%AE%99%E9%A3%9B%E8%A1%8C%E5%A3%AB%E3%81%AB%E8%BB%A2%E8%81%B7%E3%81%A0?src=hash&amp;ref_src=twsrc%5Etfw">#宇宙飛行士に転職だ</a> <a href="https://twitter.com/hashtag/%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E7%99%BB%E9%8C%B2%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99?src=hash&amp;ref_src=twsrc%5Etfw">#チャンネル登録お願いします</a> <a href="https://t.co/8zOJrMKFai">pic.twitter.com/8zOJrMKFai</a></p>
-  <p>— 黒田有彩 (@KUROARI_RTTS) <a href="https://twitter.com/KUROARI_RTTS/status/1542110337008562176?ref_src=twsrc%5Etfw">June 29, 2022</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <h3 id="section">ニュース</h3>
 
-<ul>
-  <li><a href="https://weathernews.jp/">ウェザーニュース - 天気予報(台風・地震情報・雨雲レーダー)</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E6%AA%9C%E5%B1%B1%E6%B2%99%E8%80%B6">檜山沙耶 - Wikipedia</a></li>
-</ul>
+  <h3 id="section-1">おたよりと宇宙飛行士候補者試験結果</h3>
 
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/wg_5bfliyak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
+  <ul>
+    <li><a href="https://www.yozemi.ac.jp/koushi/ksilist/1225291_3521.html">代々木ゼミナール（予備校） - 講師紹介</a></li>
+    <li>これまでの<a href="https://interaxion-podcast.github.io/tags/#%E5%AE%87%E5%AE%99%E9%A3%9B%E8%A1%8C%E5%A3%AB">Interaxion 宇宙飛行士回</a></li>
+    <li><a href="https://www.jaxa.jp/press/2022/06/20220628-1_j.html">JAXA - 2021年度　宇宙飛行士候補者の第0次選抜結果について</a></li>
+    <li>Pod de Engineer</li>
+  </ul>
 
-<h3 id="お知らせ">お知らせ</h3>
+  <iframe src="https://anchor.fm/pod-de-engineer/embed/episodes/111--KVM-Quest-2-e1kjcoj/a-a86dbjh" height="102px" width="100%" frameborder="0" scrolling="no"></iframe>
 
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">【動画やポッドキャストのBGMをお探しの方へ】<br /><br />サイトウが大量に制作したトラックの中から厳選された作品が、国内最大級の音源販売サイト Audiostock で販売開始されました。<br /><br />単品購入 or 定額制を選択可。<br />ぜひご活用ください！！<a href="https://t.co/7dSi0Mw6kG">https://t.co/7dSi0Mw6kG</a></p>
-  <p>— サイトウナヲキ (@sai_enlightened) <a href="https://twitter.com/sai_enlightened/status/1542127615959392256?ref_src=twsrc%5Etfw">June 29, 2022</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <ul>
+    <li>
+      <p><a href="https://www4.nhk.or.jp/shinyabin/">ラジオ深夜便</a></p>
+    </li>
+    <li>
+      <p><a href="https://ja.wikipedia.org/wiki/%E9%BB%92%E7%94%B0%E6%9C%89%E5%BD%A9">黒田有彩 - Wikipedia</a></p>
+    </li>
+  </ul>
 
-<ul>
-  <li><a href="https://audiostock.jp/audio/1267554">切なく懐かしいトラック 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
-  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-</ul>
+  <blockquote class="twitter-tweet tw-align-center">
+    <p lang="ja" dir="ltr">「<a href="https://twitter.com/hashtag/%E5%AE%87%E5%AE%99%E3%82%BF%E3%83%AC%E3%83%B3%E3%83%88?src=hash&amp;ref_src=twsrc%5Etfw">#宇宙タレント</a> <a href="https://twitter.com/hashtag/%E9%BB%92%E7%94%B0%E6%9C%89%E5%BD%A9?src=hash&amp;ref_src=twsrc%5Etfw">#黒田有彩</a> <a href="https://twitter.com/hashtag/%E3%82%A6%E3%83%BC%E3%83%81%E3%83%A5%E3%83%BC%E9%83%A8?src=hash&amp;ref_src=twsrc%5Etfw">#ウーチュー部</a> 」配信🎉<br /><br />【宇宙飛行士選抜試験】0次後半の軌跡<a href="https://t.co/XHnBk1nxng">https://t.co/XHnBk1nxng</a> 👈💖<a href="https://twitter.com/hashtag/%E5%AE%87%E5%AE%99%E9%A3%9B%E8%A1%8C%E5%A3%AB?src=hash&amp;ref_src=twsrc%5Etfw">#宇宙飛行士</a> <a href="https://twitter.com/hashtag/JAXA?src=hash&amp;ref_src=twsrc%5Etfw">#JAXA</a> <a href="https://twitter.com/hashtag/%E5%AE%87%E5%AE%99%E9%A3%9B%E8%A1%8C%E5%A3%AB%E3%81%AB%E8%BB%A2%E8%81%B7%E3%81%A0?src=hash&amp;ref_src=twsrc%5Etfw">#宇宙飛行士に転職だ</a> <a href="https://twitter.com/hashtag/%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E7%99%BB%E9%8C%B2%E3%81%8A%E9%A1%98%E3%81%84%E3%81%97%E3%81%BE%E3%81%99?src=hash&amp;ref_src=twsrc%5Etfw">#チャンネル登録お願いします</a> <a href="https://t.co/8zOJrMKFai">pic.twitter.com/8zOJrMKFai</a></p>
+    <p>— 黒田有彩 (@KUROARI_RTTS) <a href="https://twitter.com/KUROARI_RTTS/status/1542110337008562176?ref_src=twsrc%5Etfw">June 29, 2022</a></p>
+  </blockquote>
+  <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="流体力学" /><category term="HPC" /><category term="宇宙飛行士" /><summary type="html"><![CDATA[[雛形](https://twitter.com/hinahypersonica)さん、[あらB](https://twitter.com/ark_B)、[oka](https://twitter.com/nowohyeah)で流体力学、HPCなどについて話しました。]]></summary></entry><entry><title type="html">39: Ultracold Atoms Enable Everything</title><link href="https://interaxion-podcast.github.io/39-draft" rel="alternate" type="text/html" title="39: Ultracold Atoms Enable Everything" /><published>2022-06-22T00:00:00+00:00</published><updated>2022-06-22T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep39</id><content type="html" xml:base="https://interaxion-podcast.github.io/39-draft"><![CDATA[<details>
+  <ul>
+    <li><a href="https://weathernews.jp/">ウェザーニュース - 天気予報(台風・地震情報・雨雲レーダー)</a></li>
+    <li><a href="https://ja.wikipedia.org/wiki/%E6%AA%9C%E5%B1%B1%E6%B2%99%E8%80%B6">檜山沙耶 - Wikipedia</a></li>
+  </ul>
+
+  <div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/wg_5bfliyak" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+  </div>
+
+  <h3 id="section-2">お知らせ</h3>
+
+  <blockquote class="twitter-tweet tw-align-center">
+    <p lang="ja" dir="ltr">【動画やポッドキャストのBGMをお探しの方へ】<br /><br />サイトウが大量に制作したトラックの中から厳選された作品が、国内最大級の音源販売サイト Audiostock で販売開始されました。<br /><br />単品購入 or 定額制を選択可。<br />ぜひご活用ください！！<a href="https://t.co/7dSi0Mw6kG">https://t.co/7dSi0Mw6kG</a></p>
+    <p>— サイトウナヲキ (@sai_enlightened) <a href="https://twitter.com/sai_enlightened/status/1542127615959392256?ref_src=twsrc%5Etfw">June 29, 2022</a></p>
+  </blockquote>
+  <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+  <ul>
+    <li><a href="https://audiostock.jp/audio/1267554">切なく懐かしいトラック 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
+    <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
+  </ul>
+
+  <blockquote class="twitter-tweet tw-align-center">
+    <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
+    <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
+  </blockquote>
+  <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</blockquote>]]></content><author><name></name></author><category term="流体力学" /><category term="HPC" /><category term="宇宙飛行士" /><summary type="html"><![CDATA[[雛形](https://twitter.com/hinahypersonica)さん、[あらB](https://twitter.com/ark_B)、[oka](https://twitter.com/nowohyeah)で流体力学、HPCなどについて話しました。]]></summary></entry><entry><title type="html">39: Ultracold Atoms Enable Everything</title><link href="https://interaxion-podcast.github.io/39-draft" rel="alternate" type="text/html" title="39: Ultracold Atoms Enable Everything" /><published>2022-06-22T00:00:00+00:00</published><updated>2022-06-22T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep39</id><content type="html" xml:base="https://interaxion-podcast.github.io/39-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>

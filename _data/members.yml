@@ -118,7 +118,7 @@
 
 - name: 雛形
   twitter: hinahypersonica
-  profile_image: https://pbs.twimg.com/profile_images/947810652126453761/etDVh3D9_400x400.jpg
+  profile_image: "https://interaxion-podcast.github.io/assets/hinagata.png"
 
 - name: oka
   twitter: nowohyeah

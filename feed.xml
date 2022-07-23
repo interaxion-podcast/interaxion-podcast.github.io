@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-07-23T06:21:45+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">40: Applications for Supercomputer</title><link href="https://interaxion-podcast.github.io/40" rel="alternate" type="text/html" title="40: Applications for Supercomputer" /><published>2022-07-23T00:00:00+00:00</published><updated>2022-07-23T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep40</id><content type="html" xml:base="https://interaxion-podcast.github.io/40"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-07-23T07:10:35+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">40: Applications for Supercomputer</title><link href="https://interaxion-podcast.github.io/40" rel="alternate" type="text/html" title="40: Applications for Supercomputer" /><published>2022-07-23T00:00:00+00:00</published><updated>2022-07-23T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep40</id><content type="html" xml:base="https://interaxion-podcast.github.io/40"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -13,22 +13,20 @@
       <li><a href="#hpcで何をやりますか" id="markdown-toc-hpcで何をやりますか">HPCで何をやりますか？</a></li>
     </ul>
   </li>
-  <li><a href="#4045-流体力学" id="markdown-toc-4045-流体力学">40:45 流体力学</a>    <ul>
-      <li><a href="#5757-スパコン雑談" id="markdown-toc-5757-スパコン雑談">57:57 スパコン雑談</a></li>
-      <li><a href="#13043-復刊すると値上りする法則" id="markdown-toc-13043-復刊すると値上りする法則">1:30:43 復刊すると値上りする法則</a></li>
-      <li><a href="#13400-hpc-のレイノルズ数" id="markdown-toc-13400-hpc-のレイノルズ数">1:34:00 HPC のレイノルズ数</a></li>
-    </ul>
-  </li>
+  <li><a href="#4032-流体力学" id="markdown-toc-4032-流体力学">40:32 流体力学</a></li>
+  <li><a href="#5742-スパコン雑談" id="markdown-toc-5742-スパコン雑談">57:42 スパコン雑談</a></li>
+  <li><a href="#13040-復刊すると値上りする法則" id="markdown-toc-13040-復刊すると値上りする法則">1:30:40 復刊すると値上りする法則</a></li>
+  <li><a href="#13400-hpc-とレイノルズ数" id="markdown-toc-13400-hpc-とレイノルズ数">1:34:00 HPC とレイノルズ数</a></li>
   <li><a href="#13902-ニュース" id="markdown-toc-13902-ニュース">1:39:02 ニュース</a>    <ul>
-      <li><a href="#13908-はやぶさ2アミノ酸とエンバーゴ" id="markdown-toc-13908-はやぶさ2アミノ酸とエンバーゴ">1:39:08 はやぶさ2アミノ酸とエンバーゴ</a></li>
-      <li><a href="#14207-ann-サブスク" id="markdown-toc-14207-ann-サブスク">1:42:07 ANN サブスク</a></li>
-      <li><a href="#14554-揚げ油の流体力学" id="markdown-toc-14554-揚げ油の流体力学">1:45:54 揚げ油の流体力学</a></li>
+      <li><a href="#13907-はやぶさ2アミノ酸とエンバーゴ" id="markdown-toc-13907-はやぶさ2アミノ酸とエンバーゴ">1:39:07 はやぶさ2アミノ酸とエンバーゴ</a></li>
+      <li><a href="#14202-ann-サブスク" id="markdown-toc-14202-ann-サブスク">1:42:02 ANN サブスク</a></li>
+      <li><a href="#14550-揚げ油の流体力学" id="markdown-toc-14550-揚げ油の流体力学">1:45:50 揚げ油の流体力学</a></li>
       <li><a href="#15303-eht-ブラックホール" id="markdown-toc-15303-eht-ブラックホール">1:53:03 EHT ブラックホール</a></li>
     </ul>
   </li>
-  <li><a href="#15956-おたよりと宇宙飛行士候補者試験結果" id="markdown-toc-15956-おたよりと宇宙飛行士候補者試験結果">1:59:56 おたよりと宇宙飛行士候補者試験結果</a></li>
-  <li><a href="#20910-資格挑戦ポッドキャスト" id="markdown-toc-20910-資格挑戦ポッドキャスト">2:09:10 資格挑戦ポッドキャスト</a></li>
-  <li><a href="#22035-お知らせ" id="markdown-toc-22035-お知らせ">2:20:35 お知らせ</a></li>
+  <li><a href="#15959-おたよりと宇宙飛行士候補者試験結果" id="markdown-toc-15959-おたよりと宇宙飛行士候補者試験結果">1:59:59 おたよりと宇宙飛行士候補者試験結果</a></li>
+  <li><a href="#20912-資格挑戦ポッドキャスト" id="markdown-toc-20912-資格挑戦ポッドキャスト">2:09:12 資格挑戦ポッドキャスト</a></li>
+  <li><a href="#22037-お知らせ" id="markdown-toc-22037-お知らせ">2:20:37 お知らせ</a></li>
 </ul>
     <!-- https://stackoverflow.com/a/38419441/11480802 -->
   </nav>
@@ -146,7 +144,7 @@
   <li><a href="https://togetter.com/li/1552464">理化学研究所に寄附したら、スパコン「京」のCPUがもらえた！「失禁」「家宝にする」と感激しきりの人や「これでPC組みたい」とわくわくの人など - Togetter</a></li>
 </ul>
 
-<h3 id="4045-流体力学">40:45 流体力学</h3>
+<h3 id="4032-流体力学">40:32 流体力学</h3>
 
 <ul>
   <li><a href="https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%93%E3%82%A8%E2%80%93%E3%82%B9%E3%83%88%E3%83%BC%E3%82%AF%E3%82%B9%E6%96%B9%E7%A8%8B%E5%BC%8F">ナビエ–ストークス方程式 - Wikipedia</a></li>
@@ -175,7 +173,7 @@
   <li><a href="https://www.cradle.co.jp/glossary/ja_A/detail0134.html">オイラーの方法</a>と<a href="https://www.cradle.co.jp/glossary/ja_L/detail0135.html">ラグランジュの方法</a></li>
 </ul>
 
-<h4 id="5757-スパコン雑談">57:57 スパコン雑談</h4>
+<h3 id="5742-スパコン雑談">57:42 スパコン雑談</h3>
 
 <ul>
   <li><a href="https://www.hpci-office.jp/">High Performance Computer Infrastructure (HPCI)</a></li>
@@ -200,17 +198,17 @@
   <li><a href="https://ja.wikipedia.org/wiki/InfiniBand">InfiniBand - Wikipedia</a></li>
 </ul>
 
-<h4 id="13043-復刊すると値上りする法則">1:30:43 復刊すると値上りする法則</h4>
+<h3 id="13040-復刊すると値上りする法則">1:30:40 復刊すると値上りする法則</h3>
 
 <ul>
   <li><a href="https://amzn.to/3INZmk5">数理科学1989年8月号</a> (オーパーツ)<br />
 サイエンス社の<a href="https://www.saiensu.co.jp/magazine/">数理科学バックナンバー一覧</a>からはなぜか辿れない</li>
   <li><a href="https://ja.wikipedia.org/wiki/%E4%BB%8A%E4%BA%95%E5%8A%9F_(%E7%89%A9%E7%90%86%E5%AD%A6%E8%80%85)">今井功 (物理学者) - Wikipedia</a> <a href="https://amzn.to/3IVGyj1">『今井流体』</a></li>
   <li><a href="https://amzn.to/3RHtqSH">『巽流体』</a></li>
-  <li><a href="https://anchor.fm/arkbfm/episodes/Ep--28-Alcoholic-Doctoral-Graduate-Student-e176crv">あらB.fm Ep.28</a>）巽流体の話をしている回</li>
+  <li><a href="https://anchor.fm/arkbfm/episodes/Ep--28-Alcoholic-Doctoral-Graduate-Student-e176crv">あらB.fm Ep.28</a> 巽流体の話をしている回</li>
 </ul>
 
-<h4 id="13400-hpc-のレイノルズ数">1:34:00 HPC のレイノルズ数</h4>
+<h3 id="13400-hpc-とレイノルズ数">1:34:00 HPC とレイノルズ数</h3>
 
 <ul>
   <li><a href="https://doi.org/10.1063/1.3676783">Choi, Haecheon, and Parviz Moin. “Grid-point requirements for large eddy simulation: Chapman’s estimates revisited.” Physics of fluids 24.1 (2012): 011702.</a></li>
@@ -220,7 +218,7 @@
 
 <h3 id="13902-ニュース">1:39:02 ニュース</h3>
 
-<h4 id="13908-はやぶさ2アミノ酸とエンバーゴ">1:39:08 はやぶさ2アミノ酸とエンバーゴ</h4>
+<h4 id="13907-はやぶさ2アミノ酸とエンバーゴ">1:39:07 はやぶさ2アミノ酸とエンバーゴ</h4>
 
 <ul>
   <li><a href="https://www.astroarts.co.jp/article/hl/a/12574_ryugu">リュウグウ試料からアミノ酸などを検出 - アストロアーツ</a></li>
@@ -232,14 +230,14 @@
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h4 id="14207-ann-サブスク">1:42:07 ANN サブスク</h4>
+<h4 id="14202-ann-サブスク">1:42:02 ANN サブスク</h4>
 
 <ul>
   <li><a href="https://news.1242.com/article/367929">『オールナイトニッポンJAM』ついに誕生！　ラジオ番組サブスクサービスがスタート！ 寝落ちした夜を取り戻せ！ – ニッポン放送 NEWS ONLINE</a></li>
   <li><a href="https://www4.nhk.or.jp/shinyabin/">NHKラジオ深夜便</a></li>
 </ul>
 
-<h4 id="14554-揚げ油の流体力学">1:45:54 揚げ油の流体力学</h4>
+<h4 id="14550-揚げ油の流体力学">1:45:50 揚げ油の流体力学</h4>
 
 <ul>
   <li><a href="https://aip.scitation.org/doi/10.1063/5.0088065">Morphology of bubble dynamics and sound in heated oil: Physics of Fluids: Vol 34, No 6</a></li>
@@ -272,7 +270,7 @@ EHT の open data と思われる</li>
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h3 id="15956-おたよりと宇宙飛行士候補者試験結果">1:59:56 おたよりと宇宙飛行士候補者試験結果</h3>
+<h3 id="15959-おたよりと宇宙飛行士候補者試験結果">1:59:59 おたよりと宇宙飛行士候補者試験結果</h3>
 
 <ul>
   <li><a href="https://www.yozemi.ac.jp/koushi/ksilist/1225291_3521.html">武井明信 - 代々木ゼミナール（予備校） - 講師紹介</a></li>
@@ -300,7 +298,7 @@ oka 筆記試験後に出演したエピソード</li>
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h3 id="20910-資格挑戦ポッドキャスト">2:09:10 資格挑戦ポッドキャスト</h3>
+<h3 id="20912-資格挑戦ポッドキャスト">2:09:12 資格挑戦ポッドキャスト</h3>
 
 <ul>
   <li><a href="https://weathernews.jp/">ウェザーニュース - 天気予報(台風・地震情報・雨雲レーダー)</a></li>
@@ -328,7 +326,7 @@ Rebuild でおすすめされていた YouTube Channel</li>
   </li>
 </ul>
 
-<h3 id="22035-お知らせ">2:20:35 お知らせ</h3>
+<h3 id="22037-お知らせ">2:20:37 お知らせ</h3>
 
 <ul>
   <li><a href="https://hinata152.github.io/engimono/">Engimono</a><br />

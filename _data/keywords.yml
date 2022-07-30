@@ -34,6 +34,13 @@
   index: DBD
   definition: |
     - [二重ベータ崩壊 - Wikipedia](https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%87%8D%E3%83%99%E3%83%BC%E3%82%BF%E5%B4%A9%E5%A3%8A)
+- title: 脳内超伝導
+  index: sc-in-brain
+  definition: |
+    ### 関連エピソード
+
+    - [13: Superconductivity in your brain - Interaxion Podcast](https://interaxion-podcast.github.io/13)
+    - [30: The Blue Bird in Condensed Matter Physics - Interaxion Podcast](https://interaxion-podcast.github.io/30)
 ##### は #####
 - title: 博士と修士とでは迫力が違う
   index: hakuryoku

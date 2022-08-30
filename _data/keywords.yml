@@ -5,6 +5,31 @@
     Angle-resolved photoemission spectroscopy (角度分解光電子分光) の略。
     - [一番強いARPESを決めようぜ！ - ぶひんブログ](https://buhin-blog.blogspot.com/2020/05/arpes.html)
     - [角度分解光電子分光 - Wikipedia](https://ja.wikipedia.org/wiki/%E8%A7%92%E5%BA%A6%E5%88%86%E8%A7%A3%E5%85%89%E9%9B%BB%E5%AD%90%E5%88%86%E5%85%89)
+##### C #####
+- title: C-S-H系高圧超伝導
+  index: C-S-H
+  definition: |
+    2020年10月に Nature 誌に報告<sup>[[1]](https://www.nature.com/articles/s41586-020-2801-z)</sup>された高圧下での室温超伝導のこと。
+    100 GPa という超高圧下であるものの、室温超伝導の実現として注目された。しかしこの研究を巡っては論争が続いており、~~ポッドキャストの良いネタとなっている~~目が離せない展開となっている。論争の詳しい経過については、下記のポッドキャストのエピソードやぶひんブログ<sup>[[2]](https://buhin-blog.blogspot.com/2022/01/c-s-h.html)</sup>を、この論文以前の高圧下での水素化物超伝導については『高圧下水素化物の室温超伝導』<sup>[[3]](https://amzn.to/3ApA73W)</sup>を参照されたい。
+
+    ### 関連エピソード
+
+    - [Interaxion 13: Superconductivity in your brain](https://interaxion-podcast.github.io/13)
+    - [Interaxion 30: The Blue Bird in Condensed Matter Physics](https://interaxion-podcast.github.io/30)
+    - [Interaxion 36: AlphaMagnet](https://interaxion-podcast.github.io/36)
+    - [Interaxion 41: Dark Matters Are Seasonal](https://interaxion-podcast.github.io/41)
+    - [タグ: C-S-H系高圧超伝導](https://interaxion-podcast.github.io/tags/#C-S-H%E7%B3%BB%E9%AB%98%E5%9C%A7%E8%B6%85%E4%BC%9D%E5%B0%8E) でも検索可能
+
+    ### References
+
+    - [1] Nature 586, 373–377 (2020) [Room-temperature superconductivity in a carbonaceous sulfur hydride](https://www.nature.com/articles/s41586-020-2801-z)
+    - [2] [ぶひんブログ 「C-S-H系高圧超伝導は本物なのか論争」を自分でもチェックしてみる。](https://buhin-blog.blogspot.com/2022/01/c-s-h.html)
+    - [3] [『高圧下水素化物の室温超伝導』](https://amzn.to/3ApA73W)
+    - [Carbonaceous sulfur hydride - Wikipedia](https://en.wikipedia.org/wiki/Carbonaceous_sulfur_hydride)
+    - Science 誌による論争まとめ
+      - [Breakthrough or bust? Claim of room-temperature superconductivity draws fire - Science](https://www.science.org/content/article/breakthrough-or-bust-claim-room-temperature-superconductivity-draws-fire)
+      - [Criticism of room temperature superconductor ‘temporarily removed’ from journal - Science](https://www.science.org/content/article/criticism-room-temperature-superconductor-temporarily-removed-journal)
+    - [批判の急先鋒 Hirsch 先生のウェブサイト](https://jorge.physics.ucsd.edu/jh.html) (毎週チェックしよう) 
 ##### あ #####
 - title: アクシオン
   index: axion

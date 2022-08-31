@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-08-30T11:29:11+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">41: Dark Matters are Seasonal</title><link href="https://interaxion-podcast.github.io/41-draft" rel="alternate" type="text/html" title="41: Dark Matters are Seasonal" /><published>2022-08-30T00:00:00+00:00</published><updated>2022-08-30T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep41</id><content type="html" xml:base="https://interaxion-podcast.github.io/41-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-08-31T10:10:53+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">41: Dark Matters Are Seasonal</title><link href="https://interaxion-podcast.github.io/41" rel="alternate" type="text/html" title="41: Dark Matters Are Seasonal" /><published>2022-08-31T00:00:00+00:00</published><updated>2022-08-31T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep41</id><content type="html" xml:base="https://interaxion-podcast.github.io/41"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -20,7 +20,7 @@
       <li><a href="#10447-企業系ポッドキャスト" id="markdown-toc-10447-企業系ポッドキャスト">1:04:47 企業系ポッドキャスト</a></li>
       <li><a href="#10812-買ったもの" id="markdown-toc-10812-買ったもの">1:08:12 買ったもの</a></li>
       <li><a href="#12015-ゲーム" id="markdown-toc-12015-ゲーム">1:20:15 ゲーム</a></li>
-      <li><a href="#プロジェクトヘイルメアリー" id="markdown-toc-プロジェクトヘイルメアリー">プロジェクト・ヘイル・メアリー</a></li>
+      <li><a href="#12950-プロジェクトヘイルメアリー" id="markdown-toc-12950-プロジェクトヘイルメアリー">1:29:50 プロジェクト・ヘイル・メアリー</a></li>
     </ul>
   </li>
   <li><a href="#13223-おたより" id="markdown-toc-13223-おたより">1:32:23 おたより</a></li>
@@ -37,6 +37,9 @@
   <li><a href="https://isucon.net/archives/56571716.html">ISUCON12 まとめ : ISUCON公式Blog</a></li>
   <li><a href="https://interaxion-podcast.github.io/12">Interaxion 12: AWS as a complex system</a><br />
 ISUCON などの話をした回</li>
+  <li><a href="https://zenn.dev/daiju/articles/165da7a5589434">ISUCON12予選参加記 Rustで予選突破した</a><br />
+<a href="https://interaxion-podcast.github.io/36-5">Ep. 36.5</a> に出てくれたなかやまさんの ISUCON 
+エントリ。予選突破㊗</li>
   <li><a href="https://yamamochi.com/isucon12-qualify/">ISUCON#12予選で3114点で予選敗退(終始ナニモワカラン) - ウスター商事のブログ</a><br />
 あらB.fm レギュラー、ウスターさんの ISUCON エントリ</li>
 </ul>
@@ -291,10 +294,12 @@ oka の FTP: 100 w<br />
 
 <ul>
   <li><a href="https://kotobank.jp/word/%E5%B1%8D%E5%B1%B1%E8%A1%80%E6%B2%B3-518933">屍山血河とは - コトバンク</a></li>
+  <li><a href="https://www.eldenring.jp/newsdetail/news_detail_220809_1.html">2022.08.09 - アップデートファイル配信のお知らせ - ELDEN RING オフィシャルサイト</a><br />
+ちいかわ下方修正</li>
   <li><a href="https://store.steampowered.com/app/1332010/Stray/">Steam：Stray</a></li>
 </ul>
 
-<h4 id="プロジェクトヘイルメアリー">プロジェクト・ヘイル・メアリー</h4>
+<h4 id="12950-プロジェクトヘイルメアリー">1:29:50 プロジェクト・ヘイル・メアリー</h4>
 
 <ul>
   <li><a href="https://amzn.to/3AX9STV">プロジェクト・ヘイル・メアリー</a></li>
@@ -346,7 +351,7 @@ cf. Ep. <a href="https://interaxion-podcast.github.io/18">18</a>, <a href="https
   <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
   <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="マテリアルズ・インフォマティクス" /><category term="超伝導" /><category term="C-S-H系高圧超伝導" /><category term="磁石" /><category term="暗黒物質" /><category term="アクシオン" /><category term="ポッドキャスト" /><category term="ゲーム" /><category term="SF" /><category term="宇宙飛行士" /><summary type="html"><![CDATA[[ボインゴ](https://twitter.com/toshakuukan)さん、[ブカ](https://twitter.com/elmizbuka)さん、[oka](https://twitter.com/nowohyeah)でC-S-H系高圧超伝導、ダークマターの季節変動、lPTEPなどについて話しました。]]></summary></entry><entry><title type="html">39: Ultracold Atoms Enable Everything</title><link href="https://interaxion-podcast.github.io/39" rel="alternate" type="text/html" title="39: Ultracold Atoms Enable Everything" /><published>2022-07-31T00:00:00+00:00</published><updated>2022-07-31T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep39</id><content type="html" xml:base="https://interaxion-podcast.github.io/39"><![CDATA[<details>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="マテリアルズ・インフォマティクス" /><category term="超伝導" /><category term="C-S-H系高圧超伝導" /><category term="磁石" /><category term="暗黒物質" /><category term="アクシオン" /><category term="ポッドキャスト" /><category term="ゲーム" /><category term="SF" /><category term="宇宙飛行士" /><summary type="html"><![CDATA[[ボインゴ](https://twitter.com/toshakuukan)、[ブカ](https://twitter.com/elmizbuka)、[oka](https://twitter.com/nowohyeah)でC-S-H系高圧超伝導、ダークマターの季節変動、PTEPなどについて話しました。]]></summary></entry><entry><title type="html">39: Ultracold Atoms Enable Everything</title><link href="https://interaxion-podcast.github.io/39" rel="alternate" type="text/html" title="39: Ultracold Atoms Enable Everything" /><published>2022-07-31T00:00:00+00:00</published><updated>2022-07-31T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep39</id><content type="html" xml:base="https://interaxion-podcast.github.io/39"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>

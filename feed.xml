@@ -1,4 +1,189 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-09-01T09:54:48+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">41: Dark Matters Are Seasonal</title><link href="https://interaxion-podcast.github.io/41" rel="alternate" type="text/html" title="41: Dark Matters Are Seasonal" /><published>2022-08-31T00:00:00+00:00</published><updated>2022-08-31T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep41</id><content type="html" xml:base="https://interaxion-podcast.github.io/41"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-09-21T13:51:19+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">42: Revenge of the Nerds</title><link href="https://interaxion-podcast.github.io/42-draft" rel="alternate" type="text/html" title="42: Revenge of the Nerds" /><published>2022-09-09T00:00:00+00:00</published><updated>2022-09-09T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep42</id><content type="html" xml:base="https://interaxion-podcast.github.io/42-draft"><![CDATA[<details>
+  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
+  <summary>目次</summary>
+  <nav>
+<ul id="markdown-toc">
+  <li><a href="#000-トミタさんの紹介" id="markdown-toc-000-トミタさんの紹介">0:00 トミタさんの紹介</a></li>
+  <li><a href="#0321-冷却原子とは" id="markdown-toc-0321-冷却原子とは">03:21 冷却原子とは？</a></li>
+  <li><a href="#3719-実験装置" id="markdown-toc-3719-実験装置">37:19 実験装置</a></li>
+  <li><a href="#4611-冷却原子と量子コンピュータ" id="markdown-toc-4611-冷却原子と量子コンピュータ">46:11 冷却原子と量子コンピュータ</a></li>
+  <li><a href="#10734-分子科学研究所と岡崎" id="markdown-toc-10734-分子科学研究所と岡崎">1:07:34 分子科学研究所と岡崎</a></li>
+  <li><a href="#11423-趣味とか" id="markdown-toc-11423-趣味とか">1:14:23 趣味とか</a>    <ul>
+      <li><a href="#11602-本棚全部見る" id="markdown-toc-11602-本棚全部見る">1:16:02 本棚全部見る</a></li>
+      <li><a href="#12626-美術自我2" id="markdown-toc-12626-美術自我2">1:26:26 美術、自我2</a></li>
+    </ul>
+  </li>
+  <li><a href="#13810-おたより" id="markdown-toc-13810-おたより">1:38:10 おたより</a>    <ul>
+      <li><a href="#13825-量子コンピューターに関して" id="markdown-toc-13825-量子コンピューターに関して">1:38:25 量子コンピューターに関して</a></li>
+      <li><a href="#14600-冷却原子と固体物理" id="markdown-toc-14600-冷却原子と固体物理">1:46:00 冷却原子と固体物理</a></li>
+    </ul>
+  </li>
+  <li><a href="#15320-トポロジカル量子コンピューター" id="markdown-toc-15320-トポロジカル量子コンピューター">1:53:20 トポロジカル量子コンピューター</a></li>
+  <li><a href="#20330-冷却原子入門資料" id="markdown-toc-20330-冷却原子入門資料">2:03:30 冷却原子入門資料</a></li>
+  <li><a href="#20945-お知らせ" id="markdown-toc-20945-お知らせ">2:09:45 お知らせ</a></li>
+</ul>
+    <!-- https://stackoverflow.com/a/38419441/11480802 -->
+  </nav>
+</details>
+<p><br /></p>
+
+<h3 id="000-トミタさんの紹介">0:00 トミタさんの紹介</h3>
+
+<h3 id="0321-冷却原子とは">03:21 冷却原子とは？</h3>
+
+<ul>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC%E5%86%B7%E5%8D%B4">レーザー冷却 - Wikipedia</a><br />
+<a href="https://en.wikipedia.org/wiki/Doppler_cooling">英語版</a> には誰が発明したか書いてある。</li>
+  <li><a href="https://youtu.be/kBEwOVH4PBU">ヨビノリ: レーザー冷却の原理(ドップラー冷却法)【物性物理】</a></li>
+</ul>
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/kBEwOVH4PBU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<ul>
+  <li><a href="https://www.sci.osaka-cu.ac.jp/phys/ult/invitation/cryo/dr.html">希釈冷凍器 - 超低温物理学への招待</a></li>
+  <li><a href="http://qo.phys.gakushuin.ac.jp/~torii/bec/tutorial/chapter2_3.html">蒸発冷却</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%B9%EF%BC%9D%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E5%87%9D%E7%B8%AE#%E8%92%B8%E7%99%BA%E5%86%B7%E5%8D%B4">ボース＝アインシュタイン凝縮#蒸発冷却 - Wikipedia</a></li>
+  <li><a href="https://qo.phys.gakushuin.ac.jp/~torii/bec/tutorial/chapter2_4.html">Time-of-flight（TOF）法</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%AB%E3%81%AE%E6%82%AA%E9%AD%94">マクスウェルの悪魔 - Wikipedia</a></li>
+  <li><a href="https://www.u-tokyo.ac.jp/focus/ja/features/f_00063.html">時計の概念を巻き直す「光格子時計」 - 東京大学</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E8%A8%88%E9%87%8F%E5%AD%A6">計量学 - Wikipedia</a> (計測学, metrology)</li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%90%E3%83%BC%E3%83%89%E6%A8%A1%E5%9E%8B">ハバード模型 - Wikipedia</a></li>
+  <li>冷却原子でクーパー対を観測できた (35分ごろ)</li>
+</ul>
+
+<h3 id="3719-実験装置">37:19 実験装置</h3>
+
+<ul>
+  <li><a href="https://www.sqei.c.u-tokyo.ac.jp/qed/">量子技術教育プログラム公式サイト</a><br />
+<a href="https://www.sqei.c.u-tokyo.ac.jp/qed/lecture/">Lecture</a> → 冷却原子量子シミュレーション で動画をチェック！</li>
+</ul>
+
+<h3 id="4611-冷却原子と量子コンピュータ">46:11 冷却原子と量子コンピュータ</h3>
+
+<ul>
+  <li><a href="https://interaxion-podcast.github.io/17">Interaxion 17: Quantum computing at home</a><br />
+量子コンピュータの話をした回</li>
+  <li><a href="https://www.yomiuri.co.jp/science/20220809-OYT1T50027/">金属原子を絶対零度に冷却、量子コンピューターに使う新技術開発…分子科学研 : 読売新聞オンライン</a></li>
+  <li><a href="https://www.nature.com/articles/s41566-022-01047-2">Ultrafast energy exchange between two single Rydberg atoms on a nanosecond timescale - Nature Photonics</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">我々の研究成果がNature Photonicsから出版されました！<br />光ピンセット中の冷却原子をパルスレーザーでリュードベリ状態に励起し、ナノ秒スケールで原子間相互作用の誘起に成功したというものです。冷却原子型量子コンピュータにおける2量子ビットゲートのリソースになります<a href="https://t.co/cKNqbsjiIl">https://t.co/cKNqbsjiIl</a></p>
+  <p>— トミタ (@c9toMIT) <a href="https://twitter.com/c9toMIT/status/1556800981140389889?ref_src=twsrc%5Etfw">August 9, 2022</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li><a href="https://www.thorlabs.co.jp/newgrouppage9.cfm?objectgroup_id=10774">光ピンセットとは</a></li>
+  <li><a href="https://dojo.qulacs.org/ja/latest/notebooks/2.1_NISQ_and_long_term.html">NISQとは — Quantum Native Dojo ドキュメント</a></li>
+  <li><a href="https://www.riken.jp/press/2022/20220825_1/index.html">シリコン量子ビットで量子誤り訂正を実現 - 理化学研究所</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%93%E6%8C%AF%E5%8B%95">ラビ振動 - Wikipedia</a></li>
+</ul>
+
+<h3 id="10734-分子科学研究所と岡崎">1:07:34 分子科学研究所と岡崎</h3>
+
+<ul>
+  <li><a href="https://www.ims.ac.jp/">分子科学研究所</a></li>
+  <li><a href="https://www.uvsor.ims.ac.jp/">分子科学研究所 UVSOR</a></li>
+  <li><a href="https://www.soken.ac.jp/">国立大学法人 総合研究大学院大学</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%B5%B7%E3%82%AA%E3%83%B3%E3%82%A8%E3%82%A2">東海オンエア - Wikipedia</a></li>
+  <li><a href="https://okazaemon.co/">オカザえもん</a><br />
+(oka の職場の諸々のアカウントのアイコンはオカザえもんを使わせていただいています)</li>
+</ul>
+
+<h3 id="11423-趣味とか">1:14:23 趣味とか</h3>
+
+<h4 id="11602-本棚全部見る">1:16:02 本棚全部見る</h4>
+
+<ul>
+  <li><a href="https://interaxion-podcast.github.io/39">Interaxion 39: Ultracold Atoms Enable Everything</a><br />
+本棚全部見る話をしたたかさんさん回</li>
+  <li><a href="http://tomitanoblogwokaitemita.blogspot.com/2018/08/blog-post_17.html">トミタのブログを書いてみた: 第１回『大型書店の本棚全部見る』</a></li>
+</ul>
+
+<h4 id="12626-美術自我2">1:26:26 美術、自我2</h4>
+
+<ul>
+  <li><a href="https://www.bijutsukentei.com/">美術検定｜知るほど、みえてくる。</a></li>
+</ul>
+
+<h3 id="13810-おたより">1:38:10 おたより</h3>
+
+<h4 id="13825-量子コンピューターに関して">1:38:25 量子コンピューターに関して</h4>
+
+<ul>
+  <li><a href="https://www.nikkei.com/article/DGXZQOUC122B90S2A810C2000000/">富士通、国産量子コンピューターを初の実用化へ　理研と共同: 日本経済新聞</a></li>
+</ul>
+
+<h4 id="14600-冷却原子と固体物理">1:46:00 冷却原子と固体物理</h4>
+
+<ul>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E6%B6%B2%E6%99%B6">ネマティック液晶 - Wikipedia</a></li>
+</ul>
+
+<h3 id="15320-トポロジカル量子コンピューター">1:53:20 トポロジカル量子コンピューター</h3>
+
+<ul>
+  <li><a href="https://buhin-blog.blogspot.com/2022/08/blog-post.html">マイクロソフトはマヨラナの夢を見るか～固体中におけるマヨラナ粒子観測論争について～ - ぶひんブログ</a></li>
+  <li><a href="https://www.nature.com/articles/s41567-022-01575-2">Inverse Occam’s razor - Nature Physics</a> (<a href="https://arxiv.org/abs/2204.08284">arXiv:2204.08284</a>)</li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">Inverse Occam’s razor<a href="https://t.co/bC5G0XOHHC">https://t.co/bC5G0XOHHC</a><br />単純な理論ほど良いという「オッカムの剃刀」を科学者は長らく信奉してきたが、最近は複雑な理論を好む傾向が出てきて心配、というI.Mazinの論考だ。</p>
+  <p>— 部品（西野七瀬） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1508962788672081921?ref_src=twsrc%5Etfw">March 30, 2022</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h3 id="20330-冷却原子入門資料">2:03:30 冷却原子入門資料</h3>
+
+<ul>
+  <li><a href="http://tomitanoblogwokaitemita.blogspot.com/2022/08/20228.html">トミタのブログを書いてみた: 冷却原子レビュー論文【2022年8月調べ】</a></li>
+  <li><a href="https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/269382">講義ノート: 冷却原子系を用いた量子シミュレーション実験</a> (<a href="http://mercury.yukawa.kyoto-u.ac.jp/~bussei.kenkyu/archives/category/2022/vol10-1">物性研究 vol. 10</a>)</li>
+  <li><a href="https://amzn.to/3Ly757a">冷却原子で探る量子物理の最前線 数理科学 2020年6月号 No. 684</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E6%B0%97%E4%BD%93%E9%A1%95%E5%BE%AE%E9%8F%A1">量子気体顕微鏡 - Wikipedia</a></li>
+  <li><a href="https://www.nature.com/articles/s41567-020-0826-8">Nematic transitions in iron pnictide superconductors imaged with a quantum gas - Nature Physics</a> (<a href="https://aps.arxiv.org/abs/1907.12601">arXiv:1907.12601</a>)</li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">Imaging Nematic Transitions in Iron-Pnictide Superconductors with a Quantum Gas<br /><br />BECを利用した走査型量子冷却原子顕微鏡の超高感度局所磁気測定で鉄系超伝導体のネマティック転移を捉える、すごい(すごい(すごい))<br /> <a href="https://t.co/6f93DSzeke">https://t.co/6f93DSzeke</a></p>
+  <p>— 部品（西野七瀬） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1156388807039582208?ref_src=twsrc%5Etfw">July 31, 2019</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h3 id="20945-お知らせ">2:09:45 お知らせ</h3>
+
+<ul>
+  <li><a href="https://www.ims.ac.jp/education/5y.html">⼊試⽇程（博士課程（5年一貫制）） - 大学院 - 分子科学研究所</a>
+    <blockquote>
+      <p>出願資格認定審査受付期間
+2023年4月入学
+2022年9月22日（木）～9月28日（水）</p>
+    </blockquote>
+  </li>
+  <li>使用 BGM について
+    <ul>
+      <li><a href="https://audiostock.jp/audio/1267554">切なく懐かしいトラック 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">【動画やポッドキャストのBGMをお探しの方へ】<br /><br />サイトウが大量に制作したトラックの中から厳選された作品が、国内最大級の音源販売サイト Audiostock で販売開始されました。<br /><br />単品購入 or 定額制を選択可。<br />ぜひご活用ください！！<a href="https://t.co/7dSi0Mw6kG">https://t.co/7dSi0Mw6kG</a></p>
+  <p>— サイトウナヲキ (@sai_enlightened) <a href="https://twitter.com/sai_enlightened/status/1542127615959392256?ref_src=twsrc%5Etfw">June 29, 2022</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
+  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="冷却原子気体" /><category term="量子コンピューター" /><summary type="html"><![CDATA[[トミタ](https://twitter.com/c9toMIT)さん、[部品](https://twitter.com/tjmlab)、[oka](https://twitter.com/nowohyeah)で冷却原子気体、冷却原子型型量子コンピューター、趣味の開拓という趣味、本棚全部見る、冷却原子と固体物理の研究手法などについて話しました。]]></summary></entry><entry><title type="html">41: Dark Matters Are Seasonal</title><link href="https://interaxion-podcast.github.io/41" rel="alternate" type="text/html" title="41: Dark Matters Are Seasonal" /><published>2022-08-31T00:00:00+00:00</published><updated>2022-08-31T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep41</id><content type="html" xml:base="https://interaxion-podcast.github.io/41"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -201,6 +386,12 @@ Researchat.fm とのコラボエピソード。めっちゃ面白い。</li>
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">私が把握してる今のところの各画像生成AIの相関図<br />Stable Diffusionのオープンソース化は間違いなくターニングポイントの一つだけどWaifu Diffusionがどこまで影響を与えるかはこれ次第<br />Midjourneyも十分影響あったんだけど芸術や背景特化感否めない<br />ERNIE-ViLGはどうなるんだろう…？<br />mimicはうん… <a href="https://t.co/ykyDSkltPE">pic.twitter.com/ykyDSkltPE</a></p>
+  <p>— 高杉　光一🦋 (@kuronagirai) <a href="https://twitter.com/kuronagirai/status/1567955183136821249?ref_src=twsrc%5Etfw">September 8, 2022</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <h3 id="10439-コンテンツ">1:04:39 コンテンツ</h3>
 
 <h4 id="10447-企業系ポッドキャスト">1:04:47 企業系ポッドキャスト</h4>
@@ -238,6 +429,7 @@ Researchat.fm とのコラボエピソード。めっちゃ面白い。</li>
   <li><a href="https://store.google.com/jp/product/pixel_6a">Google Pixel 6a</a>
     <ul>
       <li><a href="https://interaxion-podcast.github.io/9">Interaxion 9: Couscous Sushi</a> (HUAWEI Mate9 の話をした回)</li>
+      <li><a href="https://gadgetsmartphone.net/huawei-mate9-%e3%81%ae%e3%82%ab%e3%83%a1%e3%83%a9%e3%81%ae%e3%83%94%e3%83%b3%e3%83%88%e3%81%8c%e5%90%88%e3%82%8f%e3%81%aa%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e3%80%80%e3%82%ab%e3%83%a9%e3%83%bc/">Huawei Mate9 のカメラのピントが合わなくなった　カラーだけがぼける - ガジェットスマホタブ好き！！</a></li>
     </ul>
   </li>
   <li><a href="https://amzn.to/3Q8thG0">MacBook Air (M2)</a>
@@ -749,6 +941,16 @@ cf. Ep. <a href="https://interaxion-podcast.github.io/18">18</a>, <a href="https
   <li>Fortran 77/90/95あたりの文法であれば現在のどのコンパイラでも共通に翻訳されると思いますが、昨今のFortran 2018をはじめとしたモダンな仕様への対応でいえば対応状況はコンパイラによって異なりそうです。 (雛形)</li>
   <li><a href="https://ai.facebook.com/blog/how-the-ai-community-can-get-serious-about-reproducibility/">How the AI community can get serious about reproducibility</a><br />
 AI 研究の再現性に関するブログ by Meta (Facebook)。計算の再現性というよりは、データセットやアルゴリズムが公開されないことによる再現性の問題について述べている。</li>
+  <li>Princeton 大による調査 <a href="https://arxiv.org/abs/2207.07048">[2207.07048] Leakage and the Reproducibility Crisis in ML-based Science</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">機械学習を応用した学術研究は深刻な「再現性の危機 (reproducibility crisis)」に直面している。17の分野において20本の論文に不備が発見され、過度に楽観的な結論が導かれている。よくあるミスはテストデータの訓練データへの混入。機械学習コードの標準化の欠如も問題。<a href="https://t.co/pak9haahdK">https://t.co/pak9haahdK</a></p>
+  <p>— 新山祐介 (Yusuke Shinyama) (@mootastic) <a href="https://twitter.com/mootastic/status/1548182415314538497?ref_src=twsrc%5Etfw">July 16, 2022</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
   <li><a href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%96%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0">ジョブ管理システム - Wikipedia</a></li>
   <li><a href="https://www.openpbs.org/">OpenPBS</a></li>
   <li><a href="https://www.r-ccs.riken.jp/fugaku/system/">富岳のシステム紹介</a><br />
@@ -1781,106 +1983,4 @@ Interaxion の場合は <a href="https://rebuild.fm/">Rebuild</a> にあこが�
       <p>2単語しかないうちの1単語が一致しているだけなので誰も気が付かないだろうし、わざわざ解説してもパロディとして認められないかも知れないが、著者はそう思っている。 <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name>oka</name></author><category term="ポッドキャスト" /><category term="Rebuild" /><summary type="html"><![CDATA[ポッドキャストのエピソードタイトルを英語にすることと気に入っているタイトルについて]]></summary></entry><entry><title type="html">34.5: Organic Intonation</title><link href="https://interaxion-podcast.github.io/34-5" rel="alternate" type="text/html" title="34.5: Organic Intonation" /><published>2022-02-17T00:00:00+00:00</published><updated>2022-02-17T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep34.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/34-5"><![CDATA[<details>
-  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
-  <summary>目次</summary>
-  <nav>
-<ul id="markdown-toc">
-  <li><a href="#000-イントロ" id="markdown-toc-000-イントロ">0:00 イントロ</a></li>
-  <li><a href="#0042-コントラバスの弦の振動" id="markdown-toc-0042-コントラバスの弦の振動">00:42 コントラバスの弦の振動</a></li>
-  <li><a href="#1319-純正調オルガン" id="markdown-toc-1319-純正調オルガン">13:19 純正調オルガン</a></li>
-  <li><a href="#2521-テルミン" id="markdown-toc-2521-テルミン">25:21 テルミン</a></li>
-  <li><a href="#2938-お知らせ" id="markdown-toc-2938-お知らせ">29:38 お知らせ</a></li>
-  <li><a href="#acknowledgements" id="markdown-toc-acknowledgements">Acknowledgements</a></li>
-</ul>
-    <!-- https://stackoverflow.com/a/38419441/11480802 -->
-  </nav>
-</details>
-<p><br /></p>
-
-<h3 id="000-イントロ">0:00 イントロ</h3>
-
-<h3 id="0042-コントラバスの弦の振動">00:42 コントラバスの弦の振動</h3>
-
-<ul>
-  <li><a href="https://tajimegane.exblog.jp/amp/25175172/">ヘルムホルツ波の理想と現実 : tajimanomegane</a><br />
-このページを見ながらしゃべってます。</li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AB%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%83%98%E3%83%AB%E3%83%A0%E3%83%9B%E3%83%AB%E3%83%84">ヘルマン・フォン・ヘルムホルツ - Wikipedia</a><br />
-幅広い分野で業績を残した巨人。</li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AB%E3%83%93%E3%83%B3%E3%83%BB%E3%83%98%E3%83%AB%E3%83%A0%E3%83%9B%E3%83%AB%E3%83%84%E4%B8%8D%E5%AE%89%E5%AE%9A%E6%80%A7">ケルビン・ヘルムホルツ不安定性 - Wikipedia</a></li>
-  <li><a href="https://amzn.to/3gApL7Q">楽器の物理学</a></li>
-  <li><a href="http://www.knutsacoustics.com/videos-sounds.html">Videos/Sounds - Knut’s Acoustics</a><br />
-Knut Guettler のページだが動画が Flash のため普通には見れない…</li>
-  <li><a href="https://no.wikipedia.org/wiki/Knut_Guettler">Knut Guettler – Wikipedia</a> (ノルウェー語)</li>
-  <li><a href="https://youtu.be/yL3tlA-GfQE">Knut Guettler plays Greensleeves Variations - YouTube</a></li>
-</ul>
-
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/yL3tlA-GfQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
-
-<ul>
-  <li><a href="https://doi.org/10.11499/sicejl1962.21.21">バイオリンはどんな振動をしているか 計測と制御 21 巻 (1982)</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
-  <li><a href="https://doi.org/10.20697/jasj.49.3_184">バイオリンの発音機構 (＜小特集＞楽器の物理と音色) 日本音響学会誌 49 巻 (1993)</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
-  <li><a href="https://www.nhk.or.jp/kokokoza/tv/butsurikiso/archive/resume028.html">NHK高校講座 - 物理基礎 - 第28回 第２編　さまざまな物理現象とエネルギー 弦楽器の音を調べる　～弦の振動～</a><br />
-倍音について</li>
-  <li><a href="https://interaxion-podcast.github.io/19">19: A professional bonderman needs no microscopes</a><br />
-セゾンさん出演回</li>
-  <li>『楽器の物理学』は絶版ではないようです。</li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">重版分が刷り上がりました！<br />ネット書店様等の在庫状況はまだ改善していませんので、お届けまでに少し時間がかかりますが、ぜひチェックしてくださいね！（イ）<br />※めちゃ重いのでご注意ください<br /><br />『楽器の物理学』<a href="https://t.co/UJT6I81IlB">https://t.co/UJT6I81IlB</a> <a href="https://t.co/55SnuVHvOP">pic.twitter.com/55SnuVHvOP</a></p>
-  <p>— 丸善出版営業部 (@maruzenpub) <a href="https://twitter.com/maruzenpub/status/1430741319035416580?ref_src=twsrc%5Etfw">August 26, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li>原書電子版はまたセールになるかも知れないのでチェック！</li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">NSMR氏が昔読んでた『楽器の物理学』が安く買える<a href="https://t.co/ILuMctOXFs">https://t.co/ILuMctOXFs</a></p>
-  <p>— oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1415652491924963333?ref_src=twsrc%5Etfw">July 15, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<h3 id="1319-純正調オルガン">13:19 純正調オルガン</h3>
-
-<ul>
-  <li><a href="https://ja.wikipedia.org/wiki/%E7%94%B0%E4%B8%AD%E6%AD%A3%E5%B9%B3">田中正平 - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%B3%E3%83%AA%E3%83%92%E3%83%BB%E3%83%98%E3%83%AB%E3%83%84">ハインリヒ・ヘルツ - Wikipedia</a></li>
-  <li><a href="https://doi.org/10.20591/ongakugaku.65.2_73">田中正平の日本製の「純正調」オルガン――「廣義の純正調」の具現化― - 音楽学65巻(2019)</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E7%B4%94%E6%AD%A3%E5%BE%8B">純正律 - Wikipedia</a></li>
-  <li><a href="https://www.kokuzohourinji.com/dendengu.html">電電宮</a><br />
-京都の嵐山にある神社。エジソンとヘルツの碑がある。なぜか公式サイトはヘルツではなくヘルムホルツと紹介している。。</li>
-</ul>
-
-<h3 id="2521-テルミン">25:21 テルミン</h3>
-
-<ul>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AB%E3%83%9F%E3%83%B3">テルミン - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/LC%E5%9B%9E%E8%B7%AF">LC回路 - Wikipedia</a></li>
-  <li><a href="https://otonanokagaku.net/products/living/theremin/detail.html">テルミン Premium - 大人の科学.net</a></li>
-  <li><a href="https://amzn.to/3GE8xkr">moog THEREMINI</a></li>
-  <li><a href="https://www.cs.nmsu.edu/~rth/EMTheremin.pdf">Build the EM Theremin (PDF)</a><br />
-Robert Moog 自身が回路図を公開している。 Electronic Musician の1996年2月号に載ったものらしい。</li>
-</ul>
-
-<h3 id="2938-お知らせ">29:38 お知らせ</h3>
-
-<ul>
-  <li><a href="https://anchor.fm/arkbfm">あらB.fm</a></li>
-  <li><a href="https://twitter.com/birds_hope">Hope of Birds 〜楽曲分析エンターテイメントpodcast〜</a></li>
-  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<h2 id="acknowledgements">Acknowledgements</h2>
-
-<p>We would like to thank the podcast <a href="https://researchat.fm/">Researchat.fm</a>. Without <a href="https://researchat.fm/blog/8/">Researchat LT vol. 1</a>, Oka would have never got acquainted with Mr. Saito and this episode would have never been recorded.</p>]]></content><author><name></name></author><category term="コントラバス" /><category term="テルミン" /><category term="科学史" /><summary type="html"><![CDATA[[サイトウナヲキさん](https://twitter.com/sai_enlightened)、[あらBさん](https://twitter.com/ark_B)、[oka](https://twitter.com/nowohyeah)でコントラバスの弦の振動、純正調オルガン、テルミンなどについて話しました。]]></summary></entry></feed>
+</div>]]></content><author><name>oka</name></author><category term="ポッドキャスト" /><category term="Rebuild" /><summary type="html"><![CDATA[ポッドキャストのエピソードタイトルを英語にすることと気に入っているタイトルについて]]></summary></entry></feed>

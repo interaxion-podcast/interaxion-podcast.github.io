@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-09-21T13:51:19+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">42: Revenge of the Nerds</title><link href="https://interaxion-podcast.github.io/42-draft" rel="alternate" type="text/html" title="42: Revenge of the Nerds" /><published>2022-09-09T00:00:00+00:00</published><updated>2022-09-09T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep42</id><content type="html" xml:base="https://interaxion-podcast.github.io/42-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-09-21T14:21:47+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">42: Revenge of the Nerds</title><link href="https://interaxion-podcast.github.io/42-draft" rel="alternate" type="text/html" title="42: Revenge of the Nerds" /><published>2022-09-09T00:00:00+00:00</published><updated>2022-09-09T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep42</id><content type="html" xml:base="https://interaxion-podcast.github.io/42-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -50,7 +50,7 @@
   <li><a href="https://www.u-tokyo.ac.jp/focus/ja/features/f_00063.html">時計の概念を巻き直す「光格子時計」 - 東京大学</a></li>
   <li><a href="https://ja.wikipedia.org/wiki/%E8%A8%88%E9%87%8F%E5%AD%A6">計量学 - Wikipedia</a> (計測学, metrology)</li>
   <li><a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%90%E3%83%BC%E3%83%89%E6%A8%A1%E5%9E%8B">ハバード模型 - Wikipedia</a></li>
-  <li>冷却原子でクーパー対を観測できた (35分ごろ)</li>
+  <li><a href="https://www.nature.com/articles/s41586-022-04678-1">Observation of Cooper pairs in a mesoscopic two-dimensional Fermi gas - Nature</a> (<a href="https://arxiv.org/abs/2109.11511">arXiv:2109.11511</a>)</li>
 </ul>
 
 <h3 id="3719-実験装置">37:19 実験装置</h3>

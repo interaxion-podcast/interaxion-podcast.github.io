@@ -2,7 +2,7 @@
 
 - name: 部品
   twitter: tjmlab
-  profile_image: https://pbs.twimg.com/profile_images/1515136462672465921/q3YYwA-r_400x400.jpg
+  profile_image: https://pbs.twimg.com/profile_images/1568217253786849290/IA4y061w_400x400.jpg
 
 - name: しょーた
   twitter: shotakaha
@@ -119,6 +119,10 @@
 - name: 雛形
   twitter: hinahypersonica
   profile_image: "https://interaxion-podcast.github.io/assets/hinagata.png"
+
+- name: トミタ
+  twitter: c9toMIT
+  profile_image: https://pbs.twimg.com/profile_images/877093121716133888/ZUd7pSnh_400x400.jpg
 
 - name: oka
   twitter: nowohyeah

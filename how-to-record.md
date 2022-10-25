@@ -41,6 +41,10 @@ Interaxion では基本的にリモートで収録を行っています。oka �
 
 ## 録音手順
 
+録音には [Zencastr](https://zencastr.com/) というオンラインアプリを使用します。ホストから連絡する URL を Google Chrome や Chromium 系のブラウザで開いてください。録音操作はホスト側で行います。
+
+以下、旧情報
+
 ### Mac の場合
 
 Quick Time を使います。Mac に予め入っていますので、Spotlight で検索するなどして、起動してください。  

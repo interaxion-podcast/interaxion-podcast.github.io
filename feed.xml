@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-10-25T10:20:29+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">42: Revenge of the Cold Nerds</title><link href="https://interaxion-podcast.github.io/42" rel="alternate" type="text/html" title="42: Revenge of the Cold Nerds" /><published>2022-09-22T00:00:00+00:00</published><updated>2022-09-22T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep42</id><content type="html" xml:base="https://interaxion-podcast.github.io/42"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-10-28T09:35:00+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">Courrier 005: 2022 Nobel Prize in Physics</title><link href="https://interaxion-podcast.github.io/courrier/nobel2022" rel="alternate" type="text/html" title="Courrier 005: 2022 Nobel Prize in Physics" /><published>2022-10-28T00:00:00+00:00</published><updated>2022-10-28T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-Nobel2022</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/nobel2022"><![CDATA[<p>2022年のノーベル物理学賞に関する情報を集めました。</p>
+
+<ul>
+  <li><a href="https://www.nobelprize.org/prizes/physics/2022/summary/">The Nobel Prize in Physics 2022 - NobelPrize.org</a></li>
+  <li><a href="https://www.jps.or.jp/information/2022/10/2022novelprize.php">日本物理学会による解説と関連記事リスト - 日本物理学会</a></li>
+  <li><a href="https://jbpress.ismedia.jp/articles/-/72411">「量子もつれ」と「ベルの不等式」を犬の散歩でたとえると？ 2022年ノーベル物理学賞、本当は分かりやすい量子もつれの話 - JBpress (ジェイビープレス)</a></li>
+</ul>
+
+<div style="text-align: center;">
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/7zabfWdddBc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/o-qOyddDM1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/XYzOiBNGN2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Iroo3XvFcMs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<hr />]]></content><author><name>oka</name></author><category term="ノーベル賞" /><summary type="html"><![CDATA[2022年のノーベル物理学賞に関する情報を集めました。]]></summary></entry><entry><title type="html">42: Revenge of the Cold Nerds</title><link href="https://interaxion-podcast.github.io/42" rel="alternate" type="text/html" title="42: Revenge of the Cold Nerds" /><published>2022-09-22T00:00:00+00:00</published><updated>2022-09-22T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep42</id><content type="html" xml:base="https://interaxion-podcast.github.io/42"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -121,16 +140,7 @@
 
 <ul>
   <li><a href="https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E6%B6%B2%E6%99%B6">ネマティック液晶 - Wikipedia</a></li>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>[Nematic Fermi Fluids in Condensed Matter Physics</td>
-          <td>Annual Review of Condensed Matter Physics](https://www.annualreviews.org/doi/10.1146/annurev-conmatphys-070909-103925) … 固体のネマティック液晶性のレビュー</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
+  <li><a href="https://www.annualreviews.org/doi/10.1146/annurev-conmatphys-070909-103925">Nematic Fermi Fluids in Condensed Matter Physics - Annual Review of Condensed Matter Physics</a> … 固体のネマティック液晶性のレビュー</li>
 </ul>
 
 <h3 id="15307-トポロジカル量子コンピューター">1:53:07 トポロジカル量子コンピューター</h3>
@@ -1875,123 +1885,4 @@ Transformer (<a href="https://openai.com/blog/openai-codex/">OpenAI Codex</a>)�
   <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
   <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="転職" /><category term="超伝導" /><summary type="html"><![CDATA[[部品](https://twitter.com/tjmlab)と[ボインゴ](https://twitter.com/toshakuukan)で転職活動、ぶログでストレス発散、次回ゲストなどについて話しました。]]></summary></entry><entry><title type="html">Blog: 英語エピソードタイトル芸について</title><link href="https://interaxion-podcast.github.io/blog/2022-02-22" rel="alternate" type="text/html" title="Blog: 英語エピソードタイトル芸について" /><published>2022-02-22T00:00:00+00:00</published><updated>2022-02-22T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/blog/blog-ep-title</id><content type="html" xml:base="https://interaxion-podcast.github.io/blog/2022-02-22"><![CDATA[<h2 id="英語エピソードタイトルの系譜">英語エピソードタイトルの系譜</h2>
-
-<p>Interaxion は日本語で配信しているポッドキャストだが、各エピソードのタイトルは英語にしている。
-タイトルが内容を表していることはほとんどないし、全くリスナーフレンドリーでない<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>のだが、このような方式を採用している日本語ポッドキャストは多い<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>。</p>
-
-<p>筆者の周辺では <a href="https://twitter.com/birds_hope">Hope of Birds</a>, <a href="https://sidebysideradio.libsyn.com/">Side by Side Radio</a>, <a href="https://researchat.fm/">Researchat.fm</a>, <a href="https://arkbfm.github.io/">あらB.fm</a>, <a href="https://hinata152.github.io/engimono/">Engimono</a>, <a href="https://neuroradio.tokyo/">NeuroRadio</a> などが該当する (始まったのが古い順)。
-Interaxion の場合は <a href="https://rebuild.fm/">Rebuild</a> にあこがれてのことであるが、他のポッドキャストも直接または間接的に Rebuild の影響を受けていると思われる。</p>
-
-<p>なぜこんなことをするのか、事情を知らない人からは奇異に見えることは想像に難くなく、しばしば話題にあがる。例えば以下の tweet で話題になっていた。</p>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">他のPodcastのエピソードタイトルを観察していると、会話の中の少しひねりのあるフレーズを英語に翻訳したものが使われていることが多いんだけど、何か元ネタはあるんでしょうか？<br />(私たちはわりと素直な日本語タイトルなので少し恥ずかしい、、)</p>
-  <p>— 研エンの仲 (@KenNaka) <a href="https://twitter.com/KenNaka/status/1341389550665535497?ref_src=twsrc%5Etfw">December 22, 2020</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<p>Rebuild のエピソードを全て聴いている筆者は、同じエピソードタイトル形式の英語ポッドキャスト <a href="https://atp.fm/">Accidental Tech Podcast</a> がよく言及されていためそこから影響を受けているのだろうと上記の tweet から始まるスレッドで述べた。それから約1年後、 <a href="https://researchat.fm/episode/128">Researchat.fm ep. 128</a> のリリースがきっかけとなり再びこの話題になったときに、なんと Rebuild の Miyagawa さんから直にコメントを頂くことができ、自分の推測を確認することができた。</p>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">Rebuildに関してはATPの影響で正解です。<br /><br />個人的にはタイトル考えるのは楽しさもあり、めんどくささもありです。実際、日本語でつけたほうが楽だしわかりやすいとおもいますし 😀</p>
-  <p>— Tatsuhiko Miyagawa (@miyagawa) <a href="https://twitter.com/miyagawa/status/1489672393291288577?ref_src=twsrc%5Etfw">February 4, 2022</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<p>ありがとうございます！ これで Rebuild ファンが長年気になっていた問題に終止符が打たれました。</p>
-
-<p>なお個人的には、日本語のポッドキャストに英語タイトルをつけるのは、昔の人が書名にラテン語を使ったのに似ていると思っている<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>。</p>
-
-<h2 id="interaxion-のエピソードタイトル解題">Interaxion のエピソードタイトル解題</h2>
-
-<p>ポッドキャストのエピソードタイトルの歴史を整理できたところで、 Interaxion のこれまでで気に入っているエピソードタイトルについて語りたい。おおむね以下のような判断基準で選出している。</p>
-
-<ul>
-  <li>短い方がかっこいい</li>
-  <li>日本語が入ってるとむりやり感が出るので減点</li>
-  <li>何かのパロディとかだと楽しい</li>
-  <li>話している中でたまたま出たようなパワーワードだと高得点</li>
-</ul>
-
-<p>あまり絞れなかったが以下のものが残った。なお Interaxion のエピソードタイトルは著者だけで考えているわけではないが、以下に挙げるものは著者考案のものであり、したがって自画自賛となることをお許し頂きたい。</p>
-
-<ul>
-  <li><a href="https://interaxion-podcast.github.io/6">Ep. 6: I love this company</a>
-    <ul>
-      <li>当たり前過ぎるためかこれまで指摘してくれた人はいないが、部品さんの発言に由来するこのタイトルは Steve Ballmer の有名なプレゼンそのままである。</li>
-    </ul>
-  </li>
-  <li><a href="https://interaxion-podcast.github.io/9">Ep. 9: Couscous Sushi</a>
-    <ul>
-      <li>ポッドキャストで Sushi と言えば Rebuild の Hak さん出演エピソードを思い起こさせる。 Rebuild では Sushi は何度もタイトルに採用されており、それへのオマージュを込めたタイトルと、クスクス寿司という響きの面白さを評価。</li>
-    </ul>
-  </li>
-  <li><a href="https://interaxion-podcast.github.io/10">Ep. 10: I’m sorry I died</a>
-    <ul>
-      <li>英語のよくできるカソクキセンパイに intriguing だねと褒められた。単語の意味が分からず調べないと褒められたのかどうか分からなかったが…</li>
-    </ul>
-  </li>
-  <li><a href="https://interaxion-podcast.github.io/14">Ep. 14: Compute R with R</a>
-    <ul>
-      <li>実効再生産数 \(R_t\) を R言語で計算するというダジャレだがコンパクトにまとまっていてポイントが高い。</li>
-    </ul>
-  </li>
-  <li><a href="https://interaxion-podcast.github.io/19">Ep. 19: A professional bonderman needs no microscopes</a>
-    <ul>
-      <li>長いタイトルであるが、弘法筆を選ばずのような内容、リズムともにことわざめいた良さがあるので気に入っている。</li>
-    </ul>
-  </li>
-  <li><a href="https://interaxion-podcast.github.io/19-5">19.5: Intermission of Interaxion</a>
-    <ul>
-      <li>intermission ではなく intermezzo にしてイタリア語タイトルにすることも考えたが、 Interaxion は男性名詞か女性名詞か、エリジオンするのかなどややこしくなりそうのでやめた。</li>
-    </ul>
-  </li>
-  <li><a href="https://interaxion-podcast.github.io/26">Ep. 26: A Postdoc Called “It”</a>
-    <ul>
-      <li>パロディ元の作品は観たことがない。</li>
-    </ul>
-  </li>
-  <li><a href="https://interaxion-podcast.github.io/29">Ep. 29: Kashiwa is no longer a sad place, Lalaport and everything</a>
-    <ul>
-      <li>長いし日本語や固有名詞が入っていて響きが悪いが、有名なツイートのパロディであるため入選。</li>
-    </ul>
-  </li>
-  <li><a href="https://interaxion-podcast.github.io/32">Ep. 32: Spaces from Space</a>
-    <ul>
-      <li>部品さんが発したダジャレに由来するが、ツイッターで見ている限りこれまでで一番注目を集めたタイトルだったように思う。シンプルで良い。</li>
-    </ul>
-  </li>
-  <li><a href="https://interaxion-podcast.github.io/34">Ep. 34: The 13 Lords in the Lab</a>
-    <ul>
-      <li>絶賛放映中の大河ドラマ、「鎌倉殿の13人」の英語タイトル <em>The 13 Lords of the Shogun</em> のパロディである。鎌倉殿は「七人の侍」や「荒野の七人」を意識していると思われるので、孫パロディとなる。</li>
-    </ul>
-  </li>
-  <li><a href="https://interaxion-podcast.github.io/34-5">Ep. 34.5: Organic Intonation</a>
-    <ul>
-      <li>2019年5月、令和の開始とともに Rebuild を聴き始めた著者にとって 「<a href="https://rebuild.fm/238/">Ep. 238 Organinc MSG</a>」は初めて聴いたNさんの出演回であり、たった2単語で矛盾している美しさ、会話内容を思い出すことができる的確さから印象に残っている。そのパロディとなるタイトルを思い付くことができて満足している<sup id="fnref:4" role="doc-noteref"><a href="#fn:4" class="footnote" rel="footnote">4</a></sup>。</li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="まとめ">まとめ</h2>
-
-<p>エピソードタイトルを英語にするのはリスナー獲得などの面でマイナスでしかないけど、由緒ある伝統芸であり、それなりにこだわって考えているので、ポッドキャストの内容のみならずこちらにもコメント頂けるとうれしいです。</p>
-
-<hr />
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1" role="doc-endnote">
-      <p>たとえば <a href="https://turingcomplete.fm/">Turing Complete FM</a> の <a href="https://note.com/ruiu/n/n1061d541355f">Rui さんの記事</a>では推奨されていない。 <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:2" role="doc-endnote">
-      <p>と思って <a href="https://podcastfreaks.com/">Podcast Freaks</a> を見てみたが言うほど多くなかった。 <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:3" role="doc-endnote">
-      <p>A. N. Whitehead, B. Russell, <em>Principia Mathematica</em> や L. Wittgenstein, <em>Tractatus Logico-Philosophicus</em> はタイトルはラテン語であるが中身は英語やドイツ語である。前者は Newton の、後者は Spinoza のラテン語著作を意識しているためだろうか？ <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-    <li id="fn:4" role="doc-endnote">
-      <p>2単語しかないうちの1単語が一致しているだけなので誰も気が付かないだろうし、わざわざ解説してもパロディとして認められないかも知れないが、著者はそう思っている。 <a href="#fnref:4" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>]]></content><author><name>oka</name></author><category term="ポッドキャスト" /><category term="Rebuild" /><summary type="html"><![CDATA[ポッドキャストのエピソードタイトルを英語にすることと気に入っているタイトルについて]]></summary></entry></feed>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="転職" /><category term="超伝導" /><summary type="html"><![CDATA[[部品](https://twitter.com/tjmlab)と[ボインゴ](https://twitter.com/toshakuukan)で転職活動、ぶログでストレス発散、次回ゲストなどについて話しました。]]></summary></entry></feed>

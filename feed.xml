@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-10-28T09:49:11+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">Courrier 005: 2022 Nobel Prize in Physics</title><link href="https://interaxion-podcast.github.io/courrier/nobel2022" rel="alternate" type="text/html" title="Courrier 005: 2022 Nobel Prize in Physics" /><published>2022-10-28T00:00:00+00:00</published><updated>2022-10-28T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-Nobel2022</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/nobel2022"><![CDATA[<p>2022年のノーベル物理学賞に関する情報を集めました。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-10-28T10:06:16+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">Courrier 005: 2022 Nobel Prize in Physics</title><link href="https://interaxion-podcast.github.io/courrier/nobel2022" rel="alternate" type="text/html" title="Courrier 005: 2022 Nobel Prize in Physics" /><published>2022-10-28T00:00:00+00:00</published><updated>2022-10-28T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-Nobel2022</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/nobel2022"><![CDATA[<p>2022年のノーベル物理学賞に関する情報を集めました。</p>
 
 <ul>
   <li><a href="https://www.nobelprize.org/prizes/physics/2022/summary/">The Nobel Prize in Physics 2022 - NobelPrize.org</a></li>
@@ -76,16 +76,7 @@
 <h3 id="これまでの-interaxion-出演者">これまでの Interaxion 出演者</h3>
 
 <ul>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>[世界最強「ネオジム磁石はこうして見つけた」（佐川眞人 氏 ／ インターメタリックス株式会社 代表取締役社長）</td>
-          <td>Science Portal - 科学技術の最新情報サイト「サイエンスポータル」](https://scienceportal.jst.go.jp/explore/highlight/20120605_01/index.html)</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
+  <li><a href="https://scienceportal.jst.go.jp/explore/highlight/20120605_01/index.html">世界最強「ネオジム磁石はこうして見つけた」（佐川眞人 氏 ／ インターメタリックス株式会社 代表取締役社長） - Science Portal</a></li>
 </ul>
 
 <h3 id="ニュース">ニュース</h3>
@@ -145,20 +136,13 @@
 
 <ul>
   <li><a href="https://store-jp.nintendo.com/list/software/70020000000021.html">2本でお得 ニンテンドーカタログチケット - My Nintendo Store（マイニンテンドーストア）</a></li>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>[権利問題を乗り越えついに復刻！『ゴールデンアイ 007』スイッチ/Xbox版が“悲願の復活”である理由</td>
-          <td>Game*Spark - 国内・海外ゲーム情報サイト](https://www.gamespark.jp/article/2022/09/14/122372.html)</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
+  <li><a href="https://www.gamespark.jp/article/2022/09/14/122372.html">権利問題を乗り越えついに復刻！『ゴールデンアイ 007』スイッチ/Xbox版が“悲願の復活”である理由 - Game*Spark</a></li>
   <li><a href="https://youtu.be/rSKEEuC-Er8?t=1259">Nintendo Direct 2022.9.13</a></li>
 </ul>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rSKEEuC-Er8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/rSKEEuC-Er8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
 
 <ul>
   <li><a href="https://sf.esports.capcom.com/">ストリートファイターリーグ - CAPCOM</a></li>

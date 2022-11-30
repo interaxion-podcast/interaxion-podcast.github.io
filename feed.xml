@@ -1,4 +1,239 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-11-19T16:12:42+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">Courrier 005: 2022 Nobel Prize in Physics</title><link href="https://interaxion-podcast.github.io/courrier/nobel2022" rel="alternate" type="text/html" title="Courrier 005: 2022 Nobel Prize in Physics" /><published>2022-10-28T00:00:00+00:00</published><updated>2022-10-28T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-Nobel2022</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/nobel2022"><![CDATA[<p>2022年のノーベル物理学賞に関する情報を集めました。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-11-30T11:00:57+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">44: Carbon Is All You Need</title><link href="https://interaxion-podcast.github.io/44-draft" rel="alternate" type="text/html" title="44: Carbon Is All You Need" /><published>2022-11-30T00:00:00+00:00</published><updated>2022-11-30T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep44</id><content type="html" xml:base="https://interaxion-podcast.github.io/44-draft"><![CDATA[<details>
+  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
+  <summary>目次</summary>
+  <nav>
+<ul id="markdown-toc">
+  <li><a href="#ぶひんチョイス" id="markdown-toc-ぶひんチョイス">ぶひんチョイス</a>    <ul>
+      <li><a href="#c-s-h系高圧室温超伝導の撤回" id="markdown-toc-c-s-h系高圧室温超伝導の撤回">C-S-H系高圧室温超伝導の撤回</a></li>
+      <li><a href="#グラファイト500k越え室温超伝導" id="markdown-toc-グラファイト500k越え室温超伝導">グラファイト500K越え室温超伝導</a></li>
+      <li><a href="#マンガン酸化物高温超伝導" id="markdown-toc-マンガン酸化物高温超伝導">マンガン酸化物高温超伝導</a></li>
+      <li><a href="#脳が量子計算をしている可能性つまり脳内超伝導" id="markdown-toc-脳が量子計算をしている可能性つまり脳内超伝導">脳が量子計算をしている可能性、つまり脳内超伝導（？）</a></li>
+      <li><a href="#夢の550k超伝導水素化物超伝導にアンモニアボランを加える" id="markdown-toc-夢の550k超伝導水素化物超伝導にアンモニアボランを加える">夢の550K超伝導（水素化物超伝導にアンモニアボランを加える）</a></li>
+    </ul>
+  </li>
+  <li><a href="#ブカチョイス" id="markdown-toc-ブカチョイス">ブカチョイス</a>    <ul>
+      <li><a href="#地球外超伝導体" id="markdown-toc-地球外超伝導体">地球外超伝導体</a></li>
+      <li><a href="#革新的なl10-feniの作り方" id="markdown-toc-革新的なl10-feniの作り方">革新的なL10-FeNiの作り方</a></li>
+    </ul>
+  </li>
+  <li><a href="#うってぃチョイス" id="markdown-toc-うってぃチョイス">うってぃチョイス</a>    <ul>
+      <li><a href="#巨大電気熱量効果" id="markdown-toc-巨大電気熱量効果">巨大電気熱量効果</a></li>
+      <li><a href="#正の焦電率を持つ焦電体" id="markdown-toc-正の焦電率を持つ焦電体">正の焦電率を持つ焦電体</a></li>
+    </ul>
+  </li>
+  <li><a href="#おたより" id="markdown-toc-おたより">おたより</a></li>
+  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
+</ul>
+    <!-- https://stackoverflow.com/a/38419441/11480802 -->
+  </nav>
+</details>
+<p><br /></p>
+
+<ul>
+  <li>前回の3人回: <a href="https://interaxion-podcast.github.io/30">Interaxion 30: The Blue Bird in Condensed Matter Physics</a></li>
+</ul>
+
+<h3 id="ぶひんチョイス">ぶひんチョイス</h3>
+
+<h4 id="c-s-h系高圧室温超伝導の撤回">C-S-H系高圧室温超伝導の撤回</h4>
+
+<ul>
+  <li>
+<span class="keyword"><a href="https://interaxion-podcast.github.io/keywords/c-s-h">C-S-H系高圧超伝導の近況 - Interaxion Keywords</a></span>
+  </li>
+  <li><a href="https://www.nature.com/articles/s41586-020-2801-z">RETRACTED ARTICLE: Room-temperature superconductivity in a carbonaceous sulfur hydride</a></li>
+  <li><a href="https://buhin-blog.blogspot.com/2022/09/c-s-hhirsch.html">ぶひんブログ: チョウデンドウは作れる❤ ～C-S-H系高圧室温超伝導の撤回とHirschの批判～</a></li>
+  <li><a href="https://jorge.physics.ucsd.edu/nonmeasuredvoltage.html">How to measure a voltage without going to the lab</a><br />
+JavaScript も書ける Hirsch 先生</li>
+  <li>電気抵抗も捏造説</li>
+  <li><a href="https://arxiv.org/abs/2210.10766">arXiv:2210.10766 Vector graphics extraction and analysis of electrical resistance data in Nature volume 586, pages 373-377 (2020)</a>
+    <ul>
+      <li>Nature論文は磁化率のデータの不審さで撤回されたが、電気抵抗はゼロ抵抗を示しておりそこはノーコメントだった</li>
+      <li>今回、論文のベクターが画像を抽出して、電気抵抗のデータ画像が変なステップを刻んでいることを確認したと主張</li>
+      <li>しかも、他の水素化物超伝導のデータを同じように検証しても、同じようなステップはみえなかったとのこと</li>
+      <li>Nature論文はすべてが嘘だった・・・？</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="グラファイト500k越え室温超伝導">グラファイト500K越え室温超伝導</h4>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/2207.09149">Hidden Granular Superconductivity Above 500K in off-the-shelf graphite materials</a></li>
+  <li><a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22K18692/">常圧下での室温超伝導体の実現</a></li>
+</ul>
+
+<h4 id="マンガン酸化物高温超伝導">マンガン酸化物高温超伝導</h4>
+
+<ul>
+  <li><a href="https://www.researchsquare.com/article/rs-1856661/v1">Possible high-Tc superconductivity exceeding 100 K in Ir-substituted perovskite-type manganese oxides</a>
+    <ul>
+      <li>マンガン酸化物薄膜で100K超えの超伝導ぽい電気抵抗の変化の観測</li>
+      <li>転移温度の磁場依存性が従来のマンガン酸化物の巨大磁気抵抗とは逆
+        <ul>
+          <li>従来は磁場かけると転移温度上がる、今回は下る</li>
+        </ul>
+      </li>
+      <li>銅、鉄、ニッケルに続いて、ついにマンガン酸化物の時代来たな！</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="脳が量子計算をしている可能性つまり脳内超伝導">脳が量子計算をしている可能性、つまり脳内超伝導（？）</h4>
+
+<ul>
+  <li><a href="https://phys.org/news/2022-10-brains-quantum.html">New research suggests our brains use quantum computation</a>
+    <ul>
+      <li>脳の中の水の陽子スピン間のエンタングルメントの有無をMRIで調べると、たしかにエンタングルメントが存在しているっぽい</li>
+      <li>つまり脳には量子相関が存在し、それが意識につながっている可能性がある</li>
+      <li>まあつまり脳内超伝導ですよ</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="夢の550k超伝導水素化物超伝導にアンモニアボランを加える">夢の550K超伝導（水素化物超伝導にアンモニアボランを加える）</h4>
+
+<ul>
+  <li><a href="https://www.frontiersin.org/articles/10.3389/femat.2022.837651/full">Frontiers - Hot Hydride Superconductivity Above 550 K</a>
+    <ul>
+      <li>ランタンとアンモニアボランを混ぜて希土類水素化物を作ると高圧下で超伝導になる
+        <ul>
+          <li>ここまではよい</li>
+        </ul>
+      </li>
+      <li>さらに温度を上げて化学反応をすすめると、転移温度があがる。最大で556Kまで超伝導転移温度が上がることを確認</li>
+      <li>金属半導体転移や構造相転移が原因じゃないと議論してる</li>
+      <li>室温超伝導の夢は終わらねぇ！</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="ブカチョイス">ブカチョイス</h3>
+
+<h4 id="地球外超伝導体">地球外超伝導体</h4>
+
+<ul>
+  <li>The Puzzle of Meteoritic Minerals Heideite and Brezinaite; Are they Iron-based Superconductors? Are they Technosignatures? [<a href="https://arxiv.org/abs/2209.05679">arXiv</a>]
+    <ul>
+      <li>確認していないけど、いろいろ似ているからこれもたぶん超伝導体</li>
+      <li>規則‐不規則転移温度が450℃と低く、製作しづらいことから”technosignature”ではないか（後述の合成が成功しているL10-FeNiは300℃）</li>
+      <li>SETIの”<a href="https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/nine-axes-of-merit-for-technosignature-searches/2F3C599B95AB00A0DF414F1389089D58#">nine-axes-of-merits</a>”で評価したらわかるけど、この物質はみんな研究するべき！！</li>
+    </ul>
+  </li>
+  <li>SETI = <a href="https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E5%A4%96%E7%9F%A5%E7%9A%84%E7%94%9F%E5%91%BD%E4%BD%93%E6%8E%A2%E6%9F%BB">地球外知的生命体探査 - Wikipedia</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">The Puzzle of Meteoritic Minerals Heideite and Brezinaite; Are they Iron-based Superconductors? Are they Technosignatures?<a href="https://t.co/5j4qEfiknq">https://t.co/5j4qEfiknq</a><br />隕石に含まれる鉄系超伝導体が地球外テクノロジーの証拠の可能性、了解！</p>
+  <p>— 部品（本田翼） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1570056457751764992?ref_src=twsrc%5Etfw">September 14, 2022</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h4 id="革新的なl10-feniの作り方">革新的なL10-FeNiの作り方</h4>
+
+<ul>
+  <li>Direct Formation of Hard-Magnetic Tetrataenite in Bulk Alloy Castings [<a href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202204315">Wiley</a>]
+    <ul>
+      <li>Ivanov, Y. P., Sarac, B., Ketov, S. V., Eckert, J., Greer, A. L., <em>Adv. Sci.</em> 2022, 2204315</li>
+      <li>L10-FeNiがキャスティングでつくれる！！？配向できんの！？</li>
+      <li>P入れて規則‐不規則転移温度が200℃上昇</li>
+      <li>磁気特性データなし！なぜ…</li>
+    </ul>
+  </li>
+  <li><a href="https://www.recordchina.co.jp/b903296-s25-c20-d0197.html">高性能磁石の製造にレアアース不要の可能性、中国に打撃も―中国メディア</a></li>
+  <li>L10-FeNi の話は <a href="https://interaxion-podcast.github.io/9">Ep. 9</a> で詳しくしてます</li>
+</ul>
+
+<h3 id="うってぃチョイス">うってぃチョイス</h3>
+
+<h4 id="巨大電気熱量効果">巨大電気熱量効果</h4>
+
+<ul>
+  <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201202525">A Giant Electrocaloric Effect in Nanoscale Antiferroelectric and Ferroelectric Phases Coexisting in a Relaxor Pb0.8Ba0.2ZrO3 Thin Film at Room Temperature</a>
+    <ul>
+      <li>Biaolin Peng, H. Fan, Qi Zhang, <em>Advanced Functional Materials</em>, 23, 2987 (2013)</li>
+      <li>Pb0.8Ba0.2ZrO3薄膜でΔT=45 Kの電気熱量効果！しかも室温付近！
+        <ul>
+          <li>熱電対で測定できてもおかしくないレベルだが<a href="https://www.sciencedirect.com/science/article/pii/S0272884219336533">後発の実験</a>では1/10の電場でΔT=0.068 K</li>
+          <li>実験結果を「数値微分」するときはデータの取り扱いに気をつけましょう…というお話</li>
+        </ul>
+      </li>
+      <li><a href="https://www.semanticscholar.org/paper/A-Giant-Electrocaloric-Effect-in-Nanoscale-and-in-a-Peng-Fan/629f3b2310a87d18d56d37d6ada6bd9b08198807">PDF版</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="正の焦電率を持つ焦電体">正の焦電率を持つ焦電体</h4>
+
+<ul>
+  <li><a href="https://pubs.acs.org/doi/pdf/10.1021/jp202192k">Simple Guanidinium Salts Revisited: Room–Temperature Ferroelectricity in Hydrogen-Bonded Supramolecular Structures</a>
+    <ul>
+      <li>Marek Szafrański, <em>J. Phys. Chem. B</em> 115, 27, 8755–8762 (2011)</li>
+      <li>残念ながらOpen版はないです…</li>
+      <li>温度が上がると電場がなくても勝手に分極していく強誘電体？！
+        <ul>
+          <li>焦電体：温度が上がると電荷を吐き出す材料（<a href="https://video.murata.com/ja-jp/detail/video/5059715724001">焦電体セラミックスの紹介</a>）</li>
+          <li>工業的には<a href="https://www.nicera.co.jp/products/infrared-sensor/about-pyro-sensor">赤外線センサー</a>に利用</li>
+          <li>普通は温度が上がると強誘電分極が小さくなるので焦電係数は負になる</li>
+          <li><a href="https://pubs.acs.org/doi/pdf/10.1021/jp202192k#notes-1">Supporting Information</a>の焦電係数もちゃんと正になっている</li>
+          <li>本文では結晶構造から昇温で分極が大きくなる理由も説明しているが…</li>
+          <li>（たぶん）電流計の接続方向には気をつけましょう…という話</li>
+        </ul>
+      </li>
+      <li>サイドストーリー
+        <ul>
+          <li>ポーランド人のMarek Szafrański氏、中国グループへの”Comment on～”論文がたくさん
+            <ul>
+              <li><a href="https://www.science.org/doi/10.1126/sciadv.abi6220">Comment on “Improper molecular ferroelectrics with simultaneous ultrahigh pyroelectricity and figures of merit” by Li et al.</a><br />
+20年前に我々が見つけた材料の論文に言及せずに新発見したような論文を出すな！（あと解釈が間違ってる！）</li>
+              <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/ange.201208952">Comment on Ferroelectricity in Bis(imidazolium) L-Tartrate</a></li>
+              <li><a href="https://onlinelibrary.wiley.com/doi/10.1002/asia.201402492">Comment on the Phase Transition Mechanism in Diglycine Methanesulfonate</a></li>
+              <li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.89.215507">Ferroelectric Order of Parallel Bistable Hydrogen Bonds</a><br />
+自身の論文についたコメントでも中国人グループと喧嘩…</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="おたより">おたより</h3>
+
+<figure class="figure">
+  <div style="text-align: center;">
+
+    <p><img src="assets/ep44_marshmallow.jpg" alt="" /></p>
+
+  </div>
+  <figcaption></figcaption>
+</figure>
+
+<h3 id="お知らせ">お知らせ</h3>
+
+<ul>
+  <li>使用 BGM について
+    <ul>
+      <li><a href="https://audiostock.jp/audio/1267554">切なく懐かしいトラック 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">【動画やポッドキャストのBGMをお探しの方へ】<br /><br />サイトウが大量に制作したトラックの中から厳選された作品が、国内最大級の音源販売サイト Audiostock で販売開始されました。<br /><br />単品購入 or 定額制を選択可。<br />ぜひご活用ください！！<a href="https://t.co/7dSi0Mw6kG">https://t.co/7dSi0Mw6kG</a></p>
+  <p>— サイトウナヲキ (@sai_enlightened) <a href="https://twitter.com/sai_enlightened/status/1542127615959392256?ref_src=twsrc%5Etfw">June 29, 2022</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
+  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="物性物理" /><category term="超伝導" /><category term="C-S-H系高圧超伝導" /><category term="磁石" /><category term="誘電体" /><summary type="html"><![CDATA[[うってぃ](https://twitter.com/tmy_usgm)、[部品](https://twitter.com/tjmlab)、[ブカ](https://twitter.com/elmizbuka)の3人で超伝導、磁石、誘電体のすごい論文、恋愛相談について話しました。]]></summary></entry><entry><title type="html">Courrier 005: 2022 Nobel Prize in Physics</title><link href="https://interaxion-podcast.github.io/courrier/nobel2022" rel="alternate" type="text/html" title="Courrier 005: 2022 Nobel Prize in Physics" /><published>2022-10-28T00:00:00+00:00</published><updated>2022-10-28T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-Nobel2022</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/nobel2022"><![CDATA[<p>2022年のノーベル物理学賞に関する情報を集めました。</p>
 
 <ul>
   <li><a href="https://www.nobelprize.org/prizes/physics/2022/summary/">The Nobel Prize in Physics 2022 - NobelPrize.org</a></li>
@@ -1832,175 +2067,4 @@ oka が量子テレポーテーション (実機) とハエのテレポーテー
   <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
   <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="自主ゼミ" /><category term="いっちぃゼミ" /><category term="量子コンピュータ" /><category term="自由エネルギー原理" /><summary type="html"><![CDATA[いっちぃゼミ Season 2 を振り返り、 Season 3 の抱負を述べました。 (音質低)]]></summary></entry><entry><title type="html">36: AlphaMagnet</title><link href="https://interaxion-podcast.github.io/36" rel="alternate" type="text/html" title="36: AlphaMagnet" /><published>2022-03-17T00:00:00+00:00</published><updated>2022-03-17T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep36</id><content type="html" xml:base="https://interaxion-podcast.github.io/36"><![CDATA[<details>
-  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
-  <summary>目次</summary>
-  <nav>
-<ul id="markdown-toc">
-  <li><a href="#000-イントロ" id="markdown-toc-000-イントロ">0:00 イントロ</a></li>
-  <li><a href="#028-磁石トーク" id="markdown-toc-028-磁石トーク">0:28 磁石トーク</a></li>
-  <li><a href="#1423-c-s-h系高圧超伝導" id="markdown-toc-1423-c-s-h系高圧超伝導">14:23 C-S-H系高圧超伝導</a></li>
-  <li><a href="#2410-脳オルガノイド卓球と自由エネルギー原理" id="markdown-toc-2410-脳オルガノイド卓球と自由エネルギー原理">24:10 脳オルガノイド卓球と自由エネルギー原理</a></li>
-  <li><a href="#2855-openai-と-deepmind" id="markdown-toc-2855-openai-と-deepmind">28:55 OpenAI と DeepMind</a></li>
-  <li><a href="#4332-jxiv" id="markdown-toc-4332-jxiv">43:32 Jxiv</a></li>
-  <li><a href="#4620-宇宙飛行士候補者選抜試験の進捗" id="markdown-toc-4620-宇宙飛行士候補者選抜試験の進捗">46:20 宇宙飛行士候補者選抜試験の進捗</a></li>
-  <li><a href="#5239-elden-ring-とオープンワールドゲーム" id="markdown-toc-5239-elden-ring-とオープンワールドゲーム">52:39 ELDEN RING とオープンワールドゲーム</a></li>
-  <li><a href="#14113-nier-シリーズなろうカルチャーラジオ" id="markdown-toc-14113-nier-シリーズなろうカルチャーラジオ">1:41:13 Nier シリーズ、なろう、カルチャーラジオ</a></li>
-  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
-</ul>
-    <!-- https://stackoverflow.com/a/38419441/11480802 -->
-  </nav>
-</details>
-<p><br /></p>
-
-<h3 id="000-イントロ">0:00 イントロ</h3>
-
-<h3 id="028-磁石トーク">0:28 磁石トーク</h3>
-
-<ul>
-  <li>磁石ニュース「東芝がサマリウム系ボンド磁石、レアアース半減でもネオジム同等（<a href="https://xtech.nikkei.com/atcl/nxt/news/18/12324/">日本クロステック、22/03/01</a>）」
-    <ul>
-      <li><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4007236">対象のpaper</a>、Sm6.2 Fe 68.7 Co 16.4 Nb 2.7 B 6.0 の急冷リボン粉砕粉を樹脂で固める。</li>
-      <li>組成中のコバルトがネオジム磁石の10倍以上はある。コバルト価格が気になる。<a href="https://jp.tradingeconomics.com/commodity/cobalt">コバルト先物価格推移</a>　&gt; 80 $/kg（22/03/01）</li>
-      <li>分解するので焼結（樹脂を使わずに固めること）ができない
-        <blockquote>
-          <p>After annealing at 675 deg.C, the peaks of TbCu7-type phase decreased, while the peaks of α-(Fe,Co) phase increased drastically and peaks of Sm2Fe14B phase appeared. Because TbCu7-type phase is metastable</p>
-        </blockquote>
-      </li>
-    </ul>
-  </li>
-</ul>
-
-<h3 id="1423-c-s-h系高圧超伝導">14:23 C-S-H系高圧超伝導</h3>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2201.07686">arXiv:2201.07686 Comment on Nature 586, 373 (2020) by E. Snider et al. Revised 19-2-2022</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">Comment on Nature 58, 373 (2020) by E. Snider et al<a href="https://t.co/y8Wl9JH1Hk">https://t.co/y8Wl9JH1Hk</a><br />「We conclude that the published data have been manipulated.」<br /><br />お、HirschがC-S-H系超伝導は捏造だよ宣言か？</p>
-  <p>— 部品（梅澤美波） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1484008168221196290?ref_src=twsrc%5Etfw">January 20, 2022</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li><a href="https://interaxion-podcast.github.io/9">Ep. 9: Couscous Sushi</a></li>
-  <li><a href="https://interaxion-podcast.github.io/30">Ep. 30: The Blue Bird in Condensed Matter Physics</a></li>
-</ul>
-
-<h3 id="2410-脳オルガノイド卓球と自由エネルギー原理">24:10 脳オルガノイド卓球と自由エネルギー原理</h3>
-
-<ul>
-  <li><a href="https://gigazine.net/news/20211221-human-brain-play-pong-ai/">実験室内で培養した人の「ミニ脳」にゲームをプレイさせることに成功、AIよりも速いわずか5分で習得 - GIGAZINE</a></li>
-  <li><a href="https://note.com/masa_kazama/n/n004e8b4e0d52">人工培養された脳細胞によるゲームプレイの仕組み 〜自由エネルギー原理について〜｜masa_kazama｜note</a></li>
-  <li><a href="https://toyokeizai.net/articles/-/510192">幸せには｢推しが大事｣予防医学研究者が言う訳 - 東洋経済オンライン</a> via <a href="https://twitter.com/maraky99">まにーさん</a></li>
-  <li><a href="https://amzn.to/3Jm2VgS">脳の大統一理論 自由エネルギー原理とはなにか (岩波科学ライブラリー)</a><br />
-上記の本の詳細版→ <a href="https://amzn.to/3wdj18O">自由エネルギー原理入門: 知覚・行動・コミュニケーションの計算理論</a></li>
-</ul>
-
-<h3 id="2855-openai-と-deepmind">28:55 OpenAI と DeepMind</h3>
-
-<ul>
-  <li><a href="http://arxiv.org/abs/2112.15594">A Neural Network Solves and Generates Mathematics Problems by Program Synthesis: Calculus, Differential Equations, Linear Algebra, and More</a><br />
-Transformer (<a href="https://openai.com/blog/openai-codex/">OpenAI Codex</a>)で数式を解く論文</li>
-  <li><a href="https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode">Competitive programming with AlphaCode - DeepMind</a></li>
-  <li><a href="https://wata-orz.hatenadiary.org/entry/20111218/1324226179">嘘解法のススメ - てきとーな日記</a></li>
-  <li><a href="https://note.com/npaka/n/n774f24144cb1">DeepMindのAlphaシリーズまとめ｜npaka｜note</a></li>
-  <li><a href="https://www.technologyreview.jp/s/257728/deepminds-ai-predicts-almost-exactly-when-and-where-its-going-to-rain/">MIT Tech Review: ディープマインドが天気予報で成果、降雨時間と場所を正確に予測</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">AlphaSuperConductorで室温超伝導の予言を早くしてくれよDeepMindさんよぉ！！！！</p>
-  <p>— 部品（梅澤美波） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1417441770149797888?ref_src=twsrc%5Etfw">July 20, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<h3 id="4332-jxiv">43:32 Jxiv</h3>
-
-<ul>
-  <li><a href="https://www.jst.go.jp/pr/info/info1551/index.html">機構報 第1551号：ＪＳＴのプレプリントサーバー「Ｊｘｉｖ（ジェイカイブ）」の運用開始～日本で初めての本格的なプレプリントサーバー～</a></li>
-</ul>
-
-<h3 id="4620-宇宙飛行士候補者選抜試験の進捗">46:20 宇宙飛行士候補者選抜試験の進捗</h3>
-
-<ul>
-  <li>「自分自身を見つめ直すきっかけになる」こちらの動画でそういう話がありました。<br />
-<a href="https://youtu.be/8VXty7KspGk">–ファイナリストに聞いてみよう編−　オンラインスペシャルイベントvol.2「ラストスパート対策セッション②」</a></li>
-</ul>
-
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/8VXty7KspGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
-
-<ul>
-  <li><a href="https://www.ikec.jp/inst/i_shikikaku/">石原式色覚異常検査表 - 池袋サンシャイン通り眼科診療所</a></li>
-  <li><a href="https://www.nikkansports.com/general/nikkan/news/202203050000008.html">中川翔子、黒田有彩も応募した　13年ぶり宇宙飛行士公募に最多1563人、女性の割合20％ - 社会 : 日刊スポーツ</a></li>
-</ul>
-
-<h3 id="5239-elden-ring-とオープンワールドゲーム">52:39 ELDEN RING とオープンワールドゲーム</h3>
-
-<ul>
-  <li><a href="https://amzn.to/3MXQni3">ELDEN RING</a></li>
-  <li><a href="https://www.eldenring.jp/">公式webpage</a>
-    <blockquote>
-      <p>祝福なく、死にきれぬ死者たちよ　導きに従い、霧の海の先、狭間の地に向かいエルデンリングに見えよ　そして、エルデの王となるがよい</p>
-    </blockquote>
-  </li>
-  <li><a href="https://youtu.be/Dnaii1piTrM">タイでの広告 (YouTube)</a></li>
-</ul>
-
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Dnaii1piTrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-</div>
-
-<ul>
-  <li>『ELDEN RING』Steamでやはり同時接続プレイヤー数1位獲得！75万人突破―『Fallout 4』『ウィッチャー3』超え（<a href="https://www.gamespark.jp/article/2022/02/25/116336.html">GameSpark</a>）
-    <ul>
-      <li><a href="https://store.steampowered.com/stats/">現在</a>（3/11は約70万人で2位）</li>
-    </ul>
-  </li>
-  <li>『エルデンリング』がついに40分以内にクリアされる。タイム短縮の鍵を握る、ワープ技とは？（<a href="https://automaton-media.com/articles/newsjp/20220311-195059/">automaton-media</a>）</li>
-  <li>NPC イベント（未解決）
-    <ul>
-      <li>ネフェリ・ルー、ケネス・ハイト、ゴストーク（<a href="https://eldenring.wiki.fextralife.com/Nepheli+Loux">情報サイト</a>）</li>
-    </ul>
-  </li>
-  <li><a href="https://automaton-media.com/articles/newsjp/20220307-194505/">“『エルデンリング』ゴテゴテUI化画像”が反響集める。ユーザーから、とある開発者への皮肉アンサーか - AUTOMATON</a><br />
-<a href="https://automaton-media.com/articles/newsjp/20220310-194945/">『エルデンリング』のUIが、加工されすぎてネットミーム化。要素てんこもりでスーパーの安売り広告状態に - AUTOMATON</a></li>
-  <li><a href="https://automaton-media.com/articles/newsjp/20220309-194796/">「スカイリムおばあちゃん」が“脳卒中により『スカイリム』の遊び方を忘れた”と明かす。それでも諦めず、新しい旅路へ - AUTOMATON</a></li>
-  <li><a href="https://automaton-media.com/articles/newsjp/20220309-194810/">キリストとなるオープンワールド『I Am Jesus Christ』ベータテスト参加者募集開始。今なら無料で神になれる - AUTOMATON</a></li>
-  <li><a href="https://automaton-media.com/articles/newsjp/20220107-188183/">ジャパニーズRPG『昭和米国物語』発表、日本語対応。 日本の植民地と化した“昭和アメリカ”で大陸横断 - AUTOMATON</a></li>
-  <li><a href="https://www.amazon.co.jp/dp/B08BYYX39C">高い城の男</a></li>
-  <li>※収録後、霜踏みが弱体化、ネフェリ・ルーらのイベント修正<br />
-<a href="https://www.eldenring.jp/newsdetail/news_detail_220317_1.html">2022.03.17 - アップデートファイル配信のお知らせ | NEWS - ELDEN RING オフィシャルサイト</a></li>
-</ul>
-
-<h3 id="14113-nier-シリーズなろうカルチャーラジオ">1:41:13 Nier シリーズ、なろう、カルチャーラジオ</h3>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">大人気アクションRPGゲーム『NieR:Automata』（ニーア オートマタ）<br />TVアニメ化決定<a href="https://t.co/GLmEo5Nu0t">https://t.co/GLmEo5Nu0t</a><a href="https://twitter.com/hashtag/%E3%83%8B%E3%83%BC%E3%82%A2?src=hash&amp;ref_src=twsrc%5Etfw">#ニーア</a> <a href="https://twitter.com/hashtag/NieR?src=hash&amp;ref_src=twsrc%5Etfw">#NieR</a> <a href="https://twitter.com/hashtag/%E3%83%8B%E3%83%BC%E3%82%A2%E3%82%AA%E3%83%BC%E3%83%88%E3%83%9E%E3%82%BF?src=hash&amp;ref_src=twsrc%5Etfw">#ニーアオートマタ</a> <a href="https://t.co/jvbVjsy7wd">pic.twitter.com/jvbVjsy7wd</a></p>
-  <p>— TVアニメ『NieR:Automata』（ニーア オートマタ） (@NieR_A_ANIME) <a href="https://twitter.com/NieR_A_ANIME/status/1496442772244819979?ref_src=twsrc%5Etfw">February 23, 2022</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li><a href="https://amzn.to/37F9AF9">NieR Automata</a></li>
-  <li><a href="https://amzn.to/36nLcXS">NieR Replicant</a></li>
-  <li><a href="https://sinoalice.jp/">SINoALICE ーシノアリスー - SQUARE ENIX</a></li>
-  <li><a href="https://nierreincarnation.jp/">NieR Re[in]carnation - SQUARE ENIX</a></li>
-  <li>ニーアシリーズについては <a href="https://interaxion-podcast.github.io/21">Ep. 21</a> でも話してます。</li>
-  <li><a href="https://note.com/baukmilze/n/neea25b8bd0a0">Nishika 小説家になろう ブクマ数予測コンペ振り返り｜baukmilze｜note</a></li>
-  <li><a href="https://www4.nhk.or.jp/P1928/">カルチャーラジオ 芸術その魅力 - NHK</a></li>
-</ul>
-
-<h3 id="お知らせ">お知らせ</h3>
-
-<ul>
-  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="磁石" /><category term="C-S-H系高圧超伝導" /><category term="プログラミングコンテスト" /><category term="マテリアルズ・インフォマティクス" /><category term="宇宙飛行士" /><category term="ゲーム" /><summary type="html"><![CDATA[[ブカ](https://twitter.com/elmizbuka)と[オカ](https://twitter.com/nowohyeah)でエルデンリング、磁石などについて話しました。]]></summary></entry></feed>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="自主ゼミ" /><category term="いっちぃゼミ" /><category term="量子コンピュータ" /><category term="自由エネルギー原理" /><summary type="html"><![CDATA[いっちぃゼミ Season 2 を振り返り、 Season 3 の抱負を述べました。 (音質低)]]></summary></entry></feed>

@@ -1,27 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-11-30T11:00:57+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">44: Carbon Is All You Need</title><link href="https://interaxion-podcast.github.io/44-draft" rel="alternate" type="text/html" title="44: Carbon Is All You Need" /><published>2022-11-30T00:00:00+00:00</published><updated>2022-11-30T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep44</id><content type="html" xml:base="https://interaxion-podcast.github.io/44-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-12-02T11:11:05+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">44: Carbon Is All You Need</title><link href="https://interaxion-podcast.github.io/44-draft" rel="alternate" type="text/html" title="44: Carbon Is All You Need" /><published>2022-12-02T00:00:00+00:00</published><updated>2022-12-02T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep44</id><content type="html" xml:base="https://interaxion-podcast.github.io/44-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
 <ul id="markdown-toc">
   <li><a href="#ぶひんチョイス" id="markdown-toc-ぶひんチョイス">ぶひんチョイス</a>    <ul>
-      <li><a href="#c-s-h系高圧室温超伝導の撤回" id="markdown-toc-c-s-h系高圧室温超伝導の撤回">C-S-H系高圧室温超伝導の撤回</a></li>
-      <li><a href="#グラファイト500k越え室温超伝導" id="markdown-toc-グラファイト500k越え室温超伝導">グラファイト500K越え室温超伝導</a></li>
-      <li><a href="#マンガン酸化物高温超伝導" id="markdown-toc-マンガン酸化物高温超伝導">マンガン酸化物高温超伝導</a></li>
-      <li><a href="#脳が量子計算をしている可能性つまり脳内超伝導" id="markdown-toc-脳が量子計算をしている可能性つまり脳内超伝導">脳が量子計算をしている可能性、つまり脳内超伝導（？）</a></li>
-      <li><a href="#夢の550k超伝導水素化物超伝導にアンモニアボランを加える" id="markdown-toc-夢の550k超伝導水素化物超伝導にアンモニアボランを加える">夢の550K超伝導（水素化物超伝導にアンモニアボランを加える）</a></li>
+      <li><a href="#0057-c-s-h系高圧室温超伝導の撤回" id="markdown-toc-0057-c-s-h系高圧室温超伝導の撤回">00:57 C-S-H系高圧室温超伝導の撤回</a></li>
+      <li><a href="#2403-グラファイト500k越え室温超伝導-フライパン超伝導" id="markdown-toc-2403-グラファイト500k越え室温超伝導-フライパン超伝導">24:03 グラファイト500K越え室温超伝導 (フライパン超伝導)</a></li>
     </ul>
   </li>
-  <li><a href="#ブカチョイス" id="markdown-toc-ブカチョイス">ブカチョイス</a>    <ul>
-      <li><a href="#地球外超伝導体" id="markdown-toc-地球外超伝導体">地球外超伝導体</a></li>
-      <li><a href="#革新的なl10-feniの作り方" id="markdown-toc-革新的なl10-feniの作り方">革新的なL10-FeNiの作り方</a></li>
+  <li><a href="#2915-常圧下室温超伝導" id="markdown-toc-2915-常圧下室温超伝導">29:15 常圧下室温超伝導</a>    <ul>
+      <li><a href="#3201-夢の550k超伝導水素化物超伝導にアンモニアボランを加える" id="markdown-toc-3201-夢の550k超伝導水素化物超伝導にアンモニアボランを加える">32:01 夢の550K超伝導（水素化物超伝導にアンモニアボランを加える）</a></li>
+      <li><a href="#3716-マンガン酸化物高温超伝導" id="markdown-toc-3716-マンガン酸化物高温超伝導">37:16 マンガン酸化物高温超伝導</a></li>
+      <li><a href="#4712-脳が量子計算をしている可能性つまり脳内超伝導" id="markdown-toc-4712-脳が量子計算をしている可能性つまり脳内超伝導">47:12 脳が量子計算をしている可能性、つまり脳内超伝導（？）</a></li>
     </ul>
   </li>
-  <li><a href="#うってぃチョイス" id="markdown-toc-うってぃチョイス">うってぃチョイス</a>    <ul>
-      <li><a href="#巨大電気熱量効果" id="markdown-toc-巨大電気熱量効果">巨大電気熱量効果</a></li>
-      <li><a href="#正の焦電率を持つ焦電体" id="markdown-toc-正の焦電率を持つ焦電体">正の焦電率を持つ焦電体</a></li>
+  <li><a href="#5556-ブカチョイス" id="markdown-toc-5556-ブカチョイス">55:56 ブカチョイス</a>    <ul>
+      <li><a href="#5611-地球外超伝導体" id="markdown-toc-5611-地球外超伝導体">56:11 地球外超伝導体</a></li>
+      <li><a href="#10624-革新的なl10-feniの作り方" id="markdown-toc-10624-革新的なl10-feniの作り方">1:06:24 革新的なL10-FeNiの作り方</a></li>
     </ul>
   </li>
-  <li><a href="#おたより" id="markdown-toc-おたより">おたより</a></li>
+  <li><a href="#11824-うってぃチョイス" id="markdown-toc-11824-うってぃチョイス">1:18:24 うってぃチョイス</a>    <ul>
+      <li><a href="#11840-巨大電気熱量効果" id="markdown-toc-11840-巨大電気熱量効果">1:18:40 巨大電気熱量効果</a></li>
+      <li><a href="#13425-温度が上がると電場がなくても勝手に分極していく強誘電体" id="markdown-toc-13425-温度が上がると電場がなくても勝手に分極していく強誘電体">1:34:25 温度が上がると電場がなくても勝手に分極していく強誘電体？！</a></li>
+    </ul>
+  </li>
+  <li><a href="#14600-おたより" id="markdown-toc-14600-おたより">1:46:00 おたより</a></li>
   <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
 </ul>
     <!-- https://stackoverflow.com/a/38419441/11480802 -->
@@ -35,7 +38,7 @@
 
 <h3 id="ぶひんチョイス">ぶひんチョイス</h3>
 
-<h4 id="c-s-h系高圧室温超伝導の撤回">C-S-H系高圧室温超伝導の撤回</h4>
+<h4 id="0057-c-s-h系高圧室温超伝導の撤回">00:57 C-S-H系高圧室温超伝導の撤回</h4>
 
 <ul>
   <li>
@@ -56,42 +59,20 @@ JavaScript も書ける Hirsch 先生</li>
   </li>
 </ul>
 
-<h4 id="グラファイト500k越え室温超伝導">グラファイト500K越え室温超伝導</h4>
+<h4 id="2403-グラファイト500k越え室温超伝導-フライパン超伝導">24:03 グラファイト500K越え室温超伝導 (フライパン超伝導)</h4>
 
 <ul>
   <li><a href="https://arxiv.org/abs/2207.09149">Hidden Granular Superconductivity Above 500K in off-the-shelf graphite materials</a></li>
-  <li><a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22K18692/">常圧下での室温超伝導体の実現</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Institut_N%C3%A9el">Institut Néel - Wikipedia</a></li>
 </ul>
 
-<h4 id="マンガン酸化物高温超伝導">マンガン酸化物高温超伝導</h4>
+<h3 id="2915-常圧下室温超伝導">29:15 常圧下室温超伝導</h3>
 
 <ul>
-  <li><a href="https://www.researchsquare.com/article/rs-1856661/v1">Possible high-Tc superconductivity exceeding 100 K in Ir-substituted perovskite-type manganese oxides</a>
-    <ul>
-      <li>マンガン酸化物薄膜で100K超えの超伝導ぽい電気抵抗の変化の観測</li>
-      <li>転移温度の磁場依存性が従来のマンガン酸化物の巨大磁気抵抗とは逆
-        <ul>
-          <li>従来は磁場かけると転移温度上がる、今回は下る</li>
-        </ul>
-      </li>
-      <li>銅、鉄、ニッケルに続いて、ついにマンガン酸化物の時代来たな！</li>
-    </ul>
-  </li>
+  <li><a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-22K18692/">常圧下での室温超伝導体の実現 (KAKENHI-PROJECT-22K18692)</a></li>
 </ul>
 
-<h4 id="脳が量子計算をしている可能性つまり脳内超伝導">脳が量子計算をしている可能性、つまり脳内超伝導（？）</h4>
-
-<ul>
-  <li><a href="https://phys.org/news/2022-10-brains-quantum.html">New research suggests our brains use quantum computation</a>
-    <ul>
-      <li>脳の中の水の陽子スピン間のエンタングルメントの有無をMRIで調べると、たしかにエンタングルメントが存在しているっぽい</li>
-      <li>つまり脳には量子相関が存在し、それが意識につながっている可能性がある</li>
-      <li>まあつまり脳内超伝導ですよ</li>
-    </ul>
-  </li>
-</ul>
-
-<h4 id="夢の550k超伝導水素化物超伝導にアンモニアボランを加える">夢の550K超伝導（水素化物超伝導にアンモニアボランを加える）</h4>
+<h4 id="3201-夢の550k超伝導水素化物超伝導にアンモニアボランを加える">32:01 夢の550K超伝導（水素化物超伝導にアンモニアボランを加える）</h4>
 
 <ul>
   <li><a href="https://www.frontiersin.org/articles/10.3389/femat.2022.837651/full">Frontiers - Hot Hydride Superconductivity Above 550 K</a>
@@ -108,9 +89,37 @@ JavaScript も書ける Hirsch 先生</li>
   </li>
 </ul>
 
-<h3 id="ブカチョイス">ブカチョイス</h3>
+<h4 id="3716-マンガン酸化物高温超伝導">37:16 マンガン酸化物高温超伝導</h4>
 
-<h4 id="地球外超伝導体">地球外超伝導体</h4>
+<ul>
+  <li><a href="https://www.researchsquare.com/article/rs-1856661/v1">Possible high-Tc superconductivity exceeding 100 K in Ir-substituted perovskite-type manganese oxides</a>
+    <ul>
+      <li>マンガン酸化物薄膜で100K超えの超伝導ぽい電気抵抗の変化の観測</li>
+      <li>転移温度の磁場依存性が従来のマンガン酸化物の巨大磁気抵抗とは逆
+        <ul>
+          <li>従来は磁場かけると転移温度上がる、今回は下る</li>
+        </ul>
+      </li>
+      <li>銅、鉄、ニッケルに続いて、ついにマンガン酸化物の時代来たな！</li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="4712-脳が量子計算をしている可能性つまり脳内超伝導">47:12 脳が量子計算をしている可能性、つまり脳内超伝導（？）</h4>
+
+<ul>
+  <li><a href="https://phys.org/news/2022-10-brains-quantum.html">New research suggests our brains use quantum computation</a>
+    <ul>
+      <li>脳の中の水の陽子スピン間のエンタングルメントの有無をMRIで調べると、たしかにエンタングルメントが存在しているっぽい</li>
+      <li>つまり脳には量子相関が存在し、それが意識につながっている可能性がある</li>
+      <li>まあつまり<a href="https://interaxion-podcast.github.io/keywords/sc-in-brain/">脳内超伝導</a>ですよ</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="5556-ブカチョイス">55:56 ブカチョイス</h3>
+
+<h4 id="5611-地球外超伝導体">56:11 地球外超伝導体</h4>
 
 <ul>
   <li>The Puzzle of Meteoritic Minerals Heideite and Brezinaite; Are they Iron-based Superconductors? Are they Technosignatures? [<a href="https://arxiv.org/abs/2209.05679">arXiv</a>]
@@ -120,7 +129,9 @@ JavaScript も書ける Hirsch 先生</li>
       <li>SETIの”<a href="https://www.cambridge.org/core/journals/international-journal-of-astrobiology/article/nine-axes-of-merit-for-technosignature-searches/2F3C599B95AB00A0DF414F1389089D58#">nine-axes-of-merits</a>”で評価したらわかるけど、この物質はみんな研究するべき！！</li>
     </ul>
   </li>
-  <li>SETI = <a href="https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E5%A4%96%E7%9F%A5%E7%9A%84%E7%94%9F%E5%91%BD%E4%BD%93%E6%8E%A2%E6%9F%BB">地球外知的生命体探査 - Wikipedia</a></li>
+  <li>SDW = <a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%94%E3%83%B3%E5%AF%86%E5%BA%A6%E6%B3%A2">スピン密度波 - Wikipedia</a></li>
+  <li>SETI = <a href="https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%90%83%E5%A4%96%E7%9F%A5%E7%9A%84%E7%94%9F%E5%91%BD%E4%BD%93%E6%8E%A2%E6%9F%BB">地球外知的生命体探査 - Wikipedia</a><br />
+最初の SETI として有名な<a href="https://astro-dic.jp/project-ozma/">オズマ計画</a>を主導した<a href="https://astro-dic.jp/drake-frank-donald/">ドレイク</a>先生 (<a href="https://astro-dic.jp/drake-equation/">ドレイク方程式</a>でも有名) は今年9月に亡くなっています。</li>
 </ul>
 
 <blockquote class="twitter-tweet tw-align-center">
@@ -129,7 +140,7 @@ JavaScript も書ける Hirsch 先生</li>
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h4 id="革新的なl10-feniの作り方">革新的なL10-FeNiの作り方</h4>
+<h4 id="10624-革新的なl10-feniの作り方">1:06:24 革新的なL10-FeNiの作り方</h4>
 
 <ul>
   <li>Direct Formation of Hard-Magnetic Tetrataenite in Bulk Alloy Castings [<a href="https://onlinelibrary.wiley.com/doi/10.1002/advs.202204315">Wiley</a>]
@@ -144,9 +155,9 @@ JavaScript も書ける Hirsch 先生</li>
   <li>L10-FeNi の話は <a href="https://interaxion-podcast.github.io/9">Ep. 9</a> で詳しくしてます</li>
 </ul>
 
-<h3 id="うってぃチョイス">うってぃチョイス</h3>
+<h3 id="11824-うってぃチョイス">1:18:24 うってぃチョイス</h3>
 
-<h4 id="巨大電気熱量効果">巨大電気熱量効果</h4>
+<h4 id="11840-巨大電気熱量効果">1:18:40 巨大電気熱量効果</h4>
 
 <ul>
   <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201202525">A Giant Electrocaloric Effect in Nanoscale Antiferroelectric and Ferroelectric Phases Coexisting in a Relaxor Pb0.8Ba0.2ZrO3 Thin Film at Room Temperature</a>
@@ -163,7 +174,7 @@ JavaScript も書ける Hirsch 先生</li>
   </li>
 </ul>
 
-<h4 id="正の焦電率を持つ焦電体">正の焦電率を持つ焦電体</h4>
+<h4 id="13425-温度が上がると電場がなくても勝手に分極していく強誘電体">1:34:25 温度が上がると電場がなくても勝手に分極していく強誘電体？！</h4>
 
 <ul>
   <li><a href="https://pubs.acs.org/doi/pdf/10.1021/jp202192k">Simple Guanidinium Salts Revisited: Room–Temperature Ferroelectricity in Hydrogen-Bonded Supramolecular Structures</a>
@@ -198,7 +209,7 @@ JavaScript も書ける Hirsch 先生</li>
   </li>
 </ul>
 
-<h3 id="おたより">おたより</h3>
+<h3 id="14600-おたより">1:46:00 おたより</h3>
 
 <figure class="figure">
   <div style="text-align: center;">

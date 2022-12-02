@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-12-02T11:11:05+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">44: Carbon Is All You Need</title><link href="https://interaxion-podcast.github.io/44-draft" rel="alternate" type="text/html" title="44: Carbon Is All You Need" /><published>2022-12-02T00:00:00+00:00</published><updated>2022-12-02T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep44</id><content type="html" xml:base="https://interaxion-podcast.github.io/44-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-12-02T15:38:02+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">44: Carbon Is All You Need</title><link href="https://interaxion-podcast.github.io/44" rel="alternate" type="text/html" title="44: Carbon Is All You Need" /><published>2022-12-02T00:00:00+00:00</published><updated>2022-12-02T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep44</id><content type="html" xml:base="https://interaxion-podcast.github.io/44"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -57,6 +57,17 @@ JavaScript も書ける Hirsch 先生</li>
       <li>Nature論文はすべてが嘘だった・・・？</li>
     </ul>
   </li>
+  <li><a href="https://www.unearthlymaterials.com/">Unearthly Materials — Kickstart the century of superconductivity</a><br />
+かっこいいウェブサイト</li>
+  <li><a href="https://www.science.org/doi/10.1126/science.aal1579">Observation of the Wigner-Huntington transition to metallic hydrogen - Science</a><br />
+Diasらの金属水素論文
+    <ul>
+      <li><a href="https://www.nature.com/articles/nature.2017.21379">Physicists doubt bold report of metallic hydrogen - Nature</a><br />
+上記への批判</li>
+    </ul>
+  </li>
+  <li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.102.197002">Pressure-Induced Superconducting State of Europium Metal at Low Temperatures</a><br />
+同じく撤回された高圧下のユーロピウム超伝導</li>
 </ul>
 
 <h4 id="2403-グラファイト500k越え室温超伝導-フライパン超伝導">24:03 グラファイト500K越え室温超伝導 (フライパン超伝導)</h4>

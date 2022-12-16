@@ -1,4 +1,163 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-12-02T16:54:25+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">44: Carbon Is All You Need</title><link href="https://interaxion-podcast.github.io/44" rel="alternate" type="text/html" title="44: Carbon Is All You Need" /><published>2022-12-02T00:00:00+00:00</published><updated>2022-12-02T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep44</id><content type="html" xml:base="https://interaxion-podcast.github.io/44"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2022-12-16T16:56:13+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">45: Penguin’s Poop and Ads/CFT</title><link href="https://interaxion-podcast.github.io/45-draft" rel="alternate" type="text/html" title="45: Penguin’s Poop and Ads/CFT" /><published>2022-12-16T00:00:00+00:00</published><updated>2022-12-16T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep45</id><content type="html" xml:base="https://interaxion-podcast.github.io/45-draft"><![CDATA[<details>
+  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
+  <summary>目次</summary>
+  <nav>
+<ul id="markdown-toc">
+  <li><a href="#0038-田島さんの自己紹介" id="markdown-toc-0038-田島さんの自己紹介">00:38 田島さんの自己紹介</a></li>
+  <li><a href="#0222-ペンギンのうんちの話" id="markdown-toc-0222-ペンギンのうんちの話">02:22 ペンギンのうんちの話</a>    <ul>
+      <li><a href="#研究のきっかけ" id="markdown-toc-研究のきっかけ">研究のきっかけ</a></li>
+      <li><a href="#反響" id="markdown-toc-反響">反響</a></li>
+      <li><a href="#論文の中身-ペンギンのうんちadscftqgp物理の普遍性" id="markdown-toc-論文の中身-ペンギンのうんちadscftqgp物理の普遍性">論文の中身 (ペンギンのうんち、AdS/CFT、QGP、物理の普遍性)</a></li>
+    </ul>
+  </li>
+  <li><a href="#2631-量子多体系-物理の総合格闘技ウロボロス一周" id="markdown-toc-2631-量子多体系-物理の総合格闘技ウロボロス一周">26:31 量子多体系 (物理の総合格闘技、ウロボロス一周)</a></li>
+  <li><a href="#5938-youtube" id="markdown-toc-5938-youtube">59:38 YouTube</a></li>
+  <li><a href="#11128-若手奨励賞ぶひんさんは何者" id="markdown-toc-11128-若手奨励賞ぶひんさんは何者">1:11:28 若手奨励賞、ぶひんさんは何者？</a></li>
+  <li><a href="#11429-おたより" id="markdown-toc-11429-おたより">1:14:29 おたより</a>    <ul>
+      <li><a href="#11444-nsrマンさん" id="markdown-toc-11444-nsrマンさん">1:14:44 NSRマンさん</a></li>
+      <li><a href="#12359-恋愛相談" id="markdown-toc-12359-恋愛相談">1:23:59 恋愛相談</a></li>
+    </ul>
+  </li>
+  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
+</ul>
+    <!-- https://stackoverflow.com/a/38419441/11480802 -->
+  </nav>
+</details>
+<p><br /></p>
+
+<h3 id="0038-田島さんの自己紹介">00:38 田島さんの自己紹介</h3>
+
+<h3 id="0222-ペンギンのうんちの話">02:22 ペンギンのうんちの話</h3>
+
+<ul>
+  <li><a href="https://academist-cf.com/journal/?p=14094">フンボルトペンギンの糞の最大飛距離は約1.34m！ – 理論物理学者が本気出してうんちの軌道を計算してみた - academist Journal</a></li>
+  <li><a href="http://science.cc.kochi-u.ac.jp/scientific_reports/vol03/202003.html">Projectile Trajectory of Penguin’s Faeces and Rectal Pressure Revisited</a> 論文</li>
+</ul>
+
+<h4 id="研究のきっかけ">研究のきっかけ</h4>
+
+<ul>
+  <li><a href="https://katurahama-aq.jp/">桂浜水族館</a></li>
+</ul>
+
+<h4 id="反響">反響</h4>
+
+<ul>
+  <li><a href="https://lineblog.me/saboten2/archives/2020-07.html?p=2">2020/07/09までの確認できたペンギン フン射記事や取材</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">Projectile Trajectory of Penguin's Faeces and Rectal Pressure Revisited<br /><br />ワロタ<br /> <a href="https://t.co/FBQv5AjGIS">https://t.co/FBQv5AjGIS</a> <a href="https://t.co/cHjkuN8eGk">pic.twitter.com/cHjkuN8eGk</a></p>
+  <p>— 部品（本田翼） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1278862981674065921?ref_src=twsrc%5Etfw">July 3, 2020</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/%C4%90%C3%A0m_Thanh_S%C6%A1n">Đàm Thanh Sơn - Wikipedia</a><br />
+Kovtun-Son-Starinets Bound (KSS Bound) の提唱者</li>
+  <li><a href="https://ja.wikipedia.org/wiki/AdS/CFT%E5%AF%BE%E5%BF%9C">AdS/CFT対応 - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%83%AF%E3%83%BC%E3%83%89%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%83%E3%83%86%E3%83%B3">エドワード・ウィッテン - Wikipedia</a><br />
+超弦理論の第一人者</li>
+</ul>
+
+<h4 id="論文の中身-ペンギンのうんちadscftqgp物理の普遍性">論文の中身 (ペンギンのうんち、AdS/CFT、QGP、物理の普遍性)</h4>
+
+<ul>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%99%E3%83%AB%E3%83%88%E3%81%AEW%E9%96%A2%E6%95%B0">ランベルトのW関数 - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E5%88%9D%E7%94%B0%E5%93%B2%E7%94%B7">初田哲男 - Wikipedia</a></li>
+  <li><a href="https://ithems.riken.jp/ja">理化学研究所 数理創造プログラム (iTHEMS) - iTHEMS</a></li>
+  <li>
+    <p><a href="http://alice-j.org/%E3%82%AF%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%BC%E3%82%AA%E3%83%B3%E3%83%97%E3%83%A9%E3%82%BA%E3%83%9E-qgp/">クォーク・グルーオンプラズマ (QGP) - LHC ALICE-J GROUP</a></p>
+  </li>
+  <li><a href="https://www.bbc.com/japanese/34287437">哺乳類の小便時間は一定？　イグ・ノーベル賞、今年も独創性競う - BBCニュース</a></li>
+</ul>
+
+<h3 id="2631-量子多体系-物理の総合格闘技ウロボロス一周">26:31 量子多体系 (物理の総合格闘技、ウロボロス一周)</h3>
+
+<ul>
+  <li><a href="https://www.science.org/doi/10.1126/science.177.4047.393">More Is Different - Science</a></li>
+  <li><a href="https://astro-dic.jp/superfluid-core/">超流動コア - 天文学辞典</a></li>
+  <li><a href="https://www.keio.ac.jp/ja/maps/yagami.html">矢上キャンパス：アクセス：慶應義塾</a></li>
+  <li><a href="https://www.jps.or.jp/books/gakkaishi/2016/07/71-07trends.pdf">BCS–BEC クロスオーバー - フェルミ超流動とボース・アインシュタイン凝縮の統一描像 - 現代物理のキーワード (PDF)</a></li>
+  <li><a href="https://staff.aist.go.jp/t-yanagisawa/activity/pgap.html">高温超伝導体の擬ギャップ</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E5%8E%9F%E5%AD%90%E6%A0%B8%E3%83%91%E3%82%B9%E3%82%BF">原子核パスタ - Wikipedia</a></li>
+  <li><a href="https://astro-dic.jp/multi-messenger-astronomy/">マルチメッセンジャー天文学 - 天文学辞典</a><br />
+<a href="https://interaxion-podcast.github.io/33">Ep. 33</a> の最後で少し触れました</li>
+  <li><a href="https://www2.kek.jp/ipns/ja/special/belle2-nicolive/particles-and-universe/">ウロボロス - 素粒子と宇宙の謎 - 素核研</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%AA%E3%82%A6%E3%83%A0%E3%81%AE%E5%90%8C%E4%BD%8D%E4%BD%93">ヘリウムの同位体 - Wikipedia</a></li>
+  <li>しゃーなし束縛状態</li>
+  <li><a href="https://educ.titech.ac.jp/phys/event_information/file/330.pdf">3成分フェルミ気体におけるクーパートリプルから束縛3体分子へのクロスオーバー (PDF)</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E5%8A%A0%E8%97%A4%E5%B2%B3%E7%94%9F">加藤岳生 - Wikipedia</a></li>
+</ul>
+
+<h3 id="5938-youtube">59:38 YouTube</h3>
+
+<ul>
+  <li><a href="https://youtu.be/NBnSORVrhGY">磁性エクササイズ</a> (常磁性 常磁性 常磁性)</li>
+</ul>
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/NBnSORVrhGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+</div>
+
+<ul>
+  <li><a href="https://topics.tbs.co.jp/article/detail/?id=16116">『SASUKE』がオリンピック種目の候補に!トルコで行われる近代五種の大会でテストイベント 番組セットの使用が決定!｜TBSテレビ</a></li>
+</ul>
+
+<h3 id="11128-若手奨励賞ぶひんさんは何者">1:11:28 若手奨励賞、ぶひんさんは何者？</h3>
+
+<ul>
+  <li><a href="https://www.jps.or.jp/activities/awards/jusyosya/wakate2023.php">第17回（2023年）日本物理学会若手奨励賞 (Young Scientist Award of the Physical Society of Japan) 受賞者一覧 - 一般社団法人　日本物理学会</a></li>
+  <li><a href="https://dic.pixiv.net/a/%E6%84%9F%E8%AC%9D%E3%81%AE%E6%AD%A3%E6%8B%B3%E7%AA%81%E3%81%8D">感謝の正拳突き (いちまんかいの)とは【ピクシブ百科事典】</a></li>
+</ul>
+
+<h3 id="11429-おたより">1:14:29 おたより</h3>
+
+<h4 id="11444-nsrマンさん">1:14:44 NSRマンさん</h4>
+
+<ul>
+  <li><a href="https://ja.wikipedia.org/wiki/%E9%81%B7%E7%A7%BB%E8%A1%8C%E5%88%97">遷移行列 - Wikipedia</a> (T-matrix)</li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%83%E3%83%97%E3%83%9E%E3%83%B3%E2%80%93%E3%82%B7%E3%83%A5%E3%82%A6%E3%82%A3%E3%83%B3%E3%82%AC%E3%83%BC%E6%96%B9%E7%A8%8B%E5%BC%8F">リップマン–シュウィンガー方程式 - Wikipedia</a></li>
+</ul>
+
+<h4 id="12359-恋愛相談">1:23:59 恋愛相談</h4>
+
+<figure class="figure">
+  <div style="text-align: center;">
+
+    <p><img src="assets/ep44_marshmallow.jpg" alt="恋愛相談のおたより" /></p>
+
+  </div>
+  <figcaption>
+    <p>恋愛相談のおたより</p>
+  </figcaption>
+</figure>
+
+<h3 id="お知らせ">お知らせ</h3>
+
+<ul>
+  <li>使用 BGM について
+    <ul>
+      <li><a href="https://audiostock.jp/audio/1267554">切なく懐かしいトラック 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">【動画やポッドキャストのBGMをお探しの方へ】<br /><br />サイトウが大量に制作したトラックの中から厳選された作品が、国内最大級の音源販売サイト Audiostock で販売開始されました。<br /><br />単品購入 or 定額制を選択可。<br />ぜひご活用ください！！<a href="https://t.co/7dSi0Mw6kG">https://t.co/7dSi0Mw6kG</a></p>
+  <p>— サイトウナヲキ (@sai_enlightened) <a href="https://twitter.com/sai_enlightened/status/1542127615959392256?ref_src=twsrc%5Etfw">June 29, 2022</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
+  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="ペンギン" /><category term="量子多体系" /><summary type="html"><![CDATA[[田島](https://twitter.com/HiroyukiTajima3)さんと、[部品](https://twitter.com/tjmlab)、[ボインゴ](https://twitter.com/toshakuukan)の3人でペンギンのうんち、量子多体系などについて話しました。]]></summary></entry><entry><title type="html">44: Carbon Is All You Need</title><link href="https://interaxion-podcast.github.io/44" rel="alternate" type="text/html" title="44: Carbon Is All You Need" /><published>2022-12-02T00:00:00+00:00</published><updated>2022-12-02T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep44</id><content type="html" xml:base="https://interaxion-podcast.github.io/44"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -2026,67 +2185,4 @@ ITER の広報、資金力を感じる</li>
   <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
   <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="宇宙天気" /><category term="太陽" /><category term="地球" /><category term="宇宙飛行士" /><category term="ゲーム" /><summary type="html"><![CDATA[[Uchino](https://twitter.com/ucn_hiro)さんと[Oka](https://twitter.com/nowohyeah)で宇宙天気、太陽、エルデンリングなどについて話しました。]]></summary></entry><entry><title type="html">36.5: 9 x 9 = 51</title><link href="https://interaxion-podcast.github.io/36-5" rel="alternate" type="text/html" title="36.5: 9 x 9 = 51" /><published>2022-04-30T00:00:00+00:00</published><updated>2022-04-30T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep36.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/36-5"><![CDATA[<details>
-  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
-  <summary>目次</summary>
-  <nav>
-<ul id="markdown-toc">
-  <li><a href="#000-season-2" id="markdown-toc-000-season-2">0:00 Season 2</a></li>
-  <li><a href="#3555-season-3" id="markdown-toc-3555-season-3">35:55 Season 3</a></li>
-  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
-</ul>
-    <!-- https://stackoverflow.com/a/38419441/11480802 -->
-  </nav>
-</details>
-<p><br /></p>
-
-<h3 id="000-season-2">0:00 Season 2</h3>
-
-<ul>
-  <li><a href="https://interaxion-podcast.github.io/19-5">19.5: Intermission of Interaxion - Interaxion Podcast</a><br />
-Season 1 の振り返りはこちら。</li>
-  <li><a href="https://amzn.to/3fiUeaM">『動かして学ぶ量子コンピュータプログラミング』</a> (<a href="https://www.oreilly.co.jp/books/9784873119199/">オライリー電子版</a>)</li>
-  <li><a href="https://oreilly-qc.github.io/">Programming Quantum Computers</a><br />
-教科書のコードを動かせるウェブページ</li>
-  <li><a href="https://github.com/machinelevel/QCEngine">machinelevel/QCEngine: Quantum computation simulator</a><br />
-上記で使われている QCEngine のソースコードと思われるもの</li>
-  <li><a href="https://developer.mozilla.org/ja/docs/Learn/Common_questions/What_are_browser_developer_tools">ブラウザー開発者ツールとは？ - MDN</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/Qiskit">Qiskit - Wikipedia</a><br />
-IBM の量子計算フレームワーク</li>
-  <li><a href="https://pn11.github.io/octo-book/chap4.html">4章 量子テレポーテーション - タコ本のやっていき記録</a><br />
-oka が量子テレポーテーション (実機) とハエのテレポーテーション (シミュレーション) を動かしたときの記録</li>
-  <li><a href="https://en.wikipedia.org/wiki/The_Treachery_of_Images">The Treachery of Images - Wikipedia</a><br />
-「イメージの裏切り」</li>
-  <li><a href="https://qiskit.org/textbook/ja/ch-algorithms/shor.html">ショアのアルゴリズム</a><br />
-映画『サマーウォーズ』冒頭に出てくることで有名。</li>
-  <li><a href="https://complexityzoo.net/Complexity_Zoo">Complexity Zoo</a></li>
-  <li><a href="https://qiita.com/iKodack/items/d606a09f0a40b95bf2b6">とても強い計算量クラスのコンピュータとその実現方法 - Qiita</a><br />
-「宇宙破壊コンピュータ」</li>
-  <li><a href="https://whyitsso.net/physics/quantum_mechanics/QI6.html">密度演算子 - 純粋状態・混合状態 - 量子コンピュータ入門 - 物理とか</a></li>
-  <li><a href="https://wired.jp/2016/05/09/ibm-letting-anyone-play-quantum-computer/">「誰でも使える量子コンピューター」IBMが公開する意味 | WIRED.jp</a><br />
-リンク先に IBM のクラウドで使える5量子ビットのチップの写真がある。正方形をしている部分に量子ビットがあり、それらは全結合していないことが分かる。真ん中の量子ビットだけは他の4つ全てとつながっている。</li>
-  <li><a href="https://interaxion-podcast.github.io/35">35: Famous on Twitter - Interaxion Podcast</a><br />
-コンプラコンピュータの話</li>
-</ul>
-
-<h3 id="3555-season-3">35:55 Season 3</h3>
-
-<ul>
-  <li><a href="https://amzn.to/3wdj18O">自由エネルギー原理入門: 知覚・行動・コミュニケーションの計算理論</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A8%E3%83%8E%E3%83%A9%E3%83%96%E3%83%87%E3%82%A3%E3%83%86%E3%82%A3%E3%82%B9%E3%83%BB%E3%82%A8%E3%83%AC%E3%82%AC%E3%83%B3%E3%82%B9">カエノラブディティス・エレガンス - Wikipedia</a><br />
-線虫の一種、通称 C. elegans</li>
-  <li><a href="https://researchat.fm/episode/9">9. One-shot beautiful experiment - Researchat.fm</a></li>
-  <li>「ソースコードの驚きを最小化したい」</li>
-</ul>
-
-<h3 id="お知らせ">お知らせ</h3>
-
-<ul>
-  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="自主ゼミ" /><category term="いっちぃゼミ" /><category term="量子コンピュータ" /><category term="自由エネルギー原理" /><summary type="html"><![CDATA[いっちぃゼミ Season 2 を振り返り、 Season 3 の抱負を述べました。 (音質低)]]></summary></entry></feed>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="宇宙天気" /><category term="太陽" /><category term="地球" /><category term="宇宙飛行士" /><category term="ゲーム" /><summary type="html"><![CDATA[[Uchino](https://twitter.com/ucn_hiro)さんと[Oka](https://twitter.com/nowohyeah)で宇宙天気、太陽、エルデンリングなどについて話しました。]]></summary></entry></feed>

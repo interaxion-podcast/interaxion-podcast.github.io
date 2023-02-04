@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-02-04T14:26:04+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">46: There’s no resource problem on earth</title><link href="https://interaxion-podcast.github.io/46" rel="alternate" type="text/html" title="46: There’s no resource problem on earth" /><published>2023-02-04T00:00:00+00:00</published><updated>2023-02-04T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep46</id><content type="html" xml:base="https://interaxion-podcast.github.io/46"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-02-04T14:52:12+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">46: There’s no resource problem on earth</title><link href="https://interaxion-podcast.github.io/46" rel="alternate" type="text/html" title="46: There’s no resource problem on earth" /><published>2023-02-04T00:00:00+00:00</published><updated>2023-02-04T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep46</id><content type="html" xml:base="https://interaxion-podcast.github.io/46"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
 <ul id="markdown-toc">
   <li><a href="#0000-ep-44-すごい論文回-について" id="markdown-toc-0000-ep-44-すごい論文回-について">00:00 Ep. 44 (すごい論文回) について</a></li>
-  <li><a href="#0210-おたより-恋愛相談のその後" id="markdown-toc-0210-おたより-恋愛相談のその後">02:10 おたより (恋愛相談のその後)</a></li>
-  <li><a href="#0621-おたより-ゆうた5歳" id="markdown-toc-0621-おたより-ゆうた5歳">06:21 おたより (ゆうた(5歳))</a></li>
-  <li><a href="#1111-東中野雑談" id="markdown-toc-1111-東中野雑談">11:11 東中野雑談</a></li>
-  <li><a href="#1513-オフ会" id="markdown-toc-1513-オフ会">15:13 オフ会</a></li>
-  <li><a href="#2112-個人アニュアルレポート" id="markdown-toc-2112-個人アニュアルレポート">21：12 個人アニュアルレポート</a></li>
-  <li><a href="#2556-topjoy-buttefly" id="markdown-toc-2556-topjoy-buttefly">25:56 Topjoy Buttefly</a></li>
-  <li><a href="#3336-エルデンリング" id="markdown-toc-3336-エルデンリング">33：36 エルデンリング</a></li>
-  <li><a href="#3715-宇宙飛行士試験" id="markdown-toc-3715-宇宙飛行士試験">37:15 宇宙飛行士試験</a></li>
-  <li><a href="#5149-古生物学界の論争" id="markdown-toc-5149-古生物学界の論争">51:49 古生物学界の論争</a></li>
-  <li><a href="#10045-スウェーデンでレアアース鉱床発見" id="markdown-toc-10045-スウェーデンでレアアース鉱床発見">1:00:45 スウェーデンでレアアース鉱床発見？</a></li>
-  <li><a href="#10654-波よ聞いてくれ" id="markdown-toc-10654-波よ聞いてくれ">1:06:54 波よ聞いてくれ</a></li>
+  <li><a href="#0207-おたより-恋愛相談のその後" id="markdown-toc-0207-おたより-恋愛相談のその後">02:07 おたより (恋愛相談のその後)</a></li>
+  <li><a href="#0614-おたより-ゆうた5歳さん" id="markdown-toc-0614-おたより-ゆうた5歳さん">06:14 おたより (ゆうた(5歳)さん)</a></li>
+  <li><a href="#1057-東中野雑談" id="markdown-toc-1057-東中野雑談">10:57 東中野雑談</a></li>
+  <li><a href="#1504-オフ会" id="markdown-toc-1504-オフ会">15:04 オフ会</a></li>
+  <li><a href="#2112-個人アニュアルレポート" id="markdown-toc-2112-個人アニュアルレポート">21:12 個人アニュアルレポート</a></li>
+  <li><a href="#2544-topjoy-buttefly" id="markdown-toc-2544-topjoy-buttefly">25:44 Topjoy Buttefly</a></li>
+  <li><a href="#3328-エルデンリング" id="markdown-toc-3328-エルデンリング">33:28 エルデンリング</a></li>
+  <li><a href="#3706-宇宙飛行士試験" id="markdown-toc-3706-宇宙飛行士試験">37:06 宇宙飛行士試験</a></li>
+  <li><a href="#5141-古生物学界の論争" id="markdown-toc-5141-古生物学界の論争">51:41 古生物学界の論争</a></li>
+  <li><a href="#10039-スウェーデンでレアアース鉱床発見" id="markdown-toc-10039-スウェーデンでレアアース鉱床発見">1:00:39 スウェーデンでレアアース鉱床発見？</a></li>
+  <li><a href="#10652-波よ聞いてくれ" id="markdown-toc-10652-波よ聞いてくれ">1:06:52 波よ聞いてくれ</a></li>
   <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
   <li><a href="#editorials" id="markdown-toc-editorials">Editorials</a></li>
 </ul>
@@ -25,7 +25,7 @@
 
 <h3 id="0000-ep-44-すごい論文回-について">00:00 Ep. 44 (すごい論文回) について</h3>
 
-<h3 id="0210-おたより-恋愛相談のその後">02:10 おたより (恋愛相談のその後)</h3>
+<h3 id="0207-おたより-恋愛相談のその後">02:07 おたより (恋愛相談のその後)</h3>
 
 <figure class="figure">
   <div style="text-align: center;">
@@ -45,12 +45,12 @@
   <figcaption></figcaption>
 </figure>
 
-<h3 id="0621-おたより-ゆうた5歳">06:21 おたより (ゆうた(5歳))</h3>
+<h3 id="0614-おたより-ゆうた5歳さん">06:14 おたより (ゆうた(5歳)さん)</h3>
 
-<h3 id="1111-東中野雑談">11:11 東中野雑談</h3>
+<h3 id="1057-東中野雑談">10:57 東中野雑談</h3>
 
 <ul>
-  <li><a href="https://zatsudan.co.jp/">雑談 - CRAFT BEER &amp; PODCAST</a>
+  <li><a href="https://zatsudan.co.jp/">雑談 - CRAFT BEER &amp; PODCAST</a><br />
 その後<a href="https://zatsudan.co.jp/rental/">プラン</a>が変更になり、スタジオ利用料無料なのは木曜(17:00-22:00)のみになったようです。</li>
   <li><a href="https://twitter.com/birds_hope">Hope of Birds Ⅱ</a></li>
 </ul>
@@ -61,11 +61,7 @@
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<ul>
-  <li>チロルチョコ</li>
-</ul>
-
-<h3 id="1513-オフ会">15:13 オフ会</h3>
+<h3 id="1504-オフ会">15:04 オフ会</h3>
 
 <ul>
   <li><a href="https://ti.to/rebuildfm/meetup-2022/">Rebuild Meetup 2022</a></li>
@@ -74,7 +70,7 @@
   <li><a href="https://researchat.fm/episode/153">Researchat.meetup vol.0 - Researchat.fm</a></li>
 </ul>
 
-<h3 id="2112-個人アニュアルレポート">21：12 個人アニュアルレポート</h3>
+<h3 id="2112-個人アニュアルレポート">21:12 個人アニュアルレポート</h3>
 
 <ul>
   <li><a href="https://researchat.fm/blog/11/">11. Researchat.fm Lightning Talk Vol.02 開催概要 - Researchat.fm</a></li>
@@ -88,7 +84,7 @@
   <li><a href="https://amzn.to/3YqI5E7">インフィニティチェア</a></li>
 </ul>
 
-<h3 id="2556-topjoy-buttefly">25:56 Topjoy Buttefly</h3>
+<h3 id="2544-topjoy-buttefly">25:44 Topjoy Buttefly</h3>
 
 <ul>
   <li><a href="https://www.kickstarter.com/projects/topjoy/topjoy-butterfly-pocket-sized-true-color-des-screen-e-reader?">Topjoy Buttefly</a>
@@ -101,13 +97,13 @@
   <li><a href="https://bigmestore.com/">Bigme Store - Buy the latest e-readers and e-notes</a></li>
 </ul>
 
-<h3 id="3336-エルデンリング">33：36 エルデンリング</h3>
+<h3 id="3328-エルデンリング">33:28 エルデンリング</h3>
 
 <ul>
   <li><a href="https://www.gamespark.jp/article/2022/12/12/125283.html">GOTY受賞？のビル・クリントン、ついに狭間の地へ…『ELDEN RING』TGA騒動を基にしたMod映像公開 - Game*Spark - 国内・海外ゲーム情報サイト</a></li>
 </ul>
 
-<h3 id="3715-宇宙飛行士試験">37:15 宇宙飛行士試験</h3>
+<h3 id="3706-宇宙飛行士試験">37:06 宇宙飛行士試験</h3>
 
 <ul>
   <li><a href="https://www.jaxa.jp/press/2022/12/20221223-2_j.html">JAXA - 2021年度　宇宙飛行士候補者の第二次選抜結果について</a>
@@ -130,7 +126,7 @@
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h3 id="5149-古生物学界の論争">51:49 古生物学界の論争</h3>
+<h3 id="5141-古生物学界の論争">51:41 古生物学界の論争</h3>
 
 <ul>
   <li><a href="https://www.science.org/content/page/news-science-subscriptions">Subscribe to News from Science - Science - AAAS</a></li>
@@ -154,7 +150,7 @@
   <li><a href="https://dic.nicovideo.jp/a/%E8%BA%AB%E4%BD%93%E3%81%AF%E9%97%98%E4%BA%89%E3%82%92%E6%B1%82%E3%82%81%E3%82%8B">身体は闘争を求めるとは (カラダハトウソウヲモトメルとは) [単語記事] - ニコニコ大百科</a></li>
 </ul>
 
-<h3 id="10045-スウェーデンでレアアース鉱床発見">1:00:45 スウェーデンでレアアース鉱床発見？</h3>
+<h3 id="10039-スウェーデンでレアアース鉱床発見">1:00:39 スウェーデンでレアアース鉱床発見？</h3>
 
 <ul>
   <li><a href="https://www.bbc.com/japanese/64258578">欧州最大のレアアース鉱床、スウェーデンで発見　中国依存の低下なるか - BBCニュース</a>
@@ -166,19 +162,13 @@
   <li><a href="https://webronza.asahi.com/business/articles/2019112300001.html">レアアース中国依存脱却の切り札・ライナスとは - 佐藤剛己｜論座 - 朝日新聞社の言論サイト</a></li>
 </ul>
 
-<h3 id="10654-波よ聞いてくれ">1:06:54 波よ聞いてくれ</h3>
+<h3 id="10652-波よ聞いてくれ">1:06:52 波よ聞いてくれ</h3>
 
 <ul>
   <li><a href="https://amzn.to/3HYER5I">波よ聞いてくれ</a></li>
   <li><a href="https://amzn.to/3wVc9Mx">幻想ギネコクラシー</a><br />
 オススメ短編集</li>
 </ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">Projectile Trajectory of Penguin's Faeces and Rectal Pressure Revisited<br /><br />ワロタ<br /> <a href="https://t.co/FBQv5AjGIS">https://t.co/FBQv5AjGIS</a> <a href="https://t.co/cHjkuN8eGk">pic.twitter.com/cHjkuN8eGk</a></p>
-  <p>— 部品（本田翼） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1278862981674065921?ref_src=twsrc%5Etfw">July 3, 2020</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <h3 id="お知らせ">お知らせ</h3>
 
@@ -223,7 +213,7 @@
 <ul>
   <li>キタエフ超伝導なんてないですね。。あとゆうた君への返答が雑なので、お便りホイホイになってるかも！ (ブカ)</li>
   <li>ニーアオートマタのアニメの話しするの忘れました (オカ)</li>
-</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[[ブカ](https://twitter.com/elmizbuka)と[オカ](https://twitter.com/nowohyeah)で宇宙飛行士試験、古生物学界の論争、レアアース鉱床などについて話しました。]]></summary></entry><entry><title type="html">45: Penguin’s Poop and Ads/CFT</title><link href="https://interaxion-podcast.github.io/45" rel="alternate" type="text/html" title="45: Penguin’s Poop and Ads/CFT" /><published>2022-12-17T00:00:00+00:00</published><updated>2022-12-17T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep45</id><content type="html" xml:base="https://interaxion-podcast.github.io/45"><![CDATA[<details>
+</ul>]]></content><author><name></name></author><category term="宇宙飛行士" /><category term="レアアース" /><category term="ポッドキャスト" /><summary type="html"><![CDATA[[ブカ](https://twitter.com/elmizbuka)と[オカ](https://twitter.com/nowohyeah)で宇宙飛行士試験、古生物学界の論争、レアアース鉱床などについて話しました。]]></summary></entry><entry><title type="html">45: Penguin’s Poop and Ads/CFT</title><link href="https://interaxion-podcast.github.io/45" rel="alternate" type="text/html" title="45: Penguin’s Poop and Ads/CFT" /><published>2022-12-17T00:00:00+00:00</published><updated>2022-12-17T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep45</id><content type="html" xml:base="https://interaxion-podcast.github.io/45"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-02-16T09:13:16+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">47: Out of Context</title><link href="https://interaxion-podcast.github.io/47-draft" rel="alternate" type="text/html" title="47: Out of Context" /><published>2023-02-14T00:00:00+00:00</published><updated>2023-02-14T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep47</id><content type="html" xml:base="https://interaxion-podcast.github.io/47-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-02-16T09:25:26+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">47: Out of Context</title><link href="https://interaxion-podcast.github.io/47-draft" rel="alternate" type="text/html" title="47: Out of Context" /><published>2023-02-14T00:00:00+00:00</published><updated>2023-02-14T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep47</id><content type="html" xml:base="https://interaxion-podcast.github.io/47-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -23,6 +23,7 @@
 <ul>
   <li><a href="https://interaxion-podcast.github.io/15">15: Ph.D. in lead carrying</a>, <a href="https://interaxion-podcast.github.io/16">16: I’d rather play solo games than make friends</a><br />
 かかーたさん初登場二部作</li>
+  <li>反響</li>
 </ul>
 
 <blockquote class="twitter-tweet tw-align-center">
@@ -41,16 +42,7 @@
 
 <ul>
   <li><a href="https://amzn.to/37T6jPM">ぼっち・ざ・ろっく！</a></li>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>[『ぼっち・ざ・ろっく！』は伝説を更新する？ 大ヒット繰り返す「バンド作品」と比較</td>
-          <td>マグミクス](https://magmix.jp/post/134921)</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
+  <li><a href="https://magmix.jp/post/134921">『ぼっち・ざ・ろっく！』は伝説を更新する？ 大ヒット繰り返す「バンド作品」と比較 - マグミクス</a></li>
   <li><a href="https://dic.pixiv.net/a/%E5%BE%8C%E6%96%B9%E5%BD%BC%E6%B0%8F%E9%9D%A2">後方彼氏面 とは【ピクシブ百科事典】</a></li>
   <li><a href="https://amzn.to/3bMkRl9">まちカドまぞく</a></li>
 </ul>
@@ -85,17 +77,7 @@
 <h3 id="kamland-zen-の最新結果">KamLAND Zen の最新結果</h3>
 
 <ul>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>[世界最高感度でのニュートリノを伴わない二重ベータ崩…</td>
-          <td>プレスリリース・研究成果</td>
-          <td>東北大学 -TOHOKU UNIVERSITY-](https://www.tohoku.ac.jp/japanese/2023/01/press20230131-01-neutrino.html)</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
+  <li><a href="https://www.tohoku.ac.jp/japanese/2023/01/press20230131-01-neutrino.html">世界最高感度でのニュートリノを伴わない二重ベータ崩… - プレスリリース・研究成果 - 東北大学 -TOHOKU UNIVERSITY-</a></li>
   <li><a href="https://www.nikkei.com/article/DGXZRSP648472_R30C23A1000000/">東北大と東大など、ニュートリノ振動実験により電気を帯びない素粒子ニュートリノに質量があることを証明 - 日本経済新聞</a><br />
 日経新聞の見出しがおかしい</li>
   <li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.051801">Phys. Rev. Lett. 130, 051801 (2023) - Search for the Majorana Nature of Neutrinos in the Inverted Mass Ordering Region with KamLAND-Zen</a><br />
@@ -153,7 +135,7 @@ KamNet についての論文</li>
   <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
   <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="まんがタイムきらら" /><category term="二重ベータ崩壊" /><summary type="html"><![CDATA[[かかーたさん](https://twitter.com/Kuzz_pontie_Kak)と[おか](https://twitter.com/nowohyeah)で応用情報対策、通読できない問題、変体仮名、KamLAND-Zenの最新結果、ハイパーインフレーションなどについて話しました。]]></summary></entry><entry><title type="html">46: There’s no resource problem on earth</title><link href="https://interaxion-podcast.github.io/46" rel="alternate" type="text/html" title="46: There’s no resource problem on earth" /><published>2023-02-04T00:00:00+00:00</published><updated>2023-02-04T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep46</id><content type="html" xml:base="https://interaxion-podcast.github.io/46"><![CDATA[<details>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="まんがタイムきらら" /><category term="二重ベータ崩壊" /><category term="マヨラナ粒子" /><category term="ニュートリノ" /><category term="KamLAND" /><summary type="html"><![CDATA[[かかーたさん](https://twitter.com/Kuzz_pontie_Kak)と[おか](https://twitter.com/nowohyeah)で応用情報対策、通読できない問題、変体仮名、KamLAND-Zenの最新結果、ハイパーインフレーションなどについて話しました。]]></summary></entry><entry><title type="html">46: There’s no resource problem on earth</title><link href="https://interaxion-podcast.github.io/46" rel="alternate" type="text/html" title="46: There’s no resource problem on earth" /><published>2023-02-04T00:00:00+00:00</published><updated>2023-02-04T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep46</id><content type="html" xml:base="https://interaxion-podcast.github.io/46"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>

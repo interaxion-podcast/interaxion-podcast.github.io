@@ -16,6 +16,8 @@ jobs:
         with:
           ruby-version: 2.7
       - name: bundle install, jekyll build
+        env:
+          TZ: "Asia/Tokyo"
         run: |
           bundle install
           bundle exec jekyll build

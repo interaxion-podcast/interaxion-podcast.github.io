@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-03-03T13:44:46+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">49: The Hottest Night in Las Vegas</title><link href="https://interaxion-podcast.github.io/49-draft" rel="alternate" type="text/html" title="49: The Hottest Night in Las Vegas" /><published>2023-03-03T00:00:00+00:00</published><updated>2023-03-03T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep49</id><content type="html" xml:base="https://interaxion-podcast.github.io/49-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-03-03T16:20:42+00:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">49: The Hottest Night in Las Vegas</title><link href="https://interaxion-podcast.github.io/49-draft" rel="alternate" type="text/html" title="49: The Hottest Night in Las Vegas" /><published>2023-03-03T00:00:00+00:00</published><updated>2023-03-03T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep49</id><content type="html" xml:base="https://interaxion-podcast.github.io/49-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -47,7 +47,7 @@
   <li><a href="https://amzn.to/41TGBFl">石ノ森章太郎の超電導講座</a></li>
   <li>2017年に行われた地元紙によるインタビュー <a href="https://zolliker-zumiker.ch/2017/04/27/17-2017-persoenlich-karl-alexander-mueller/">17/2017 Persoenlich Karl Alexander Mueller - Zolliker Zumiker Bote</a>
     <blockquote>
-      <p>?Kosmologie! Wir sehen nur 5% der existierenden Materie. Der Rest ist da – aber wie? Man weiss zum Beispiel, dass die Umlaufbahnen der Planeten von der unsichtbaren Materie beeinflusst werden. Was hat es mit der sogenannten «Schwarzen Materie» auf sich? Machen wir die richtigen Experimente, um diesen Fragen auf die Spur zu kommen?Sicher ist: Wir befinden uns in einer Zeit des Umbruchs. Der fünfzackige Stern, ein Venussymbol, löst das Kreuz ab. Bedenken Sie nur, wie viele Flaggen fünfzackige Sterne aufweisen – zum Beispiel die Europaflagge, die Flagge der USA und viele andere. Der matriarchalische Aspekt ist stark im Vormarsch. Es ist eine spannende Zeit.</p>
+      <p>Kosmologie! Wir sehen nur 5% der existierenden Materie. Der Rest ist da – aber wie? Man weiss zum Beispiel, dass die Umlaufbahnen der Planeten von der unsichtbaren Materie beeinflusst werden. Was hat es mit der sogenannten «Schwarzen Materie» auf sich? Machen wir die richtigen Experimente, um diesen Fragen auf die Spur zu kommen?Sicher ist: Wir befinden uns in einer Zeit des Umbruchs. Der fünfzackige Stern, ein Venussymbol, löst das Kreuz ab. Bedenken Sie nur, wie viele Flaggen fünfzackige Sterne aufweisen – zum Beispiel die Europaflagge, die Flagge der USA und viele andere. Der matriarchalische Aspekt ist stark im Vormarsch. Es ist eine spannende Zeit.</p>
     </blockquote>
   </li>
   <li>ミュラー先生95歳誕生記念特集 <a href="https://link.springer.com/journal/10948/volumes-and-issues/35-7">Journal of Superconductivity and Novel Magnetism - Volume 35, issue 7</a>
@@ -147,15 +147,23 @@ Dias vs Hirsch の直接対決が期待される APS で一番アツいセッシ
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<p><a href="https://interaxion-podcast.github.io/30">Ep. 30</a> でも話してます。
-&lt;div style=”text-align: center;”&gt;</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlEUCWWTZuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-<p>&lt;/div&gt;</p>
+<p><a href="https://interaxion-podcast.github.io/30">Ep. 30</a> でも話してます。</p>
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/nlEUCWWTZuM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+</div>
 
 <h4 id="12156-良い意味でヤバい論文">1:21:56 良い意味でヤバい論文</h4>
 
 <ul>
   <li><a href="https://www.nature.com/articles/s41586-023-05731-3">Topological spin texture in the pseudogap phase of a high-Tc superconductor - Nature</a></li>
+  <li>擬ギャップ
+    <ul>
+      <li>総合的なレビュー: <a href="https://www.nature.com/articles/nature14165">From quantum matter to high-temperature superconductivity in copper oxides - Nature</a></li>
+      <li>ARPES のレビュー: <a href="https://iopscience.iop.org/article/10.1088/1361-6633/aaba96">Photoemission perspective on pseudogap, superconducting fluctuations, and charge order in cuprates: a review of recent progress - IOPscience</a></li>
+      <li>STM のレビュー: <a href="https://journals.jps.jp/doi/abs/10.7566/JPSJ.90.111003">Atomic-Scale Visualization of the Cuprate Pair Density Wave State - Journal of the Physical Society of Japan</a></li>
+    </ul>
+  </li>
   <li><a href="https://staff.aist.go.jp/t-yanagisawa/activity/pgap.html">高温超伝導体の擬ギャップ</a></li>
   <li><a href="http://phys.sci.hokudai.ac.jp/newHP/topics/high-tc.htm">高温超伝導体における擬ギャップ　と　最近の研究</a></li>
 </ul>
@@ -168,7 +176,7 @@ Dias vs Hirsch の直接対決が期待される APS で一番アツいセッシ
 
 <ul>
   <li><a href="https://interaxion-podcast.github.io/19">Interaxion 19: A professional bonderman needs no microscopes</a><br />
-ミュオンの異常磁気能率 (\(g-2\)) の話をした回</li>
+ミュオンの異常磁気能率 (<i>g</i>–2) の話をした回</li>
 </ul>
 
 <h4 id="13200-機械学習x超伝導">1:32:00 機械学習x超伝導</h4>
@@ -182,8 +190,6 @@ Dias vs Hirsch の直接対決が期待される APS で一番アツいセッシ
   <p>— 部品（橋本環奈） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1618446074326429697?ref_src=twsrc%5Etfw">January 26, 2023</a></p>
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<p>機械学習の予測とも一致したってことは CSH あるな</p>
 
 <h4 id="13622-ダイヤモンドアンビルセルの圧力校正">1:36:22 ダイヤモンドアンビルセルの圧力校正</h4>
 
@@ -237,7 +243,7 @@ Dias vs Hirsch の直接対決が期待される APS で一番アツいセッシ
   <p lang="ja" dir="ltr">出番来ました??<a href="https://t.co/0J3rh0Mno6">https://t.co/0J3rh0Mno6</a></p>
   <p>— まにー (@maraky99) <a href="https://twitter.com/maraky99/status/1630202244795879425?ref_src=twsrc%5Etfw">February 27, 2023</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="超伝導" /><category term="C-S-H系高圧超伝導" /><category term="物性物理" /><summary type="html"><![CDATA[[部品](https://twitter.com/tjmlab)、[ブカ](https://twitter.com/elmizbuka)、[oka](https://twitter.com/nowohyeah)で銅酸化物超伝導体発見者のMüller先生追悼回をやるはずが、Dias vs Hirsch 第二幕の話が中心になってしまいました。。]]></summary></entry><entry><title type="html">48: Egy, An Edgy Electronic Payment</title><link href="https://interaxion-podcast.github.io/48" rel="alternate" type="text/html" title="48: Egy, An Edgy Electronic Payment" /><published>2023-03-01T00:00:00+00:00</published><updated>2023-03-01T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep48</id><content type="html" xml:base="https://interaxion-podcast.github.io/48"><![CDATA[<details>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="超伝導" /><category term="C-S-H系高圧超伝導" /><category term="物性物理" /><summary type="html"><![CDATA[[部品](https://twitter.com/tjmlab)、[ブカ](https://twitter.com/elmizbuka)、[oka](https://twitter.com/nowohyeah)で銅酸化物超伝導体発見者のMüller先生追悼回をやるはずが、Dias vs Hirsch 第二幕の話が中心になってしまいました。]]></summary></entry><entry><title type="html">48: Egy, An Edgy Electronic Payment</title><link href="https://interaxion-podcast.github.io/48" rel="alternate" type="text/html" title="48: Egy, An Edgy Electronic Payment" /><published>2023-03-01T00:00:00+00:00</published><updated>2023-03-01T00:00:00+00:00</updated><id>https://interaxion-podcast.github.io/ep48</id><content type="html" xml:base="https://interaxion-podcast.github.io/48"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>

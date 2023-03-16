@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-03-16T01:58:37+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">50: Psycopath Data Creator</title><link href="https://interaxion-podcast.github.io/50-draft" rel="alternate" type="text/html" title="50: Psycopath Data Creator" /><published>2023-03-16T00:00:00+09:00</published><updated>2023-03-16T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep50</id><content type="html" xml:base="https://interaxion-podcast.github.io/50-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-03-16T21:36:02+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">50: Psycopath Data Creator</title><link href="https://interaxion-podcast.github.io/50" rel="alternate" type="text/html" title="50: Psycopath Data Creator" /><published>2023-03-16T00:00:00+09:00</published><updated>2023-03-16T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep50</id><content type="html" xml:base="https://interaxion-podcast.github.io/50"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
 <ul id="markdown-toc">
-  <li><a href="#50回振り返り" id="markdown-toc-50回振り返り">50回振り返り</a></li>
-  <li><a href="#12738-お知らせ" id="markdown-toc-12738-お知らせ">1:27:38 お知らせ</a></li>
-  <li><a href="#12851-50回を振り返って" id="markdown-toc-12851-50回を振り返って">1:28:51 50回を振り返って</a></li>
-  <li><a href="#12951-室温超伝導漫談" id="markdown-toc-12951-室温超伝導漫談">1:29:51 室温超伝導漫談</a></li>
+  <li><a href="#000-50回振り返り" id="markdown-toc-000-50回振り返り">0:00 50回振り返り</a></li>
+  <li><a href="#12739-お知らせ" id="markdown-toc-12739-お知らせ">1:27:39 お知らせ</a></li>
+  <li><a href="#12842-50回を振り返って" id="markdown-toc-12842-50回を振り返って">1:28:42 50回を振り返って</a></li>
+  <li><a href="#13008-室温超伝導漫談" id="markdown-toc-13008-室温超伝導漫談">1:30:08 室温超伝導漫談</a></li>
   <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
 </ul>
     <!-- https://stackoverflow.com/a/38419441/11480802 -->
@@ -14,7 +14,7 @@
 </details>
 <p><br /></p>
 
-<h3 id="50回振り返り">50回振り返り</h3>
+<h3 id="000-50回振り返り">0:00 50回振り返り</h3>
 
 <blockquote class="twitter-tweet tw-align-center">
   <p lang="zxx" dir="ltr"><a href="https://t.co/jaTvHQCyZZ">https://t.co/jaTvHQCyZZ</a></p>
@@ -43,15 +43,15 @@
   <li>Ep. 44 <a href="https://youtu.be/BWG_OOCRoQo">おジャ魔女カーニバル!!</a></li>
 </ul>
 
-<h3 id="12738-お知らせ">1:27:38 お知らせ</h3>
+<h3 id="12739-お知らせ">1:27:39 お知らせ</h3>
 
 <ul>
   <li><a href="https://jp.mercari.com/user/profile/743785552">ステッカー配布用メルカリ</a></li>
 </ul>
 
-<h3 id="12851-50回を振り返って">1:28:51 50回を振り返って</h3>
+<h3 id="12842-50回を振り返って">1:28:42 50回を振り返って</h3>
 
-<h3 id="12951-室温超伝導漫談">1:29:51 室温超伝導漫談</h3>
+<h3 id="13008-室温超伝導漫談">1:30:08 室温超伝導漫談</h3>
 
 <ul>
   <li>最新情報はぶひんブログをチェック！ <a href="https://buhin-blog.blogspot.com/2023/03/nature.html">室温超伝導ふたたび！～大丈夫、Natureの論文だよ！～</a></li>
@@ -84,10 +84,8 @@ Y を Yb に誤記して査読に回した話は<a href="https://amzn.to/3mo3pNb
   <li>神の手: <a href="https://ja.wikipedia.org/wiki/%E8%97%A4%E6%9D%91%E6%96%B0%E4%B8%80">藤村新一 - Wikipedia</a></li>
   <li>マジックマシーン: <a href="https://jorge.physics.ucsd.edu/nonmeasuredvoltage.html">How to measure a voltage without going to the lab</a></li>
   <li>EDX: <a href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%E5%88%86%E6%95%A3%E5%9E%8BX%E7%B7%9A%E5%88%86%E6%9E%90">エネルギー分散型X線分析 - Wikipedia</a></li>
-  <li>
-    <p><a href="https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%81%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC%E5%A4%A7%E5%AD%A6">ロチェスター大学 - Wikipedia</a><br />
-小柴昌俊(カミオカンデ)、崎田文二(超対称性理論)などを輩出</p>
-  </li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%81%E3%82%A7%E3%82%B9%E3%82%BF%E3%83%BC%E5%A4%A7%E5%AD%A6">ロチェスター大学 - Wikipedia</a><br />
+小柴昌俊(カミオカンデ)、崎田文二(超対称性理論)などを輩出</li>
   <li><a href="https://twitter.com/sgtmeeow/status/1633270237524299776">物々しいAPS会場</a></li>
 </ul>
 

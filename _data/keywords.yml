@@ -53,11 +53,11 @@
 
     ### 参考文献
 
-    - [1]: [オッカムの剃刀 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%83%E3%82%AB%E3%83%A0%E3%81%AE%E5%89%83%E5%88%80)
-    - [2]: [Inverse Occam’s razor - Nature Physics](https://www.nature.com/articles/s41567-022-01575-2)  
+    - [1] [オッカムの剃刀 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%83%E3%82%AB%E3%83%A0%E3%81%AE%E5%89%83%E5%88%80)
+    - [2] [Inverse Occam’s razor - Nature Physics](https://www.nature.com/articles/s41567-022-01575-2)  
       [arXiv: 2204.08284 Inverse Occam's razor](https://arxiv.org/abs/2204.08284)
-    - [3]: [拙著はリジェクト また…流れるでござるよ～逆オッカムの剃刀を使って論文を魅力的に～](https://buhin-blog.blogspot.com/2022/10/blog-post.html)
-    - [4]: [ハンロンの剃刀 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%AD%E3%83%B3%E3%81%AE%E5%89%83%E5%88%80)
+    - [3] [拙著はリジェクト また…流れるでござるよ～逆オッカムの剃刀を使って論文を魅力的に～](https://buhin-blog.blogspot.com/2022/10/blog-post.html)
+    - [4] [ハンロンの剃刀 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%AD%E3%83%B3%E3%81%AE%E5%89%83%E5%88%80)
 
 ##### さ #####
 - title: Geant4
@@ -77,6 +77,7 @@
     - [Geant4 - Wikipedia](https://ja.wikipedia.org/wiki/Geant4)
     - [Geant4_JP（@Geant4_JP）さん / Twitter](https://twitter.com/Geant4_JP)
     - [GEANT-3 - Wikipedia](https://en.wikipedia.org/wiki/GEANT-3)
+
 ##### た #####
 - title: トポロジカル絶縁体
   index: topological-insulator
@@ -94,11 +95,14 @@
 - title: ニュートリノフロア
   index: neutrino-floor
   definition: |
-    多くのダークマター直接探索実験の検出器はダークマターによる事象とニュートリノによる事象の区別が難しく、太陽からくるニュートリノがバックグラウンドとなり得る。太陽ニュートリノのエネルギースペクトルは[標準太陽モデル](https://astro-dic.jp/standard-solar-model/)によって予測できるが、その信号の数よりもダークマターの信号の数がよりも少ない場合、ダークマターの発見は困難になる。[[1]](https://physics.aps.org/articles/v14/96)の図の黄色の部分がニュートリノフロア (ニュートリノの床) と呼ばれる。  
+    多くのダークマター (DM) 直接探索実験の検出器はダークマターと原子核の衝突事象を観測するが、この事象とニュートリノが原子核と衝突した事象の区別が難しく、バックグラウンドとなり得る。これは可視光で言えば太陽の出ている日中や、満月の夜などに暗い星の観測が難しくなるのと同じである。  
+    このようなニュートリノ事象はニュートリノ-原子核コヒーレント弾性散乱 (coherent elastic neutrino nucleus scattering (CE𝜈NS: セヴンス)) と呼ばれ、低エネルギー側 (DM低質量側) では太陽ニュートリノが、高エネルギー側 (DM高質量側) では大気ニュートリノが支配的である。CE𝜈NS のエネルギースペクトルは[[1]](https://physics.aps.org/articles/v14/96)の図の黄色の部分のような形をしており、ニュートリノフロア (ニュートリノの床) と呼ばれる。  
     近年ダークマター実験の感度は向上しているがなかなかダークマターの発見に至らず、検出感度がニュートリノフロアに達しつつある。現状主流な大型実験 (XENON実験など)は方向感度を持たないが、方向感度を持つ (direction-sensitive) ような検出器 (DRIFT実験、NEWAGE実験、NEWS-dm実験など) を使えば太陽方向からのイベントがどうかを区別することが出来る。方向感度を持つ検出器は持たない検出器よりも現状では感度が低いが、ダークマターの発見をより強い根拠で実証するにはいずれ必要になるため、大型実験と並行して進められている。
-    
+
     ### 参考文献
-    - [1]: [Physics - Neutrinos Rising from the Floor](https://physics.aps.org/articles/v14/96)
+
+    - [1] [Physics - Neutrinos Rising from the Floor](https://physics.aps.org/articles/v14/96)
+
 - title: 脳内超伝導
   index: sc-in-brain
   definition: |
@@ -122,7 +126,6 @@
     ### 関連エピソード
 
     - [25: Mission Impossible - Interaxion Podcast](https://interaxion-podcast.github.io/25)
-
 
 - title: 光誘起超伝導
   index: light-induced-superconductivity

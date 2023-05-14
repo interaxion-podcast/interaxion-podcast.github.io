@@ -90,6 +90,14 @@
   index: DBD
   definition: |
     - [二重ベータ崩壊 - Wikipedia](https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%87%8D%E3%83%99%E3%83%BC%E3%82%BF%E5%B4%A9%E5%A3%8A)
+- title: ニュートリノフロア
+  index: neutrino-floor
+  definition: |
+    多くのダークマター直接探索実験の検出器はダークマターによる事象とニュートリノによる事象の区別が難しく、太陽からくるニュートリノがバックグラウンドとなり得る。太陽ニュートリノのエネルギースペクトルは[標準太陽モデル](https://astro-dic.jp/standard-solar-model/)によって予測できるが、その信号の数よりもダークマターの信号の数がよりも少ない場合、ダークマターの発見は困難になる。[[1]](https://physics.aps.org/articles/v14/96)の図の黄色の部分がニュートリノフロア (ニュートリノの床) と呼ばれる。  
+    近年ダークマター実験の感度は向上しているがなかなかダークマターの発見に至らず、検出感度がニュートリノフロアに達しつつある。現状主流な大型実験 (XENON実験など)は方向感度を持たないが、方向感度を持つ (direction-sensitive) ような検出器 (DRIFT実験、NEWAGE実験、NEWS-dm実験など) を使えば太陽方向からのイベントがどうかを区別することが出来る。方向感度を持つ検出器は持たない検出器よりも現状では感度が低いが、ダークマターの発見をより強い根拠で実証するにはいずれ必要になるため、大型実験と並行して進められている。
+    
+    ### 参考文献
+    - [1]: [Physics - Neutrinos Rising from the Floor](https://physics.aps.org/articles/v14/96)
 - title: 脳内超伝導
   index: sc-in-brain
   definition: |

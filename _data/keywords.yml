@@ -44,6 +44,20 @@
     ### 関連エピソード
 
     - [25: Mission Impossible - Interaxion Podcast](https://interaxion-podcast.github.io/25)
+- title: オッカムの逆刃刀
+  index: inverse-occam
+  definition: |
+    オッカムの剃刀は「「ある事柄を説明するためには、必要以上に多くを仮定するべきでない」とする指針」<sup>[1]</sup> で、物理学を初め多くの自然科学者によって共有されている。一方、逆オッカムの剃刀 (オッカムの逆刃刀) は「実験結果を説明するのにエキゾチックな仮定を導入する」というような行動原理で、
+    アメリカの物性物理学者 Igor Mazin は Nature Physics の記事<sup>[2]</sup>で警鐘を慣らしている。ぶひんブログ <sup>[3]</sup> に非常に詳しくまとまっているので参照されたい。  
+    (※オッカムの剃刀と名前が似ていて、[Rebuild Podcast](https://rebuild.fm/search?q=%E3%83%8F%E3%83%B3%E3%83%AD%E3%83%B3%E3%81%AE%E5%89%83%E5%88%80)でよく出てくるものにハンロンの剃刀がある。こちらは「無能で十分説明されることに悪意を見出すな」<sup>[4]</sup>というものである。)
+
+    ### 参考文献
+
+    - [1]: [オッカムの剃刀 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%83%E3%82%AB%E3%83%A0%E3%81%AE%E5%89%83%E5%88%80)
+    - [2]: [Inverse Occam’s razor - Nature Physics](https://www.nature.com/articles/s41567-022-01575-2)  
+      [arXiv: 2204.08284 Inverse Occam's razor](https://arxiv.org/abs/2204.08284)
+    - [3]: [拙著はリジェクト また…流れるでござるよ～逆オッカムの剃刀を使って論文を魅力的に～](https://buhin-blog.blogspot.com/2022/10/blog-post.html)
+    - [4]: [ハンロンの剃刀 - Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%AD%E3%83%B3%E3%81%AE%E5%89%83%E5%88%80)
 
 ##### さ #####
 - title: Geant4

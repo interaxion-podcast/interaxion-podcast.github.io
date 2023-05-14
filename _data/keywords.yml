@@ -45,6 +45,23 @@
 
     - [25: Mission Impossible - Interaxion Podcast](https://interaxion-podcast.github.io/25)
 
+##### さ #####
+- title: Geant4
+  index: geant4
+  definition: |
+    >Geant4(GEometry ANd Tracking)はモンテカルロ法を用いて「物質中における粒子の飛跡をシミュレーション」するためのプラットフォームである。
+    (Wikipedia)
+    素粒子・原子核物理実験においては検出器シミュレーションのデファクトスタンダードとなっており、放射線医学にも使われている。CERN や KEK などによって開発され、C++ で書かれている。前身の GEANT3 は FORTRAN77 で書かれていた<sup>[1]</sup>。ちなみに Geant4 は "Geant4" であり Geant の ver. 4 ではない。
+
+    ### 参考文献
+
+    - [1] [Geant4_JPさんはTwitterを使っています: 「Geant4は、C++でコーディングされています。GEANT3は、FORTRAN77でした。FORTRANとすべて大文字で表記します。GEANT4と書く人がいますが、Geant4と書いて欲しいです。FORTRANへの皮肉で、Geant4と大文字小文字を混ぜています。FORTRANは、大文字しか使えません。」 / Twitter](https://twitter.com/geant4_jp/status/1296019955788337153)
+    - [Geant4](https://geant4.web.cern.ch/)  
+      公式ページ
+    - [Geant4 - KEK](https://www.kek.jp/ja/Research/ARL/CRC/Geant4/)
+    - [Geant4 - Wikipedia](https://ja.wikipedia.org/wiki/Geant4)
+    - [Geant4_JP（@Geant4_JP）さん / Twitter](https://twitter.com/Geant4_JP)
+    - [GEANT-3 - Wikipedia](https://en.wikipedia.org/wiki/GEANT-3)
 ##### た #####
 - title: トポロジカル絶縁体
   index: topological-insulator

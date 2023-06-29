@@ -34,9 +34,15 @@
 - title: アクシオン
   index: axion
   definition: |
+    To be written.
 - title: 暗黒物質
   index: dark-matter
-  definition: |
+  definition: | 
+    To be written.
+- title: 暗黒物質探索
+  index: dark-matter-search
+  definition: | 
+    [暗黒物質 (ダークマター)](https://interaxion-podcast.github.io/keywords/dark-matter)の正体は未発見の粒子と考えられており、様々な方法で探索が行われている。
 - title: エフォート300%
   index: effort-300percent
   definition: |

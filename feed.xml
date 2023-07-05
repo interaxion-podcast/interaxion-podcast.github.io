@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-06-30T23:04:30+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">50.5: My Home as a Startup</title><link href="https://interaxion-podcast.github.io/50-5" rel="alternate" type="text/html" title="50.5: My Home as a Startup" /><published>2023-06-30T00:00:00+09:00</published><updated>2023-06-30T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep50.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/50-5"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-07-05T09:28:17+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">50.5: My Home as a Startup</title><link href="https://interaxion-podcast.github.io/50-5" rel="alternate" type="text/html" title="50.5: My Home as a Startup" /><published>2023-06-30T00:00:00+09:00</published><updated>2023-06-30T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep50.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/50-5"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -38,8 +38,8 @@
 
 <ul>
   <li>おか: 賃貸</li>
-  <li>ウスター: 注文住宅</li>
-  <li>うってぃ: 建売住宅</li>
+  <li>ウスター: 建売住宅</li>
+  <li>うってぃ: 注文住宅</li>
   <li>いっちぃ: マンション</li>
 </ul>
 

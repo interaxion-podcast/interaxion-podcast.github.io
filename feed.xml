@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-07-20T16:45:09+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">51: Brightest of All Time</title><link href="https://interaxion-podcast.github.io/51" rel="alternate" type="text/html" title="51: Brightest of All Time" /><published>2023-07-20T00:00:00+09:00</published><updated>2023-07-20T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep51</id><content type="html" xml:base="https://interaxion-podcast.github.io/51"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-07-21T18:44:53+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">51: Brightest of All Time</title><link href="https://interaxion-podcast.github.io/51" rel="alternate" type="text/html" title="51: Brightest of All Time" /><published>2023-07-21T00:00:00+09:00</published><updated>2023-07-21T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep51</id><content type="html" xml:base="https://interaxion-podcast.github.io/51"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -47,11 +47,11 @@
   <figure class="figure">
     <div style="text-align: center;">
 
-      <p><img src="assets/ep51-zenith_angle.jpg" alt="大天頂角と小天頂角の場合のチャレンコフ光" width="70%" /></p>
+      <p><img src="assets/ep51-zenith_angle.jpg" alt="大天頂角と小天頂角の場合のチェレンコフ光" width="70%" /></p>
 
     </div>
     <figcaption>
-      <p>大天頂角と小天頂角の場合のチャレンコフ光</p>
+      <p>大天頂角と小天頂角の場合のチェレンコフ光</p>
     </figcaption>
   </figure>
 
@@ -151,11 +151,7 @@
 <h3 id="15828-xenon-による-wimp-search">1:58:28 XENON による WIMP Search</h3>
 
 <ul>
-  <li><a href="https://arxiv.org/abs/2303.14729">arXiv:2303.14729 First Dark Matter Search with Nuclear Recoils from the XENONnT Experiment</a>
-    <ul>
-      <li><a href="https://journals.aps.org/prl/accepted/d2076Y88Pda1d48e49e646a6478726318213688b2">Physical Review Letters - Accepted Paper: First dark matter search with nuclear recoils from the XENONnT experiment</a></li>
-    </ul>
-  </li>
+  <li><a href="https://journals.aps.org/prl/accepted/d2076Y88Pda1d48e49e646a6478726318213688b2">Physical Review Letters - Accepted Paper: First dark matter search with nuclear recoils from the XENONnT experiment</a> (<a href="https://arxiv.org/abs/2303.14729">arXiv:2303.14729</a>)</li>
   <li><a href="https://www.kmi.nagoya-u.ac.jp/blog/2023/03/23/4880/">【研究成果】XENONnT実験による最初のWIMP暗黒物質探索の結果 - 名古屋大学 素粒子宇宙起源研究所（KMI）</a>
     <ul>
       <li><a href="https://www.ipmu.jp/ja/20230323-XENONnT">XENONnT実験による初のWIMP探索結果 - Kavli IPMU-カブリ数物連携宇宙研究機構</a></li>
@@ -191,7 +187,7 @@
   <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
   <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="宇宙線" /><category term="ダークマター" /><category term="ガンマ線天文学" /><summary type="html"><![CDATA[[いなだ](https://twitter.com/tomoinada0206)さんと[おか](https://twitter.com/nowohyeah)でダークマター間接探索、コライダーニュートリノ、ガンマ線バーストなどについて話しました。 (2023/04/30 収録)]]></summary></entry><entry><title type="html">50.5: My Home as a Startup</title><link href="https://interaxion-podcast.github.io/50-5" rel="alternate" type="text/html" title="50.5: My Home as a Startup" /><published>2023-06-30T00:00:00+09:00</published><updated>2023-06-30T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep50.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/50-5"><![CDATA[<details>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="宇宙線" /><category term="ダークマター" /><category term="ガンマ線天文学" /><category term="中国" /><summary type="html"><![CDATA[[いなだ](https://twitter.com/tomoinada0206)さんと[おか](https://twitter.com/nowohyeah)でダークマター間接探索、コライダーニュートリノ、ガンマ線バーストなどについて話しました。 (2023/04/30 収録)]]></summary></entry><entry><title type="html">50.5: My Home as a Startup</title><link href="https://interaxion-podcast.github.io/50-5" rel="alternate" type="text/html" title="50.5: My Home as a Startup" /><published>2023-06-30T00:00:00+09:00</published><updated>2023-06-30T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep50.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/50-5"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>

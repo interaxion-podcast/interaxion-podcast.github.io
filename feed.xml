@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-08-12T22:43:18+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">52:</title><link href="https://interaxion-podcast.github.io/52-draft" rel="alternate" type="text/html" title="52:" /><published>2023-08-12T00:00:00+09:00</published><updated>2023-08-12T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep52</id><content type="html" xml:base="https://interaxion-podcast.github.io/52-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-08-12T23:12:15+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">52:</title><link href="https://interaxion-podcast.github.io/52-draft" rel="alternate" type="text/html" title="52:" /><published>2023-08-12T00:00:00+09:00</published><updated>2023-08-12T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep52</id><content type="html" xml:base="https://interaxion-podcast.github.io/52-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -210,17 +210,20 @@ PACOシステム！<a href="https://www.researchgate.net/publication/257331153_P
   <li>「期待大ですが、何を以て超伝導認定していいのか未だによくわかりません」</li>
   <li>「超伝導素人の質問で大変恐縮ですが LK-99が室温超電導物質だったと仮定した場合 生活はどのようなものになると想定できますでしょうか？ 電線等には利用されてエネルギーロスが減ることは想定できるのですが、その他の活用が想定されるシーンや例えば逆に『電子機器の内部部品へ超電導は活用しにくい』などあれば教えていただけると幸いです。」</li>
   <li>「よくある超伝導体の磁気浮上では、冷やした超伝導体の上に磁石を浮かせますが、上下を逆にした時に超伝導体が固定されるとしたら、それは、ピン止め効果では無いようにおもいますが、本当に成立するんでしょうか？」
--（buka）またRedditですが、磁石の上に冷やした高温超伝導体(YBCO)を浮かせている動画がアップされています。<a href="https://www.reddit.com/r/LK99/comments/15i5kay/i_made_a_video_of_the_meissner_effect_w_a_small/">https://www.reddit.com/r/LK99/comments/15i5kay/i_made_a_video_of_the_meissner_effect_w_a_small/</a></li>
+    <ul>
+      <li>(buka) またRedditですが、磁石の上に冷やした高温超伝導体(YBCO)を浮かせている動画がアップされています。<a href="https://www.reddit.com/r/LK99/comments/15i5kay/i_made_a_video_of_the_meissner_effect_w_a_small/">https://www.reddit.com/r/LK99/comments/15i5kay/i_made_a_video_of_the_meissner_effect_w_a_small/</a></li>
+    </ul>
+  </li>
   <li>「LK-99で出来た避雷針を作れば雷発電とかできてしまうのでしょうか?」
     <ul>
       <li>(buka) 臨界電流や発生位置の特定などの条件による？<br />
-参考: https://www.jlpa.jp/measure/about_thunder.html<br />
-参考: https://web.quizknock.com/kaminari-hatsuden</li>
+参考: <a href="https://www.jlpa.jp/measure/about_thunder.html">https://www.jlpa.jp/measure/about_thunder.html</a><br />
+参考: <a href="https://web.quizknock.com/kaminari-hatsuden">https://web.quizknock.com/kaminari-hatsuden</a></li>
     </ul>
   </li>
   <li>「LK-99について質問です！ みなさんは、LK-99についてどのような評価をしているでしょうか？ 現時点で、以下の三つの項目について、確信度をそれぞれ挙げていただけますと幸いです。<br />
-①常温常圧超伝導、あるいはそれ以上の大発見
-②常温常圧超伝導ほどではないが、かなりの大発見
+①常温常圧超伝導、あるいはそれ以上の大発見<br />
+②常温常圧超伝導ほどではないが、かなりの大発見<br />
 ③なにかの間違い、あるいは捏造」</li>
   <li>「時系列順に、lk-99に対する期待度を0から10で評価してほしいです。あと例の完全浮遊の動画がフェイクでないと仮定したときの値も知りたいです。
 あと部品さんって何者なんですか？」</li>

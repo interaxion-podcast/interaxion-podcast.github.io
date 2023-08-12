@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-08-12T18:23:36+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">51.5: LK-99</title><link href="https://interaxion-podcast.github.io/51-5" rel="alternate" type="text/html" title="51.5: LK-99" /><published>2023-08-06T00:00:00+09:00</published><updated>2023-08-06T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep51.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/51-5"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-08-12T18:24:56+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">51.5: LK-99</title><link href="https://interaxion-podcast.github.io/51-5" rel="alternate" type="text/html" title="51.5: LK-99" /><published>2023-08-06T00:00:00+09:00</published><updated>2023-08-06T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep51.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/51-5"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -18,7 +18,7 @@
   <li>オリジナルの論文2本
     <ul>
       <li><a href="https://arxiv.org/abs/2307.12008">arXiv:2307.12008 The First Room-Temperature Ambient-Pressure Superconductor</a></li>
-      <li><a href="https://arxiv.org/abs/2307.12037">arXiv: 2307.12037 Superconductor Pb$_{10-x}$Cu$_x$(PO$_4$)$_6$O showing levitation at room temperature and atmospheric pressure and mechanism</a></li>
+      <li><a href="https://arxiv.org/abs/2307.12037">arXiv:2307.12037 Superconductor Pb$_{10-x}$Cu$_x$(PO$_4$)$_6$O showing levitation at room temperature and atmospheric pressure and mechanism</a></li>
     </ul>
   </li>
   <li>Science の記事
@@ -133,7 +133,7 @@
   <li>秋光先生部分のスクショ <a href="https://twitter.com/mevius31614591/status/1687363136163385344">https://twitter.com/mevius31614591/status/1687363136163385344</a></li>
 </ul>
 
-<blockquote class="twitter-tweet">
+<blockquote class="twitter-tweet tw-align-center">
   <p lang="ja" dir="ltr">気になったのはここだな…韓国チームは超伝導を低温や高圧により体積を縮ませることにより再現できると推論をたてただが似たような物質はもうすでにあったという… <a href="https://t.co/VttSjThXaK">pic.twitter.com/VttSjThXaK</a></p>
   <p>— 二郎 (@mevius31614591) <a href="https://twitter.com/mevius31614591/status/1687363136163385344?ref_src=twsrc%5Etfw">August 4, 2023</a></p>
 </blockquote>

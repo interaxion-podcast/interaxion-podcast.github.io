@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-08-12T18:15:52+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">51.5: LK-99</title><link href="https://interaxion-podcast.github.io/51-5" rel="alternate" type="text/html" title="51.5: LK-99" /><published>2023-08-06T00:00:00+09:00</published><updated>2023-08-06T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep51.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/51-5"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-08-12T18:23:36+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">51.5: LK-99</title><link href="https://interaxion-podcast.github.io/51-5" rel="alternate" type="text/html" title="51.5: LK-99" /><published>2023-08-06T00:00:00+09:00</published><updated>2023-08-06T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep51.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/51-5"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -21,9 +21,13 @@
       <li><a href="https://arxiv.org/abs/2307.12037">arXiv: 2307.12037 Superconductor Pb$_{10-x}$Cu$_x$(PO$_4$)$_6$O showing levitation at room temperature and atmospheric pressure and mechanism</a></li>
     </ul>
   </li>
-  <li>
-    <p>Scientific American の記事: <a href="https://www.scientificamerican.com/article/viral-new-superconductivity-claims-leave-many-scientists-skeptical/">Viral New Superconductivity Claims Leave Many Scientists Skeptical - Scientific American</a></p>
+  <li>Science の記事
+    <ul>
+      <li><a href="https://www.science.org/content/blog-post/breaking-superconductor-news">Breaking Superconductor News - Science - AAAS</a></li>
+      <li><a href="https://www.science.org/content/blog-post/room-temperature-superconductor-new-developments">A Room-Temperature Superconductor? New Developments - Science - AAAS</a></li>
+    </ul>
   </li>
+  <li>Scientific American の記事: <a href="https://www.scientificamerican.com/article/viral-new-superconductivity-claims-leave-many-scientists-skeptical/">Viral New Superconductivity Claims Leave Many Scientists Skeptical - Scientific American</a></li>
   <li>常温超伝導だと何がうれしいの？
     <ul>
       <li>NEDOプロジェクト, <a href="https://www.nedo.go.jp/activities/ZZJP_100120.html">高温超電導実用化促進技術開発</a>
@@ -76,12 +80,8 @@
       <li>ただし、やはりLK-99が磁性体ということになれば、あの組成でそんな磁性体になるのは自明ではないので面白い。</li>
     </ul>
   </li>
-  <li>patent
-    <ul>
-      <li>https://patents.google.com/patent/WO2023027536A1/en</li>
-    </ul>
-  </li>
-  <li>pubpeer, https://pubpeer.com/publications/82AF24DF343C16341B42CF36B22FA4
+  <li>LK-99の特許: <a href="https://patents.google.com/patent/WO2023027536A1/en">https://patents.google.com/patent/WO2023027536A1/en</a></li>
+  <li>Pubpeer, <a href="https://pubpeer.com/publications/82AF24DF343C16341B42CF36B22FA4">https://pubpeer.com/publications/82AF24DF343C16341B42CF36B22FA4</a>
     <ul>
       <li>以下引用
         <ul>
@@ -386,6 +386,8 @@ PACOシステム！<a href="https://www.researchgate.net/publication/257331153_P
   </li>
 </ul>
 
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1267554"></iframe>
+
 <blockquote class="twitter-tweet tw-align-center">
   <p lang="ja" dir="ltr">【動画やポッドキャストのBGMをお探しの方へ】<br /><br />サイトウが大量に制作したトラックの中から厳選された作品が、国内最大級の音源販売サイト Audiostock で販売開始されました。<br /><br />単品購入 or 定額制を選択可。<br />ぜひご活用ください！！<a href="https://t.co/7dSi0Mw6kG">https://t.co/7dSi0Mw6kG</a></p>
   <p>— サイトウナヲキ (@sai_enlightened) <a href="https://twitter.com/sai_enlightened/status/1542127615959392256?ref_src=twsrc%5Etfw">June 29, 2022</a></p>
@@ -555,6 +557,8 @@ PACOシステム！<a href="https://www.researchgate.net/publication/257331153_P
   </li>
 </ul>
 
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1267554"></iframe>
+
 <blockquote class="twitter-tweet tw-align-center">
   <p lang="ja" dir="ltr">【動画やポッドキャストのBGMをお探しの方へ】<br /><br />サイトウが大量に制作したトラックの中から厳選された作品が、国内最大級の音源販売サイト Audiostock で販売開始されました。<br /><br />単品購入 or 定額制を選択可。<br />ぜひご活用ください！！<a href="https://t.co/7dSi0Mw6kG">https://t.co/7dSi0Mw6kG</a></p>
   <p>— サイトウナヲキ (@sai_enlightened) <a href="https://twitter.com/sai_enlightened/status/1542127615959392256?ref_src=twsrc%5Etfw">June 29, 2022</a></p>
@@ -707,6 +711,8 @@ Y を Yb に誤記して査読に回した話は<a href="https://amzn.to/3mo3pNb
   </li>
 </ul>
 
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1267554"></iframe>
+
 <blockquote class="twitter-tweet tw-align-center">
   <p lang="ja" dir="ltr">【動画やポッドキャストのBGMをお探しの方へ】<br /><br />サイトウが大量に制作したトラックの中から厳選された作品が、国内最大級の音源販売サイト Audiostock で販売開始されました。<br /><br />単品購入 or 定額制を選択可。<br />ぜひご活用ください！！<a href="https://t.co/7dSi0Mw6kG">https://t.co/7dSi0Mw6kG</a></p>
   <p>— サイトウナヲキ (@sai_enlightened) <a href="https://twitter.com/sai_enlightened/status/1542127615959392256?ref_src=twsrc%5Etfw">June 29, 2022</a></p>
@@ -763,6 +769,8 @@ Y を Yb に誤記して査読に回した話は<a href="https://amzn.to/3mo3pNb
     </ul>
   </li>
 </ul>
+
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1267554"></iframe>
 
 <blockquote class="twitter-tweet tw-align-center">
   <p lang="ja" dir="ltr">【動画やポッドキャストのBGMをお探しの方へ】<br /><br />サイトウが大量に制作したトラックの中から厳選された作品が、国内最大級の音源販売サイト Audiostock で販売開始されました。<br /><br />単品購入 or 定額制を選択可。<br />ぜひご活用ください！！<a href="https://t.co/7dSi0Mw6kG">https://t.co/7dSi0Mw6kG</a></p>
@@ -1064,6 +1072,8 @@ Dias vs Hirsch の直接対決が期待される APS で一番アツいセッシ
     </ul>
   </li>
 </ul>
+
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1267554"></iframe>
 
 <blockquote class="twitter-tweet tw-align-center">
   <p lang="ja" dir="ltr">【動画やポッドキャストのBGMをお探しの方へ】<br /><br />サイトウが大量に制作したトラックの中から厳選された作品が、国内最大級の音源販売サイト Audiostock で販売開始されました。<br /><br />単品購入 or 定額制を選択可。<br />ぜひご活用ください！！<a href="https://t.co/7dSi0Mw6kG">https://t.co/7dSi0Mw6kG</a></p>

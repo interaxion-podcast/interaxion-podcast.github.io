@@ -1,9 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-08-12T23:12:15+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">52:</title><link href="https://interaxion-podcast.github.io/52-draft" rel="alternate" type="text/html" title="52:" /><published>2023-08-12T00:00:00+09:00</published><updated>2023-08-12T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep52</id><content type="html" xml:base="https://interaxion-podcast.github.io/52-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-08-19T12:13:41+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">52:</title><link href="https://interaxion-podcast.github.io/52-draft" rel="alternate" type="text/html" title="52:" /><published>2023-08-12T00:00:00+09:00</published><updated>2023-08-12T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep52</id><content type="html" xml:base="https://interaxion-podcast.github.io/52-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
 <ul id="markdown-toc">
-  <li><a href="#000" id="markdown-toc-000">0:00</a></li>
+  <li><a href="#000-自己紹介" id="markdown-toc-000-自己紹介">0:00 自己紹介</a></li>
+  <li><a href="#柿田さんの研究" id="markdown-toc-柿田さんの研究">柿田さんの研究</a></li>
+  <li><a href="#ラスベガスの一番熱い夜-aps2023参戦記" id="markdown-toc-ラスベガスの一番熱い夜-aps2023参戦記">ラスベガスの一番熱い夜 (APS2023参戦記)</a></li>
+  <li><a href="#コンテンツ" id="markdown-toc-コンテンツ">コンテンツ</a></li>
+  <li><a href="#tv出演" id="markdown-toc-tv出演">TV出演</a></li>
   <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
 </ul>
     <!-- https://stackoverflow.com/a/38419441/11480802 -->
@@ -11,7 +15,47 @@
 </details>
 <p><br /></p>
 
-<h3 id="000">0:00</h3>
+<h3 id="000-自己紹介">0:00 自己紹介</h3>
+
+<ul>
+  <li>スピントロニクスと部品さんの有名な逸話 <a href="https://buhin-blog.blogspot.com/2020/12/blog-post_19.html">転職のススメ - ぶひんブログ</a></li>
+</ul>
+
+<h3 id="柿田さんの研究">柿田さんの研究</h3>
+
+<ul>
+  <li><a href="https://cems.riken.jp/jp/laboratory/scprg">強相関物性研究グループ - 十倉 好紀 - 創発物性科学研究センター (CEMS) - 理化学研究所</a></li>
+  <li>ローレンツ電子顕微鏡法 → <a href="https://www.riken.jp/press/2019/20190314_1/index.html">磁区構造を可視化する新しい電子顕微鏡法 - 理化学研究所</a>
+    <blockquote>
+      <p>磁性体試料中を透過する電子線の進行方向が、試料の磁化からのローレンツ力を受けて偏向される様子を観察する電子顕微鏡技術。</p>
+    </blockquote>
+  </li>
+  <li>ジャロシンスキー-守谷相互作用 → <a href="https://ja.wikipedia.org/wiki/%E5%BC%B1%E5%BC%B7%E7%A3%81%E6%80%A7">弱強磁性 - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/RKKY%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8">RKKY相互作用 - Wikipedia</a></li>
+  <li><a href="https://www.nature.com/articles/nnano.2013.243">N. Nagaosa &amp; Y. Tokura, Topological properties and dynamics of magnetic skyrmions - Nature Nanotechnology</a></li>
+  <li>十倉好紀<a href="https://amzn.to/45fbIMK">『岩波講座 物理の世界 さまざまな物質系1 強相関電子と酸化物』</a></li>
+  <li><a href="https://www.riken.jp/press/2020/20201008_1/">創発電磁場によるインダクタ - 理化学研究所</a></li>
+  <li><a href="https://amzn.to/3mo3pNb">『高温超伝導の若きサムライたち: 日本人研究者の挑戦と奮闘の記録』</a></li>
+  <li><a href="https://www.sciencedirect.com/journal/journal-of-the-less-common-metals">Journal of the Less Common Metals - ScienceDirect.com by Elsevier</a></li>
+  <li><a href="https://berman-shoenberg.blogspot.com/">Common and Less Common Magnets and Metals</a></li>
+</ul>
+
+<h3 id="ラスベガスの一番熱い夜-aps2023参戦記">ラスベガスの一番熱い夜 (APS2023参戦記)</h3>
+
+<ul>
+  <li><a href="https://interaxion-podcast.github.io/49">Interaxion 49: The Hottest Night in Las Vegas</a></li>
+</ul>
+
+<h3 id="コンテンツ">コンテンツ</h3>
+
+<ul>
+  <li><a href="https://dr-takeda.hatenablog.com/">脳外科医 竹田くん</a></li>
+  <li><a href="https://amzn.to/45cV8Nt">吉川一義訳『失われた時を求めて』</a></li>
+  <li><a href="https://amzn.to/3La9UN9">高遠弘美訳『失われた時を求めて』</a></li>
+  <li><a href="https://amzn.to/3KOotFE">鈴木道彦訳『失われた時を求めて』</a></li>
+</ul>
+
+<h3 id="tv出演">TV出演</h3>
 
 <h3 id="お知らせ">お知らせ</h3>
 

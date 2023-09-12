@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-09-11T23:48:55+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">53:</title><link href="https://interaxion-podcast.github.io/53-draft" rel="alternate" type="text/html" title="53:" /><published>2023-09-11T00:00:00+09:00</published><updated>2023-09-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep53</id><content type="html" xml:base="https://interaxion-podcast.github.io/53-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-09-12T13:00:06+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">53: Take An Entrance Exam (With My Non-dominant Hand)</title><link href="https://interaxion-podcast.github.io/53-draft" rel="alternate" type="text/html" title="53: Take An Entrance Exam (With My Non-dominant Hand)" /><published>2023-09-11T00:00:00+09:00</published><updated>2023-09-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep53</id><content type="html" xml:base="https://interaxion-podcast.github.io/53-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -7,8 +7,10 @@
   <li><a href="#しゃもとろん氏の半生" id="markdown-toc-しゃもとろん氏の半生">しゃもとろん氏の半生</a></li>
   <li><a href="#アインシュタインロマン" id="markdown-toc-アインシュタインロマン">アインシュタインロマン</a></li>
   <li><a href="#なんとか通信団" id="markdown-toc-なんとか通信団">なんとか通信団</a></li>
-  <li><a href="#ラジオポッドキャスト" id="markdown-toc-ラジオポッドキャスト">ラジオ、ポッドキャスト</a></li>
-  <li><a href="#twitterがやばい" id="markdown-toc-twitterがやばい">Twitterがやばい</a></li>
+  <li><a href="#10813-ラジオポッドキャスト" id="markdown-toc-10813-ラジオポッドキャスト">1:08:13 ラジオ、ポッドキャスト</a></li>
+  <li><a href="#11909-twitterがやばい" id="markdown-toc-11909-twitterがやばい">1:19:09 Twitterがやばい</a></li>
+  <li><a href="#12815-大阪" id="markdown-toc-12815-大阪">1:28:15 大阪</a></li>
+  <li><a href="#13216-半導体とかの本" id="markdown-toc-13216-半導体とかの本">1:32:16 半導体とかの本</a></li>
   <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
 </ul>
     <!-- https://stackoverflow.com/a/38419441/11480802 -->
@@ -22,7 +24,7 @@
   <li>Interaxion のリスナーが急増した Researchat さんの tweet</li>
 </ul>
 
-<blockquote class="twitter-tweet">
+<blockquote class="twitter-tweet tw-align-center">
   <p lang="ja" dir="ltr">物理系の人たちがやっているポッドキャスト。Scrapboxに編集後記なんかがあって良い。Shownotesも盛りだくさん。研究者系ポッドキャストもジワリと増えてきている。<a href="https://twitter.com/hashtag/interaxion?src=hash&amp;ref_src=twsrc%5Etfw">#interaxion</a> <a href="https://t.co/kUmvwfkoQ8">https://t.co/kUmvwfkoQ8</a></p>
   <p>— Researchat/研究雑談Podcast🧐🔬🦠🎙 (@researchat_fm) <a href="https://twitter.com/researchat_fm/status/1303720322575659009?ref_src=twsrc%5Etfw">September 9, 2020</a></p>
 </blockquote>
@@ -38,9 +40,7 @@
 <ul>
   <li><a href="https://www.kyoto-art.ac.jp/">京都芸術大学</a></li>
   <li><a href="https://www.iamas.ac.jp/">情報科学芸術大学院大学 [IAMAS] ｜ Institute of Advanced Media Arts and Sciences</a></li>
-  <li>
-    <p><a href="https://www.kcg.edu/">京都情報大学院大学 - 日本最初のIT専門職大学院</a></p>
-  </li>
+  <li><a href="https://www.kcg.edu/">京都情報大学院大学 - 日本最初のIT専門職大学院</a></li>
   <li><a href="https://amzn.to/44LQ6Gv">転圧機</a></li>
   <li><a href="https://polaris-hs.jp/zisyo_syosai/tyohari.html">丁張りとは【住宅建築用語の意味】</a></li>
   <li><a href="https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85">電気主任技術者 - Wikipedia</a></li>
@@ -50,7 +50,7 @@
   <li><a href="https://ja.wikipedia.org/wiki/%E8%A8%88%E8%A3%85%E5%A3%AB">計装士 - Wikipedia</a></li>
   <li><a href="https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB">電気工事士 - Wikipedia</a></li>
   <li><a href="https://www.jsme.or.jp/cee/about">CAE技術者とは - 計算力学技術者（CAE技術者）の資格認定</a></li>
-  <li><a href="https://www.google.com/search?q=%E5%8B%9D%E3%81%A1%E3%81%9F%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E6%B0%97%E6%8C%81%E3%81%A1%E3%81%99%E3%82%89%E9%82%AA%E5%BF%B5">勝ちたいという気持ちすら邪念 - Google 検索</a></li>
+  <li><a href="https://www.google.com/search?q=%E5%8B%9D%E3%81%A1%E3%81%9F%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E6%B0%97%E6%8C%81%E3%81%A1%E3%81%99%E3%82%89%E9%82%AA%E5%BF%B5">勝ちたいという気持ちすら邪念 - Google 検索</a> … 吉田沙保里らしい</li>
 </ul>
 
 <h3 id="アインシュタインロマン">アインシュタインロマン</h3>
@@ -63,10 +63,10 @@
     </ul>
   </li>
   <li><a href="https://amzn.to/44KPzVp">『砂時計』</a></li>
-  <li><a href="https://twitter.com/monkey_across/status/1662750925960908801">Xユーザーのにいがたさくら@小話する人さん: 「バブルの頃、過疎の町・島根県大田市仁摩町はどうにかして町をアピールしたかった。 だが地元が誇れるものは鳴き砂の浜くらい。 それなら世界一の砂時計でも作れないか？ 前代未聞の大きさ。数々の困難があった。 だが、困難を乗り越え、3年の歳月をかけて完成。 ちなみに砂は山形県のを使っている https://t.co/Pu07jutI8p」 / X</a></li>
+  <li>砂時計の話をしていた X のスレ <a href="https://twitter.com/monkey_across/status/1662750925960908801">にいがたさくら@小話する人さん / X</a></li>
 </ul>
 
-<blockquote class="twitter-tweet">
+<blockquote class="twitter-tweet tw-align-center">
   <p lang="ja" dir="ltr">バブルの頃、過疎の町・島根県大田市仁摩町はどうにかして町をアピールしたかった。<br /><br />だが地元が誇れるものは鳴き砂の浜くらい。<br />それなら世界一の砂時計でも作れないか？<br /><br />前代未聞の大きさ。数々の困難があった。<br />だが、困難を乗り越え、3年の歳月をかけて完成。<br /><br />ちなみに砂は山形県のを使っている <a href="https://t.co/Pu07jutI8p">pic.twitter.com/Pu07jutI8p</a></p>
   <p>— にいがたさくら@小話する人 (@monkey_across) <a href="https://twitter.com/monkey_across/status/1662750925960908801?ref_src=twsrc%5Etfw">May 28, 2023</a></p>
 </blockquote>
@@ -91,29 +91,80 @@
   <li><a href="https://techbookfest.org/">技術書典：技術書オンリーイベント</a></li>
 </ul>
 
-<h3 id="ラジオポッドキャスト">ラジオ、ポッドキャスト</h3>
+<h3 id="10813-ラジオポッドキャスト">1:08:13 ラジオ、ポッドキャスト</h3>
 
 <ul>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%8A%E3%82%A4%E3%83%84">ミリオンナイツ - Wikipedia</a>
+    <ul>
+      <li><a href="https://voicy.jp/channel/2111">赤坂泰彦「赤坂泰彦のラジオグラフィティー/TALK&amp;SOUL、声の落書き、大人の深夜放送！」/ Voicy - 音声プラットフォーム</a></li>
+    </ul>
+  </li>
   <li><a href="https://ja.wikipedia.org/wiki/%E6%94%BE%E9%80%81%E5%AE%A4_(%E3%83%A9%E3%82%B8%E3%82%AA%E7%95%AA%E7%B5%84)">放送室 (ラジオ番組) - Wikipedia</a></li>
-  <li>赤坂泰彦のミリオンナイツ</li>
-  <li>CPUを創ろう</li>
+  <li><a href="https://backspace.fm/">backspace.fm</a></li>
+  <li><a href="https://youtu.be/KH3MLxDYGHI">Mac用のmixiブラウザMixiDock Drikin（ドリキン）さん作成のアプリ - ジェットダイスケ/JETDAISUKE</a></li>
+  <li><a href="https://rebuild.fm/">Rebuild - Podcast by Tatsuhiko Miyagawa</a></li>
+  <li><a href="https://bilingualnews.jp/">バイリンガルニュース - BILINGUALNEWS</a></li>
+  <li><a href="https://listen.style/p/kennaka/yck4zrhc">#67 こんなPodcastプレイヤーがほしい - 研エンの仲 - LISTEN</a></li>
 </ul>
 
-<h3 id="twitterがやばい">Twitterがやばい</h3>
+<h3 id="11909-twitterがやばい">1:19:09 Twitterがやばい</h3>
 
 <ul>
-  <li><a href="https://amzn.to/46yAit2">ゼロからのOS自作入門</a></li>
-  <li><a href="https://amzn.to/3JI0wzg">lsを読まずにプログラマを名乗るな！</a></li>
-  <li><a href="https://amzn.to/445G03V">熱血!アセンブラ入門</a></li>
+  <li><a href="https://blueskyweb.xyz/">Bluesky</a></li>
+  <li><a href="https://mstdn.guru/about">mstdn.guru - グルドン</a></li>
+  <li><a href="https://misskey.io/">Misskey.io</a></li>
+  <li><a href="https://www.tumblr.com/">Today on Tumblr</a></li>
   <li>
-    <p><a href="https://amzn.to/3pt9nhB">大熱血! アセンブラ入門</a></p>
+    <table>
+      <tbody>
+        <tr>
+          <td>[忘れ去られた「Tumblr」に復活の兆し──大手SNSに疲れたZ世代の避難場所として利用急増</td>
+          <td>DIAMOND SIGNAL](https://signal.diamond.jp/articles/-/1035)</td>
+        </tr>
+      </tbody>
+    </table>
   </li>
   <li>oka が使ってた Tumblr アカウントを発掘した
     <ul>
-      <li><a href="https://www.tumblr.com/blog/nowohyeah-blog">https://www.tumblr.com/blog/nowohyeah-blog</a></li>
-      <li><a href="https://www.tumblr.com/blog/oka-ny-blog">https://www.tumblr.com/blog/oka-ny-blog</a></li>
+      <li><a href="https://nowohyeah-blog.tumblr.com/">https://nowohyeah-blog.tumblr.com/</a></li>
+      <li><a href="https://oka-ny-blog.tumblr.com/">https://oka-ny-blog.tumblr.com/</a></li>
     </ul>
   </li>
+</ul>
+
+<h3 id="12815-大阪">1:28:15 大阪</h3>
+
+<ul>
+  <li><a href="https://www.sasabegazai.co.jp/">株式会社笹部洋画材料店</a></li>
+  <li><a href="https://www.donki.com/kanransha/">観覧車に乗るなら、道頓堀大観覧車えびすタワー｜大阪にあるドン・キホーテ道頓堀店の観覧車</a></li>
+  <li><a href="https://namba.keizai.biz/column/40/">世界驚愕「道頓堀プール」の詳細を徹底解説 年間100万人の来場で、国内全域に波及効果 - なんば経済新聞</a></li>
+  <li>全然関係ないが1990年の道頓堀かっこいい</li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">1990年、道頓堀 <a href="https://t.co/yFxRwzeLzg">pic.twitter.com/yFxRwzeLzg</a></p>
+  <p>— ちょっと昔の日本の景色bot (@japan80to00) <a href="https://twitter.com/japan80to00/status/1683340780834897921?ref_src=twsrc%5Etfw">July 24, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h3 id="13216-半導体とかの本">1:32:16 半導体とかの本</h3>
+
+<ul>
+  <li>部品さんおすすめの半導体本</li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">●そもそも半導体ってナニ？<a href="https://t.co/PmFLsOtkHQ">https://t.co/PmFLsOtkHQ</a><br />●ビジネス・政治・歴史的背景<a href="https://t.co/GKaBZFEbDb">https://t.co/GKaBZFEbDb</a><a href="https://t.co/WN65ZLffF4">https://t.co/WN65ZLffF4</a><br />●技術的背景、全体の流れ<a href="https://t.co/33hPILF78x">https://t.co/33hPILF78x</a><a href="https://t.co/hrQEoSDau2">https://t.co/hrQEoSDau2</a><a href="https://t.co/xCiXLfIpZK">https://t.co/xCiXLfIpZK</a><br />他、この辺の図解雑学系。詳細は実務による<br /><br />この辺かな？</p>
+  <p>— 部品（森七菜） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1657715502175879170?ref_src=twsrc%5Etfw">May 14, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li><a href="https://amzn.to/3PxhFPE">CPUの創りかた</a></li>
+  <li><a href="https://amzn.to/46yAit2">ゼロからのOS自作入門</a></li>
+  <li><a href="https://amzn.to/3JI0wzg">lsを読まずにプログラマを名乗るな！</a></li>
+  <li><a href="https://amzn.to/445G03V">熱血!アセンブラ入門</a></li>
+  <li><a href="https://amzn.to/3pt9nhB">大熱血! アセンブラ入門</a></li>
 </ul>
 
 <h3 id="お知らせ">お知らせ</h3>
@@ -122,16 +173,7 @@
   <li><a href="https://store.line.me/stickershop/product/20651080/ja">ニムニムスタンプ</a></li>
   <li>エンディング BGM 変わりました
     <ul>
-      <li>
-        <table>
-          <tbody>
-            <tr>
-              <td>[夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV]</td>
-              <td>Audiostock(オーディオストック)](https://audiostock.jp/audio/1409484)</td>
-            </tr>
-          </tbody>
-        </table>
-      </li>
+      <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
       <li>曲名: 弓</li>
     </ul>
   </li>
@@ -153,7 +195,7 @@
   <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
   <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><summary type="html"><![CDATA[[しゃもとろん](https://twitter.com/)さんと[おか](https://twitter.com/nowohyeah)でなどについて話しました。 (2023/ 収録)]]></summary></entry><entry><title type="html">52: Cold Roger</title><link href="https://interaxion-podcast.github.io/52" rel="alternate" type="text/html" title="52: Cold Roger" /><published>2023-08-26T00:00:00+09:00</published><updated>2023-08-26T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep52</id><content type="html" xml:base="https://interaxion-podcast.github.io/52"><![CDATA[<details>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="半導体" /><category term="大阪" /><summary type="html"><![CDATA[[しゃもとろん](https://twitter.com/shamotron)さんと[おか](https://twitter.com/nowohyeah)でアインシュタインロマン、ラジオとポッドキャスト、半導体業界入門などについて話しました。 (2023/07/02 収録)]]></summary></entry><entry><title type="html">52: Cold Roger</title><link href="https://interaxion-podcast.github.io/52" rel="alternate" type="text/html" title="52: Cold Roger" /><published>2023-08-26T00:00:00+09:00</published><updated>2023-08-26T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep52</id><content type="html" xml:base="https://interaxion-podcast.github.io/52"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>

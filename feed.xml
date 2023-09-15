@@ -1,212 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-09-15T23:40:06+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">53: Dialogue with the Einstein Puppet</title><link href="https://interaxion-podcast.github.io/53" rel="alternate" type="text/html" title="53: Dialogue with the Einstein Puppet" /><published>2023-09-14T00:00:00+09:00</published><updated>2023-09-14T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep53</id><content type="html" xml:base="https://interaxion-podcast.github.io/53"><![CDATA[<details>
-  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
-  <summary>目次</summary>
-  <nav>
-<ul id="markdown-toc">
-  <li><a href="#000-アイス食べていいですか" id="markdown-toc-000-アイス食べていいですか">0:00 アイス食べていいですか</a></li>
-  <li><a href="#しゃもとろん氏の半生" id="markdown-toc-しゃもとろん氏の半生">しゃもとろん氏の半生</a></li>
-  <li><a href="#アインシュタインロマン" id="markdown-toc-アインシュタインロマン">アインシュタインロマン</a></li>
-  <li><a href="#なんとか通信団" id="markdown-toc-なんとか通信団">なんとか通信団</a></li>
-  <li><a href="#10813-ラジオポッドキャスト" id="markdown-toc-10813-ラジオポッドキャスト">1:08:13 ラジオ、ポッドキャスト</a></li>
-  <li><a href="#11909-twitterがやばい" id="markdown-toc-11909-twitterがやばい">1:19:09 Twitterがやばい</a></li>
-  <li><a href="#12815-大阪" id="markdown-toc-12815-大阪">1:28:15 大阪</a></li>
-  <li><a href="#13216-半導体とかの本" id="markdown-toc-13216-半導体とかの本">1:32:16 半導体とかの本</a></li>
-  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
-</ul>
-    <!-- https://stackoverflow.com/a/38419441/11480802 -->
-  </nav>
-</details>
-<p><br /></p>
-
-<h3 id="000-アイス食べていいですか">0:00 アイス食べていいですか</h3>
-
-<ul>
-  <li>Interaxion のリスナーが急増した <a href="https://twitter.com/researchat_fm/status/1303720322575659009">Researchat さんの tweet</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">物理系の人たちがやっているポッドキャスト。Scrapboxに編集後記なんかがあって良い。Shownotesも盛りだくさん。研究者系ポッドキャストもジワリと増えてきている。<a href="https://twitter.com/hashtag/interaxion?src=hash&amp;ref_src=twsrc%5Etfw">#interaxion</a> <a href="https://t.co/kUmvwfkoQ8">https://t.co/kUmvwfkoQ8</a></p>
-  <p>— Researchat/研究雑談Podcast🧐🔬🦠🎙 (@researchat_fm) <a href="https://twitter.com/researchat_fm/status/1303720322575659009?ref_src=twsrc%5Etfw">September 9, 2020</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%B3%E3%83%80%E3%83%BBN-BOX">ホンダ・N-BOX - Wikipedia</a></li>
-  <li><a href="https://www.youtube.com/channel/UC9WJo5ZJVXMZiA5XV2jLx5Q">吉田製作所 - YouTube</a></li>
-</ul>
-
-<h3 id="しゃもとろん氏の半生">しゃもとろん氏の半生</h3>
-
-<ul>
-  <li><a href="https://www.kyoto-art.ac.jp/">京都芸術大学</a></li>
-  <li><a href="https://partner-web.jp/article/?id=2043">美大愛好家的「京都芸術大学問題」まとめ</a></li>
-  <li><a href="https://www.iamas.ac.jp/">情報科学芸術大学院大学 [IAMAS] ｜ Institute of Advanced Media Arts and Sciences</a></li>
-  <li><a href="https://www.kcg.edu/">京都情報大学院大学 - 日本最初のIT専門職大学院</a></li>
-  <li><a href="https://amzn.to/44LQ6Gv">転圧機</a></li>
-  <li><a href="https://polaris-hs.jp/zisyo_syosai/tyohari.html">丁張りとは【住宅建築用語の意味】</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85">電気主任技術者 - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3">ファクトリーオートメーション - Wikipedia</a></li>
-  <li><a href="https://www.sbbit.jp/article/cont1/44909">PLCとは何かをマンガでもわかりやすく解説、シーケンサとは？ 種類やメーカーは？ ｜ビジネス+IT</a></li>
-  <li>左手で美大受験</li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E8%A8%88%E8%A3%85%E5%A3%AB">計装士 - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB">電気工事士 - Wikipedia</a></li>
-  <li><a href="https://www.jsme.or.jp/cee/about">CAE技術者とは - 計算力学技術者（CAE技術者）の資格認定</a></li>
-  <li><a href="https://www.google.com/search?q=%E5%8B%9D%E3%81%A1%E3%81%9F%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E6%B0%97%E6%8C%81%E3%81%A1%E3%81%99%E3%82%89%E9%82%AA%E5%BF%B5">勝ちたいという気持ちすら邪念 - Google 検索</a> … 吉田沙保里らしい</li>
-</ul>
-
-<h3 id="アインシュタインロマン">アインシュタインロマン</h3>
-
-<ul>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%AD%E3%83%9E%E3%83%B3">アインシュタインロマン - Wikipedia</a>
-    <ul>
-      <li><a href="https://amzn.to/488S8Dw">NHKスペシャル アインシュタインロマン DVD-BOX</a></li>
-      <li><a href="https://www2.nhk.or.jp/archives/movies/?id=D0009010375_00000">ＮＨＫスペシャル　アインシュタインロマン｜番組｜NHKアーカイブス</a></li>
-    </ul>
-  </li>
-  <li>サイエンスZERO と国立天文台
-    <ul>
-      <li><a href="https://www.nhk.jp/p/zero/ts/XK5VKV7V98/blog/bl/pkOaDjjMay/bp/p65LZdrBXb/">スペシャル座談会　天文学者の”夢”と”現実”「仕事の悩みは人間関係…!?」 - サイエンスZERO - NHK</a>
-        <blockquote>
-          <p>ＮＨＫでやっていた『アインシュタインロマン』も私にものすごい大きな影響を与えました。アインシュタインは、この世の物理の法則は「創造者がいる」としか思えないぐらいあまりにも美しいと考え、最終的には神を信じるようになったと番組で言っていました。そういう境地に自分も至ってみたいなと思ったのです。</p>
-        </blockquote>
-      </li>
-      <li><a href="https://gendai.media/articles/-/89513">「仕事の悩みは人間関係…!?」トップ天文学者たちが語る“夢”と“現実”（サイエンスZERO） - 現代ビジネス - 講談社</a></li>
-    </ul>
-  </li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AC%E3%83%B4%E3%82%A1%E3%83%BB%E3%83%9E%E3%83%AA%E3%83%83%E3%83%81">ミレヴァ・マリッチ - Wikipedia</a>
-    <blockquote>
-      <p>ノーベル賞の賞金については、2人の息子のための信託とし、ミレヴァはその利子を使うことはできるが、アインシュタインの許可がなければ元金を取り崩すことはできないという条件で、示談が成立した</p>
-    </blockquote>
-  </li>
-  <li><a href="https://amzn.to/44KPzVp">『砂時計』</a></li>
-  <li>砂時計の話をしていた X のスレ <a href="https://twitter.com/monkey_across/status/1662750925960908801">にいがたさくら@小話する人さん / X</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">バブルの頃、過疎の町・島根県大田市仁摩町はどうにかして町をアピールしたかった。<br /><br />だが地元が誇れるものは鳴き砂の浜くらい。<br />それなら世界一の砂時計でも作れないか？<br /><br />前代未聞の大きさ。数々の困難があった。<br />だが、困難を乗り越え、3年の歳月をかけて完成。<br /><br />ちなみに砂は山形県のを使っている <a href="https://t.co/Pu07jutI8p">pic.twitter.com/Pu07jutI8p</a></p>
-  <p>— にいがたさくら@小話する人 (@monkey_across) <a href="https://twitter.com/monkey_across/status/1662750925960908801?ref_src=twsrc%5Etfw">May 28, 2023</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%BC%E3%83%95%E3%82%BD%E3%83%B3">ブライアン・ジョゼフソン - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%BB%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA">ロジャー・ペンローズ - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E5%8B%9D%E5%BD%A6_(%E7%89%A9%E7%90%86%E5%AD%A6%E8%80%85)">佐藤勝彦 (物理学者) - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%9B%85%E5%BD%A6_(%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%AF%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC)">佐藤雅彦 (メディアクリエーター) - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E6%96%87%E9%9A%86">佐藤文隆 - Wikipedia</a></li>
-  <li><a href="https://www.asahi.com/articles/ASR7V6J7JR7VUCVL022.html">NHKに意見1千件　「鎌倉殿」など容疑者ら出演作の配信停止解除へ：朝日新聞デジタル</a></li>
-</ul>
-
-<h3 id="なんとか通信団">なんとか通信団</h3>
-
-<ul>
-  <li><a href="https://ankokudan.org/d/">暗黒通信団 -The Darkside Communication Group-</a></li>
-  <li><a href="https://herumi.github.io/prml/">『パターン認識と機械学習の学習 普及版』（PDF）</a></li>
-  <li><a href="https://comiaca.com/">東大生オンリー同人誌即売会 コミックアカデミー公式HP</a></li>
-  <li><a href="https://www.comitia.co.jp/html/about.html">COMITIA</a></li>
-  <li><a href="https://techbookfest.org/">技術書典：技術書オンリーイベント</a></li>
-  <li><a href="https://interaxion-podcast.github.io/26">Interaxion 26: A Postdoc Called “It”</a><br />
-ながなおさんが月刊ポスドクに寄稿した話をしてくれた回。</li>
-</ul>
-
-<h3 id="10813-ラジオポッドキャスト">1:08:13 ラジオ、ポッドキャスト</h3>
-
-<ul>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%8A%E3%82%A4%E3%83%84">ミリオンナイツ - Wikipedia</a>
-    <ul>
-      <li><a href="https://voicy.jp/channel/2111">赤坂泰彦「赤坂泰彦のラジオグラフィティー/TALK&amp;SOUL、声の落書き、大人の深夜放送！」/ Voicy - 音声プラットフォーム</a></li>
-    </ul>
-  </li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E6%94%BE%E9%80%81%E5%AE%A4_(%E3%83%A9%E3%82%B8%E3%82%AA%E7%95%AA%E7%B5%84)">放送室 (ラジオ番組) - Wikipedia</a></li>
-  <li><a href="https://backspace.fm/">backspace.fm</a></li>
-  <li><a href="https://youtu.be/KH3MLxDYGHI">Mac用のmixiブラウザMixiDock Drikin（ドリキン）さん作成のアプリ - ジェットダイスケ/JETDAISUKE</a></li>
-  <li><a href="https://rebuild.fm/">Rebuild - Podcast by Tatsuhiko Miyagawa</a></li>
-  <li><a href="https://bilingualnews.jp/">バイリンガルニュース - BILINGUALNEWS</a></li>
-  <li><a href="https://listen.style/p/kennaka/yck4zrhc">#67 こんなPodcastプレイヤーがほしい - 研エンの仲 - LISTEN</a></li>
-  <li>oka 作の技術系ポッドキャストがランダムに出るようにしたポッドキャストプレイヤー (更新してないけど久しぶりに使ってみたら面白かった) <a href="https://pn11.github.io/unintentional-podcast-player/">https://pn11.github.io/unintentional-podcast-player/</a></li>
-</ul>
-
-<h3 id="11909-twitterがやばい">1:19:09 Twitterがやばい</h3>
-
-<ul>
-  <li><a href="https://news.yahoo.co.jp/expert/articles/63f5ab452c1edc4657bb105e77c2a66d4fc0170b">Twitter無料ユーザーは1日600件までしか見られない。API制限は不具合ではなく一時的な仕様に（篠原修司） - エキスパート - Yahoo!ニュース</a></li>
-  <li><a href="https://blueskyweb.xyz/">Bluesky</a></li>
-  <li><a href="https://mstdn.guru/about">mstdn.guru - グルドン</a></li>
-  <li><a href="https://misskey.io/">Misskey.io</a></li>
-  <li><a href="https://www.tumblr.com/">Today on Tumblr</a></li>
-  <li><a href="https://signal.diamond.jp/articles/-/1035">忘れ去られた「Tumblr」に復活の兆し──大手SNSに疲れたZ世代の避難場所として利用急増 - DIAMOND SIGNAL</a></li>
-  <li>oka が使ってた Tumblr アカウントを発掘した
-    <ul>
-      <li><a href="https://nowohyeah-blog.tumblr.com/">https://nowohyeah-blog.tumblr.com/</a></li>
-      <li><a href="https://oka-ny-blog.tumblr.com/">https://oka-ny-blog.tumblr.com/</a></li>
-    </ul>
-  </li>
-</ul>
-
-<h3 id="12815-大阪">1:28:15 大阪</h3>
-
-<ul>
-  <li><a href="https://www.sasabegazai.co.jp/">株式会社笹部洋画材料店</a></li>
-  <li><a href="https://www.donki.com/kanransha/">観覧車に乗るなら、道頓堀大観覧車えびすタワー｜大阪にあるドン・キホーテ道頓堀店の観覧車</a></li>
-  <li><a href="https://namba.keizai.biz/column/40/">世界驚愕「道頓堀プール」の詳細を徹底解説 年間100万人の来場で、国内全域に波及効果 - なんば経済新聞</a></li>
-  <li>全然関係ないが1990年の道頓堀かっこいい</li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">1990年、道頓堀 <a href="https://t.co/yFxRwzeLzg">pic.twitter.com/yFxRwzeLzg</a></p>
-  <p>— ちょっと昔の日本の景色bot (@japan80to00) <a href="https://twitter.com/japan80to00/status/1683340780834897921?ref_src=twsrc%5Etfw">July 24, 2023</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<h3 id="13216-半導体とかの本">1:32:16 半導体とかの本</h3>
-
-<ul>
-  <li>部品さんおすすめの半導体本</li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">●そもそも半導体ってナニ？<a href="https://t.co/PmFLsOtkHQ">https://t.co/PmFLsOtkHQ</a><br />●ビジネス・政治・歴史的背景<a href="https://t.co/GKaBZFEbDb">https://t.co/GKaBZFEbDb</a><a href="https://t.co/WN65ZLffF4">https://t.co/WN65ZLffF4</a><br />●技術的背景、全体の流れ<a href="https://t.co/33hPILF78x">https://t.co/33hPILF78x</a><a href="https://t.co/hrQEoSDau2">https://t.co/hrQEoSDau2</a><a href="https://t.co/xCiXLfIpZK">https://t.co/xCiXLfIpZK</a><br />他、この辺の図解雑学系。詳細は実務による<br /><br />この辺かな？</p>
-  <p>— 部品（森七菜） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1657715502175879170?ref_src=twsrc%5Etfw">May 14, 2023</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li><a href="https://amzn.to/3PxhFPE">CPUの創りかた</a></li>
-  <li><a href="https://amzn.to/46yAit2">ゼロからのOS自作入門</a></li>
-  <li><a href="https://amzn.to/3JI0wzg">lsを読まずにプログラマを名乗るな！</a></li>
-  <li><a href="https://amzn.to/445G03V">熱血!アセンブラ入門</a></li>
-  <li><a href="https://amzn.to/3pt9nhB">大熱血! アセンブラ入門</a></li>
-</ul>
-
-<h3 id="お知らせ">お知らせ</h3>
-
-<ul>
-  <li><a href="https://store.line.me/stickershop/product/20651080/ja">ニムニムスタンプ</a></li>
-  <li>エンディング BGM 変わりました
-    <ul>
-      <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
-      <li>曲名: 弓</li>
-    </ul>
-  </li>
-</ul>
-
-<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">【動画やポッドキャストのBGMをお探しの方へ】<br /><br />サイトウが大量に制作したトラックの中から厳選された作品が、国内最大級の音源販売サイト Audiostock で販売開始されました。<br /><br />単品購入 or 定額制を選択可。<br />ぜひご活用ください！！<a href="https://t.co/7dSi0Mw6kG">https://t.co/7dSi0Mw6kG</a></p>
-  <p>— サイトウナヲキ (@sai_enlightened) <a href="https://twitter.com/sai_enlightened/status/1542127615959392256?ref_src=twsrc%5Etfw">June 29, 2022</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="半導体" /><category term="ポッドキャスト" /><category term="大阪" /><summary type="html"><![CDATA[[しゃもとろん](https://twitter.com/shamotron)さんと[おか](https://twitter.com/nowohyeah)でアインシュタインロマン、ラジオとポッドキャスト、半導体業界入門などについて話しました。 (2023/07/02 収録)]]></summary></entry><entry><title type="html">54: Every material is a different universe</title><link href="https://interaxion-podcast.github.io/54-draft" rel="alternate" type="text/html" title="54: Every material is a different universe" /><published>2023-09-12T00:00:00+09:00</published><updated>2023-09-12T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep54</id><content type="html" xml:base="https://interaxion-podcast.github.io/54-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-09-15T23:40:38+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">54: Every material is a different universe</title><link href="https://interaxion-podcast.github.io/54-draft" rel="alternate" type="text/html" title="54: Every material is a different universe" /><published>2023-09-15T00:00:00+09:00</published><updated>2023-09-15T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep54</id><content type="html" xml:base="https://interaxion-podcast.github.io/54-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -433,7 +225,215 @@
   <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
   <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="和光市" /><category term="大阪大学" /><category term="ノーベル賞" /><summary type="html"><![CDATA[[部品](https://twitter.com/tjmlab)さんと[おか](https://twitter.com/nowohyeah)で推し研究者(日本で一番NSに論文を出しているのは？)、ノーベル賞予想などについて話しました。 (2023/09/09 収録)]]></summary></entry><entry><title type="html">52: Cold Roger</title><link href="https://interaxion-podcast.github.io/52" rel="alternate" type="text/html" title="52: Cold Roger" /><published>2023-08-26T00:00:00+09:00</published><updated>2023-08-26T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep52</id><content type="html" xml:base="https://interaxion-podcast.github.io/52"><![CDATA[<details>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="和光市" /><category term="大阪大学" /><category term="ノーベル賞" /><summary type="html"><![CDATA[[部品](https://twitter.com/tjmlab)さんと[おか](https://twitter.com/nowohyeah)で推し研究者(日本で一番NSに論文を出しているのは？)、ノーベル賞予想などについて話しました。 (2023/09/09 収録)]]></summary></entry><entry><title type="html">53: Dialogue with the Einstein Puppet</title><link href="https://interaxion-podcast.github.io/53" rel="alternate" type="text/html" title="53: Dialogue with the Einstein Puppet" /><published>2023-09-14T00:00:00+09:00</published><updated>2023-09-14T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep53</id><content type="html" xml:base="https://interaxion-podcast.github.io/53"><![CDATA[<details>
+  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
+  <summary>目次</summary>
+  <nav>
+<ul id="markdown-toc">
+  <li><a href="#000-アイス食べていいですか" id="markdown-toc-000-アイス食べていいですか">0:00 アイス食べていいですか</a></li>
+  <li><a href="#しゃもとろん氏の半生" id="markdown-toc-しゃもとろん氏の半生">しゃもとろん氏の半生</a></li>
+  <li><a href="#アインシュタインロマン" id="markdown-toc-アインシュタインロマン">アインシュタインロマン</a></li>
+  <li><a href="#なんとか通信団" id="markdown-toc-なんとか通信団">なんとか通信団</a></li>
+  <li><a href="#10813-ラジオポッドキャスト" id="markdown-toc-10813-ラジオポッドキャスト">1:08:13 ラジオ、ポッドキャスト</a></li>
+  <li><a href="#11909-twitterがやばい" id="markdown-toc-11909-twitterがやばい">1:19:09 Twitterがやばい</a></li>
+  <li><a href="#12815-大阪" id="markdown-toc-12815-大阪">1:28:15 大阪</a></li>
+  <li><a href="#13216-半導体とかの本" id="markdown-toc-13216-半導体とかの本">1:32:16 半導体とかの本</a></li>
+  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
+</ul>
+    <!-- https://stackoverflow.com/a/38419441/11480802 -->
+  </nav>
+</details>
+<p><br /></p>
+
+<h3 id="000-アイス食べていいですか">0:00 アイス食べていいですか</h3>
+
+<ul>
+  <li>Interaxion のリスナーが急増した <a href="https://twitter.com/researchat_fm/status/1303720322575659009">Researchat さんの tweet</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">物理系の人たちがやっているポッドキャスト。Scrapboxに編集後記なんかがあって良い。Shownotesも盛りだくさん。研究者系ポッドキャストもジワリと増えてきている。<a href="https://twitter.com/hashtag/interaxion?src=hash&amp;ref_src=twsrc%5Etfw">#interaxion</a> <a href="https://t.co/kUmvwfkoQ8">https://t.co/kUmvwfkoQ8</a></p>
+  <p>— Researchat/研究雑談Podcast🧐🔬🦠🎙 (@researchat_fm) <a href="https://twitter.com/researchat_fm/status/1303720322575659009?ref_src=twsrc%5Etfw">September 9, 2020</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%B3%E3%83%80%E3%83%BBN-BOX">ホンダ・N-BOX - Wikipedia</a></li>
+  <li><a href="https://www.youtube.com/channel/UC9WJo5ZJVXMZiA5XV2jLx5Q">吉田製作所 - YouTube</a></li>
+</ul>
+
+<h3 id="しゃもとろん氏の半生">しゃもとろん氏の半生</h3>
+
+<ul>
+  <li><a href="https://www.kyoto-art.ac.jp/">京都芸術大学</a></li>
+  <li><a href="https://partner-web.jp/article/?id=2043">美大愛好家的「京都芸術大学問題」まとめ</a></li>
+  <li><a href="https://www.iamas.ac.jp/">情報科学芸術大学院大学 [IAMAS] ｜ Institute of Advanced Media Arts and Sciences</a></li>
+  <li><a href="https://www.kcg.edu/">京都情報大学院大学 - 日本最初のIT専門職大学院</a></li>
+  <li><a href="https://amzn.to/44LQ6Gv">転圧機</a></li>
+  <li><a href="https://polaris-hs.jp/zisyo_syosai/tyohari.html">丁張りとは【住宅建築用語の意味】</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E4%B8%BB%E4%BB%BB%E6%8A%80%E8%A1%93%E8%80%85">電気主任技術者 - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC%E3%82%AA%E3%83%BC%E3%83%88%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3">ファクトリーオートメーション - Wikipedia</a></li>
+  <li><a href="https://www.sbbit.jp/article/cont1/44909">PLCとは何かをマンガでもわかりやすく解説、シーケンサとは？ 種類やメーカーは？ ｜ビジネス+IT</a></li>
+  <li>左手で美大受験</li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E8%A8%88%E8%A3%85%E5%A3%AB">計装士 - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B0%97%E5%B7%A5%E4%BA%8B%E5%A3%AB">電気工事士 - Wikipedia</a></li>
+  <li><a href="https://www.jsme.or.jp/cee/about">CAE技術者とは - 計算力学技術者（CAE技術者）の資格認定</a></li>
+  <li><a href="https://www.google.com/search?q=%E5%8B%9D%E3%81%A1%E3%81%9F%E3%81%84%E3%81%A8%E3%81%84%E3%81%86%E6%B0%97%E6%8C%81%E3%81%A1%E3%81%99%E3%82%89%E9%82%AA%E5%BF%B5">勝ちたいという気持ちすら邪念 - Google 検索</a> … 吉田沙保里らしい</li>
+</ul>
+
+<h3 id="アインシュタインロマン">アインシュタインロマン</h3>
+
+<ul>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3%E3%83%AD%E3%83%9E%E3%83%B3">アインシュタインロマン - Wikipedia</a>
+    <ul>
+      <li><a href="https://amzn.to/488S8Dw">NHKスペシャル アインシュタインロマン DVD-BOX</a></li>
+      <li><a href="https://www2.nhk.or.jp/archives/movies/?id=D0009010375_00000">ＮＨＫスペシャル　アインシュタインロマン｜番組｜NHKアーカイブス</a></li>
+    </ul>
+  </li>
+  <li>サイエンスZERO と国立天文台
+    <ul>
+      <li><a href="https://www.nhk.jp/p/zero/ts/XK5VKV7V98/blog/bl/pkOaDjjMay/bp/p65LZdrBXb/">スペシャル座談会　天文学者の”夢”と”現実”「仕事の悩みは人間関係…!?」 - サイエンスZERO - NHK</a>
+        <blockquote>
+          <p>ＮＨＫでやっていた『アインシュタインロマン』も私にものすごい大きな影響を与えました。アインシュタインは、この世の物理の法則は「創造者がいる」としか思えないぐらいあまりにも美しいと考え、最終的には神を信じるようになったと番組で言っていました。そういう境地に自分も至ってみたいなと思ったのです。</p>
+        </blockquote>
+      </li>
+      <li><a href="https://gendai.media/articles/-/89513">「仕事の悩みは人間関係…!?」トップ天文学者たちが語る“夢”と“現実”（サイエンスZERO） - 現代ビジネス - 講談社</a></li>
+    </ul>
+  </li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AC%E3%83%B4%E3%82%A1%E3%83%BB%E3%83%9E%E3%83%AA%E3%83%83%E3%83%81">ミレヴァ・マリッチ - Wikipedia</a>
+    <blockquote>
+      <p>ノーベル賞の賞金については、2人の息子のための信託とし、ミレヴァはその利子を使うことはできるが、アインシュタインの許可がなければ元金を取り崩すことはできないという条件で、示談が成立した</p>
+    </blockquote>
+  </li>
+  <li><a href="https://amzn.to/44KPzVp">『砂時計』</a></li>
+  <li>砂時計の話をしていた X のスレ <a href="https://twitter.com/monkey_across/status/1662750925960908801">にいがたさくら@小話する人さん / X</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">バブルの頃、過疎の町・島根県大田市仁摩町はどうにかして町をアピールしたかった。<br /><br />だが地元が誇れるものは鳴き砂の浜くらい。<br />それなら世界一の砂時計でも作れないか？<br /><br />前代未聞の大きさ。数々の困難があった。<br />だが、困難を乗り越え、3年の歳月をかけて完成。<br /><br />ちなみに砂は山形県のを使っている <a href="https://t.co/Pu07jutI8p">pic.twitter.com/Pu07jutI8p</a></p>
+  <p>— にいがたさくら@小話する人 (@monkey_across) <a href="https://twitter.com/monkey_across/status/1662750925960908801?ref_src=twsrc%5Etfw">May 28, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A7%E3%82%BC%E3%83%95%E3%82%BD%E3%83%B3">ブライアン・ジョゼフソン - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%BB%E3%83%9A%E3%83%B3%E3%83%AD%E3%83%BC%E3%82%BA">ロジャー・ペンローズ - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E5%8B%9D%E5%BD%A6_(%E7%89%A9%E7%90%86%E5%AD%A6%E8%80%85)">佐藤勝彦 (物理学者) - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E9%9B%85%E5%BD%A6_(%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%82%AF%E3%83%AA%E3%82%A8%E3%83%BC%E3%82%BF%E3%83%BC)">佐藤雅彦 (メディアクリエーター) - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E4%BD%90%E8%97%A4%E6%96%87%E9%9A%86">佐藤文隆 - Wikipedia</a></li>
+  <li><a href="https://www.asahi.com/articles/ASR7V6J7JR7VUCVL022.html">NHKに意見1千件　「鎌倉殿」など容疑者ら出演作の配信停止解除へ：朝日新聞デジタル</a></li>
+</ul>
+
+<h3 id="なんとか通信団">なんとか通信団</h3>
+
+<ul>
+  <li><a href="https://ankokudan.org/d/">暗黒通信団 -The Darkside Communication Group-</a></li>
+  <li><a href="https://herumi.github.io/prml/">『パターン認識と機械学習の学習 普及版』（PDF）</a></li>
+  <li><a href="https://comiaca.com/">東大生オンリー同人誌即売会 コミックアカデミー公式HP</a></li>
+  <li><a href="https://www.comitia.co.jp/html/about.html">COMITIA</a></li>
+  <li><a href="https://techbookfest.org/">技術書典：技術書オンリーイベント</a></li>
+  <li><a href="https://interaxion-podcast.github.io/26">Interaxion 26: A Postdoc Called “It”</a><br />
+ながなおさんが月刊ポスドクに寄稿した話をしてくれた回。</li>
+</ul>
+
+<h3 id="10813-ラジオポッドキャスト">1:08:13 ラジオ、ポッドキャスト</h3>
+
+<ul>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AA%E3%82%AA%E3%83%B3%E3%83%8A%E3%82%A4%E3%83%84">ミリオンナイツ - Wikipedia</a>
+    <ul>
+      <li><a href="https://voicy.jp/channel/2111">赤坂泰彦「赤坂泰彦のラジオグラフィティー/TALK&amp;SOUL、声の落書き、大人の深夜放送！」/ Voicy - 音声プラットフォーム</a></li>
+    </ul>
+  </li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E6%94%BE%E9%80%81%E5%AE%A4_(%E3%83%A9%E3%82%B8%E3%82%AA%E7%95%AA%E7%B5%84)">放送室 (ラジオ番組) - Wikipedia</a></li>
+  <li><a href="https://backspace.fm/">backspace.fm</a></li>
+  <li><a href="https://youtu.be/KH3MLxDYGHI">Mac用のmixiブラウザMixiDock Drikin（ドリキン）さん作成のアプリ - ジェットダイスケ/JETDAISUKE</a></li>
+  <li><a href="https://rebuild.fm/">Rebuild - Podcast by Tatsuhiko Miyagawa</a></li>
+  <li><a href="https://bilingualnews.jp/">バイリンガルニュース - BILINGUALNEWS</a></li>
+  <li><a href="https://listen.style/p/kennaka/yck4zrhc">#67 こんなPodcastプレイヤーがほしい - 研エンの仲 - LISTEN</a></li>
+  <li>oka 作の技術系ポッドキャストがランダムに出るようにしたポッドキャストプレイヤー (更新してないけど久しぶりに使ってみたら面白かった) <a href="https://pn11.github.io/unintentional-podcast-player/">https://pn11.github.io/unintentional-podcast-player/</a></li>
+</ul>
+
+<h3 id="11909-twitterがやばい">1:19:09 Twitterがやばい</h3>
+
+<ul>
+  <li><a href="https://news.yahoo.co.jp/expert/articles/63f5ab452c1edc4657bb105e77c2a66d4fc0170b">Twitter無料ユーザーは1日600件までしか見られない。API制限は不具合ではなく一時的な仕様に（篠原修司） - エキスパート - Yahoo!ニュース</a></li>
+  <li><a href="https://blueskyweb.xyz/">Bluesky</a></li>
+  <li><a href="https://mstdn.guru/about">mstdn.guru - グルドン</a></li>
+  <li><a href="https://misskey.io/">Misskey.io</a></li>
+  <li><a href="https://www.tumblr.com/">Today on Tumblr</a></li>
+  <li><a href="https://signal.diamond.jp/articles/-/1035">忘れ去られた「Tumblr」に復活の兆し──大手SNSに疲れたZ世代の避難場所として利用急増 - DIAMOND SIGNAL</a></li>
+  <li>oka が使ってた Tumblr アカウントを発掘した
+    <ul>
+      <li><a href="https://nowohyeah-blog.tumblr.com/">https://nowohyeah-blog.tumblr.com/</a></li>
+      <li><a href="https://oka-ny-blog.tumblr.com/">https://oka-ny-blog.tumblr.com/</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="12815-大阪">1:28:15 大阪</h3>
+
+<ul>
+  <li><a href="https://www.sasabegazai.co.jp/">株式会社笹部洋画材料店</a></li>
+  <li><a href="https://www.donki.com/kanransha/">観覧車に乗るなら、道頓堀大観覧車えびすタワー｜大阪にあるドン・キホーテ道頓堀店の観覧車</a></li>
+  <li><a href="https://namba.keizai.biz/column/40/">世界驚愕「道頓堀プール」の詳細を徹底解説 年間100万人の来場で、国内全域に波及効果 - なんば経済新聞</a></li>
+  <li>全然関係ないが1990年の道頓堀かっこいい</li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">1990年、道頓堀 <a href="https://t.co/yFxRwzeLzg">pic.twitter.com/yFxRwzeLzg</a></p>
+  <p>— ちょっと昔の日本の景色bot (@japan80to00) <a href="https://twitter.com/japan80to00/status/1683340780834897921?ref_src=twsrc%5Etfw">July 24, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h3 id="13216-半導体とかの本">1:32:16 半導体とかの本</h3>
+
+<ul>
+  <li>部品さんおすすめの半導体本</li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">●そもそも半導体ってナニ？<a href="https://t.co/PmFLsOtkHQ">https://t.co/PmFLsOtkHQ</a><br />●ビジネス・政治・歴史的背景<a href="https://t.co/GKaBZFEbDb">https://t.co/GKaBZFEbDb</a><a href="https://t.co/WN65ZLffF4">https://t.co/WN65ZLffF4</a><br />●技術的背景、全体の流れ<a href="https://t.co/33hPILF78x">https://t.co/33hPILF78x</a><a href="https://t.co/hrQEoSDau2">https://t.co/hrQEoSDau2</a><a href="https://t.co/xCiXLfIpZK">https://t.co/xCiXLfIpZK</a><br />他、この辺の図解雑学系。詳細は実務による<br /><br />この辺かな？</p>
+  <p>— 部品（森七菜） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1657715502175879170?ref_src=twsrc%5Etfw">May 14, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li><a href="https://amzn.to/3PxhFPE">CPUの創りかた</a></li>
+  <li><a href="https://amzn.to/46yAit2">ゼロからのOS自作入門</a></li>
+  <li><a href="https://amzn.to/3JI0wzg">lsを読まずにプログラマを名乗るな！</a></li>
+  <li><a href="https://amzn.to/445G03V">熱血!アセンブラ入門</a></li>
+  <li><a href="https://amzn.to/3pt9nhB">大熱血! アセンブラ入門</a></li>
+</ul>
+
+<h3 id="お知らせ">お知らせ</h3>
+
+<ul>
+  <li><a href="https://store.line.me/stickershop/product/20651080/ja">ニムニムスタンプ</a></li>
+  <li>エンディング BGM 変わりました
+    <ul>
+      <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
+      <li>曲名: 弓</li>
+    </ul>
+  </li>
+</ul>
+
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">【動画やポッドキャストのBGMをお探しの方へ】<br /><br />サイトウが大量に制作したトラックの中から厳選された作品が、国内最大級の音源販売サイト Audiostock で販売開始されました。<br /><br />単品購入 or 定額制を選択可。<br />ぜひご活用ください！！<a href="https://t.co/7dSi0Mw6kG">https://t.co/7dSi0Mw6kG</a></p>
+  <p>— サイトウナヲキ (@sai_enlightened) <a href="https://twitter.com/sai_enlightened/status/1542127615959392256?ref_src=twsrc%5Etfw">June 29, 2022</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
+  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="半導体" /><category term="ポッドキャスト" /><category term="大阪" /><summary type="html"><![CDATA[[しゃもとろん](https://twitter.com/shamotron)さんと[おか](https://twitter.com/nowohyeah)でアインシュタインロマン、ラジオとポッドキャスト、半導体業界入門などについて話しました。 (2023/07/02 収録)]]></summary></entry><entry><title type="html">52: Cold Roger</title><link href="https://interaxion-podcast.github.io/52" rel="alternate" type="text/html" title="52: Cold Roger" /><published>2023-08-26T00:00:00+09:00</published><updated>2023-08-26T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep52</id><content type="html" xml:base="https://interaxion-podcast.github.io/52"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>

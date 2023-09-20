@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-09-15T23:40:38+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">54: Every material is a different universe</title><link href="https://interaxion-podcast.github.io/54-draft" rel="alternate" type="text/html" title="54: Every material is a different universe" /><published>2023-09-15T00:00:00+09:00</published><updated>2023-09-15T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep54</id><content type="html" xml:base="https://interaxion-podcast.github.io/54-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-09-20T19:38:59+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">54: Every material is a different universe</title><link href="https://interaxion-podcast.github.io/54-draft" rel="alternate" type="text/html" title="54: Every material is a different universe" /><published>2023-09-20T00:00:00+09:00</published><updated>2023-09-20T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep54</id><content type="html" xml:base="https://interaxion-podcast.github.io/54-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -8,12 +8,13 @@
       <li><a href="#渡邊谷口" id="markdown-toc-渡邊谷口">渡邊・谷口</a></li>
       <li><a href="#2400-十倉好紀" id="markdown-toc-2400-十倉好紀">24:00 十倉好紀</a></li>
       <li><a href="#hirsch--dias" id="markdown-toc-hirsch--dias">Hirsch &amp; Dias</a></li>
-      <li><a href="#丹生潔" id="markdown-toc-丹生潔">丹生潔</a></li>
+      <li><a href="#4011-丹生潔" id="markdown-toc-4011-丹生潔">40:11 丹生潔</a></li>
     </ul>
   </li>
-  <li><a href="#ノーベル賞予想" id="markdown-toc-ノーベル賞予想">ノーベル賞予想</a></li>
-  <li><a href="#ゲーム" id="markdown-toc-ゲーム">ゲーム</a></li>
-  <li><a href="#面白かった記事紹介" id="markdown-toc-面白かった記事紹介">面白かった記事紹介</a></li>
+  <li><a href="#訃報" id="markdown-toc-訃報">訃報</a></li>
+  <li><a href="#10314-ノーベル賞予想" id="markdown-toc-10314-ノーベル賞予想">1:03:14 ノーベル賞予想</a></li>
+  <li><a href="#12605-ゲーム" id="markdown-toc-12605-ゲーム">1:26:05 ゲーム</a></li>
+  <li><a href="#14023-面白かった記事紹介" id="markdown-toc-14023-面白かった記事紹介">1:40:23 面白かった記事紹介</a></li>
   <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
 </ul>
     <!-- https://stackoverflow.com/a/38419441/11480802 -->
@@ -25,7 +26,7 @@
 
 <ul>
   <li><a href="https://amzn.to/3ZfHabz">ソニー α7CⅡ</a></li>
-  <li>WWWAI</li>
+  <li><a href="https://wwwai.connpass.com/">Wako Weekday Workshop on AI (WWWAI) - connpass</a></li>
 </ul>
 
 <h3 id="推し研究者">推し研究者</h3>
@@ -45,22 +46,25 @@
 <ul>
   <li><a href="https://www.nims.go.jp/personal/BN_research/index-j_BNR.html">窒化ホウ素の研究 - NIMS</a></li>
   <li><a href="https://buhin-blog.blogspot.com/2019/04/blog-post.html">わたなべさん、たにぐちさん！ - ぶひんブログ</a></li>
-  <li>magic angle graphene</li>
-  <li>twistronics</li>
+  <li><a href="https://www.nature.com/articles/nature26160">Unconventional superconductivity in magic-angle graphene superlattices - Nature</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Twistronics">Twistronics - Wikipedia</a></li>
   <li>固体の数だけ宇宙がある</li>
-  <li>ながなおさんの回</li>
+  <li>ながなおさんの回
+    <ul>
+      <li><a href="https://interaxion-podcast.github.io/25">Interaxion 25: Mission Impossible</a></li>
+      <li><a href="https://interaxion-podcast.github.io/26">Interaxion 26: A Postdoc Called “It”</a></li>
+    </ul>
+  </li>
 </ul>
 
 <h4 id="2400-十倉好紀">24:00 十倉好紀</h4>
 
 <ul>
   <li><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E5%80%89%E9%9B%85%E5%92%8C">十倉雅和 - Wikipedia</a></li>
-</ul>
-
-<p>http://www.cmr.t.u-tokyo.ac.jp/members/tokura.shtml</p>
-
-<ul>
-  <li>やもすさんの回</li>
+  <li><a href="http://www.cmr.t.u-tokyo.ac.jp/members/tokura.shtml">十倉好紀 - Tokura Lab.</a></li>
+  <li>
+    <p>やもすさんの回: <a href="https://interaxion-podcast.github.io/29">Interaxion 29: Kashiwa is no longer a sad place, Lalaport and everything</a></p>
+  </li>
   <li><a href="https://youtu.be/A2Bdg3cFdPY">実験と理論のトップ研究者の物性トーク - ヨビノリ</a></li>
 </ul>
 
@@ -71,18 +75,25 @@
 <h4 id="hirsch--dias">Hirsch &amp; Dias</h4>
 
 <ul>
-  <li>PubPeer</li>
+  <li><a href="https://jorge.physics.ucsd.edu/jh.html">Jorge Hirsch</a> 公式サイト、毎週チェック！</li>
+  <li>Dias 氏の新たに retract された論文: <a href="https://pubpeer.org/publications/F342DD2D2E72E5E2FD507089562B94">PubPeer - Colossal Density-Driven Resistance Response in the Negative…</a> サイト名は PubPeer でした。</li>
+  <li><a href="https://www.scientificamerican.com/article/controversial-physicist-faces-mounting-accusations-of-scientific-misconduct1/">Controversial Physicist Faces Mounting Accusations of Scientific Misconduct - Scientific American</a></li>
 </ul>
 
-<h4 id="丹生潔">丹生潔</h4>
+<h4 id="4011-丹生潔">40:11 丹生潔</h4>
 
 <ul>
-  <li>
-    <p><a href="https://ja.wikipedia.org/wiki/%E4%B8%B9%E7%94%9F%E6%BD%94">丹生潔 - Wikipedia</a></p>
-  </li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E4%B8%B9%E7%94%9F%E6%BD%94">丹生潔 - Wikipedia</a></li>
   <li><a href="https://academic.oup.com/ptp/article/46/5/1644/1863358">Possible Decay in Flight of a New Type Particle - Progress of Theoretical Physics</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%A0%E3%83%80%E7%B2%92%E5%AD%90">ラムダ粒子 - Wikipedia</a></li>
-  <li>あゆみさん回</li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%A0%E3%83%80%E7%B2%92%E5%AD%90">ラムダ粒子 - Wikipedia</a> … この中のチャームラムダ (Λ+c) を発見した？</li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E3%83%BB%E7%9B%8A%E5%B7%9D%E7%90%86%E8%AB%96">小林・益川理論 - Wikipedia</a></li>
+  <li>あゆみさんの回
+    <ul>
+      <li><a href="https://interaxion-podcast.github.io/34">Interaxion 34: The 13 Lords in the Lab</a></li>
+      <li><a href="https://interaxion-podcast.github.io/48">Interaxion 48: Egy, An Edgy Electronic Payment</a></li>
+    </ul>
+  </li>
+  <li>最近出た機械学習と原子核乾板の論文: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0168900223006538?dgcid=author">Hypernuclear event detection in the nuclear emulsion with Monte Carlo simulation and machine learning - ScienceDirect</a></li>
 </ul>
 
 <blockquote class="twitter-tweet tw-align-center">
@@ -92,29 +103,44 @@
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <ul>
-  <li>坂田</li>
-  <li>内山</li>
+  <li><a href="https://www2.yukawa.kyoto-u.ac.jp/~hisao.hayakawa/kagakusi/sakata.html">坂田昌一について</a> … 京大の早川先生が書かれた記事</li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E5%86%85%E5%B1%B1%E9%BE%8D%E9%9B%84">内山龍雄 - Wikipedia</a></li>
+  <li><a href="https://rigakuyu.sci.osaka-u.ac.jp/talkon/contents_nakai.html">理学部を語る 大阪帝国大学創設と初代長岡総長の精神 ｜大阪大学理学友倶楽部</a></li>
   <li><a href="https://ja.wikipedia.org/wiki/%E5%85%AB%E6%9C%A8%E7%A7%80%E6%AC%A1">八木秀次 - Wikipedia</a></li>
   <li><a href="https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%87%8E%E3%83%BB%E8%A5%BF%E5%B3%B6%E3%83%BB%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%B3%E3%81%AE%E6%B3%95%E5%89%87">中野・西島・ゲルマンの法則 - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%81%94%E5%AE%97%E8%A1%8C">伊達宗行 - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E9%87%91%E6%A3%AE%E9%A0%86%E6%AC%A1%E9%83%8E">金森順次郎 - Wikipedia</a></li>
-  <li>※赤井先生の退官は2012年3月</li>
 </ul>
 
-<h3 id="ノーベル賞予想">ノーベル賞予想</h3>
+<h3 id="訃報">訃報</h3>
+
+<ul>
+  <li><a href="https://www.jps.or.jp/information/2023/03/50.php">本会第48期・50期会長の伊達宗行氏逝去 - 一般社団法人　日本物理学会</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%81%94%E5%AE%97%E8%A1%8C">伊達宗行 - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E9%87%91%E6%A3%AE%E9%A0%86%E6%AC%A1%E9%83%8E">金森順次郎 - Wikipedia</a><br />
+※赤井先生の退官は2012年3月でした</li>
+  <li><a href="https://amzn.to/3PIykjk">『新しい物性物理　物質の起源からナノ・極限物性まで 』</a></li>
+  <li><a href="https://amzn.to/3PjOKNE">『「理科」で歴史を読みなおす (ちくま新書)』</a></li>
+  <li><a href="https://www.hokkaido-np.co.jp/article/859350/">小川哲生氏死去　大阪大教授：北海道新聞デジタル</a></li>
+  <li><a href="https://sogi.jp/memorial/%e5%b0%8f%e5%b7%9d%e5%93%b2%e7%94%9f/">［訃報］ 小川哲生 氏（ 大阪大学 教授 ）- Sogi.jp</a></li>
+  <li><a href="http://wwwacty.phys.sci.osaka-u.ac.jp/~ogawa/ap.html">小川哲生研究室アドミッションポリシー</a></li>
+  <li><a href="https://amzn.to/3EIPkzN">『量子力学講義 (新・数理科学ライブラリ 物理学)』</a></li>
+  <li><a href="https://amzn.to/3RqN9Iw">『流体力学 (新物理学シリ-ズ) 』</a></li>
+  <li><a href="https://twitter.com/search?q=%E5%B7%BD%E5%85%88%E7%94%9F%20until%3A2023-09-04%20since%3A2023-08-31&amp;src=typed_query&amp;f=live">巽先生 - X検索</a></li>
+</ul>
+
+<h3 id="10314-ノーベル賞予想">1:03:14 ノーベル賞予想</h3>
 
 <ul>
   <li>これまでの予想
     <ul>
       <li>2020
         <ul>
-          <li>https://interaxion-podcast.github.io/8</li>
-          <li>https://interaxion-podcast.github.io/9</li>
+          <li><a href="https://interaxion-podcast.github.io/8">Interaxion　8: We didn’t implement this</a></li>
+          <li><a href="https://interaxion-podcast.github.io/9">Interaxion 9: Couscous Sushi</a></li>
         </ul>
       </li>
       <li>2021
         <ul>
-          <li>https://interaxion-podcast.github.io/26</li>
+          <li><a href="https://interaxion-podcast.github.io/26">Interaxion 26: A Postdoc Called “It”</a></li>
         </ul>
       </li>
       <li>2022
@@ -136,7 +162,11 @@
         <ul>
           <li>W&amp;T、二次元物質研究への基礎的貢献</li>
           <li>マイクロソフト＆キタエフ、マヨラナ励起の発見</li>
-          <li>アハラノフ＆ベリー、量子位相の物性への貢献</li>
+          <li>アハラノフ＆ベリー、量子位相の物性への貢献
+            <ul>
+              <li><a href="https://ja.wikipedia.org/wiki/%E5%A4%96%E6%9D%91%E5%BD%B0">外村彰 - Wikipedia</a></li>
+            </ul>
+          </li>
           <li>EUV光源研究開発
             <ul>
               <li>木下博雄（当時NTTが、86年にEUVの基礎技術を開発）
@@ -145,7 +175,7 @@
                   <li><a href="https://www.mst.or.jp/portals/0/prize/japanese/winners/semiconductor/semiconductor2010.html">MST　山崎貞一賞　-　第10回（平成22年度）山崎貞一賞　半導体及び半導体装置分野</a></li>
                 </ul>
               </li>
-              <li>Wikipedia によるとベル研から基礎コンセプトの論文が91年に出ている
+              <li>Wikipedia によるとベル研から基礎コンセプトの論文が91年に出てる。
                 <ul>
                   <li><a href="https://opg.optica.org/opn/abstract.cfm?uri=opn-2-5-27">Soft x-ray projection lithography</a></li>
                 </ul>
@@ -156,6 +186,16 @@
       </li>
     </ul>
   </li>
+  <li><a href="https://twitter.com/tjmlab/status/1445377729638002689">Xユーザーの部品（森七菜）さん: 「ノーベル物理学賞、近藤先生受賞に備えて作っていたクソコラです、成仏させます。 https://t.co/jICnzcjyFk」 / X</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">ノーベル物理学賞、近藤先生受賞に備えて作っていたクソコラです、成仏させます。 <a href="https://t.co/jICnzcjyFk">pic.twitter.com/jICnzcjyFk</a></p>
+  <p>— 部品（森七菜） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1445377729638002689?ref_src=twsrc%5Etfw">October 5, 2021</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
   <li>LK-99 の Wikipedia 記事を編集しているという噂の御大</li>
 </ul>
 
@@ -165,18 +205,21 @@
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h3 id="ゲーム">ゲーム</h3>
+<h3 id="12605-ゲーム">1:26:05 ゲーム</h3>
 
-<p>ティアキン、DLC はなし https://s.famitsu.com/news/202309/06314767.html</p>
 <ul>
-  <li>Starfield 実は XBOX Game Pass に入っている</li>
-  <li>エルデンリングDLC</li>
-  <li>ポケモン、マリオ</li>
-  <li>FF</li>
-  <li>アーマードコア</li>
+  <li><a href="https://www.famitsu.com/news/202309/06314767.html">いまだから語れる『ゼルダの伝説　ティアーズ オブ ザ キングダム』開発者インタビュー。“遊び優先”を貫いて完成させた驚異の続編【ティアキン】 - ファミ通.com</a></li>
+  <li><a href="https://www.famitsu.com/news/202309/03315545.html">『FF16』PC版とDLC2種の開発を発表。武器の見た目、コスチューム変更など無料アプデも本日（9/3）より配信 - ファミ通.com</a></li>
+  <li><a href="https://amzn.to/44TQXVS">ポケットモンスター スカーレット・バイオレット ゼロの秘宝</a></li>
+  <li><a href="https://bethesda.net/ja/game/starfield">Starfield - Bethesda.net</a> … 実は Xbox Game Pass に入っている</li>
+  <li><a href="https://amzn.to/3sUgocq">スーパーマリオブラザーズ ワンダー</a></li>
+  <li><a href="https://rtain.jp/rtaij/rta-in-japan-summer-2023/">RTA in Japan Summer 2023 - RTA in Japan</a></li>
+  <li><a href="https://www.eldenring.jp/newsdetail/news_detail_230228_1.html">2023.02.28 - DLC「Shadow of the Erdtree」 - ELDEN RING オフィシャルサイト</a></li>
+  <li><a href="https://amzn.to/45T7E50">FINAL FANTASY XVI</a></li>
+  <li><a href="https://amzn.to/3rtGm6d">ARMORED CORE Ⅵ FIRES OF RUBICON</a></li>
 </ul>
 
-<h3 id="面白かった記事紹介">面白かった記事紹介</h3>
+<h3 id="14023-面白かった記事紹介">1:40:23 面白かった記事紹介</h3>
 
 <ul>
   <li>
@@ -184,7 +227,7 @@
       <tbody>
         <tr>
           <td>[ニューヨークで「専業主夫」になった物理学者の子育てが話題　「哺乳瓶の洗浄で超伝導空洞を思い出す」ってなに？</td>
-          <td>AERA dot. (アエラドット)](https://dot.asahi.com/articles/-/197540?page=1)</td>
+          <td>AERA dot. (アエラドット)](https://dot.asahi.com/articles/-/197540)</td>
         </tr>
       </tbody>
     </table>
@@ -195,11 +238,12 @@
 <h3 id="お知らせ">お知らせ</h3>
 
 <ul>
-  <li>ダークマターデイイベント準備中
+  <li>9/28 ダークマターデイイベント準備中
     <ul>
-      <li>https://kekweb.gitlab.io/darkmatterday/</li>
+      <li><a href="https://kekweb.gitlab.io/darkmatterday/">https://kekweb.gitlab.io/darkmatterday/</a> で詳細お知らせ予定</li>
     </ul>
   </li>
+  <li><a href="https://buhin-blog.blogspot.com/">ぶひんブログ</a></li>
   <li><a href="https://store.line.me/stickershop/product/20651080/ja">ニムニムスタンプ</a></li>
   <li>エンディング BGM 変わりました
     <ul>
@@ -225,7 +269,7 @@
   <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
   <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="和光市" /><category term="大阪大学" /><category term="ノーベル賞" /><summary type="html"><![CDATA[[部品](https://twitter.com/tjmlab)さんと[おか](https://twitter.com/nowohyeah)で推し研究者(日本で一番NSに論文を出しているのは？)、ノーベル賞予想などについて話しました。 (2023/09/09 収録)]]></summary></entry><entry><title type="html">53: Dialogue with the Einstein Puppet</title><link href="https://interaxion-podcast.github.io/53" rel="alternate" type="text/html" title="53: Dialogue with the Einstein Puppet" /><published>2023-09-14T00:00:00+09:00</published><updated>2023-09-14T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep53</id><content type="html" xml:base="https://interaxion-podcast.github.io/53"><![CDATA[<details>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="和光市" /><category term="大阪大学" /><category term="超伝導" /><category term="二次元物質" /><category term="原子核乾板" /><category term="ノーベル賞" /><summary type="html"><![CDATA[[部品](https://twitter.com/tjmlab)と[おか](https://twitter.com/nowohyeah)で推し研究者(Nature&Scienceに最も論文を出している日本人、チャームクォークを発見した日本人)、ノーベル賞予想などについて話しました。 (2023/09/09 収録)]]></summary></entry><entry><title type="html">53: Dialogue with the Einstein Puppet</title><link href="https://interaxion-podcast.github.io/53" rel="alternate" type="text/html" title="53: Dialogue with the Einstein Puppet" /><published>2023-09-14T00:00:00+09:00</published><updated>2023-09-14T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep53</id><content type="html" xml:base="https://interaxion-podcast.github.io/53"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>

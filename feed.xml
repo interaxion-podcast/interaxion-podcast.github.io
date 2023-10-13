@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-10-11T19:36:36+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">55:</title><link href="https://interaxion-podcast.github.io/55-draft" rel="alternate" type="text/html" title="55:" /><published>2023-10-11T00:00:00+09:00</published><updated>2023-10-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep55</id><content type="html" xml:base="https://interaxion-podcast.github.io/55-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-10-13T23:12:59+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">55:</title><link href="https://interaxion-podcast.github.io/55-draft" rel="alternate" type="text/html" title="55:" /><published>2023-10-11T00:00:00+09:00</published><updated>2023-10-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep55</id><content type="html" xml:base="https://interaxion-podcast.github.io/55-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -6,7 +6,7 @@
   <li><a href="#000-近況" id="markdown-toc-000-近況">0:00 近況</a></li>
   <li><a href="#617-受賞内容" id="markdown-toc-617-受賞内容">6:17 受賞内容</a></li>
   <li><a href="#834-g2" id="markdown-toc-834-g2">8:34 <i>g</i>–2</a></li>
-  <li><a href="#2150-ジョンエリス" id="markdown-toc-2150-ジョンエリス">21:50 ジョンエリス</a></li>
+  <li><a href="#2150-ジョンエリス" id="markdown-toc-2150-ジョンエリス">21:50 ジョン・エリス</a></li>
   <li><a href="#2530-木下東一郎" id="markdown-toc-2530-木下東一郎">25:30 木下東一郎</a></li>
   <li><a href="#ミュオンの応用" id="markdown-toc-ミュオンの応用">ミュオンの応用</a>    <ul>
       <li><a href="#海底ミュオグラフィ" id="markdown-toc-海底ミュオグラフィ">海底ミュオグラフィ</a></li>
@@ -64,7 +64,7 @@ Fermilab によるミュオン<i>g</i>-2測定結果のアップグレード</li
   </li>
 </ul>
 
-<h3 id="2150-ジョンエリス">21:50 ジョンエリス</h3>
+<h3 id="2150-ジョンエリス">21:50 ジョン・エリス</h3>
 
 <ul>
   <li><a href="https://kds.kek.jp/event/46470/contributions/238555/attachments/168400/220576/QuoVadisg-2.pdf">Quo Vadis? <i>g</i>-2? (PDF)</a>
@@ -121,31 +121,20 @@ OSECHI の写真が載っている</li>
   <li><a href="https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%8E%E3%83%86%E3%83%A9%E3%82%B9">ナノテラス - Wikipedia</a></li>
   <li><a href="https://web.tohoku.ac.jp/manabi/featured/sf01/">#01 NanoTerasu（ナノテラス）への期待 - まなびの杜</a></li>
   <li><a href="https://interaxion-podcast.github.io/starring/#%E3%81%AA%E3%81%8C%E3%81%AA%E3%81%8A">ながなおさん出演回 - Interaxion Podcast</a></li>
-  <li>
-    <p><a href="https://www.issp.u-tokyo.ac.jp/maincontents/news2.html?pid=20062">物性犬ぬいぐるみストラップ販売開始のお知らせ - 物性研究所</a></p>
-  </li>
+  <li><a href="https://www.issp.u-tokyo.ac.jp/maincontents/news2.html?pid=20062">物性犬ぬいぐるみストラップ販売開始のお知らせ - 物性研究所</a></li>
   <li><a href="https://www-sk.icrr.u-tokyo.ac.jp/~hayato_s/hyperk-online.html">ハイパーカミオカンデ用エレクトロニクス・データ収集システムの開発</a>
     <blockquote>
       <p>スーパーカミオカンデにおいては全ての光センサー に70mのケーブルをつけることで、検出器タンクの上に設置 することを可能としました。しかし、ハイパーカミオカンデ においては、タンク外にこれらを設置しようとすると、 検出器が大型化したことから、１５０m から ２００m の ケーブル が必要となり、信号が大きく劣化してしまいます。</p>
     </blockquote>
   </li>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>[スーパーカミオカンデの水タンク内の微生物調査に行ってきました</td>
-          <td>吉澤グループ（東大大海研）](https://genedynamics.aori.u-tokyo.ac.jp/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%9F%E3%82%AA%E3%82%AB%E3%83%B3%E3%83%87%E3%81%AE%E6%B0%B4%E3%82%BF%E3%83%B3%E3%82%AF%E5%86%85%E3%81%AE%E5%BE%AE%E7%94%9F%E7%89%A9%E8%AA%BF%E6%9F%BB/)</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
+  <li><a href="https://genedynamics.aori.u-tokyo.ac.jp/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%9F%E3%82%AA%E3%82%AB%E3%83%B3%E3%83%87%E3%81%AE%E6%B0%B4%E3%82%BF%E3%83%B3%E3%82%AF%E5%86%85%E3%81%AE%E5%BE%AE%E7%94%9F%E7%89%A9%E8%AA%BF%E6%9F%BB/">スーパーカミオカンデの水タンク内の微生物調査に行ってきました - 吉澤グループ（東大大海研）</a></li>
   <li><a href="https://higgstan.com/sk-bacteria/">4コマ：スーパーカミオカンデとバクテリア（English ver. incl.) – HiggsTan</a></li>
   <li>10/28 Dark Matter Day イベント準備中<br />
 <a href="https://kekweb.gitlab.io/darkmatterday/">https://kekweb.gitlab.io/darkmatterday/</a>で詳細お知らせ予定</li>
   <li><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%AA%E3%83%B3">アクシオン - Wikipedia</a></li>
   <li><a href="https://www.kek.jp/ja/notice/202309081600/">次期機構長候補者について – KEK｜高エネルギー加速器研究機構</a></li>
   <li><a href="https://becauselanguage.com/">Because Language – A podcast about linguistics, the science of language.</a></li>
-  <li><a href="https://interaxion-podcast.github.io/5">5: Sci-Fi is more fun with physics and linguistics - Interaxion Podcast</a> ピージェイさんが Because Language を紹介してくれている回(40分ごろ)</li>
+  <li><a href="https://interaxion-podcast.github.io/5">Interaxion 5: Sci-Fi is more fun with physics and linguistics - </a> ピージェイさんが Because Language を紹介してくれている回(40分ごろ)</li>
 </ul>
 
 <h3 id="キーボード">キーボード</h3>
@@ -178,7 +167,8 @@ OSECHI の写真が載っている</li>
 <ul>
   <li>10/28 Dark Matter Day イベント準備中
     <ul>
-      <li><a href="https://kekweb.gitlab.io/darkmatterday/">https://kekweb.gitlab.io/darkmatterday/</a> で詳細お知らせ予定</li>
+      <li><del><a href="https://kekweb.gitlab.io/darkmatterday/">https://kekweb.gitlab.io/darkmatterday/</a> で詳細お知らせ予定</del></li>
+      <li><a href="https://peatix.com/event/3724789">Peatix</a>から登録お願いします！</li>
     </ul>
   </li>
   <li><a href="https://buhin-blog.blogspot.com/">ぶひんブログ</a></li>
@@ -213,7 +203,7 @@ OSECHI の写真が載っている</li>
 
 <ul>
   <li>終わったあと、反物質の重力の話すれば良かったねとなった (oka)</li>
-</ul>]]></content><author><name></name></author><category term="J-PARC" /><category term="ミュオン" /><category term="&lt;i&gt;g&lt;/i&gt;–2" /><summary type="html"><![CDATA[[セゾン](https://twitter.com/ShowEachLow)さんと[おか](https://twitter.com/nowohyeah)で。 (2023/10/xx 東海村某所にて収録)]]></summary></entry><entry><title type="html">54: Every material is a different universe</title><link href="https://interaxion-podcast.github.io/54" rel="alternate" type="text/html" title="54: Every material is a different universe" /><published>2023-09-22T00:00:00+09:00</published><updated>2023-09-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep54</id><content type="html" xml:base="https://interaxion-podcast.github.io/54"><![CDATA[<details>
+</ul>]]></content><author><name></name></author><category term="J-PARC" /><category term="ミュオン" /><category term="&lt;i&gt;g&lt;/i&gt;-–2" /><summary type="html"><![CDATA[[セゾン](https://twitter.com/ShowEachLow)さんと[おか](https://twitter.com/nowohyeah)で受賞おめでとう、ミュオンg–2の最新情報、ミュオンの応用などについて話しました。 (2023/10/xx 東海村某所にて収録)]]></summary></entry><entry><title type="html">54: Every material is a different universe</title><link href="https://interaxion-podcast.github.io/54" rel="alternate" type="text/html" title="54: Every material is a different universe" /><published>2023-09-22T00:00:00+09:00</published><updated>2023-09-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep54</id><content type="html" xml:base="https://interaxion-podcast.github.io/54"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -448,7 +438,8 @@ OSECHI の写真が載っている</li>
 <ul>
   <li>10/28 Dark Matter Day イベント準備中
     <ul>
-      <li><a href="https://kekweb.gitlab.io/darkmatterday/">https://kekweb.gitlab.io/darkmatterday/</a> で詳細お知らせ予定</li>
+      <li><del><a href="https://kekweb.gitlab.io/darkmatterday/">https://kekweb.gitlab.io/darkmatterday/</a> で詳細お知らせ予定</del></li>
+      <li><a href="https://peatix.com/event/3724789">Peatix</a>から登録お願いします！</li>
     </ul>
   </li>
   <li><a href="https://buhin-blog.blogspot.com/">ぶひんブログ</a></li>

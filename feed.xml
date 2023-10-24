@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-10-24T22:43:05+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">55: Quo vadis?</title><link href="https://interaxion-podcast.github.io/55" rel="alternate" type="text/html" title="55: Quo vadis?" /><published>2023-10-11T00:00:00+09:00</published><updated>2023-10-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep55</id><content type="html" xml:base="https://interaxion-podcast.github.io/55"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-10-24T22:44:43+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">55: Quo vadis?</title><link href="https://interaxion-podcast.github.io/55" rel="alternate" type="text/html" title="55: Quo vadis?" /><published>2023-10-11T00:00:00+09:00</published><updated>2023-10-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep55</id><content type="html" xml:base="https://interaxion-podcast.github.io/55"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -57,7 +57,7 @@
   <li><a href="https://arxiv.org/abs/2302.08834">arXiv:2302.08834 Measurement of the $e^+e^-\toπ^+π^-$ cross section from threshold to 1.2 GeV with the CMD-3 detector</a><br />
 CMD-3 の電子・陽電子からパイオンができる反応断面積の測定結果</li>
   <li><a href="https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/">Muon g-2 doubles down with latest measurement, explores uncharted territory in search of new physics</a><br />
-Fermilab によるミュオン<i>g</i>-2測定結果のアップグレード</li>
+Fermilab によるミュオン<i>g</i>–2測定結果のアップグレード</li>
   <li><a href="https://arxiv.org/abs/2308.06230">arXiv:2308.06230 Measurement of the Positive Muon Anomalous Magnetic Moment to 0.20 ppm</a></li>
   <li>専門家による解説 <a href="https://www2.kek.jp/ipns/ja/news/4937/">記者サロンを開催しました 「ミューオンg-2実験の最新結果を徹底解説」｜ニュース｜素粒子原子核研究所</a></li>
   <li>J-PARC E34 実験: <a href="https://g-2.kek.jp/">J-PARC muon g-2/EDM experiment</a></li>
@@ -72,8 +72,8 @@ Fermilab によるミュオン<i>g</i>-2測定結果のアップグレード</li
 <h4 id="2124-ジョンエリス">21:24 ジョン・エリス</h4>
 
 <ul>
-  <li><a href="https://kds.kek.jp/event/46470/contributions/238555/attachments/168400/220576/QuoVadisg-2.pdf">Quo Vadis? <i>g</i>-2? (PDF)</a>
-Penguin diagramでおなじみJohn Ellis氏がJ-PARC muon <i>g</i>-2/EDM実験のコラボレーションミーティングでセミナー</li>
+  <li><a href="https://kds.kek.jp/event/46470/contributions/238555/attachments/168400/220576/QuoVadisg-2.pdf">Quo Vadis? <i>g</i>–2? (PDF)</a>
+Penguin diagramでおなじみJohn Ellis氏がJ-PARC muon <i>g</i>–2/EDM実験のコラボレーションミーティングでセミナー</li>
   <li><a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A9%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%87%E3%82%A3%E3%82%B9">クォ・ヴァディス - Wikipedia</a></li>
   <li><a href="https://en.wikipedia.org/wiki/Penguin_diagram">Penguin diagram - Wikipedia</a></li>
 </ul>
@@ -209,7 +209,7 @@ OSECHI の写真が載っている</li>
 <ul>
   <li>終わったあと、反物質の重力の話すれば良かったねとなった (oka)<br />
 <a href="https://www.itmedia.co.jp/news/articles/2309/28/news157.html">「反重力」存在せず　国際チームが証明 - ITmedia NEWS</a></li>
-</ul>]]></content><author><name></name></author><category term="J-PARC" /><category term="ミュオン" /><category term="&lt;i&gt;g&lt;/i&gt;-–2" /><category term="キーボード" /><summary type="html"><![CDATA[[セゾン](https://twitter.com/ShowEachLow)さんと[おか](https://twitter.com/nowohyeah)で受賞おめでとう、ミュオンg–2の最新情報、ミュオンの応用などについて話しました。 (2023/10/01 東海村某所にて収録)]]></summary></entry><entry><title type="html">54: Every material is a different universe</title><link href="https://interaxion-podcast.github.io/54" rel="alternate" type="text/html" title="54: Every material is a different universe" /><published>2023-09-22T00:00:00+09:00</published><updated>2023-09-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep54</id><content type="html" xml:base="https://interaxion-podcast.github.io/54"><![CDATA[<details>
+</ul>]]></content><author><name></name></author><category term="J-PARC" /><category term="ミュオン" /><category term="&lt;i&gt;g&lt;/i&gt;–2" /><category term="キーボード" /><summary type="html"><![CDATA[[セゾン](https://twitter.com/ShowEachLow)さんと[おか](https://twitter.com/nowohyeah)で受賞おめでとう、ミュオンg–2の最新情報、ミュオンの応用などについて話しました。 (2023/10/01 東海村某所にて収録)]]></summary></entry><entry><title type="html">54: Every material is a different universe</title><link href="https://interaxion-podcast.github.io/54" rel="alternate" type="text/html" title="54: Every material is a different universe" /><published>2023-09-22T00:00:00+09:00</published><updated>2023-09-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep54</id><content type="html" xml:base="https://interaxion-podcast.github.io/54"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>

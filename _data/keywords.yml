@@ -49,14 +49,15 @@
 - title: 暗黒物質
   index: dark-matter
   definition: | 
-    To be written.
+    oka が <https://kekweb.gitlab.io/darkmatterday/page/what-is-dark-matter/> にわりと詳しく書いたので参照してください。
 - title: 暗黒物質探索
   index: dark-matter-search
   definition: | 
-    [暗黒物質 (ダークマター)](https://interaxion-podcast.github.io/keywords/dark-matter)の正体は未発見の粒子と考えられており、様々な方法で探索が行われている。
+    [暗黒物質 (ダークマター)](https://interaxion-podcast.github.io/keywords/dark-matter)の正体は未発見の粒子と考えられており、様々な方法で探索が行われている。<https://kekweb.gitlab.io/darkmatterday/page/what-is-dark-matter/> も参照。
 - title: エフォート300%
   index: effort-300percent
   definition: |
+    科研費などを申請するとき、各分担者がそれぞれエフォート何%でその課題に取り組むのかを記載する欄がある。通常の人間では複数の課題のエフォートを合計しても100%を超えないはずだが・・・？
     
     ### 関連エピソード
 
@@ -109,7 +110,14 @@
 - title: 二重ベータ崩壊
   index: DBD
   definition: |
+    ある原子核内において、中性子が陽子に変わり、電子 (β線) と反電子ニュートリノが放出される現象をベータ崩壊と呼ぶ。さらに、いくつかの原子核では2個の中性子がそれぞれ2個の陽子、電子、反電子ニュートリノに変わることが知られており、そのような崩壊は二重ベータ崩壊と呼ばれる。二重ベータ崩壊では通常2つの反電子ニュートリノと2本のβ線が放出されるため、0νββ などと呼ばれる。  
+    一方、ニュートリノは「粒子と反粒子が同一」という性質を持つマヨラナ粒子であるという可能性が考えられている。もしそうであれば、二重ベータ崩壊の中で2つのニュートリノが対消滅し、外には出てこないという「ニュートリノを伴わない二重ベータ崩壊」 (0νββ) が起こり得る。2νββ はいくつかの原子核で実際に観測されているが、0νββ は起こるとしても 2νββ よりも確率が小さく、現在まで未発見である。現在 KamLAND-Zen 実験が<sup>136</sup>Xe原子核を使って世界最高感度で観測を行っている。他に <sup>48</sup>Ca 原子核を使った CANDLES、 <sup>76</sup>Ge 原子核を使った LEGEND などの実験がある。
+
     - [二重ベータ崩壊 - Wikipedia](https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%87%8D%E3%83%99%E3%83%BC%E3%82%BF%E5%B4%A9%E5%A3%8A)
+    - [KamLAND / KamLAND-ZEN - 東北大学ニュートリノ科学研究センター](https://www.awa.tohoku.ac.jp/rcns/Research_profiles.html)
+    - [CANDLES実験](https://www.rcnp.osaka-u.ac.jp/candles/index.html?InputContents=Publication)
+    - [Legend](https://legend-exp.org/)
+      - [GERDA Home Page](https://www.mpi-hd.mpg.de/gerda/) (Legend の前身)
 - title: ニュートリノフロア
   index: neutrino-floor
   definition: |

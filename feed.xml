@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-11-21T22:52:47+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">56: Surely You’re Joking Mr. Leonman!</title><link href="https://interaxion-podcast.github.io/56" rel="alternate" type="text/html" title="56: Surely You’re Joking Mr. Leonman!" /><published>2023-11-21T00:00:00+09:00</published><updated>2023-11-21T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep56</id><content type="html" xml:base="https://interaxion-podcast.github.io/56"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-11-21T23:01:02+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">56: Surely You’re Joking Mr. Leonman!</title><link href="https://interaxion-podcast.github.io/56" rel="alternate" type="text/html" title="56: Surely You’re Joking Mr. Leonman!" /><published>2023-11-21T00:00:00+09:00</published><updated>2023-11-21T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep56</id><content type="html" xml:base="https://interaxion-podcast.github.io/56"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -44,16 +44,7 @@
     <ul>
       <li><a href="https://journal.ntt.co.jp/backnumber2/0711/files/jn200711008.pdf">半導体量子ドットによる量子情報デバイス（藤澤、NTT）(PDF)</a></li>
       <li><a href="http://www.phys.keio.ac.jp/faculty/eto/Eto-text05b.pdf">半導体量子ドットの物理学: 近藤効果を中心に（江藤、慶応大） (PDF)</a></li>
-      <li>
-        <table>
-          <tbody>
-            <tr>
-              <td>[A quantum-dot spin qubit with coherence limited by charge noise and fidelity higher than 99.9%</td>
-              <td>Nature Nanotechnology](https://www.nature.com/articles/s41565-017-0014-x) (<a href="https://arxiv.org/abs/1708.01454">arXiv:1708.01454</a>)</td>
-            </tr>
-          </tbody>
-        </table>
-      </li>
+      <li><a href="https://www.nature.com/articles/s41565-017-0014-x">A quantum-dot spin qubit with coherence limited by charge noise and fidelity higher than 99.9% - Nature Nanotechnology</a> (<a href="https://arxiv.org/abs/1708.01454">arXiv:1708.01454</a>)</li>
     </ul>
   </li>
   <li><a href="https://www.jst.go.jp/seika/bt123-124.html">量子ドットレーザーを実用化｜ナノテクノロジー・材料｜事業成果｜国立研究開発法人　科学技術振興機構</a> 荒川 泰彦（東京大学 ナノ量子情報エレクトロニクス研究機構 特任教授）</li>
@@ -214,7 +205,7 @@
   <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
   <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="量子ドット" /><category term="マヨラナ粒子" /><category term="量子ホール効果" /><category term="YouTube" /><summary type="html"><![CDATA[[LEO](https://twitter.com/LE0_jp)さん、[とみや](https://twitter.com/TomiyaAkio)さんと[部品](https://twitter.com/tjmlab)で量子ドット、マヨラナ粒子、YouTubeでの情報発信などについて話しました。]]></summary></entry><entry><title type="html">55: Quo vadis?</title><link href="https://interaxion-podcast.github.io/55" rel="alternate" type="text/html" title="55: Quo vadis?" /><published>2023-10-11T00:00:00+09:00</published><updated>2023-10-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep55</id><content type="html" xml:base="https://interaxion-podcast.github.io/55"><![CDATA[<details>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="量子ドット" /><category term="マヨラナ粒子" /><category term="量子ホール効果" /><category term="YouTube" /><summary type="html"><![CDATA[[LEO](https://twitter.com/LE0_jp)さん、[とみや](https://twitter.com/TomiyaAkio)さんと[部品](https://twitter.com/tjmlab)で量子ドット、マヨラナ粒子、量子ホール効果、YouTubeでの情報発信などについて話しました。]]></summary></entry><entry><title type="html">55: Quo vadis?</title><link href="https://interaxion-podcast.github.io/55" rel="alternate" type="text/html" title="55: Quo vadis?" /><published>2023-10-11T00:00:00+09:00</published><updated>2023-10-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep55</id><content type="html" xml:base="https://interaxion-podcast.github.io/55"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>

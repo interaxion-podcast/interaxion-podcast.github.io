@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-12-09T01:21:58+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">Courrier 007: アクシオン探索2023</title><link href="https://interaxion-podcast.github.io/courrier/2023-12-08" rel="alternate" type="text/html" title="Courrier 007: アクシオン探索2023" /><published>2023-12-08T00:00:00+09:00</published><updated>2023-12-08T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-axion2023</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/2023-12-08"><![CDATA[<p>アクシオンやそれに似た粒子の探索結果をまとめている <a href="https://github.com/cajohare/AxionLimits">AxionLimits</a> をメンテナンスしている <a href="https://twitter.com/cajohare">Ciaran O’Hare</a> さんが、X (旧: Twitter) に<a href="https://twitter.com/cajohare/status/1733005929493451102">2023年のまとめを投稿されていました</a>。日本語訳をブログに投稿する許可を頂いたので、ここに書きます。論文の画像はこのページには載せないので、<a href="https://twitter.com/cajohare/status/1733005929493451102">元のスレッド</a>や論文を参照してください。論文は全て arXiv なので無料で読めます。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-12-09T01:27:11+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">Courrier 007: アクシオン探索2023</title><link href="https://interaxion-podcast.github.io/courrier/2023-12-08" rel="alternate" type="text/html" title="Courrier 007: アクシオン探索2023" /><published>2023-12-08T00:00:00+09:00</published><updated>2023-12-08T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-axion2023</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/2023-12-08"><![CDATA[<p>アクシオンやそれに似た粒子の探索結果をまとめている <a href="https://github.com/cajohare/AxionLimits">AxionLimits</a> をメンテナンスしている <a href="https://twitter.com/cajohare">Ciaran O’Hare</a> さんが、X (旧: Twitter) に<a href="https://twitter.com/cajohare/status/1733005929493451102">2023年のまとめを投稿されていました</a>。日本語訳をブログに投稿する許可を頂いたので、ここに書きます。論文の画像はこのページには載せないので、<a href="https://twitter.com/cajohare/status/1733005929493451102">元のスレッド</a>や論文を参照してください。論文は全て arXiv なので無料で読めます。</p>
 
 <blockquote class="twitter-tweet tw-align-center">
   <p lang="en" dir="ltr">It's December, so time for my annual update from the world of axions. It’s been another busy year for maintaining my GitHub "AxionLimits" - my attempt to keep up with all of the people around the world desperately searching for these funny particles. <a href="https://t.co/j0os70F4o1">https://t.co/j0os70F4o1</a> <a href="https://t.co/LHUoMFPCHF">pic.twitter.com/LHUoMFPCHF</a></p>
@@ -16,7 +16,7 @@
   <figure class="figure">
     <div style="text-align: center;">
 
-      <p><img src="assets/axion2023_comparison.jpeg" alt="2020年と2023年のアクシオンに対する制限" /></p>
+      <p><img src="../assets/axion2023_comparison.jpeg" alt="2020年と2023年のアクシオンに対する制限" /></p>
 
     </div>
     <figcaption>
@@ -176,7 +176,7 @@
   <figure class="figure">
     <div style="text-align: center;">
 
-      <p><img src="assets/axion2023_Wavy_Map.png" alt="アクシオン実験の世界地図" /></p>
+      <p><img src="../assets/axion2023_Wavy_Map.png" alt="アクシオン実験の世界地図" /></p>
 
     </div>
     <figcaption>

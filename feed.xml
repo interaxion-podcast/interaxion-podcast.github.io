@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-12-08T19:45:57+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">Courrier 007: アクシオン探索2023</title><link href="https://interaxion-podcast.github.io/courrier/2023-12-08" rel="alternate" type="text/html" title="Courrier 007: アクシオン探索2023" /><published>2023-12-08T00:00:00+09:00</published><updated>2023-12-08T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-axion2023</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/2023-12-08"><![CDATA[<p>アクシオンやそれに似た粒子の探索結果をまとめている<a href="https://github.com/cajohare/AxionLimits">AxionLimits</a>をメンテナンスしている<a href="https://twitter.com/cajohare">Ciaran O’Hare</a>さんが、X (旧: Twitter) に<a href="https://twitter.com/cajohare/status/1733005929493451102">2023年のまとめを投稿されていました</a>。日本語訳をブログに投稿する許可を頂いたので、ここに書きます。論文の画像はこのページには載せないので、<a href="https://twitter.com/cajohare/status/1733005929493451102">元のスレッド</a>を参照してください。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-12-09T00:53:25+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">Courrier 007: アクシオン探索2023</title><link href="https://interaxion-podcast.github.io/courrier/2023-12-08" rel="alternate" type="text/html" title="Courrier 007: アクシオン探索2023" /><published>2023-12-08T00:00:00+09:00</published><updated>2023-12-08T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-axion2023</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/2023-12-08"><![CDATA[<p>アクシオンやそれに似た粒子の探索結果をまとめている<a href="https://github.com/cajohare/AxionLimits">AxionLimits</a>をメンテナンスしている<a href="https://twitter.com/cajohare">Ciaran O’Hare</a>さんが、X (旧: Twitter) に<a href="https://twitter.com/cajohare/status/1733005929493451102">2023年のまとめを投稿されていました</a>。日本語訳をブログに投稿する許可を頂いたので、ここに書きます。論文の画像はこのページには載せないので、<a href="https://twitter.com/cajohare/status/1733005929493451102">元のスレッド</a>を参照してください。</p>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="en" dir="ltr">It's December, so time for my annual update from the world of axions. It’s been another busy year for maintaining my GitHub "AxionLimits" - my attempt to keep up with all of the people around the world desperately searching for these funny particles. <a href="https://t.co/j0os70F4o1">https://t.co/j0os70F4o1</a> <a href="https://t.co/LHUoMFPCHF">pic.twitter.com/LHUoMFPCHF</a></p>
+  <p>— Ciaran O'Hare (@cajohare) <a href="https://twitter.com/cajohare/status/1733005929493451102?ref_src=twsrc%5Etfw">December 8, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <hr />
 
@@ -6,7 +12,16 @@
 
 <p>AxionLimits で 2020年に作った最初のプロットと、2023年現在のものを比べたのが以下の図です。AxionLimits は現在400を超える論文からのデータを保持していて、その数は毎週増え続けています。</p>
 
-<p><img src="" alt="" /></p>
+<figure class="figure">
+  <div style="text-align: center;">
+
+    <p><img src="assets/axion2023_comparison.jpeg" alt="2020年と2023年のアクシオンに対する制限" /></p>
+
+  </div>
+  <figcaption>
+    <p>2020年と2023年のアクシオンに対する制限</p>
+  </figcaption>
+</figure>
 
 <h2 id="2023年のハイライト">2023年のハイライト</h2>
 
@@ -55,15 +70,105 @@
   <li><a href="https://arxiv.org/abs/2303.11395">[2303.11395] Axion-sourced fireballs from supernovae</a></li>
 </ul>
 
-<h4 id="実験による制限">実験による制限</h4>
+<h3 id="直接探索">直接探索</h3>
 
-<p>韓国の基礎科学研究院 (IBS) の <a href="https://capp.ibs.re.kr/html/capp_en/">Center for Axion Precision Physics (CAPP)</a> は一連の強磁場ハロスコープ (太陽望遠鏡) でアクシオンの存在が許される領域を削り続けています。</p>
+<p>韓国の基礎科学研究院 (IBS) の <a href="https://capp.ibs.re.kr/html/capp_en/">Center for Axion Precision Physics (CAPP)</a> は一連の強磁場ハロスコープ (ハロー望遠鏡) でアクシオンの存在が許される領域を削り続けています。</p>
 
 <ul>
   <li><a href="https://arxiv.org/abs/2308.09077">[2308.09077] Extended Axion Dark Matter Search Using the CAPP18T Haloscope</a></li>
 </ul>
 
-<p>(続く)</p>]]></content><author><name>oka</name></author><category term="アクシオン" /><summary type="html"><![CDATA[アクシオン探索の2023年についてまとめました。]]></summary></entry><entry><title type="html">56: Surely You’re Joking Mr. Leonman!</title><link href="https://interaxion-podcast.github.io/56" rel="alternate" type="text/html" title="56: Surely You’re Joking Mr. Leonman!" /><published>2023-11-21T00:00:00+09:00</published><updated>2023-11-21T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep56</id><content type="html" xml:base="https://interaxion-podcast.github.io/56"><![CDATA[<details>
+<p>アメリカの HAYSTAC 実験によっても新しい制限が付きました。HAYSTAC の特徴は squeezed state receiver という特殊な装置を用いて量子力学で決まるレベル以下にノイズを落としていることです。</p>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/2301.09721">[2301.09721] New Results from HAYSTAC’s Phase II Operation with a Squeezed State Receiver</a></li>
+</ul>
+
+<p>O’Hare さんのいるオーストラリアにも、パースで行われている ORGAN 実験があります。 ORGAN のアクシオンハロスコープはこれまでで最高の周波数で動作しています。（訳注: 高周波数は低質量のアクシオンを探索することに対応します。）</p>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/2310.00904">[2310.00904] Exclusion of ALP Cogenesis Dark Matter in a Mass Window Above 100 $μ$eV</a></li>
+</ul>
+
+<p>逆に非常に低い周波数では、日本の DANCE 実験が初めての結果を今年得ました。彼らはきれいな弓形のキャビティを使い、レーザーを反跳させています。これはアクシオンがレーザーの偏光を回転させるというアイディアに基づいたものです。</p>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/2303.03594">[2303.03594] First Results of Axion Dark Matter Search with DANCE</a></li>
+</ul>
+
+<p>あまり知られていないハロスコープに LIDA 実験があります。彼らは ナノ電子ボルトの質量領域を探索し、今年最初のリミットを付けました。</p>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/2307.01365">[2307.01365] First results of the Laser-Interferometric Detector for Axions (LIDA)</a></li>
+</ul>
+
+<p>O’Hare さんの今年のお気に入りの新しいアイディアは WISPFI 実験です。この実験はアクシオンを実験室で生成するため、アクシオンがダークマターとして存在していなくても探すことができるというものです。これは light-shining-through-walls (訳注: 壁に向けて光を打って、光がアクシオンに変わると壁を透過できる) と呼ばれるコンセプトを中空糸コイルを用いて見直したものです。</p>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/2305.12969">[2305.12969] WISP Searches on a Fiber Interferometer under a Strong Magnetic Field</a></li>
+</ul>
+
+<p>実験室でアクシオンを作る別の方法として、日本の SAPPHIRES 実験のようにレーザービーム同士をぶつける方法があります。SAPPHIRES 実験も今年新しいリミットを付けました。</p>
+
+<p><a href="https://arxiv.org/abs/2302.06016">[2302.06016] Pilot search for axion-like particles by a three-beam stimulated resonant photon collider with short pulse lasers</a></p>
+
+<h3 id="ダークフォトン">ダークフォトン</h3>
+
+<p>アクシオンをめぐる興奮から数年が経ち、多くのコラボレーションがパイロット実験を構築したところです。しかしながら、アクシオンを探すのは強力な磁石が必要なため難しいです。しかしさしあたり、アクシオン探索実験はダークフォトンを探すことでその機能を証明できます。ダークフォトンはアクシオンに似ていますが、磁場がなくても光子に変身できるという点が異なります。</p>
+
+<p>ダークフォトン探索実験のひとつに、 GigaBREAD という食欲をそそる名前のものがあります。GigaBREAD は巧妙な円錐形の皿によってダークフォトンが変身した光子を1点に集中させて検出します。</p>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/2310.13891">[2310.13891] First Results from a Broadband Search for Dark Photon Dark Matter in the $44$ to $52\,μ$eV range with a coaxial dish antenna</a></li>
+</ul>
+
+<p>中国のグループは超伝導高周波キャビティ (SRF Cavity) を使ってダークフォトンを探しています。</p>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/2305.09711">[2305.09711] SRF Cavity Searches for Dark Photon Dark Matter: First Scan Results</a></li>
+</ul>
+
+<p>これもクールなアイディアです。アクシオンやダークフォトンが非常に軽く、そのために非常に長い波長の光になると、離れた場所に設置された検出器を同期させてそれらを検出した方が良いかもしれません。<br />
+2つの独立したチームが離れた場所に置かれた磁力計のセットを使ってそのような実験を行いました。ひとつはアメリの荒野の奥深くで行われた SNIPE Hunt、もうひとつは中国で行われた AMAILS です。</p>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/2306.11575">[2306.11575] A Hunt for Magnetic Signatures of Hidden-Photon and Axion Dark Matter in the Wilderness</a></li>
+  <li><a href="https://arxiv.org/abs/2305.00890">[2305.00890] Search for dark photons with synchronized quantum sensor network</a></li>
+</ul>
+
+<p>ダークフォトンは非常に興味深いものですが、強く制限もされています。制限を付ける一番良い方法のひとつは、星の進化に与える影響を考慮することです。<br />
+今年 Hiskens et al. はダークフォトンによる冷却を恒星進化モデルに導入し、これまでの赤色巨星やヘリウム燃焼星による制限が見直されました。</p>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/2306.13335">[2306.13335] Constraining Dark Photons with Self-consistent Simulations of Globular Cluster Stars</a></li>
+</ul>
+
+<p>最後に、今年はナノヘルツの確率的重力波背景放射の兆候がいくつかのパルサータイミングアレイ (PTA) のコラボレーションで見つかり、それをめぐって大きな興奮がありました。<br />
+PTA はダークマター検出器でもあり、ナノヘルツ帯域以上の周波数で振動するスカラー場ダークマターに対しては最も強い制限を与えることが分かりました。</p>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/2306.16219">[2306.16219] The NANOGrav 15-year Data Set: Search for Signals from New Physics</a></li>
+</ul>
+
+<p>O’Hare さん自身の今年の論文もあります。この論文ではハロスコープ内のアクシオン信号が何百もの狭いストリームで構成されることを予測しています。</p>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/2311.17367">[2311.17367] Axion minicluster streams in the solar neighbourhood</a></li>
+</ul>
+
+<p>結論
+この分野の発展はとても速く、追い付くのは非常に大変です。地図だと分かりやすいでしょう。これがこれまでアクシオンなどを探索した人々です。この中のどれかがいつか成功し、この忌々しいウェブサイトのメンテナンスをやめられることを願っています。</p>
+
+<figure class="figure">
+  <div style="text-align: center;">
+
+    <p><img src="assets/axion2023_Wavy_Map" alt="アクシオン実験の世界地図 &lt;https://github.com/cajohare/AxionLimits#experiment-map&gt;" /></p>
+
+  </div>
+  <figcaption>
+    <p>アクシオン実験の世界地図 <a href="https://github.com/cajohare/AxionLimits#experiment-map">https://github.com/cajohare/AxionLimits#experiment-map</a></p>
+  </figcaption>
+</figure>]]></content><author><name>oka</name></author><category term="アクシオン" /><summary type="html"><![CDATA[アクシオン探索の2023年についてまとめました。]]></summary></entry><entry><title type="html">56: Surely You’re Joking Mr. Leonman!</title><link href="https://interaxion-podcast.github.io/56" rel="alternate" type="text/html" title="56: Surely You’re Joking Mr. Leonman!" /><published>2023-11-21T00:00:00+09:00</published><updated>2023-11-21T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep56</id><content type="html" xml:base="https://interaxion-podcast.github.io/56"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>

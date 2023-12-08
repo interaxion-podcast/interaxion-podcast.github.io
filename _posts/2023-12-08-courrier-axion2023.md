@@ -11,7 +11,7 @@ tags:
   - アクシオン
 ---
 
-アクシオンやそれに似た粒子の探索結果をまとめている[AxionLimits](https://github.com/cajohare/AxionLimits)をメンテナンスしている[Ciaran O'Hare](https://twitter.com/cajohare)さんが、X (旧: Twitter) に[2023年のまとめを投稿されていました](https://twitter.com/cajohare/status/1733005929493451102)。日本語訳をブログに投稿する許可を頂いたので、ここに書きます。論文の画像はこのページには載せないので、[元のスレッド](https://twitter.com/cajohare/status/1733005929493451102)を参照してください。
+アクシオンやそれに似た粒子の探索結果をまとめている [AxionLimits](https://github.com/cajohare/AxionLimits) をメンテナンスしている [Ciaran O'Hare](https://twitter.com/cajohare) さんが、X (旧: Twitter) に[2023年のまとめを投稿されていました](https://twitter.com/cajohare/status/1733005929493451102)。日本語訳をブログに投稿する許可を頂いたので、ここに書きます。論文の画像はこのページには載せないので、[元のスレッド](https://twitter.com/cajohare/status/1733005929493451102)や論文を参照してください。論文は全て arXiv なので無料で読めます。
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">It&#39;s December, so time for my annual update from the world of axions. It’s been another busy year for maintaining my GitHub &quot;AxionLimits&quot; - my attempt to keep up with all of the people around the world desperately searching for these funny particles. <a href="https://t.co/j0os70F4o1">https://t.co/j0os70F4o1</a> <a href="https://t.co/LHUoMFPCHF">pic.twitter.com/LHUoMFPCHF</a></p>&mdash; Ciaran O&#39;Hare (@cajohare) <a href="https://twitter.com/cajohare/status/1733005929493451102?ref_src=twsrc%5Etfw">December 8, 2023</a>
 </blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -22,7 +22,9 @@ tags:
 
 AxionLimits で 2020年に作った最初のプロットと、2023年現在のものを比べたのが以下の図です。AxionLimits は現在400を超える論文からのデータを保持していて、その数は毎週増え続けています。
 
+<div style="text-align: center;">
 {% include figure.html url="assets/axion2023_comparison.jpeg" description="2020年と2023年のアクシオンに対する制限" %}
+</div>
 
 ## 2023年のハイライト
 
@@ -103,28 +105,37 @@ O'Hare さんの今年のお気に入りの新しいアイディアは WISPFI �
 
 - [[2305.09711] SRF Cavity Searches for Dark Photon Dark Matter: First Scan Results](https://arxiv.org/abs/2305.09711)
 
-これもクールなアイディアです。アクシオンやダークフォトンが非常に軽く、そのために非常に長い波長の光になると、離れた場所に設置された検出器を同期させてそれらを検出した方が良いかもしれません。  
+これもクールなアイディアです。アクシオンやダークフォトンが非常に軽く、そのために非常に長い波長の光になると、離れた場所に設置された検出器を同期させてそれらを検出した方が良いかもしれません。
+
 2つの独立したチームが離れた場所に置かれた磁力計のセットを使ってそのような実験を行いました。ひとつはアメリの荒野の奥深くで行われた SNIPE Hunt、もうひとつは中国で行われた AMAILS です。
 
 - [[2306.11575] A Hunt for Magnetic Signatures of Hidden-Photon and Axion Dark Matter in the Wilderness](https://arxiv.org/abs/2306.11575)
 - [[2305.00890] Search for dark photons with synchronized quantum sensor network](https://arxiv.org/abs/2305.00890)
 
-ダークフォトンは非常に興味深いものですが、強く制限もされています。制限を付ける一番良い方法のひとつは、星の進化に与える影響を考慮することです。  
+ダークフォトンは非常に興味深いものですが、強く制限もされています。制限を付ける一番良い方法のひとつは、星の進化に与える影響を考慮することです。
+
 今年 Hiskens et al. はダークフォトンによる冷却を恒星進化モデルに導入し、これまでの赤色巨星やヘリウム燃焼星による制限が見直されました。
 
 - [[2306.13335] Constraining Dark Photons with Self-consistent Simulations of Globular Cluster Stars](https://arxiv.org/abs/2306.13335)
 
-最後に、今年はナノヘルツの確率的重力波背景放射の兆候がいくつかのパルサータイミングアレイ (PTA) のコラボレーションで見つかり、それをめぐって大きな興奮がありました。  
+### 背景重力波
+
+最後に、今年はナノヘルツの確率的背景重力波の兆候がいくつかのパルサータイミングアレイ (PTA) のコラボレーションで見つかり、それをめぐって大きな興奮がありました。
+
 PTA はダークマター検出器でもあり、ナノヘルツ帯域以上の周波数で振動するスカラー場ダークマターに対しては最も強い制限を与えることが分かりました。
 
 - [[2306.16219] The NANOGrav 15-year Data Set: Search for Signals from New Physics](https://arxiv.org/abs/2306.16219)
+
+### O'Hare さん自身の論文
 
 O'Hare さん自身の今年の論文もあります。この論文ではハロスコープ内のアクシオン信号が何百もの狭いストリームで構成されることを予測しています。
 
 - [[2311.17367] Axion minicluster streams in the solar neighbourhood](https://arxiv.org/abs/2311.17367)
 
-結論
+### 結論
+
 この分野の発展はとても速く、追い付くのは非常に大変です。地図だと分かりやすいでしょう。これがこれまでアクシオンなどを探索した人々です。この中のどれかがいつか成功し、この忌々しいウェブサイトのメンテナンスをやめられることを願っています。
 
-
-{% include figure.html url="assets/axion2023_Wavy_Map" description="アクシオン実験の世界地図 <https://github.com/cajohare/AxionLimits#experiment-map>" %}
+<div style="text-align: center;">
+{% include figure.html url="assets/axion2023_Wavy_Map.png" description="アクシオン実験の世界地図 <a href=\"https://github.com/cajohare/AxionLimits#experiment-map\">https://github.com/cajohare/AxionLimits#experiment-map</a>">" %}
+</div>

@@ -32,9 +32,9 @@ AxionLimits で 2020年に作った最初のプロットと、2023年現在の�
 
 #### 光による探索
 
-アクシオンが銀河のハローを構成している場合、2つの光子に崩壊して銀河や blank sky のエネルギースペクトルで未知の輝線として観測できる可能性があります。
+アクシオンが銀河のハローを構成している場合、2つの光子に崩壊し、銀河や blank sky のエネルギースペクトルで未知の輝線として観測できる可能性があります。
 
-赤外線から紫外線の領域では、 超大型望遠鏡 (VLT) の MUSE、 ハッブル宇宙望遠鏡、 ジェイムズ・ウェッブ宇宙望遠鏡 (JWST) といった装置/望遠鏡による制限が付けられました。
+赤外線から紫外線の領域では、 超大型望遠鏡 (VLT) の MUSE、ハッブル宇宙望遠鏡、ジェイムズ・ウェッブ宇宙望遠鏡 (JWST) といった装置/望遠鏡による制限が付けられました。
 
 - [[2310.15395] Hunting Dark Matter Lines in the Infrared Background with the James Webb Space Telescope](https://arxiv.org/abs/2310.15395)
 - [[2301.06560] Probing the Blue Axion with Cosmic Optical Background Anisotropies](https://arxiv.org/abs/2301.06560)
@@ -59,13 +59,13 @@ JWST によるアクシオン探索の最終到達地点も、 Roy et al. によ
 
 #### 超新星による制限の修正
 
-別の種類の爆発する星とアクシオンの関係としては、 Diamond et al. は超新星爆発が期待通り複雑であることを示し、以前超新星 SN1987A によって付けられていたアクシオンに対する制限は、 fireball がアクシオンの脱出を妨げるため実際には制限になっていないことを報告しました。
+別の種類の爆発する星とアクシオンの関係として、 Diamond et al. は超新星爆発が期待通り複雑であることを示し、以前超新星 SN1987A によって付けられていたアクシオンに対する制限は、 fireball がアクシオンの脱出を妨げるため実際には制限になっていないことを報告しました。
 
 - [[2303.11395] Axion-sourced fireballs from supernovae](https://arxiv.org/abs/2303.11395)
 
 ### 直接探索
 
-韓国の基礎科学研究院 (IBS) の [Center for Axion Precision Physics (CAPP)](https://capp.ibs.re.kr/html/capp_en/) は一連の強磁場ハロスコープ (ハロー望遠鏡) でアクシオンの存在が許される領域を削り続けています。
+さあ実験の話です。韓国の基礎科学研究院 (IBS) の [Center for Axion Precision Physics (CAPP)](https://capp.ibs.re.kr/html/capp_en/) は一連の強磁場ハロスコープ (ハロー望遠鏡) でアクシオンの存在が許される領域を削り続けています。
 
 - [[2308.09077] Extended Axion Dark Matter Search Using the CAPP18T Haloscope](https://arxiv.org/abs/2308.09077)
 
@@ -91,7 +91,7 @@ O'Hare さんの今年のお気に入りの新しいアイディアは WISPFI �
 
 実験室でアクシオンを作る別の方法として、日本の SAPPHIRES 実験のようにレーザービーム同士をぶつける方法があります。SAPPHIRES 実験も今年新しいリミットを付けました。
 
-[[2302.06016] Pilot search for axion-like particles by a three-beam stimulated resonant photon collider with short pulse lasers](https://arxiv.org/abs/2302.06016)
+- [[2302.06016] Pilot search for axion-like particles by a three-beam stimulated resonant photon collider with short pulse lasers](https://arxiv.org/abs/2302.06016)
 
 ### ダークフォトン
 
@@ -105,9 +105,9 @@ O'Hare さんの今年のお気に入りの新しいアイディアは WISPFI �
 
 - [[2305.09711] SRF Cavity Searches for Dark Photon Dark Matter: First Scan Results](https://arxiv.org/abs/2305.09711)
 
-これもクールなアイディアです。アクシオンやダークフォトンが非常に軽く、そのために非常に長い波長の光になると、離れた場所に設置された検出器を同期させてそれらを検出した方が良いかもしれません。
+お次もクールなアイディアです。アクシオンやダークフォトンが非常に軽く、そのために非常に長い波長の光になると、離れた場所に設置された検出器を同期させてそれらを検出した方が良いかもしれません。
 
-2つの独立したチームが離れた場所に置かれた磁力計のセットを使ってそのような実験を行いました。ひとつはアメリの荒野の奥深くで行われた SNIPE Hunt、もうひとつは中国で行われた AMAILS です。
+2つの独立したチームが離れた場所に置かれた磁力計のセットを使ってそのような実験を行いました。ひとつはアメリカの荒野の奥深くで行われた SNIPE Hunt、もうひとつは中国で行われた AMAILS です。
 
 - [[2306.11575] A Hunt for Magnetic Signatures of Hidden-Photon and Axion Dark Matter in the Wilderness](https://arxiv.org/abs/2306.11575)
 - [[2305.00890] Search for dark photons with synchronized quantum sensor network](https://arxiv.org/abs/2305.00890)
@@ -137,5 +137,6 @@ O'Hare さん自身の今年の論文もあります。この論文ではハロ�
 この分野の発展はとても速く、追い付くのは非常に大変です。地図だと分かりやすいでしょう。これがこれまでアクシオンなどを探索した人々です。この中のどれかがいつか成功し、この忌々しいウェブサイトのメンテナンスをやめられることを願っています。
 
 <div style="text-align: center;">
-{% include figure.html url="assets/axion2023_Wavy_Map.png" description="アクシオン実験の世界地図 <a href=\"https://github.com/cajohare/AxionLimits#experiment-map\">https://github.com/cajohare/AxionLimits#experiment-map</a>">" %}
+{% include figure.html url="assets/axion2023_Wavy_Map.png" description="アクシオン実験の世界地図 %}
+<https://github.com/cajohare/AxionLimits#experiment-map\>
 </div>

@@ -137,6 +137,6 @@ O'Hare さん自身の今年の論文もあります。この論文ではハロ�
 この分野の発展はとても速く、追い付くのは非常に大変です。地図だと分かりやすいでしょう。これがこれまでアクシオンなどを探索した人々です。この中のどれかがいつか成功し、この忌々しいウェブサイトのメンテナンスをやめられることを願っています。
 
 <div style="text-align: center;">
-{% include figure.html url="assets/axion2023_Wavy_Map.png" description="アクシオン実験の世界地図 %}
+{% include figure.html url="assets/axion2023_Wavy_Map.png" description="アクシオン実験の世界地図" %}
 <https://github.com/cajohare/AxionLimits#experiment-map\>
 </div>

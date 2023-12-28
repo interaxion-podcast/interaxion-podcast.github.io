@@ -1,4 +1,169 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-12-09T01:35:22+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">Courrier 007: アクシオン探索2023</title><link href="https://interaxion-podcast.github.io/courrier/2023-12-08" rel="alternate" type="text/html" title="Courrier 007: アクシオン探索2023" /><published>2023-12-08T00:00:00+09:00</published><updated>2023-12-08T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-axion2023</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/2023-12-08"><![CDATA[<p>アクシオンやそれに似た粒子の探索結果をまとめている <a href="https://github.com/cajohare/AxionLimits">AxionLimits</a> をメンテナンスしている <a href="https://twitter.com/cajohare">Ciaran O’Hare</a> さんが、X (旧: Twitter) に<a href="https://twitter.com/cajohare/status/1733005929493451102">2023年のまとめを投稿されていました</a>。日本語訳をブログに投稿する許可を頂いたので、ここに書きます。論文の画像はこのページには載せないので、<a href="https://twitter.com/cajohare/status/1733005929493451102">元のスレッド</a>や論文を参照してください。論文は全て arXiv なので無料で読めます。</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-12-29T01:01:27+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">57: Markovian Peer Review</title><link href="https://interaxion-podcast.github.io/57-draft" rel="alternate" type="text/html" title="57: Markovian Peer Review" /><published>2023-12-28T00:00:00+09:00</published><updated>2023-12-28T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep57</id><content type="html" xml:base="https://interaxion-podcast.github.io/57-draft"><![CDATA[<details>
+  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
+  <summary>目次</summary>
+  <nav>
+<ul id="markdown-toc">
+  <li><a href="#deepmind-gnome" id="markdown-toc-deepmind-gnome">DeepMind GNoME</a></li>
+  <li><a href="#同時に出たucバークレー自動実験論文も熱い" id="markdown-toc-同時に出たucバークレー自動実験論文も熱い">同時に出たUCバークレー自動実験論文も熱い</a></li>
+  <li><a href="#reddmatter-ついに撤回" id="markdown-toc-reddmatter-ついに撤回">Reddmatter ついに撤回</a></li>
+  <li><a href="#section" id="markdown-toc-section">その他</a></li>
+  <li><a href="#section-1" id="markdown-toc-section-1">お知らせ</a></li>
+</ul>
+    <!-- https://stackoverflow.com/a/38419441/11480802 -->
+  </nav>
+</details>
+<p><br /></p>
+
+<h3 id="deepmind-gnome">DeepMind GNoME</h3>
+
+<ul>
+  <li><a href="https://www.nature.com/articles/s41586-023-06735-9">Scaling deep learning for materials discovery - Nature</a></li>
+  <li><a href="https://deepmind.google/discover/blog/millions-of-new-materials-discovered-with-deep-learning/">Millions of new materials discovered with deep learning - Google DeepMind</a>
+    <ul>
+      <li>生成エネルギーの予測誤差 ~ 11 meV/atomに到達</li>
+      <li>物質における機械学習でのscaling lawの確認</li>
+      <li>domain shiftした領域での予測にもscaling lawが成立</li>
+      <li>多量データセットからpretrainした機械学習分子間ポテンシャルは、数百データセットの追加で他モデルをout-perform</li>
+    </ul>
+  </li>
+  <li><a href="https://interaxion-podcast.github.io/36">Interaxion 36: AlphaMagnet</a><br />
+次は AlphaMagnet が来る！と予想した回</li>
+  <li><a href="https://www.linkedin.com/posts/ongsp_a-google-ai-has-discovered-22m-materials-activity-7136223630731988992-hHlZ">LinkedInのShyue Ping Ong: A Google AI has discovered 2.2m materials unknown to science</a>
+    <blockquote>
+      <p>…In my opinion, Nature should have never published the Google paper because the work violates FAIR (Findable, Accessible, Interoperable, Reusable) data principles.</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="同時に出たucバークレー自動実験論文も熱い">同時に出たUCバークレー自動実験論文も熱い</h3>
+
+<ul>
+  <li><a href="https://www.nature.com/articles/s41586-023-06734-w">An autonomous laboratory for the accelerated synthesis of novel materials - Nature</a></li>
+  <li><a href="https://twitter.com/Robert_Palgrave/status/1730882978664911329">XユーザーのRobert Palgraveさん: 「Thanks for you additional data and comments. I read both post on LinkedIn and will post below, probably copy to LinkedIn too. Thank you for providing additional analysis of your M-Sb-Pb-O compounds.」 / X</a><br />
+曰く、「それ既存物質を元素置換しただけのサンプルじゃね？」</li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="en" dir="ltr">Thanks for you additional data and comments. I read both post on LinkedIn and will post below, probably copy to LinkedIn too.<br /><br />Thank you for providing additional analysis of your M-Sb-Pb-O compounds. <a href="https://t.co/DWycZmVIJY">https://t.co/DWycZmVIJY</a></p>
+  <p>— Robert Palgrave (@Robert_Palgrave) <a href="https://twitter.com/Robert_Palgrave/status/1730882978664911329?ref_src=twsrc%5Etfw">December 2, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li><a href="https://twitter.com/SchoopLab/status/1730694504930545998">XユーザーのSchoop Labさん: 「Hard disagree here. The problem is not a lack in precision of the analysis but a lack in proof that any predicted new material has actually been made. AI could very well made up materials that don’t exist. So far based on the analysis here, proof that these can be made is lacking」 / X</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="en" dir="ltr">Hard disagree here. The problem is not a lack in precision of the analysis but a lack in proof that any predicted new material has actually been made. AI could very well made up materials that don’t exist. So far based on the analysis here, proof that these can be made is lacking <a href="https://t.co/mG8i3Y29Td">https://t.co/mG8i3Y29Td</a></p>
+  <p>— Schoop Lab (@SchoopLab) <a href="https://twitter.com/SchoopLab/status/1730694504930545998?ref_src=twsrc%5Etfw">December 1, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li><a href="https://twitter.com/PeakSquirrel/status/1730656508718051625?s=20">XユーザーのShyam D. PhDさん: 「Oh boy. This is a great thread to unpack how the experimental world is being held back when thinking about the role of AI/ML. A unfortunately long thread」 / X</a><br />
+計算科学者の立場からは「AIで予測した新物質を自動合成で高速に検証できるようになったという新しいスキームの提案が重要。精度にこだわるのは従来の材料科学者のだめなところ」という反論</li>
+</ul>
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">Oh boy. This is a great thread to unpack how the experimental world is being held back when thinking about the role of AI/ML. A unfortunately long thread <a href="https://t.co/uloUYQ6jVc">https://t.co/uloUYQ6jVc</a></p>
+  <p>— Shyam D. PhD (@PeakSquirrel) <a href="https://twitter.com/PeakSquirrel/status/1730656508718051625?ref_src=twsrc%5Etfw">December 1, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>でも、そのスキームならすでに以前からあるので新規性が無いことになるのでは？</p>
+
+<ul>
+  <li><a href="https://pubs.aip.org/aip/apm/article/8/11/111110/569817/Autonomous-materials-synthesis-by-machine-learning">Autonomous materials synthesis by machine learning and robotics - APL Materials - AIP Publishing</a><br />
+3年前の一杉先生たちの論文</li>
+  <li><a href="https://note.com/baukmilze/n/n244c36f150a2">世界初!? 粉体原料を用いた全自動合成システム｜baukmilze</a><br />
+今年の2月頃のサムスンの自動実験を解説したブカさんのnote</li>
+  <li><a href="https://twitter.com/SUS316Lsteel/status/1730924041333305345?s=20">Xユーザーの椎茸うま子さん: 「全自動合成は1980年代に有機合成や半導体単結晶薄膜で実現し、2000年代には、化学、製薬メーカーで分析も含む自動化が行なわれてます。 https://t.co/YlGLrEKmBq 最近の流行はAIによる評価、最適化を合わせたもので、コンセプトとして新しさはなく、重要なのはその費用対効果、アウトプットの質です。」 / X</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">全自動合成は1980年代に有機合成や半導体単結晶薄膜で実現し、2000年代には、化学、製薬メーカーで分析も含む自動化が行なわれてます。<a href="https://t.co/YlGLrEKmBq">https://t.co/YlGLrEKmBq</a><br />最近の流行はAIによる評価、最適化を合わせたもので、コンセプトとして新しさはなく、重要なのはその費用対効果、アウトプットの質です。</p>
+  <p>— 椎茸うま子 (@SUS316Lsteel) <a href="https://twitter.com/SUS316Lsteel/status/1730924041333305345?ref_src=twsrc%5Etfw">December 2, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li><a href="https://twitter.com/TakaYamamoto33/status/1733788822016545132?s=20">XユーザーのTakafumi Yamamotoさん: 「先週話題になったCeder groupによるNatureの自動合成で報告された新物質の中に、偶然私のグループで昨年合成した物質が含まれていました。構造解析の結果、彼らとは別の結論に至ったので、その結果をChemRxivにポストしました。 https://t.co/7LEAxZ9kg5」 / X</a><br />
+新物質、とNature論文で指摘されてる物質を昨年報告済み。また、X線構造解析を精密にやると、Nature論文と違う結果になる。</li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">先週話題になったCeder groupによるNatureの自動合成で報告された新物質の中に、偶然私のグループで昨年合成した物質が含まれていました。構造解析の結果、彼らとは別の結論に至ったので、その結果をChemRxivにポストしました。<a href="https://t.co/7LEAxZ9kg5">https://t.co/7LEAxZ9kg5</a></p>
+  <p>— Takafumi Yamamoto (@TakaYamamoto33) <a href="https://twitter.com/TakaYamamoto33/status/1733788822016545132?ref_src=twsrc%5Etfw">December 10, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li><a href="https://omron-sinicx.github.io/powder-grinding/">Robotic Powder Grinding with Audio-Visual Feedback for Laboratory Automation in Materials Science</a><br />
+阪大 小野研究室による乳鉢粉砕自動化</li>
+  <li><a href="https://twitter.com/rdias495/status/1729950048383873292">Dias 師も注目</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="zxx" dir="ltr"><a href="https://t.co/l7JqTDZtIB">https://t.co/l7JqTDZtIB</a></p>
+  <p>— Ranga Dias Lab @Rochester (@rdias495) <a href="https://twitter.com/rdias495/status/1729950048383873292?ref_src=twsrc%5Etfw">November 29, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li><a href="https://www.lightstone.co.jp/icdd/pdf2db.html">ICDD PDF-2 - 粉末回折・結晶構造データベース - ライトストーン</a><br />
+途中「ICSDのデータベースは構造解析のレベルによってランク付けされてる」って話したんですが、正しくはICDDのPDF(Powder Diffraction File)データベースでした。ICSDのデータから計算されたデータも載っているはずなので完全な間違いではないはずですが…</li>
+</ul>
+
+<h3 id="reddmatter-ついに撤回">Reddmatter ついに撤回</h3>
+
+<ul>
+  <li><a href="https://buhin-blog.blogspot.com/2023/03/nature.html">【改題】室温超伝導ふたたび！～大丈夫じゃなかった、Natureの論文だもん！～ - ぶひんブログ</a></li>
+  <li><a href="https://www.jstage.jst.go.jp/article/oubutsu/92/12/92_706/_article/-char/ja">室温超伝導!? - 応用物理 2023年92巻12号 p. 706-708</a><br />
+阪大 清水先生による LK-99 や窒素ドープしたルテチウム水素化物 (Reddmatter) などについての見解</li>
+  <li><a href="https://buhin-blog.blogspot.com/2023/11/lk-99.html">LK-99とは何だったのか～室温超伝導狂騒曲～ - ぶひんブログ</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">Is MgB2 a superconductor?<a href="https://t.co/by6a2l02Ca">https://t.co/by6a2l02Ca</a><br />「ハーシュの理屈に従うと、MgB2は超伝導体じゃなくなるが？」<br /><br />くそわろた</p>
+  <p>— 部品（森七菜） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1732947346336735237?ref_src=twsrc%5Etfw">December 8, 2023</a>&lt;/blockquote&gt; <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+  <h3 id="section">その他</h3>
+
+  <ul>
+    <li><a href="https://note.com/ykamit/n/n06d9c6b6e968">QST（NICT， 阪大）からのプレスリリース（2023.11.30）へのコメント｜神谷之康（Yukiyasu Kamitani）</a></li>
+    <li><a href="https://twitter.com/tjmlab/status/1735919121773236253?t=5q-h_SGiLDhEPG-jqHbiQw&amp;s=19">Xユーザーの部品（森七菜）さん: 「はい、因果律死んだーー！！！」 / X</a></li>
+  </ul>
+
+  <blockquote class="twitter-tweet tw-align-center">
+    <p lang="ja" dir="ltr">はい、因果律死んだーー！！！ <a href="https://t.co/cHEMkzPWCc">https://t.co/cHEMkzPWCc</a></p>
+    <p>— 部品（森七菜） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1735919121773236253?ref_src=twsrc%5Etfw">December 16, 2023</a></p>
+  </blockquote>
+  <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+  <h3 id="section-1">お知らせ</h3>
+
+  <ul>
+    <li>エンディング BGM
+      <ul>
+        <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
+        <li>曲名: 弓</li>
+      </ul>
+    </li>
+  </ul>
+
+  <iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>
+
+  <ul>
+    <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
+  </ul>
+
+  <blockquote class="twitter-tweet tw-align-center">
+    <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
+    <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
+  </blockquote>
+  <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+</blockquote>]]></content><author><name></name></author><category term="超伝導" /><category term="室温超伝導" /><category term="X線回折" /><category term="ラボラトリーオートメーション" /><summary type="html"><![CDATA[[部品](https://twitter.com/tjmlab)、[うってぃ](https://twitter.com/tmy_usgm)、[ブカ](https://twitter.com/elmizbuka)、[おか](https://twitter.com/nowohyeah)で Google DeepMind による新物質発見？、自動実験、2023年の超伝導情勢などについて話しました。]]></summary></entry><entry><title type="html">Courrier 007: アクシオン探索2023</title><link href="https://interaxion-podcast.github.io/courrier/2023-12-08" rel="alternate" type="text/html" title="Courrier 007: アクシオン探索2023" /><published>2023-12-08T00:00:00+09:00</published><updated>2023-12-08T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-axion2023</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/2023-12-08"><![CDATA[<p>アクシオンやそれに似た粒子の探索結果をまとめている <a href="https://github.com/cajohare/AxionLimits">AxionLimits</a> をメンテナンスしている <a href="https://twitter.com/cajohare">Ciaran O’Hare</a> さんが、X (旧: Twitter) に<a href="https://twitter.com/cajohare/status/1733005929493451102">2023年のまとめを投稿されていました</a>。日本語訳をブログに投稿する許可を頂いたので、ここに書きます。論文の画像はこのページには載せないので、<a href="https://twitter.com/cajohare/status/1733005929493451102">元のスレッド</a>や論文を参照してください。論文は全て arXiv なので無料で読めます。</p>
 
 <blockquote class="twitter-tweet tw-align-center">
   <p lang="en" dir="ltr">It's December, so time for my annual update from the world of axions. It’s been another busy year for maintaining my GitHub "AxionLimits" - my attempt to keep up with all of the people around the world desperately searching for these funny particles. <a href="https://t.co/j0os70F4o1">https://t.co/j0os70F4o1</a> <a href="https://t.co/LHUoMFPCHF">pic.twitter.com/LHUoMFPCHF</a></p>
@@ -1616,183 +1781,4 @@ PACOシステム！<a href="https://www.researchgate.net/publication/257331153_P
   <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
   <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="宇宙線" /><category term="ダークマター" /><category term="ガンマ線天文学" /><category term="中国" /><summary type="html"><![CDATA[[いなだ](https://twitter.com/tomoinada0206)さんと[おか](https://twitter.com/nowohyeah)でダークマター間接探索、コライダーニュートリノ、ガンマ線バーストなどについて話しました。 (2023/04/30 収録)]]></summary></entry><entry><title type="html">50.5: My Home as a Startup</title><link href="https://interaxion-podcast.github.io/50-5" rel="alternate" type="text/html" title="50.5: My Home as a Startup" /><published>2023-06-30T00:00:00+09:00</published><updated>2023-06-30T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep50.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/50-5"><![CDATA[<details>
-  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
-  <summary>目次</summary>
-  <nav>
-<ul id="markdown-toc">
-  <li><a href="#000-はじめまして" id="markdown-toc-000-はじめまして">0:00 はじめまして</a></li>
-  <li><a href="#325-趣旨説明" id="markdown-toc-325-趣旨説明">3:25 趣旨説明</a></li>
-  <li><a href="#744-みんなの家" id="markdown-toc-744-みんなの家">7:44 みんなの家</a></li>
-  <li><a href="#1058-ウスターさんの家" id="markdown-toc-1058-ウスターさんの家">10:58 ウスターさんの家</a></li>
-  <li><a href="#1448-うってぃさんの家" id="markdown-toc-1448-うってぃさんの家">14:48 うってぃさんの家</a></li>
-  <li><a href="#1947-いっちぃさんの家" id="markdown-toc-1947-いっちぃさんの家">19:47 いっちぃさんの家</a></li>
-  <li><a href="#2233-仕事と家を買うタイミング" id="markdown-toc-2233-仕事と家を買うタイミング">22:33 仕事と家を買うタイミング</a></li>
-  <li><a href="#3328-住宅ローンなど" id="markdown-toc-3328-住宅ローンなど">33:28 住宅ローンなど</a></li>
-  <li><a href="#5633-注文住宅か建売か" id="markdown-toc-5633-注文住宅か建売か">56:33 注文住宅か建売か</a></li>
-  <li><a href="#11330-立地-岐阜はいいぞ" id="markdown-toc-11330-立地-岐阜はいいぞ">1:13:30 立地 (岐阜はいいぞ)</a></li>
-  <li><a href="#12155-間取り" id="markdown-toc-12155-間取り">1:21:55 間取り</a></li>
-  <li><a href="#13523-中古か新築か" id="markdown-toc-13523-中古か新築か">1:35:23 中古か新築か</a></li>
-  <li><a href="#14243-こぼれ話" id="markdown-toc-14243-こぼれ話">1:42:43 こぼれ話</a></li>
-  <li><a href="#参考資料" id="markdown-toc-参考資料">参考資料</a></li>
-  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
-  <li><a href="#editorial" id="markdown-toc-editorial">Editorial</a></li>
-</ul>
-    <!-- https://stackoverflow.com/a/38419441/11480802 -->
-  </nav>
-</details>
-<p><br /></p>
-
-<h3 id="000-はじめまして">0:00 はじめまして</h3>
-
-<ul>
-  <li><a href="https://www.arkbfm.com/episode/41">Ep. 41 Marginal Crying Otaku - あらB.fm</a> … リングフィット会の話をしているあらB.fmの回</li>
-  <li><a href="http://localhost:4000/44">Interaxion 44: Carbon Is All You Need</a> … 異常一般男性たちが超伝導について語る回</li>
-</ul>
-
-<h3 id="325-趣旨説明">3:25 趣旨説明</h3>
-
-<h3 id="744-みんなの家">7:44 みんなの家</h3>
-
-<ul>
-  <li>おか: 賃貸</li>
-  <li>ウスター: 建売住宅</li>
-  <li>うってぃ: 注文住宅</li>
-  <li>いっちぃ: マンション</li>
-</ul>
-
-<h3 id="1058-ウスターさんの家">10:58 ウスターさんの家</h3>
-
-<h3 id="1448-うってぃさんの家">14:48 うってぃさんの家</h3>
-
-<h3 id="1947-いっちぃさんの家">19:47 いっちぃさんの家</h3>
-
-<h3 id="2233-仕事と家を買うタイミング">22:33 仕事と家を買うタイミング</h3>
-
-<ul>
-  <li>リセールバリューを予想するのは難しい</li>
-</ul>
-
-<h3 id="3328-住宅ローンなど">33:28 住宅ローンなど</h3>
-
-<ul>
-  <li><a href="https://www.mzyy94.com/blog/2023/02/27/my-new-house/">独身男性 新築を買う - 犬アイコンのみっきー</a>
-    <blockquote>
-      <p>家をお得に買うなら今年が最後</p>
-    </blockquote>
-  </li>
-  <li>土地代大事</li>
-  <li><a href="https://www.nikkei.com/article/DGXMZO44498140X00C19A5EE9000/">「フラット35」投資用に不正利用か　国交相が調査指示 - 日本経済新聞</a></li>
-  <li>子どもに関する情報を得るのが難しい問題</li>
-</ul>
-
-<h3 id="5633-注文住宅か建売か">56:33 注文住宅か建売か</h3>
-
-<ul>
-  <li>完璧を目指さないおうち設計</li>
-  <li>おうちとステイクホルダー</li>
-  <li>おうちとプロジェクト管理</li>
-  <li>かゆいところに手が届く配線</li>
-  <li><a href="https://hags-ec.com/column/what-is-a-one-cut-switch-three-way-switchthe-difference-between-the-illumination-switches-that-are/">片切スイッチ・3路スイッチとは？よくわかる照明スイッチの違い - HAGS (ハグス)</a></li>
-  <li><a href="https://www.sustainablebrands.jp/article/story/detail/1209348_1534.html">断熱性能を義務化する「建築物省エネ法」改正法が成立、新たな断熱等級もスタート - サステナブル・ブランド ジャパン</a></li>
-  <li>政府としては新築の性能の基準を引き上げる方向で動いているので、将来的に建物性能が不動産の価値に反映されるような市場ができていると…個人的には嬉しい (うってぃ)
-    <ul>
-      <li><a href="https://www.mlit.go.jp/jutakukentiku/house/jutakukentiku_house_tk4_000016.html">住宅の品質確保の促進等に関する法律</a></li>
-      <li><a href="https://www.mlit.go.jp/common/001500212.pdf">住宅性能表示制度における省エネ性能に係る上位等級の創設</a></li>
-      <li>ちなみに今年、内窓の補助金がお得みたい（<a href="https://window-renovation.env.go.jp/">先進的窓リノベ事業</a>）</li>
-    </ul>
-  </li>
-</ul>
-
-<h3 id="11330-立地-岐阜はいいぞ">1:13:30 立地 (岐阜はいいぞ)</h3>
-
-<ul>
-  <li><a href="https://ja.wikipedia.org/wiki/%E5%B2%90%E9%98%9C%E7%BE%BD%E5%B3%B6%E9%A7%85">岐阜羽島駅 - Wikipedia</a></li>
-  <li><a href="https://trafficnews.jp/post/119573">リニア中央新幹線「岐阜県駅」工事スタート 地上駅では一番乗り 車庫直結の”3層構造” - 乗りものニュース</a></li>
-</ul>
-
-<h3 id="12155-間取り">1:21:55 間取り</h3>
-
-<ul>
-  <li><a href="https://w.atwiki.jp/aniwotawiki/pages/11272.html">膝に矢を受けてしまってな…(Skyrim) - アニヲタWiki(仮) - atwiki（アットウィキ）</a>
-    <ul>
-      <li><a href="https://en.wikipedia.org/wiki/Arrow_in_the_knee">Arrow in the knee - Wikipedia</a></li>
-    </ul>
-  </li>
-  <li><a href="https://www.okamura-home.co.jp/column/202303-1/">空き家の税金が上がるのはいつから？2023年の法改正で何が変わる？｜千葉県八千代の新築一戸建て・土地活用・注文住宅は風見鶏の家・オカムラホーム</a></li>
-  <li>子ども部屋どうするか問題</li>
-</ul>
-
-<h3 id="13523-中古か新築か">1:35:23 中古か新築か</h3>
-
-<ul>
-  <li><a href="https://www.ichijo.co.jp/">一条工務店</a>の中古出てればおすすめ</li>
-  <li>うってぃさんおすすめ Youtube
-    <ul>
-      <li><a href="https://www.youtube.com/@user-bd8ss1ir8l/featured">松尾設計室</a></li>
-      <li><a href="https://www.youtube.com/@minorusagami">オーガニックスタジオ新潟</a></li>
-    </ul>
-  </li>
-  <li>良い中古マンション買うのは難しい</li>
-  <li><a href="http://www.reins.or.jp/about/">レインズとは？ - REINS TOWER</a></li>
-</ul>
-
-<h3 id="14243-こぼれ話">1:42:43 こぼれ話</h3>
-
-<ul>
-  <li><a href="https://qiita.com/TMUS_SH/items/402ae53099986e3e19d9">SwitchBot温湿度計を絶対湿度ロガーにする</a><br />
-うってぃさんの記事</li>
-  <li><a href="https://nature.global/nature-remo-e/">Nature Remo E</a> で宅外からも電力の見える化ができるようになって便利</li>
-  <li>うってぃさんが以前家建てたときの話をしてくれた回 <a href="https://interaxion-podcast.github.io/21">Interaxion 21: SPring-8 is better place for living than KEK</a></li>
-  <li>手付け金を払う前に確認しよう</li>
-  <li>FP取るのおすすめ <a href="https://amzn.to/42yESW2">みんなが欲しかった! FPの教科書 3級</a></li>
-</ul>
-
-<h3 id="参考資料">参考資料</h3>
-
-<ul>
-  <li><a href="https://giv-finance.com/">Giv finance – Giv finance CorporateSite</a><br />
-ウスターさんの副業の会社。金融商品や住宅購入やWEBページ企画制作のご相談はどうぞ。</li>
-  <li><a href="https://note.com/chotoq/n/n69439fd45fe4">サラリーマン、家を買う①｜いっちぃ</a><br />
-いっちぃ先生の連載シリーズ</li>
-  <li><a href="https://www.suumocounter.jp/chumon/report/jitsurei/archive/category/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%80%81%E5%AE%B6%E3%82%92%E5%BB%BA%E3%81%A6%E3%82%8B">エンジニア、家を建てる カテゴリーの記事一覧 - MY HOME STORY │スーモカウンター注文住宅</a><br />
-これ見ると家建てるのあこがれる (oka)</li>
-</ul>
-
-<h3 id="お知らせ">お知らせ</h3>
-
-<ul>
-  <li><a href="https://store.line.me/stickershop/product/20651080/ja">ニムニムスタンプ</a></li>
-  <li>使用 BGM について
-    <ul>
-      <li><a href="https://audiostock.jp/audio/1267554">切なく懐かしいトラック 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
-      <li>実は曲名はキッチン</li>
-    </ul>
-  </li>
-</ul>
-
-<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1267554"></iframe>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">【動画やポッドキャストのBGMをお探しの方へ】<br /><br />サイトウが大量に制作したトラックの中から厳選された作品が、国内最大級の音源販売サイト Audiostock で販売開始されました。<br /><br />単品購入 or 定額制を選択可。<br />ぜひご活用ください！！<a href="https://t.co/7dSi0Mw6kG">https://t.co/7dSi0Mw6kG</a></p>
-  <p>— サイトウナヲキ (@sai_enlightened) <a href="https://twitter.com/sai_enlightened/status/1542127615959392256?ref_src=twsrc%5Etfw">June 29, 2022</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<h3 id="editorial">Editorial</h3>
-
-<ul>
-  <li>家買うタイミングじゃないなと思った結果、車を買ってしまいました。 (oka)</li>
-  <li>岐阜を推しすぎて大変失礼しました！リリース日ですが、まだ購入した家に住めていません！ (ウスター)</li>
-  <li>ローンの型(ペアローン・連帯債務・連帯保証)、夫婦での比率や銀行の選択についても聞けば良かった！ (いっちぃ)</li>
-</ul>]]></content><author><name></name></author><category term="人生" /><category term="家" /><category term="岐阜" /><summary type="html"><![CDATA[いっちぃさん、うってぃさん、ウスターさん、oka で家を購入することについて話しました。 (2023/03/26 収録)]]></summary></entry></feed>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="宇宙線" /><category term="ダークマター" /><category term="ガンマ線天文学" /><category term="中国" /><summary type="html"><![CDATA[[いなだ](https://twitter.com/tomoinada0206)さんと[おか](https://twitter.com/nowohyeah)でダークマター間接探索、コライダーニュートリノ、ガンマ線バーストなどについて話しました。 (2023/04/30 収録)]]></summary></entry></feed>

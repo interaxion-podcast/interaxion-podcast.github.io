@@ -1,12 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-12-29T01:01:27+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">57: Markovian Peer Review</title><link href="https://interaxion-podcast.github.io/57-draft" rel="alternate" type="text/html" title="57: Markovian Peer Review" /><published>2023-12-28T00:00:00+09:00</published><updated>2023-12-28T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep57</id><content type="html" xml:base="https://interaxion-podcast.github.io/57-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2023-12-30T16:08:12+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">57: Markovian Peer Review</title><link href="https://interaxion-podcast.github.io/57-draft" rel="alternate" type="text/html" title="57: Markovian Peer Review" /><published>2023-12-30T00:00:00+09:00</published><updated>2023-12-30T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep57</id><content type="html" xml:base="https://interaxion-podcast.github.io/57-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
 <ul id="markdown-toc">
-  <li><a href="#deepmind-gnome" id="markdown-toc-deepmind-gnome">DeepMind GNoME</a></li>
-  <li><a href="#同時に出たucバークレー自動実験論文も熱い" id="markdown-toc-同時に出たucバークレー自動実験論文も熱い">同時に出たUCバークレー自動実験論文も熱い</a></li>
-  <li><a href="#reddmatter-ついに撤回" id="markdown-toc-reddmatter-ついに撤回">Reddmatter ついに撤回</a></li>
-  <li><a href="#section" id="markdown-toc-section">その他</a></li>
+  <li><a href="#130-deepmind-gnome" id="markdown-toc-130-deepmind-gnome">1:30 DeepMind GNoME</a></li>
+  <li><a href="#1410-同時に出たucバークレー自動実験論文も熱い-色んな意味で" id="markdown-toc-1410-同時に出たucバークレー自動実験論文も熱い-色んな意味で">14:10 同時に出たUCバークレー自動実験論文も熱い (色んな意味で)</a></li>
+  <li><a href="#12924-reddmatter-ついに撤回" id="markdown-toc-12924-reddmatter-ついに撤回">1:29:24 Reddmatter ついに撤回</a></li>
+  <li><a href="#lk-99" id="markdown-toc-lk-99">01:48:25 LK-99</a></li>
+  <li><a href="#section" id="markdown-toc-section">1:54:45 プレスリリースとの向き合い方</a></li>
   <li><a href="#section-1" id="markdown-toc-section-1">お知らせ</a></li>
 </ul>
     <!-- https://stackoverflow.com/a/38419441/11480802 -->
@@ -14,7 +15,7 @@
 </details>
 <p><br /></p>
 
-<h3 id="deepmind-gnome">DeepMind GNoME</h3>
+<h3 id="130-deepmind-gnome">1:30 DeepMind GNoME</h3>
 
 <ul>
   <li><a href="https://www.nature.com/articles/s41586-023-06735-9">Scaling deep learning for materials discovery - Nature</a></li>
@@ -27,18 +28,34 @@
     </ul>
   </li>
   <li><a href="https://interaxion-podcast.github.io/36">Interaxion 36: AlphaMagnet</a><br />
-次は AlphaMagnet が来る！と予想した回</li>
+次は AlphaGo, AlphaFold の次は AlphaMagnet が来る！と予想した回</li>
+  <li><a href="https://matlantis.com/ja/">MATLANTIS</a></li>
   <li><a href="https://www.linkedin.com/posts/ongsp_a-google-ai-has-discovered-22m-materials-activity-7136223630731988992-hHlZ">LinkedInのShyue Ping Ong: A Google AI has discovered 2.2m materials unknown to science</a>
     <blockquote>
       <p>…In my opinion, Nature should have never published the Google paper because the work violates FAIR (Findable, Accessible, Interoperable, Reusable) data principles.</p>
     </blockquote>
   </li>
+  <li><a href="https://ja.wikipedia.org/wiki/FAIR%E5%8E%9F%E5%89%87">FAIR原則 - Wikipedia</a></li>
+  <li><a href="https://twitter.com/NaistMi/status/1730428710283530648?ref_src=twsrc%5Etfw">XユーザーのNAIST MI-Labさん: 「MRS 2023での衝撃：DeepMindがバーチャルに新規安定物質を38万種類みつけたと発表し、その候補をA-lab (Ceder)がRobotで実際に合成したとのこと。 https://t.co/r9ZvQoJzlr https://t.co/ABXFHZ23A0 https://t.co/dLIypfnhBu #マテリアルズ・インフォマティクス」 / X</a></li>
 </ul>
 
-<h3 id="同時に出たucバークレー自動実験論文も熱い">同時に出たUCバークレー自動実験論文も熱い</h3>
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">MRS 2023での衝撃：DeepMindがバーチャルに新規安定物質を38万種類みつけたと発表し、その候補をA-lab (Ceder)がRobotで実際に合成したとのこと。 <a href="https://t.co/r9ZvQoJzlr">https://t.co/r9ZvQoJzlr</a> <a href="https://t.co/ABXFHZ23A0">https://t.co/ABXFHZ23A0</a> <a href="https://t.co/dLIypfnhBu">https://t.co/dLIypfnhBu</a><br /> <a href="https://twitter.com/hashtag/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9?src=hash&amp;ref_src=twsrc%5Etfw">#マテリアルズ・インフォマティクス</a></p>
+  <p>— NAIST MI-Lab (@NaistMi) <a href="https://twitter.com/NaistMi/status/1730428710283530648?ref_src=twsrc%5Etfw">December 1, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h3 id="1410-同時に出たucバークレー自動実験論文も熱い-色んな意味で">14:10 同時に出たUCバークレー自動実験論文も熱い (色んな意味で)</h3>
 
 <ul>
-  <li><a href="https://www.nature.com/articles/s41586-023-06734-w">An autonomous laboratory for the accelerated synthesis of novel materials - Nature</a></li>
+  <li><a href="https://www.nature.com/articles/s41586-023-06734-w">An autonomous laboratory for the accelerated synthesis of novel materials - Nature</a>
+    <ul>
+      <li><a href="https://www.nature.com/articles/s41586-023-06734-w#Sec14">Supplementary information</a> もしっかりチェック！</li>
+    </ul>
+  </li>
+  <li><a href="https://next-gen.materialsproject.org/">Materials Project - Home</a></li>
+  <li><a href="https://qiita.com/oki_kosuke/items/6be3d1dbe1c7e16a5276">Materials Projectとは？（概要とデータの取得） #chemoinformatics - Qiita</a></li>
+  <li><a href="https://www.mst.or.jp/casestudy/tabid/1318/pdid/623/Default.aspx">MST｜リートベルト解析（Rietveld analysis）とは(B0277)</a></li>
   <li><a href="https://twitter.com/Robert_Palgrave/status/1730882978664911329">XユーザーのRobert Palgraveさん: 「Thanks for you additional data and comments. I read both post on LinkedIn and will post below, probably copy to LinkedIn too. Thank you for providing additional analysis of your M-Sb-Pb-O compounds.」 / X</a><br />
 曰く、「それ既存物質を元素置換しただけのサンプルじゃね？」</li>
 </ul>
@@ -60,11 +77,34 @@
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <ul>
+  <li><a href="https://twitter.com/TakaYamamoto33/status/1733788822016545132?s=20">XユーザーのTakafumi Yamamotoさん: 「先週話題になったCeder groupによるNatureの自動合成で報告された新物質の中に、偶然私のグループで昨年合成した物質が含まれていました。構造解析の結果、彼らとは別の結論に至ったので、その結果をChemRxivにポストしました。 https://t.co/7LEAxZ9kg5」 / X</a><br />
+新物質、とNature論文で指摘されてる物質を昨年報告済み。また、X線構造解析を精密にやると、Nature論文と違う結果になる。</li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">先週話題になったCeder groupによるNatureの自動合成で報告された新物質の中に、偶然私のグループで昨年合成した物質が含まれていました。構造解析の結果、彼らとは別の結論に至ったので、その結果をChemRxivにポストしました。<a href="https://t.co/7LEAxZ9kg5">https://t.co/7LEAxZ9kg5</a></p>
+  <p>— Takafumi Yamamoto (@TakaYamamoto33) <a href="https://twitter.com/TakaYamamoto33/status/1733788822016545132?ref_src=twsrc%5Etfw">December 10, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li><a href="https://www.jstage.jst.go.jp/article/jcrsj/64/3/64_238/_article/-char/ja/">泉 富士夫先生を偲ぶ - 日本結晶学会誌 2022年64巻3号 p. 238-239</a></li>
+  <li><a href="https://jp-minerals.org/vesta/jp/">VESTA</a>
+    <ul>
+      <li><a href="https://ma.issp.u-tokyo.ac.jp/app-post/1176">VESTAの利用例 - MateriApps(マテリアップス) 計算物質科学の研究者、理論家、実験家・企業研究者、計算機科学者のための物質科学シミュレーションのポータルサイト</a></li>
+    </ul>
+  </li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%86%E3%83%A9%E3%83%BC%E5%8A%B9%E6%9E%9C">ヤーン・テラー効果 - Wikipedia</a></li>
+  <li><a href="https://icsd.products.fiz-karlsruhe.de/">ICSD - the world’s largest database for completely identified inorganic crystal structures</a></li>
+  <li>
+    <p><a href="https://www.lightstone.co.jp/icdd/pdf2db.html">ICDD PDF-2 - 粉末回折・結晶構造データベース - ライトストーン</a><br />
+途中「ICSDのデータベースは構造解析のレベルによってランク付けされてる」って話したんですが、正しくはICDDのPDF(Powder Diffraction File)データベースでした。ICSDのデータから計算されたデータも載っているはずなので完全な間違いではないはずですが…</p>
+  </li>
   <li><a href="https://twitter.com/PeakSquirrel/status/1730656508718051625?s=20">XユーザーのShyam D. PhDさん: 「Oh boy. This is a great thread to unpack how the experimental world is being held back when thinking about the role of AI/ML. A unfortunately long thread」 / X</a><br />
 計算科学者の立場からは「AIで予測した新物質を自動合成で高速に検証できるようになったという新しいスキームの提案が重要。精度にこだわるのは従来の材料科学者のだめなところ」という反論</li>
 </ul>
 
-<blockquote class="twitter-tweet">
+<blockquote class="twitter-tweet tw-align-center">
   <p lang="en" dir="ltr">Oh boy. This is a great thread to unpack how the experimental world is being held back when thinking about the role of AI/ML. A unfortunately long thread <a href="https://t.co/uloUYQ6jVc">https://t.co/uloUYQ6jVc</a></p>
   <p>— Shyam D. PhD (@PeakSquirrel) <a href="https://twitter.com/PeakSquirrel/status/1730656508718051625?ref_src=twsrc%5Etfw">December 1, 2023</a></p>
 </blockquote>
@@ -87,17 +127,6 @@
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <ul>
-  <li><a href="https://twitter.com/TakaYamamoto33/status/1733788822016545132?s=20">XユーザーのTakafumi Yamamotoさん: 「先週話題になったCeder groupによるNatureの自動合成で報告された新物質の中に、偶然私のグループで昨年合成した物質が含まれていました。構造解析の結果、彼らとは別の結論に至ったので、その結果をChemRxivにポストしました。 https://t.co/7LEAxZ9kg5」 / X</a><br />
-新物質、とNature論文で指摘されてる物質を昨年報告済み。また、X線構造解析を精密にやると、Nature論文と違う結果になる。</li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">先週話題になったCeder groupによるNatureの自動合成で報告された新物質の中に、偶然私のグループで昨年合成した物質が含まれていました。構造解析の結果、彼らとは別の結論に至ったので、その結果をChemRxivにポストしました。<a href="https://t.co/7LEAxZ9kg5">https://t.co/7LEAxZ9kg5</a></p>
-  <p>— Takafumi Yamamoto (@TakaYamamoto33) <a href="https://twitter.com/TakaYamamoto33/status/1733788822016545132?ref_src=twsrc%5Etfw">December 10, 2023</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
   <li><a href="https://omron-sinicx.github.io/powder-grinding/">Robotic Powder Grinding with Audio-Visual Feedback for Laboratory Automation in Materials Science</a><br />
 阪大 小野研究室による乳鉢粉砕自動化</li>
   <li><a href="https://twitter.com/rdias495/status/1729950048383873292">Dias 師も注目</a></li>
@@ -109,28 +138,100 @@
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<ul>
-  <li><a href="https://www.lightstone.co.jp/icdd/pdf2db.html">ICDD PDF-2 - 粉末回折・結晶構造データベース - ライトストーン</a><br />
-途中「ICSDのデータベースは構造解析のレベルによってランク付けされてる」って話したんですが、正しくはICDDのPDF(Powder Diffraction File)データベースでした。ICSDのデータから計算されたデータも載っているはずなので完全な間違いではないはずですが…</li>
-</ul>
-
-<h3 id="reddmatter-ついに撤回">Reddmatter ついに撤回</h3>
+<h3 id="12924-reddmatter-ついに撤回">1:29:24 Reddmatter ついに撤回</h3>
 
 <ul>
+  <li><a href="https://www.science.org/doi/10.1126/science.adn4880">Breakdowns of the Year - Science</a></li>
   <li><a href="https://buhin-blog.blogspot.com/2023/03/nature.html">【改題】室温超伝導ふたたび！～大丈夫じゃなかった、Natureの論文だもん！～ - ぶひんブログ</a></li>
+  <li><a href="https://www.unearthlymaterials.com/">Unearthly Materials — Powering the century of superconductivity</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%A4%E3%83%A4%E3%83%A2%E3%83%B3%E3%83%89%E3%82%A2%E3%83%B3%E3%83%93%E3%83%AB%E3%82%BB%E3%83%AB">ダイヤモンドアンビルセル - Wikipedia</a> (DAC)</li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%B3%E3%83%89%E3%83%AA%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B7%E3%82%A7%E3%83%BC%E3%83%B3">ヘンドリック・シェーン - Wikipedia</a></li>
   <li><a href="https://www.jstage.jst.go.jp/article/oubutsu/92/12/92_706/_article/-char/ja">室温超伝導!? - 応用物理 2023年92巻12号 p. 706-708</a><br />
 阪大 清水先生による LK-99 や窒素ドープしたルテチウム水素化物 (Reddmatter) などについての見解</li>
-  <li><a href="https://buhin-blog.blogspot.com/2023/11/lk-99.html">LK-99とは何だったのか～室温超伝導狂騒曲～ - ぶひんブログ</a></li>
+  <li><a href="https://twitter.com/rdias495/status/1721941592972427386">XユーザーのRanga Dias Lab @Rochesterさん: 「They were convinced of the results and fully on board with the publication. Moreover, such conviction is unlikely to change in a person regarding his own data. Unfortunately, it’s the students who have become unintended victims in this situation.@kchangnyt @emcconover https://t.co/xAf0CC3EKf」 / X</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="en" dir="ltr">They were convinced of the results and fully on board with the publication. Moreover, such conviction is unlikely to change in a person regarding his own data. Unfortunately, it's the students who have become unintended victims in this situation.<a href="https://twitter.com/kchangnyt?ref_src=twsrc%5Etfw">@kchangnyt</a> <a href="https://twitter.com/emcconover?ref_src=twsrc%5Etfw">@emcconover</a> <a href="https://t.co/xAf0CC3EKf">pic.twitter.com/xAf0CC3EKf</a></p>
+  <p>— Ranga Dias Lab @Rochester (@rdias495) <a href="https://twitter.com/rdias495/status/1721941592972427386?ref_src=twsrc%5Etfw">November 7, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%95%E9%81%8E%E7%A8%8B">マルコフ過程 - Wikipedia</a></li>
+  <li><a href="https://twitter.com/rdias495/status/1689842253806657536">XユーザーのRanga Dias Lab @Rochesterさん: 「The race toward achieving ambient conditions superconductivity is heating up. https://t.co/EgiVGjBQ5K」 / X</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="en" dir="ltr">The race toward achieving ambient conditions superconductivity is heating up. <a href="https://t.co/EgiVGjBQ5K">pic.twitter.com/EgiVGjBQ5K</a></p>
+  <p>— Ranga Dias Lab @Rochester (@rdias495) <a href="https://twitter.com/rdias495/status/1689842253806657536?ref_src=twsrc%5Etfw">August 11, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li>現状のまとめ
+    <ul>
+      <li>◯撤回
+        <ul>
+          <li>LHN超伝導 (Nature)<br />
+<a href="https://www.nature.com/articles/s41586-023-05742-0">RETRACTED ARTICLE: Evidence of near-ambient superconductivity in a N-doped lutetium hydride</a></li>
+          <li>CSH超伝導 (Nature)<br />
+<a href="https://www.nature.com/articles/s41586-022-05294-9">Retraction Note: Room-temperature superconductivity in a carbonaceous sulfur hydride</a></li>
+          <li>MnS2論文 (PRL)
+<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.127.016401">Colossal Density-Driven Resistance Response in the Negative Charge Transfer Insulator MnS2</a></li>
+        </ul>
+      </li>
+      <li>◯調査中
+        <ul>
+          <li>YH3超伝導 (PRL)<br />
+<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.239902">Expression of Concern: Synthesis of Yttrium Superhydride Superconductor with a Transition Temperature up to 262 K by Catalytic Hydrogenation at High Pressures [Phys. Rev. Lett. 126, 117003 (2021)]</a></li>
+        </ul>
+      </li>
+      <li>◯DiasではなくCSH超伝導の共著者の一人M. Debessaiが阪大清水研と共著で出した撤回論文
+        <ul>
+          <li>Eu高圧超伝導論文 (PRL)<br />
+<a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.102.197002">Pressure-Induced Superconducting State of Europium Metal at Low Temperatures</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><a href="https://twitter.com/tjmlab/status/1732947346336735237">Xユーザーの部品（森七菜）さん: 「Is MgB2 a superconductor? https://t.co/by6a2l02Ca 「ハーシュの理屈に従うと、MgB2は超伝導体じゃなくなるが？」 くそわろた」 / X</a></li>
 </ul>
 
 <blockquote class="twitter-tweet tw-align-center">
   <p lang="ja" dir="ltr">Is MgB2 a superconductor?<a href="https://t.co/by6a2l02Ca">https://t.co/by6a2l02Ca</a><br />「ハーシュの理屈に従うと、MgB2は超伝導体じゃなくなるが？」<br /><br />くそわろた</p>
   <p>— 部品（森七菜） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1732947346336735237?ref_src=twsrc%5Etfw">December 8, 2023</a>&lt;/blockquote&gt; <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
-  <h3 id="section">その他</h3>
+  <ul>
+    <li><a href="https://twitter.com/tjmlab/status/1740630564884173035">Xユーザーの部品（森七菜）さん: 「Comment on arXiv:2312.04495 by M. I. Eremets and coauthors https://t.co/dNOdMDJVkO 「ハーシュ御大の理論だとMgB2が超伝導じゃなくなるじゃん」てEremets御大がArxiv論文だす → 実はハーシュ御大の計算コードをもらって無断で論文化したのでハーシュ御大お怒り中 大変だなあ（こなみ）」 / X</a></li>
+  </ul>
+
+  <blockquote class="twitter-tweet tw-align-center">
+    <p lang="ja" dir="ltr">Comment on arXiv:2312.04495 by M. I. Eremets and coauthors<a href="https://t.co/dNOdMDJVkO">https://t.co/dNOdMDJVkO</a><br /><br />「ハーシュ御大の理論だとMgB2が超伝導じゃなくなるじゃん」てEremets御大がArxiv論文だす<br />→<br />実はハーシュ御大の計算コードをもらって無断で論文化したのでハーシュ御大お怒り中<br /><br />大変だなあ（こなみ）</p>
+    <p>— 部品（森七菜） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1740630564884173035?ref_src=twsrc%5Etfw">December 29, 2023</a></p>
+  </blockquote>
+  <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+  <h3 id="lk-99">01:48:25 LK-99</h3>
+
+  <ul>
+    <li><a href="https://buhin-blog.blogspot.com/2023/11/lk-99.html">LK-99とは何だったのか～室温超伝導狂騒曲～ - ぶひんブログ</a></li>
+    <li><a href="https://japanese.joins.com/JArticle/312656">夢から覚めた「夢の物質」…韓国超伝導学会検証委「ＬＫ－９９は超伝導体ではない」　開発者「ノーコメント」 - Joongang Ilbo - 中央日報</a>
+      <ul>
+        <li><a href="https://japanese.joins.com/JArticle/307694">韓国研究チーム「常温超伝導体」論文著者の間で内紛…「同意なく無断登載」 - Joongang Ilbo - 中央日報</a></li>
+      </ul>
+    </li>
+    <li><a href="https://interaxion-podcast.github.io/keywords/sc-in-brain/">脳内超伝導 - Interaxion Keywords</a></li>
+    <li><a href="https://www.373k-superconductors.com/">373 K SUPERCONDUCTORS - Home C1</a></li>
+  </ul>
+
+  <h3 id="section">1:54:45 プレスリリースとの向き合い方</h3>
 
   <ul>
     <li><a href="https://note.com/ykamit/n/n06d9c6b6e968">QST（NICT， 阪大）からのプレスリリース（2023.11.30）へのコメント｜神谷之康（Yukiyasu Kamitani）</a></li>
+    <li><a href="https://dic.pixiv.net/a/%E6%B0%91%E6%98%8E%E6%9B%B8%E6%88%BF">民明書房 (みんめいしょぼう)とは【ピクシブ百科事典】</a></li>
+    <li>電気抵抗実質ゼロ自前プレスリリースについて話した回<br />
+<a href="https://interaxion-podcast.github.io/30#11844-%E9%9B%BB%E6%B0%97%E6%8A%B5%E6%8A%97%E5%AE%9F%E8%B3%AA%E3%82%BC%E3%83%AD">Interaxion 30: The Blue Bird in Condensed Matter Physics</a></li>
     <li><a href="https://twitter.com/tjmlab/status/1735919121773236253?t=5q-h_SGiLDhEPG-jqHbiQw&amp;s=19">Xユーザーの部品（森七菜）さん: 「はい、因果律死んだーー！！！」 / X</a></li>
   </ul>
 

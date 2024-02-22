@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-02-22T19:45:39+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">58: Nostalgic Gadgets’ Night</title><link href="https://interaxion-podcast.github.io/58" rel="alternate" type="text/html" title="58: Nostalgic Gadgets’ Night" /><published>2024-02-21T00:00:00+09:00</published><updated>2024-02-21T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep58</id><content type="html" xml:base="https://interaxion-podcast.github.io/58"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-02-22T19:54:38+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">58: Nostalgic Gadgets’ Night</title><link href="https://interaxion-podcast.github.io/58" rel="alternate" type="text/html" title="58: Nostalgic Gadgets’ Night" /><published>2024-02-21T00:00:00+09:00</published><updated>2024-02-21T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep58</id><content type="html" xml:base="https://interaxion-podcast.github.io/58"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -61,18 +61,15 @@
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <ul>
-  <li>たりすけさんからのおたより</li>
-</ul>
-
-<blockquote>
-  <p>47: Out of Contextききました。
-最近、くずし字勉強はじめたので、話題に出てびっくりしました。
-「ぼっち・ざ・ろっく」見てみました。すごく面白いですね。
-次回も楽しみにしています
+  <li>たりすけさんからのおたより
+    <blockquote>
+      <p>47: Out of Contextききました。<br />
+最近、くずし字勉強はじめたので、話題に出てびっくりしました。<br />
+「ぼっち・ざ・ろっく」見てみました。すごく面白いですね。<br />
+次回も楽しみにしています<br />
 Submitted 07:53 AM - 22 February 2023 (UTC)</p>
-</blockquote>
-
-<ul>
+    </blockquote>
+  </li>
   <li><a href="https://interaxion-podcast.github.io/47">Interaxion 47: Out of Context</a></li>
   <li><a href="https://ja.wikipedia.org/wiki/%E5%90%88%E7%95%A5%E4%BB%AE%E5%90%8D">合略仮名 - Wikipedia</a></li>
   <li><a href="https://twitter.com/haruki_wtnb/status/1743576210201051198">XユーザーのHaruki Watanabeさん: 「古典力学における時間反転について調べていて、図書館で発見した昭和6年の書物。同じ日本語とは思えない… https://t.co/7JLSqOfoFH」 / X</a><br />
@@ -103,15 +100,15 @@ Submitted 07:53 AM - 22 February 2023 (UTC)</p>
 <ul>
   <li><a href="https://interaxion-podcast.github.io/22">Interaxion 22: First Japanese on Phys. Rev.</a><br />
 国立国会図書館デジタルコレクションを活用した回</li>
-  <li><a href="https://kotobaken.jp/qa/yokuaru/qa-64/">漱石の当て字にはどんなものがありますか - ことばの疑問 - ことば研究館</a></li>
-</ul>
-
-<blockquote>
-  <p>こんにちは、いつも楽しく拝聴しております。物理については高校レベルの全くの専門外なので雰囲気で聞いていますが、流れの中でokaさんやゲストさんから鋭い視点の質問があるとやはり博士持ちの人はすごいなあと思っております。今回はAmazonミュージックでの配信についてご検討いただけないかお便りいたしました。あらBfmさんやresearchatfmさんなどがAmazonミュージックでの配信もしていて、速度調節がiOSのPodcastアプリより細かくできて個人的に便利だと感じています。AmazonミュージックからPodcastに興味を持つ方もいるかもしれませんので、この機会始めてみるのはいかがでしょうか。これからも楽しみにしております。
+  <li>
+    <p><a href="https://kotobaken.jp/qa/yokuaru/qa-64/">漱石の当て字にはどんなものがありますか - ことばの疑問 - ことば研究館</a></p>
+  </li>
+  <li>匿名の方からのおたより
+    <blockquote>
+      <p>こんにちは、いつも楽しく拝聴しております。物理については高校レベルの全くの専門外なので雰囲気で聞いていますが、流れの中でokaさんやゲストさんから鋭い視点の質問があるとやはり博士持ちの人はすごいなあと思っております。今回はAmazonミュージックでの配信についてご検討いただけないかお便りいたしました。あらBfmさんやresearchatfmさんなどがAmazonミュージックでの配信もしていて、速度調節がiOSのPodcastアプリより細かくできて個人的に便利だと感じています。AmazonミュージックからPodcastに興味を持つ方もいるかもしれませんので、この機会始めてみるのはいかがでしょうか。これからも楽しみにしております。<br />
 Submitted 10:02 AM - 13 March 2022 (UTC)</p>
-</blockquote>
-
-<ul>
+    </blockquote>
+  </li>
   <li>
     <p><a href="https://music.amazon.co.jp/podcasts/342b6d21-3c6f-4c3a-93ae-781cf8fabcf0/interaxion-%E7%89%A9%E7%90%86%E7%B3%BB%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88">Interaxion - 物理系ポッドキャスト Podcast on Amazon Music</a><br />
 2年近くお待たせしましたが配信開始しました</p>
@@ -253,7 +250,7 @@ Submitted 10:02 AM - 13 March 2022 (UTC)</p>
   <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
   <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><summary type="html"><![CDATA[[かかーたさん](https://twitter.com/Kuzz_pontie_Kak)と、[おか](https://twitter.com/nowohyeah)で 博士課程、Advent Calendar、阪大アメフト部、万博と瀬戸内国際芸術祭、思い出ガジェットなどについて話しました。 (箸休め回)]]></summary></entry><entry><title type="html">Blog: スペシャルコンテンツ配信のお知らせ</title><link href="https://interaxion-podcast.github.io/blog/2024-01-21" rel="alternate" type="text/html" title="Blog: スペシャルコンテンツ配信のお知らせ" /><published>2024-01-21T00:00:00+09:00</published><updated>2024-01-21T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/blog/blog-special</id><content type="html" xml:base="https://interaxion-podcast.github.io/blog/2024-01-21"><![CDATA[<p>令和6年能登半島地震で被災された方々にお見舞い申し上げます。</p>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><summary type="html"><![CDATA[[かかーたさん](https://twitter.com/Kuzz_pontie_Kak)と[おか](https://twitter.com/nowohyeah)で 博士課程、Advent Calendar、阪大アメフト部、万博と瀬戸内国際芸術祭、思い出ガジェットなどについて話しました。 (箸休め回)]]></summary></entry><entry><title type="html">Blog: スペシャルコンテンツ配信のお知らせ</title><link href="https://interaxion-podcast.github.io/blog/2024-01-21" rel="alternate" type="text/html" title="Blog: スペシャルコンテンツ配信のお知らせ" /><published>2024-01-21T00:00:00+09:00</published><updated>2024-01-21T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/blog/blog-special</id><content type="html" xml:base="https://interaxion-podcast.github.io/blog/2024-01-21"><![CDATA[<p>令和6年能登半島地震で被災された方々にお見舞い申し上げます。</p>
 
 <p>Interaxion Podcast では能登半島地震に関して義援金や支援金を寄付を行った方々に向けて、スペシャルコンテンツをご用意しました。以下のフォームから自己申告頂き、簡単な質問にお答え頂くと30分ほどの音声データをダウンロードできます。</p>
 

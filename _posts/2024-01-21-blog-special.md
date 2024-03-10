@@ -29,4 +29,9 @@ Interaxion Podcast では能登半島地震に関して義援金や支援金を�
 
 ## 技術情報
 
-今回のフォーム作成には [Jotform](https://www.jotform.com/) というサービスを使ってみました。 Google Forms では選択肢による分岐ができないため試してみました。無料だと多少制限があるようですが PC 用、スマートフォン用の UI も作ることができて良さそうでした。
+今回のフォーム作成には [Jotform](https://www.jotform.com/) というサービスを使ってみました。 Google Forms では選択肢による分岐ができないため試してみました。無料だと多少制限があるようですが PC 用、スマートフォン用の UI も作ることができて良さそうでした。  
+※追記  
+1ヶ月以上経った後、気付かぬ間にフォームへのリンクが無効になっていた ("Oops, It looks like this form is missing!" と表示される)。[Pricing](https://www.jotform.com/pricing/) のページには無料版の制限として 100 Monthly Submissions や 1,000 Monthly Form Views などが書かれているが、どちらも到達していないはず (View 数については詳しく分からないが、寄付を呼び掛けた tweet の impression が2000くらいなのでそこまでないはず)。幸い、新規作成から既存のフォームをクローンするを選べば簡単に複製できたので、報告を受けてすぐ修正することができた。
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">リンク先のページに書かれたフォームへのリンクをクリックしても表示されないとの報告を頂きました。もし既にそういう状況になっている方がいたら申し訳ありません。<br>以下のリンクから再度確認してもらえればと思います。<a href="https://t.co/XYqAvz1ONy">https://t.co/XYqAvz1ONy</a></p>&mdash; Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1761763948716863488?ref_src=twsrc%5Etfw">February 25, 2024</a>
+</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

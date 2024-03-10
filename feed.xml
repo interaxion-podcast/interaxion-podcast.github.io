@@ -1,4 +1,153 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-03-08T18:55:40+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">58: Nostalgic Gadgets’ Night</title><link href="https://interaxion-podcast.github.io/58" rel="alternate" type="text/html" title="58: Nostalgic Gadgets’ Night" /><published>2024-02-21T00:00:00+09:00</published><updated>2024-02-21T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep58</id><content type="html" xml:base="https://interaxion-podcast.github.io/58"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-03-10T19:29:28+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">59: open_recruitment::Any</title><link href="https://interaxion-podcast.github.io/59-draft" rel="alternate" type="text/html" title="59: open_recruitment::Any" /><published>2024-03-10T00:00:00+09:00</published><updated>2024-03-10T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep59</id><content type="html" xml:base="https://interaxion-podcast.github.io/59-draft"><![CDATA[<details>
+  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
+  <summary>目次</summary>
+  <nav>
+<ul id="markdown-toc">
+  <li><a href="#1700-mit-留学" id="markdown-toc-1700-mit-留学">17:00 MIT 留学</a></li>
+  <li><a href="#3550-日本での機械学習の研究" id="markdown-toc-3550-日本での機械学習の研究">35:50 日本での機械学習の研究</a></li>
+  <li><a href="#4100-国研に就職したきっかけ" id="markdown-toc-4100-国研に就職したきっかけ">41:00 国研に就職したきっかけ</a></li>
+  <li><a href="#5400-東大へ移動" id="markdown-toc-5400-東大へ移動">54:00 東大へ移動</a></li>
+  <li><a href="#12000-おたより" id="markdown-toc-12000-おたより">1:20:00 おたより</a></li>
+  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
+</ul>
+    <!-- https://stackoverflow.com/a/38419441/11480802 -->
+  </nav>
+</details>
+<p><br /></p>
+
+<ul>
+  <li><a href="https://www.itc.u-tokyo.ac.jp/">東京大学情報基盤センター</a></li>
+  <li><a href="https://webpark2417.sakura.ne.jp/ynagai/">永井研究室 NAGAI Laboratory</a></li>
+  <li><a href="https://messagepassing.github.io/012-manycore/04-shinh/">バカパラ</a></li>
+  <li><a href="https://physics.mit.edu/faculty/liang-fu/">Liang Fu » MIT Physics</a></li>
+  <li><a href="https://scholar.google.com/citations?user=rS68naIAAAAJ&amp;hl=ja">Liang Fu - Google Scholar</a></li>
+  <li><a href="https://www.science.org/doi/full/10.1126/science.aag2302">G. Carleo and M. Troyer, Solving the quantum many-body problem with artificial neural networks - Science</a></li>
+  <li><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.96.161102">Phys. Rev. B 96, 161102(R) (2017) - Self-learning Monte Carlo method: Continuous-time algorithm</a></li>
+  <li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.227204">Phys. Rev. Lett. 125, 227204 (2020) - DMFT Reveals the Non-Hermitian Topology and Fermi Arcs in Heavy-Fermion Systems</a></li>
+</ul>
+
+<h3 id="1700-mit-留学">17:00 MIT 留学</h3>
+
+<ul>
+  <li>Like a storm</li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E6%B0%B8%E9%95%B7%E7%9B%B4%E4%BA%BA">永長直人 - Wikipedia</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Landau_Institute_for_Theoretical_Physics">Landau Institute for Theoretical Physics - Wikipedia</a></li>
+  <li>分数量子異常ホール効果: <a href="https://www.nature.com/articles/s41586-023-06289-w">Signatures of fractional quantum anomalous Hall states in twisted MoTe2 - Nature</a></li>
+</ul>
+
+<h3 id="3550-日本での機械学習の研究">35:50 日本での機械学習の研究</h3>
+
+<ul>
+  <li><a href="https://interaxion-podcast.github.io/starring/#%E3%81%A8%E3%81%BF%E3%82%84">富谷さん出演回 - Interaxion Podcast</a></li>
+  <li><a href="https://arxiv.org/abs/2306.11527">arXiv: 2306.11527 Self-learning Monte Carlo with equivariant Transformer</a></li>
+  <li><a href="https://www.rs.tus.ac.jp/hypermaterials/">ハイパーマテリアル：補空間が創る新物質科学 - 文部科学省 科学研究費助成事業 新学術領域研究（2019年度 - 2023年度）</a></li>
+</ul>
+
+<h3 id="4100-国研に就職したきっかけ">41:00 国研に就職したきっかけ</h3>
+
+<ul>
+  <li><a href="https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%A0%94%E7%A9%B6%E9%96%8B%E7%99%BA%E6%A9%9F%E6%A7%8B">日本原子力研究開発機構 - Wikipedia</a></li>
+</ul>
+
+<h3 id="5400-東大へ移動">54:00 東大へ移動</h3>
+
+<ul>
+  <li>Any 型の公募</li>
+  <li><a href="https://amzn.to/3ItSNUA">『物理学者,機械学習を使う』</a></li>
+  <li><a href="https://amzn.to/3TxJglW">『1週間で学べる! Julia数値計算プログラミング』</a></li>
+  <li><a href="http://www.webpark2417.sakura.ne.jp/oldstyle/nagainotes.htm">物理ノートby永井</a></li>
+  <li><a href="https://qiita.com/cometscome_phys">cometscome_phys - Qiita</a></li>
+  <li><a href="https://kakuyomu.jp/works/1177354054882886305">物性理論大学院生の日常〜研究室は解散しました（新井パグナス） - カクヨム</a></li>
+  <li>
+    <p><a href="https://github.com/akio-tomiya/LatticeQCD.jl">akio-tomiya/LatticeQCD.jl: A native Julia code for lattice QCD with dynamical fermions in 4 dimension.</a></p>
+  </li>
+  <li>おすすめのSF
+    <ul>
+      <li><a href="https://amzn.to/3wV6qcJ">『三体』</a></li>
+      <li><a href="https://amzn.to/3wKpCtY">『タイム・シップ』</a></li>
+      <li><a href="https://amzn.to/3Vb0SFp">『ファウンデーション』</a></li>
+      <li><a href="https://amzn.to/48Sfpsy">『幼年期の終わり』</a></li>
+    </ul>
+  </li>
+  <li><a href="https://researchat.fm/">Researchat.fm</a> の tadasu さんに炊飯器を譲渡した話</li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%B9%E3%83%9F%E3%83%B3%E7%B1%B3">ジャスミン米 - Wikipedia</a></li>
+</ul>
+
+<h3 id="12000-おたより">1:20:00 おたより</h3>
+
+<ul>
+  <li>東京雪ふりましたねさんからのおたより
+    <blockquote>
+      <p>永井さんが出てくださって嬉しいです！<br />
+お子さんがいらっしゃり、絶対にお忙しいと思うのですが、論文を年に何本も出せる生産性の高さの秘密を教えて頂けないでしょうか?<br />
+Submitted 10:17 AM - 06 February 2024 (UTC)</p>
+    </blockquote>
+  </li>
+  <li>翡翠さんからのおたより
+    <blockquote>
+      <p>機械学習の研究を始めたきっかけがあれば知りたいです</p>
+    </blockquote>
+  </li>
+  <li><a href="https://amzn.to/3wUyyNa">『ゼロから作るDeep Learning』</a></li>
+  <li>やる気出ないさんからのおたより
+    <blockquote>
+      <p>永井さん、部品さんこんにちは！<br />
+育児で疲れると、仕事や勉強のやる気が全然出ないのですが、<br />
+どうしたら両立できますか？</p>
+    </blockquote>
+  </li>
+  <li>SLMCさんからのおたより
+    <blockquote>
+      <p>これまでのご所属であった日本原子力研究開発機構でそのままキャリアアップもあったのと思うのですが，転職された経緯・動機等差し支えない範囲でお伺いできればと存じます．<br />
+また，今後研究内容を変えていくのかもお伺いしたいです．</p>
+    </blockquote>
+  </li>
+  <li>むしっしーさんからのおたより
+    <blockquote>
+      <p>永井先生のQiitaのファンです。素人質問ですが、2点質問させてください。<br />
+１．商用のMatlantisやまだ公開されていないGoogleのNNPなど、汎用のNNPでもかなり良い精度が出てきています。そんな中で、自分たちで機械学習ポテンシャルを作る価値って今後も残りますでしょうか？<br />
+２．上の質問に関連して、今後電子状態も機械学習でいい精度が出てくると、第一原理計算って残りますかね？参照先にはなると思うのですが、応用上は要らなくなる？</p>
+    </blockquote>
+  </li>
+</ul>
+
+<h3 id="お知らせ">お知らせ</h3>
+
+<ul>
+  <li>
+    <p>永井さんから重要なお知らせ！ (内容は本編をご確認ください)</p>
+  </li>
+  <li>
+    <p><a href="https://www.kashiwa.u-tokyo.ac.jp/about_kashiwa_campus/about_kashiwa_ii_campus/">柏Ⅱキャンパス – 柏キャンパス東京大学柏／UTokyo Kashiwa</a></p>
+  </li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">2/1に着任した准教授の着任日の居室がこちらになります。 <a href="https://t.co/47to5O1qdo">pic.twitter.com/47to5O1qdo</a></p>
+  <p>— Yoshiki Sato (@phys_yoshiki) <a href="https://twitter.com/phys_yoshiki/status/1753051021620936804?ref_src=twsrc%5Etfw">February 1, 2024</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li>出演して頂ける方や感想などをお待ちしております！ <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
+  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li>エンディング BGM
+    <ul>
+      <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
+      <li>曲名: 弓</li>
+    </ul>
+  </li>
+</ul>
+
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><summary type="html"><![CDATA[[ながい](https://twitter.com/cometscome_phys)さんと[部品](https://twitter.com/tjmlab)で Google DeepMind による新物質発見？、自動実験、2023年の超伝導情勢などについて話しました。]]></summary></entry><entry><title type="html">58: Nostalgic Gadgets’ Night</title><link href="https://interaxion-podcast.github.io/58" rel="alternate" type="text/html" title="58: Nostalgic Gadgets’ Night" /><published>2024-02-21T00:00:00+09:00</published><updated>2024-02-21T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep58</id><content type="html" xml:base="https://interaxion-podcast.github.io/58"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -274,7 +423,15 @@ Submitted 10:02 AM - 13 March 2022 (UTC)</p>
 
 <h2 id="技術情報">技術情報</h2>
 
-<p>今回のフォーム作成には <a href="https://www.jotform.com/">Jotform</a> というサービスを使ってみました。 Google Forms では選択肢による分岐ができないため試してみました。無料だと多少制限があるようですが PC 用、スマートフォン用の UI も作ることができて良さそうでした。</p>]]></content><author><name>oka</name></author><summary type="html"><![CDATA[スペシャルコンテンツ配信のお知らせ]]></summary></entry><entry><title type="html">57: Markovian Peer Review</title><link href="https://interaxion-podcast.github.io/57" rel="alternate" type="text/html" title="57: Markovian Peer Review" /><published>2023-12-30T00:00:00+09:00</published><updated>2023-12-30T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep57</id><content type="html" xml:base="https://interaxion-podcast.github.io/57"><![CDATA[<details>
+<p>今回のフォーム作成には <a href="https://www.jotform.com/">Jotform</a> というサービスを使ってみました。 Google Forms では選択肢による分岐ができないため試してみました。無料だと多少制限があるようですが PC 用、スマートフォン用の UI も作ることができて良さそうでした。<br />
+※追記<br />
+1ヶ月以上経った後、気付かぬ間にフォームへのリンクが無効になっていた (“Oops, It looks like this form is missing!” と表示される)。<a href="https://www.jotform.com/pricing/">Pricing</a> のページには無料版の制限として 100 Monthly Submissions や 1,000 Monthly Form Views などが書かれているが、どちらも到達していないはず (View 数については詳しく分からないが、寄付を呼び掛けた tweet の impression が2000くらいなのでそこまでないはず)。幸い、新規作成から既存のフォームをクローンするを選べば簡単に複製できたので、報告を受けてすぐ修正することができた。</p>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">リンク先のページに書かれたフォームへのリンクをクリックしても表示されないとの報告を頂きました。もし既にそういう状況になっている方がいたら申し訳ありません。<br />以下のリンクから再度確認してもらえればと思います。<a href="https://t.co/XYqAvz1ONy">https://t.co/XYqAvz1ONy</a></p>
+  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1761763948716863488?ref_src=twsrc%5Etfw">February 25, 2024</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name>oka</name></author><summary type="html"><![CDATA[スペシャルコンテンツ配信のお知らせ]]></summary></entry><entry><title type="html">57: Markovian Peer Review</title><link href="https://interaxion-podcast.github.io/57" rel="alternate" type="text/html" title="57: Markovian Peer Review" /><published>2023-12-30T00:00:00+09:00</published><updated>2023-12-30T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep57</id><content type="html" xml:base="https://interaxion-podcast.github.io/57"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -1656,99 +1813,4 @@ OSECHI の写真が載っている</li>
   <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
   <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="半導体" /><category term="ポッドキャスト" /><category term="大阪" /><summary type="html"><![CDATA[[しゃもとろん](https://twitter.com/shamotron)さんと[おか](https://twitter.com/nowohyeah)でアインシュタインロマン、ラジオとポッドキャスト、半導体業界入門などについて話しました。 (2023/07/02 収録)]]></summary></entry><entry><title type="html">52: Cold Roger</title><link href="https://interaxion-podcast.github.io/52" rel="alternate" type="text/html" title="52: Cold Roger" /><published>2023-08-26T00:00:00+09:00</published><updated>2023-08-26T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep52</id><content type="html" xml:base="https://interaxion-podcast.github.io/52"><![CDATA[<details>
-  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
-  <summary>目次</summary>
-  <nav>
-<ul id="markdown-toc">
-  <li><a href="#000-自己紹介" id="markdown-toc-000-自己紹介">0:00 自己紹介</a></li>
-  <li><a href="#412-柿田さんの研究" id="markdown-toc-412-柿田さんの研究">4:12 柿田さんの研究</a></li>
-  <li><a href="#12247-ラスベガスの一番熱い夜-aps2023参戦記" id="markdown-toc-12247-ラスベガスの一番熱い夜-aps2023参戦記">1:22:47 ラスベガスの一番熱い夜 (APS2023参戦記)</a></li>
-  <li><a href="#13610-学生からスタッフになっての変化" id="markdown-toc-13610-学生からスタッフになっての変化">1:36:10 学生からスタッフになっての変化</a></li>
-  <li><a href="#20111-コンテンツ" id="markdown-toc-20111-コンテンツ">2:01:11 コンテンツ</a></li>
-  <li><a href="#21413-tv出演" id="markdown-toc-21413-tv出演">2:14:13 TV出演</a></li>
-  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
-</ul>
-    <!-- https://stackoverflow.com/a/38419441/11480802 -->
-  </nav>
-</details>
-<p><br /></p>
-
-<h3 id="000-自己紹介">0:00 自己紹介</h3>
-
-<ul>
-  <li>スピントロニクスと部品さんの有名な逸話 <a href="https://buhin-blog.blogspot.com/2020/12/blog-post_19.html">転職のススメ - ぶひんブログ</a></li>
-</ul>
-
-<h3 id="412-柿田さんの研究">4:12 柿田さんの研究</h3>
-
-<ul>
-  <li><a href="https://ja.wikipedia.org/wiki/%E7%A3%81%E6%B0%97%E3%82%B9%E3%82%AD%E3%83%AB%E3%83%9F%E3%82%AA%E3%83%B3">磁気スキルミオン - Wikipedia</a></li>
-  <li><a href="https://cems.riken.jp/jp/laboratory/scprg">強相関物性研究グループ - 十倉 好紀 - 創発物性科学研究センター (CEMS) - 理化学研究所</a></li>
-  <li>ローレンツ電子顕微鏡法 → <a href="https://www.riken.jp/press/2019/20190314_1/index.html">磁区構造を可視化する新しい電子顕微鏡法 - 理化学研究所</a>
-    <blockquote>
-      <p>磁性体試料中を透過する電子線の進行方向が、試料の磁化からのローレンツ力を受けて偏向される様子を観察する電子顕微鏡技術。</p>
-    </blockquote>
-  </li>
-  <li>ジャロシンスキー-守谷相互作用 → <a href="https://ja.wikipedia.org/wiki/%E5%BC%B1%E5%BC%B7%E7%A3%81%E6%80%A7">弱強磁性 - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/RKKY%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8">RKKY相互作用 - Wikipedia</a></li>
-  <li><a href="https://www.nature.com/articles/nnano.2013.243">N. Nagaosa &amp; Y. Tokura, Topological properties and dynamics of magnetic skyrmions - Nature Nanotechnology</a></li>
-  <li>十倉好紀<a href="https://amzn.to/45fbIMK">『岩波講座 物理の世界 さまざまな物質系1 強相関電子と酸化物』</a></li>
-  <li><a href="https://www.riken.jp/press/2020/20201008_1/">創発電磁場によるインダクタ - 理化学研究所</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%82%A6%E3%82%A9%E3%83%BC%E3%83%AB">ドメインウォール - Wikipedia</a></li>
-  <li><a href="https://www.sciencedirect.com/journal/journal-of-the-less-common-metals">Journal of the Less Common Metals - ScienceDirect.com by Elsevier</a></li>
-  <li><a href="https://berman-shoenberg.blogspot.com/">Common and Less Common Magnets and Metals</a></li>
-  <li><a href="https://amzn.to/3mo3pNb">『高温超伝導の若きサムライたち: 日本人研究者の挑戦と奮闘の記録』</a></li>
-</ul>
-
-<h3 id="12247-ラスベガスの一番熱い夜-aps2023参戦記">1:22:47 ラスベガスの一番熱い夜 (APS2023参戦記)</h3>
-
-<ul>
-  <li><a href="https://interaxion-podcast.github.io/49">Interaxion 49: The Hottest Night in Las Vegas</a></li>
-  <li><a href="https://meetings.aps.org/Meeting/MAR23/Session/K20">APS -APS March Meeting 2023 - Session Index MAR23</a></li>
-</ul>
-
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/XhhvOMuLF94?si=sAzHo1zHJaIREKmo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-</div>
-
-<ul>
-  <li>2023/08/15: Ep. 49 で紹介した Dias 氏の MnS2 の論文がリトラクト。 <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.131.079902">Phys. Rev. Lett. 131, 079902 (2023) - Retraction: Colossal Density-Driven Resistance Response in the Negative Charge Transfer Insulator ${\mathrm{MnS}}_{2}$ [Phys. Rev. Lett. 127, 016401 (2021)]</a>
-    <ul>
-      <li><a href="https://www.nature.com/articles/d41586-023-02401-2">‘A very disturbing picture’: another retraction imminent for controversial physicist</a></li>
-    </ul>
-  </li>
-</ul>
-
-<h3 id="13610-学生からスタッフになっての変化">1:36:10 学生からスタッフになっての変化</h3>
-
-<ul>
-  <li><a href="https://mainichi.jp/articles/20230415/ddm/012/040/134000c">追跡：がん不安つけ込みマルチ商法　逮捕の社長、抗がん剤否定「ヨウ素で治る」 - 毎日新聞</a></li>
-</ul>
-
-<h3 id="20111-コンテンツ">2:01:11 コンテンツ</h3>
-
-<ul>
-  <li><a href="https://dr-takeda.hatenablog.com/">脳外科医 竹田くん</a></li>
-  <li><a href="https://amzn.to/47OwZOL">『ストーカー』(ハヤカワ文庫SF)</a></li>
-  <li><a href="https://www.hayakawabooks.com/n/nebb83de4e871">スタニスワフ・レム生誕100周年記念企画第3弾！　SFマガジン12月号「スタニスワフ・レム生誕100周年」内容紹介｜Hayakawa Books &amp; Magazines（β）</a></li>
-  <li><a href="https://amzn.to/3OUJwI4">井上究一郎訳『失われた時を求めて』</a></li>
-  <li><a href="https://amzn.to/45cV8Nt">吉川一義訳『失われた時を求めて』</a></li>
-  <li><a href="https://amzn.to/3La9UN9">高遠弘美訳『失われた時を求めて』</a></li>
-  <li><a href="https://amzn.to/3KOotFE">鈴木道彦訳『失われた時を求めて』</a></li>
-  <li>ミューオン透視: <a href="https://interaxion-podcast.github.io/19">Ep. 19</a> で紹介している <a href="https://resou.osaka-u.ac.jp/ja/research/2021/20210317_1">緒方洪庵が遺した“開かずの薬瓶” 非破壊で解明 - リソウ</a> など</li>
-</ul>
-
-<h3 id="21413-tv出演">2:14:13 TV出演</h3>
-
-<h3 id="お知らせ">お知らせ</h3>
-
-<ul>
-  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="強相関電子系" /><category term="創発物性" /><category term="超伝導" /><summary type="html"><![CDATA[[柿田](https://twitter.com/S_Kakita)さん、[深蟹](https://twitter.com/KyoumiOfBukai)さんと[部品](https://twitter.com/tjmlab)で強相関電子系、学生の指導方針、おすすめコンテンツ(SF、『失われた時を求めて』)、テレビ出演などについて話しました。 (2023/06/17 収録)]]></summary></entry></feed>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="半導体" /><category term="ポッドキャスト" /><category term="大阪" /><summary type="html"><![CDATA[[しゃもとろん](https://twitter.com/shamotron)さんと[おか](https://twitter.com/nowohyeah)でアインシュタインロマン、ラジオとポッドキャスト、半導体業界入門などについて話しました。 (2023/07/02 収録)]]></summary></entry></feed>

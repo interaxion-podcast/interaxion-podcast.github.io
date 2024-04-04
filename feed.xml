@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-04-05T01:31:06+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">60:</title><link href="https://interaxion-podcast.github.io/60-draft" rel="alternate" type="text/html" title="60:" /><published>2024-04-04T00:00:00+09:00</published><updated>2024-04-04T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep60</id><content type="html" xml:base="https://interaxion-podcast.github.io/60-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-04-05T01:33:13+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">60:</title><link href="https://interaxion-podcast.github.io/60-draft" rel="alternate" type="text/html" title="60:" /><published>2024-04-04T00:00:00+09:00</published><updated>2024-04-04T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep60</id><content type="html" xml:base="https://interaxion-podcast.github.io/60-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -6,8 +6,8 @@
   <li><a href="#000-よしださんの紹介" id="markdown-toc-000-よしださんの紹介">0:00 よしださんの紹介</a></li>
   <li><a href="#514-研究遍歴" id="markdown-toc-514-研究遍歴">5:14 研究遍歴</a></li>
   <li><a href="#1940-誘電体って何" id="markdown-toc-1940-誘電体って何">19:40 誘電体って何？</a></li>
-  <li><a href="#ポスドク時代-根源へ" id="markdown-toc-ポスドク時代-根源へ">ポスドク時代 (根源へ…)</a></li>
-  <li><a href="#アメリカへ物理分野と化学分野" id="markdown-toc-アメリカへ物理分野と化学分野">アメリカへ、物理分野と化学分野</a></li>
+  <li><a href="#4156-ポスドク時代-根源へ" id="markdown-toc-4156-ポスドク時代-根源へ">41:56 ポスドク時代 (根源へ…)</a></li>
+  <li><a href="#5010-アメリカへ物理分野と化学分野" id="markdown-toc-5010-アメリカへ物理分野と化学分野">50:10 アメリカへ、物理分野と化学分野</a></li>
   <li><a href="#5611-aps2024-参戦記" id="markdown-toc-5611-aps2024-参戦記">56:11 APS2024 参戦記</a></li>
   <li><a href="#10526-pennsylvania-生活" id="markdown-toc-10526-pennsylvania-生活">1:05:26 Pennsylvania 生活</a></li>
   <li><a href="#11832-assistant-research-professor-とはアメリカでの研究生活" id="markdown-toc-11832-assistant-research-professor-とはアメリカでの研究生活">1:18:32 Assistant Research Professor とは、アメリカでの研究生活</a></li>
@@ -53,14 +53,14 @@
   <li>FeRAM: <a href="https://ja.wikipedia.org/wiki/%E5%BC%B7%E8%AA%98%E9%9B%BB%E4%BD%93%E3%83%A1%E3%83%A2%E3%83%AA">強誘電体メモリ - Wikipedia</a></li>
 </ul>
 
-<h3 id="ポスドク時代-根源へ">ポスドク時代 (根源へ…)</h3>
+<h3 id="4156-ポスドク時代-根源へ">41:56 ポスドク時代 (根源へ…)</h3>
 
 <ul>
   <li>VASP: <a href="https://ja.wikipedia.org/wiki/Vienna_Ab_initio_Simulation_Package">Vienna Ab initio Simulation Package - Wikipedia</a></li>
   <li><a href="https://ja.wikipedia.org/wiki/Quantum_ESPRESSO">Quantum ESPRESSO - Wikipedia</a></li>
 </ul>
 
-<h3 id="アメリカへ物理分野と化学分野">アメリカへ、物理分野と化学分野</h3>
+<h3 id="5010-アメリカへ物理分野と化学分野">50:10 アメリカへ、物理分野と化学分野</h3>
 
 <ul>
   <li>MnBi<sub>2</sub>Te<sub>4</sub>のレビュー: <a href="https://academic.oup.com/nsr/article/11/2/nwac296/6967909">Progress on the antiferromagnetic topological insulator MnBi2Te4 - National Science Review - Oxford Academic</a></li>

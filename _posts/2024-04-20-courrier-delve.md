@@ -11,7 +11,7 @@ tags:
   - AI
 ---
 
-Jeremy Nguyen さんという方が、医学論文で "delve" という単語が含まれるものが増加していることが指摘されています。
+Jeremy Nguyen さんという方が、医学論文で "delve" という単語が含まれるものが増加していることを指摘されています。 (ざっと調べてこの方が最初に報告しているように見えましたが、もっと早い例をご存知の方は教えてください)
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Are medical studies being written with ChatGPT? <br><br>Well, we all know ChatGPT overuses the word &quot;delve&quot;.<br><br>Look below at how often the word &#39;delve&#39; is used in papers on PubMed (2023 was the first full year of ChatGPT). <a href="https://t.co/iNxZfFLkxL">pic.twitter.com/iNxZfFLkxL</a></p>&mdash; Jeremy Nguyen ✍🏼 🚢 (@JeremyNguyenPhD) <a href="https://twitter.com/JeremyNguyenPhD/status/1774021645709295840?ref_src=twsrc%5Etfw">March 30, 2024</a>
 </blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-04-10T18:23:42+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">60: Welcome to the physics world</title><link href="https://interaxion-podcast.github.io/60" rel="alternate" type="text/html" title="60: Welcome to the physics world" /><published>2024-04-10T00:00:00+09:00</published><updated>2024-04-10T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep60</id><content type="html" xml:base="https://interaxion-podcast.github.io/60"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-04-20T09:58:16+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">Courrier 008: 生成AIによる論文が増えている？ 見分ける裏技は？</title><link href="https://interaxion-podcast.github.io/courrier/2024-04-20" rel="alternate" type="text/html" title="Courrier 008: 生成AIによる論文が増えている？ 見分ける裏技は？" /><published>2024-04-20T00:00:00+09:00</published><updated>2024-04-20T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-delve</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/2024-04-20"><![CDATA[<p>Jeremy Nguyen さんという方が、医学論文で “delve” という単語が含まれるものが増加していることが指摘されています。</p>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="en" dir="ltr">Are medical studies being written with ChatGPT? <br /><br />Well, we all know ChatGPT overuses the word "delve".<br /><br />Look below at how often the word 'delve' is used in papers on PubMed (2023 was the first full year of ChatGPT). <a href="https://t.co/iNxZfFLkxL">pic.twitter.com/iNxZfFLkxL</a></p>
+  <p>— Jeremy Nguyen ✍🏼 🚢 (@JeremyNguyenPhD) <a href="https://twitter.com/JeremyNguyenPhD/status/1774021645709295840?ref_src=twsrc%5Etfw">March 30, 2024</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>delve は「掘り下げる」などの意味ですが、2023年以降急激に増えているのは ChatGPT が普通に使われるよりも高い確率で出力するからではないかと言われています。Y Combinator のポール・グレアムも反応しています。</p>
+
+<blockquote class="twitter-tweet" data-media-max-width="560">
+  <p lang="en" dir="ltr">My point here is not that I dislike "delve," though I do, but that it's a sign that text was written by ChatGPT. <a href="https://t.co/2i3GUgynuL">pic.twitter.com/2i3GUgynuL</a></p>
+  <p>— Paul Graham (@paulg) <a href="https://twitter.com/paulg/status/1777035484826349575?ref_src=twsrc%5Etfw">April 7, 2024</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>なぜ delve が出力されやすいのか？ 原因は ChatGPT を RLHF (人間のフィードバックによる強化学習) するときに、アメリカなどよりも delve がよく使われるナイジェリアで作業が行われたためではないかと言われています。</p>
+
+<ul>
+  <li><a href="https://www.theguardian.com/technology/2024/apr/16/techscape-ai-gadgest-humane-ai-pin-chatgpt">TechScape: How cheap, outsourced labour in Africa is shaping AI English - Technology - The Guardian</a></li>
+</ul>
+
+<p>物理分野でも delve は観測されています。素粒子分野の論文が検索できる <a href="https://inspirehep.net/">INSPIRE</a> でも delve が増えていることが分かっています。</p>
+
+<blockquote class="twitter-tweet" data-media-max-width="560">
+  <p lang="en" dir="ltr">Same result in particle physics too… <a href="https://twitter.com/inspirehep?ref_src=twsrc%5Etfw">@inspirehep</a> pretty damning. I will certainly not be using the word delve from now on, and will view anyone who does with suspicion…<a href="https://t.co/NhgA63EdtV">https://t.co/NhgA63EdtV</a> <a href="https://t.co/cXi4jqY6yy">https://t.co/cXi4jqY6yy</a> <a href="https://t.co/kvFbtjQZMK">pic.twitter.com/kvFbtjQZMK</a></p>
+  <p>— Ciaran O'Hare (@cajohare) <a href="https://twitter.com/cajohare/status/1780612846491238715?ref_src=twsrc%5Etfw">April 17, 2024</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>また、我らが Ranga Dias 先生のロチェスター大学の調査に対してのレスポンスにも、 delve が9回出てきます。 (ブカさん情報)</p>
+
+<ul>
+  <li><a href="https://drive.google.com/file/d/1ncqxRLc9NVp8LCVeDj2a1NvS1KNTJPYp/view">RESPONSE TO UNIVERSITY OF ROCHESTER
+INVESTIGATION COMMITTEE’S DRAFT REPORT - Google ドライブ</a></li>
+</ul>
+
+<p>というわけで delve が含まれていると ChatGPT で生成されている文章である確率が高くなるようです。だからといって delve が含まれているものは全てダメとかいうことになると、元々 delve を使っている人達や、英語が母語ではなく補助ツールとして ChatGPT を使って英文を書いている人達の書いたものが不当に弾かれてしまう危険性もあるので気をつけたいところです。</p>]]></content><author><name>oka</name></author><category term="AI" /><summary type="html"><![CDATA[生成AIによる論文が増えていて、そのような論文にはある単語が含まれるという特徴があるようです。]]></summary></entry><entry><title type="html">60: Welcome to the physics world</title><link href="https://interaxion-podcast.github.io/60" rel="alternate" type="text/html" title="60: Welcome to the physics world" /><published>2024-04-10T00:00:00+09:00</published><updated>2024-04-10T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep60</id><content type="html" xml:base="https://interaxion-podcast.github.io/60"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -1511,269 +1548,4 @@ OSECHI の写真が載っている</li>
 <ul>
   <li>終わったあと、反物質の重力の話すれば良かったねとなった (oka)<br />
 <a href="https://www.itmedia.co.jp/news/articles/2309/28/news157.html">「反重力」存在せず　国際チームが証明 - ITmedia NEWS</a></li>
-</ul>]]></content><author><name></name></author><category term="J-PARC" /><category term="ミュオン" /><category term="&lt;i&gt;g&lt;/i&gt;–2" /><category term="キーボード" /><summary type="html"><![CDATA[[セゾン](https://twitter.com/ShowEachLow)さんと[おか](https://twitter.com/nowohyeah)で受賞おめでとう、ミュオンg–2の最新情報、ミュオンの応用などについて話しました。 (2023/10/01 東海村某所にて収録)]]></summary></entry><entry><title type="html">54: Every material is a different universe</title><link href="https://interaxion-podcast.github.io/54" rel="alternate" type="text/html" title="54: Every material is a different universe" /><published>2023-09-22T00:00:00+09:00</published><updated>2023-09-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep54</id><content type="html" xml:base="https://interaxion-podcast.github.io/54"><![CDATA[<details>
-  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
-  <summary>目次</summary>
-  <nav>
-<ul id="markdown-toc">
-  <li><a href="#000-近況" id="markdown-toc-000-近況">0:00 近況</a></li>
-  <li><a href="#520-推し研究者" id="markdown-toc-520-推し研究者">5:20 推し研究者</a>    <ul>
-      <li><a href="#701-渡邊谷口" id="markdown-toc-701-渡邊谷口">7:01 渡邊・谷口</a></li>
-      <li><a href="#2420-十倉好紀" id="markdown-toc-2420-十倉好紀">24:20 十倉好紀</a></li>
-      <li><a href="#3411-hirsch--dias" id="markdown-toc-3411-hirsch--dias">34:11 Hirsch &amp; Dias</a></li>
-      <li><a href="#4011-丹生潔" id="markdown-toc-4011-丹生潔">40:11 丹生潔</a></li>
-    </ul>
-  </li>
-  <li><a href="#5452-訃報" id="markdown-toc-5452-訃報">54:52 訃報</a></li>
-  <li><a href="#10314-ノーベル賞予想" id="markdown-toc-10314-ノーベル賞予想">1:03:14 ノーベル賞予想</a></li>
-  <li><a href="#12605-ゲーム" id="markdown-toc-12605-ゲーム">1:26:05 ゲーム</a></li>
-  <li><a href="#14023-面白かった記事紹介" id="markdown-toc-14023-面白かった記事紹介">1:40:23 面白かった記事紹介</a></li>
-  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
-</ul>
-    <!-- https://stackoverflow.com/a/38419441/11480802 -->
-  </nav>
-</details>
-<p><br /></p>
-
-<h3 id="000-近況">0:00 近況</h3>
-
-<ul>
-  <li><a href="https://amzn.to/3ZfHabz">ソニー α7CⅡ</a></li>
-  <li><a href="https://amzn.to/46oduen">ソニー α7CR</a></li>
-  <li><a href="https://wwwai.connpass.com/">Wako Weekday Workshop on AI (WWWAI) - connpass</a></li>
-</ul>
-
-<h3 id="520-推し研究者">5:20 推し研究者</h3>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">世界のW&amp;Tコンビが疑われてるの可哀想()<br />でも、分野外の人があの異常な論文量と引用数を見たらおかしく思うのも分からなくもないか… <a href="https://t.co/7rmGNkTrnb">https://t.co/7rmGNkTrnb</a> <a href="https://t.co/yNXsUjXBxl">pic.twitter.com/yNXsUjXBxl</a></p>
-  <p>— やもす (@ShIma_Megagauss) <a href="https://twitter.com/ShIma_Megagauss/status/1696677235145785520?ref_src=twsrc%5Etfw">August 30, 2023</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li><a href="https://haklak.com/page_rafael_luque.html">化学：ラファエル・ルケ（Rafael Luque）（スペイン）- 白楽の研究者倫理</a></li>
-</ul>
-
-<h4 id="701-渡邊谷口">7:01 渡邊・谷口</h4>
-
-<ul>
-  <li><a href="https://www.nims.go.jp/personal/BN_research/index-j_BNR.html">窒化ホウ素の研究 - NIMS</a></li>
-  <li><a href="https://buhin-blog.blogspot.com/2019/04/blog-post.html">わたなべさん、たにぐちさん！ - ぶひんブログ</a></li>
-  <li><a href="https://www.nature.com/articles/nature26160">Unconventional superconductivity in magic-angle graphene superlattices - Nature</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Twistronics">Twistronics - Wikipedia</a></li>
-  <li>ながなおさんの回
-    <ul>
-      <li><a href="https://interaxion-podcast.github.io/25">Interaxion 25: Mission Impossible</a></li>
-      <li><a href="https://interaxion-podcast.github.io/26">Interaxion 26: A Postdoc Called “It”</a></li>
-    </ul>
-  </li>
-</ul>
-
-<h4 id="2420-十倉好紀">24:20 十倉好紀</h4>
-
-<ul>
-  <li><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E5%80%89%E9%9B%85%E5%92%8C">十倉雅和 - Wikipedia</a></li>
-  <li><a href="http://www.cmr.t.u-tokyo.ac.jp/members/tokura.shtml">十倉好紀 - Tokura Lab.</a></li>
-  <li>やもすさんの回: <a href="https://interaxion-podcast.github.io/29">Interaxion 29: Kashiwa is no longer a sad place, Lalaport and everything</a></li>
-  <li><a href="https://youtu.be/A2Bdg3cFdPY">実験と理論のトップ研究者の物性トーク - ヨビノリ</a></li>
-</ul>
-
-<div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/A2Bdg3cFdPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-</div>
-
-<h4 id="3411-hirsch--dias">34:11 Hirsch &amp; Dias</h4>
-
-<ul>
-  <li><a href="https://jorge.physics.ucsd.edu/jh.html">Jorge Hirsch</a> 公式サイト、毎週チェック！</li>
-  <li>Dias 氏の新たに retract された論文: <a href="https://pubpeer.org/publications/F342DD2D2E72E5E2FD507089562B94">PubPeer - Colossal Density-Driven Resistance Response in the Negative…</a> サイト名は PubPeer でした。</li>
-  <li><a href="https://www.scientificamerican.com/article/controversial-physicist-faces-mounting-accusations-of-scientific-misconduct1/">Controversial Physicist Faces Mounting Accusations of Scientific Misconduct - Scientific American</a></li>
-</ul>
-
-<h4 id="4011-丹生潔">40:11 丹生潔</h4>
-
-<ul>
-  <li><a href="https://ja.wikipedia.org/wiki/%E4%B8%B9%E7%94%9F%E6%BD%94">丹生潔 - Wikipedia</a></li>
-  <li><a href="https://academic.oup.com/ptp/article/46/5/1644/1863358">Possible Decay in Flight of a New Type Particle - Progress of Theoretical Physics</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%A0%E3%83%80%E7%B2%92%E5%AD%90">ラムダ粒子 - Wikipedia</a> … この中のチャームラムダ (Λ+c) を発見した？</li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E5%B0%8F%E6%9E%97%E3%83%BB%E7%9B%8A%E5%B7%9D%E7%90%86%E8%AB%96">小林・益川理論 - Wikipedia</a></li>
-  <li>あゆみさんの回
-    <ul>
-      <li><a href="https://interaxion-podcast.github.io/34">Interaxion 34: The 13 Lords in the Lab</a></li>
-      <li><a href="https://interaxion-podcast.github.io/48">Interaxion 48: Egy, An Edgy Electronic Payment</a></li>
-    </ul>
-  </li>
-  <li>最近出た機械学習と原子核乾板の論文: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0168900223006538?dgcid=author">Hypernuclear event detection in the nuclear emulsion with Monte Carlo simulation and machine learning - ScienceDirect</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">これが原子核乾板か！ クフ王のピラミッドストリートビューめちゃ楽しい (via マニキ)<a href="https://t.co/YakNuD2zIV">https://t.co/YakNuD2zIV</a> <a href="https://t.co/w4ZP9HMpSh">pic.twitter.com/w4ZP9HMpSh</a></p>
-  <p>— oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1590272163407593472?ref_src=twsrc%5Etfw">November 9, 2022</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li><a href="https://www2.yukawa.kyoto-u.ac.jp/~hisao.hayakawa/kagakusi/sakata.html">坂田昌一について</a> … 京大の早川先生が書かれた記事</li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E5%86%85%E5%B1%B1%E9%BE%8D%E9%9B%84">内山龍雄 - Wikipedia</a></li>
-  <li><a href="https://amzn.to/3rlnxCm">『龍雄先生の冒険 回想の内山龍雄:一般ゲージ場理論の創始者』</a></li>
-  <li><a href="https://rigakuyu.sci.osaka-u.ac.jp/talkon/contents_nakai.html">理学部を語る 大阪帝国大学創設と初代長岡総長の精神 ｜大阪大学理学友倶楽部</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E5%85%AB%E6%9C%A8%E7%A7%80%E6%AC%A1">八木秀次 - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E4%B8%AD%E9%87%8E%E3%83%BB%E8%A5%BF%E5%B3%B6%E3%83%BB%E3%82%B2%E3%83%AB%E3%83%9E%E3%83%B3%E3%81%AE%E6%B3%95%E5%89%87">中野・西島・ゲルマンの法則 - Wikipedia</a></li>
-  <li><a href="https://www.sci.osaka-u.ac.jp/ja/nambu-hall/">南部陽一郎ホール – 大阪大学 大学院理学研究科・理学部</a></li>
-  <li><a href="https://www.osaka-cu.ac.jp/ja/news/2012/1555">（仮称）北西門及び南部ストリートがオープンします — 大阪市立大学</a></li>
-  <li><a href="https://www.kmi.nagoya-u.ac.jp/">名古屋大学 素粒子宇宙起源研究所（KMI）</a> (Kobayashi-Maskawa Institute)</li>
-</ul>
-
-<h3 id="5452-訃報">54:52 訃報</h3>
-
-<ul>
-  <li><a href="https://www.jps.or.jp/information/2023/03/50.php">本会第48期・50期会長の伊達宗行氏逝去 - 一般社団法人　日本物理学会</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E4%BC%8A%E9%81%94%E5%AE%97%E8%A1%8C">伊達宗行 - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E9%87%91%E6%A3%AE%E9%A0%86%E6%AC%A1%E9%83%8E">金森順次郎 - Wikipedia</a><br />
-※赤井先生の退官は2012年3月でした</li>
-  <li><a href="https://amzn.to/3PIykjk">『新しい物性物理　物質の起源からナノ・極限物性まで 』</a></li>
-  <li><a href="https://amzn.to/3PjOKNE">『「理科」で歴史を読みなおす (ちくま新書)』</a></li>
-  <li><a href="https://www.hokkaido-np.co.jp/article/859350/">小川哲生氏死去　大阪大教授：北海道新聞デジタル</a></li>
-  <li><a href="https://sogi.jp/memorial/%e5%b0%8f%e5%b7%9d%e5%93%b2%e7%94%9f/">［訃報］ 小川哲生 氏（ 大阪大学 教授 ）- Sogi.jp</a></li>
-  <li><a href="http://wwwacty.phys.sci.osaka-u.ac.jp/~ogawa/ap.html">小川哲生研究室アドミッションポリシー</a></li>
-  <li><a href="https://amzn.to/3EIPkzN">『量子力学講義 (新・数理科学ライブラリ 物理学)』</a></li>
-  <li><a href="https://amzn.to/3RqN9Iw">『流体力学 (新物理学シリ-ズ) 』</a></li>
-  <li><a href="https://twitter.com/search?q=%E5%B7%BD%E5%85%88%E7%94%9F%20until%3A2023-09-04%20since%3A2023-08-31&amp;src=typed_query&amp;f=live">巽先生 - X検索</a></li>
-</ul>
-
-<h3 id="10314-ノーベル賞予想">1:03:14 ノーベル賞予想</h3>
-
-<ul>
-  <li>これまでの予想
-    <ul>
-      <li>2020
-        <ul>
-          <li><a href="https://interaxion-podcast.github.io/8">Interaxion　8: We didn’t implement this</a></li>
-          <li><a href="https://interaxion-podcast.github.io/9">Interaxion 9: Couscous Sushi</a></li>
-        </ul>
-      </li>
-      <li>2021
-        <ul>
-          <li><a href="https://interaxion-podcast.github.io/26">Interaxion 26: A Postdoc Called “It”</a></li>
-        </ul>
-      </li>
-      <li>2022
-        <ul>
-          <li>予想なし</li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>2023年の予想
-    <ul>
-      <li>宇宙・素粒子
-        <ul>
-          <li>IceCube</li>
-          <li>中性子合体のマルチメッセンジャー天文学</li>
-        </ul>
-      </li>
-      <li>物性
-        <ul>
-          <li>W&amp;T、二次元物質研究への基礎的貢献</li>
-          <li>マイクロソフト＆キタエフ、マヨラナ励起の発見</li>
-          <li>アハラノフ＆ベリー、量子位相の物性への貢献
-            <ul>
-              <li><a href="https://ja.wikipedia.org/wiki/%E5%A4%96%E6%9D%91%E5%BD%B0">外村彰 - Wikipedia</a></li>
-            </ul>
-          </li>
-          <li>EUV光源研究開発
-            <ul>
-              <li>木下博雄（当時NTTが、86年にEUVの基礎技術を開発）
-                <ul>
-                  <li><a href="https://ja.wikipedia.org/wiki/%E6%9C%A8%E4%B8%8B%E5%8D%9A%E9%9B%84">木下博雄 - Wikipedia</a></li>
-                  <li><a href="https://www.mst.or.jp/portals/0/prize/japanese/winners/semiconductor/semiconductor2010.html">MST　山崎貞一賞　-　第10回（平成22年度）山崎貞一賞　半導体及び半導体装置分野</a></li>
-                </ul>
-              </li>
-              <li>Wikipedia によるとベル研から基礎コンセプトの論文が91年に出てる。
-                <ul>
-                  <li><a href="https://opg.optica.org/opn/abstract.cfm?uri=opn-2-5-27">Soft x-ray projection lithography</a></li>
-                </ul>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li><a href="https://twitter.com/tjmlab/status/1445377729638002689">Xユーザーの部品（森七菜）さん: 「ノーベル物理学賞、近藤先生受賞に備えて作っていたクソコラです、成仏させます。 https://t.co/jICnzcjyFk」 / X</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">ノーベル物理学賞、近藤先生受賞に備えて作っていたクソコラです、成仏させます。 <a href="https://t.co/jICnzcjyFk">pic.twitter.com/jICnzcjyFk</a></p>
-  <p>— 部品（森七菜） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1445377729638002689?ref_src=twsrc%5Etfw">October 5, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li>LK-99 の Wikipedia 記事を編集しているという噂の御大</li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">名前が本当だったらなのだが、東工大の教授が例の超伝導の物質のWikipediaの記事を編集しているｗｗ <a href="https://t.co/6kqhBkDeSR">pic.twitter.com/6kqhBkDeSR</a></p>
-  <p>— けるろん (@kerlon_fm) <a href="https://twitter.com/kerlon_fm/status/1687054273497186304?ref_src=twsrc%5Etfw">August 3, 2023</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<h3 id="12605-ゲーム">1:26:05 ゲーム</h3>
-
-<ul>
-  <li><a href="https://www.famitsu.com/news/202309/06314767.html">いまだから語れる『ゼルダの伝説　ティアーズ オブ ザ キングダム』開発者インタビュー。“遊び優先”を貫いて完成させた驚異の続編【ティアキン】 - ファミ通.com</a></li>
-  <li><a href="https://www.famitsu.com/news/202309/03315545.html">『FF16』PC版とDLC2種の開発を発表。武器の見た目、コスチューム変更など無料アプデも本日（9/3）より配信 - ファミ通.com</a></li>
-  <li><a href="https://amzn.to/44TQXVS">ポケットモンスター スカーレット・バイオレット ゼロの秘宝</a></li>
-  <li><a href="https://bethesda.net/ja/game/starfield">Starfield - Bethesda.net</a> … 実は Xbox Game Pass に入っている</li>
-  <li><a href="https://amzn.to/3sUgocq">スーパーマリオブラザーズ ワンダー</a></li>
-  <li><a href="https://rtain.jp/rtaij/rta-in-japan-summer-2023/">RTA in Japan Summer 2023 - RTA in Japan</a></li>
-  <li><a href="https://www.eldenring.jp/newsdetail/news_detail_230228_1.html">2023.02.28 - DLC「Shadow of the Erdtree」 - ELDEN RING オフィシャルサイト</a></li>
-  <li><a href="https://amzn.to/45T7E50">FINAL FANTASY XVI</a></li>
-  <li><a href="https://amzn.to/3rtGm6d">ARMORED CORE Ⅵ FIRES OF RUBICON</a></li>
-</ul>
-
-<h3 id="14023-面白かった記事紹介">1:40:23 面白かった記事紹介</h3>
-
-<ul>
-  <li><a href="https://dot.asahi.com/articles/-/197540">ニューヨークで「専業主夫」になった物理学者の子育てが話題　「哺乳瓶の洗浄で超伝導空洞を思い出す」ってなに？ - AERA dot. (アエラドット)</a></li>
-  <li><a href="https://www.jstage.jst.go.jp/article/pasj/20/1/20_200106/_article/-char/ja/">育児休業のすすめ：ニューヨークで専業主夫になった物理学者</a></li>
-</ul>
-
-<h3 id="お知らせ">お知らせ</h3>
-
-<ul>
-  <li>10/28 Dark Matter Day イベント準備中
-    <ul>
-      <li><del><a href="https://kekweb.gitlab.io/darkmatterday/">https://kekweb.gitlab.io/darkmatterday/</a> で詳細お知らせ予定</del></li>
-      <li><a href="https://peatix.com/event/3724789">Peatix</a>から登録お願いします！</li>
-    </ul>
-  </li>
-  <li><a href="https://buhin-blog.blogspot.com/">ぶひんブログ</a></li>
-  <li><a href="https://store.line.me/stickershop/product/20651080/ja">ニムニムスタンプ</a></li>
-  <li>エンディング BGM 変わりました
-    <ul>
-      <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
-      <li>曲名: 弓</li>
-    </ul>
-  </li>
-</ul>
-
-<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">【動画やポッドキャストのBGMをお探しの方へ】<br /><br />サイトウが大量に制作したトラックの中から厳選された作品が、国内最大級の音源販売サイト Audiostock で販売開始されました。<br /><br />単品購入 or 定額制を選択可。<br />ぜひご活用ください！！<a href="https://t.co/7dSi0Mw6kG">https://t.co/7dSi0Mw6kG</a></p>
-  <p>— サイトウナヲキ (@sai_enlightened) <a href="https://twitter.com/sai_enlightened/status/1542127615959392256?ref_src=twsrc%5Etfw">June 29, 2022</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="和光市" /><category term="大阪大学" /><category term="超伝導" /><category term="二次元物質" /><category term="原子核乾板" /><category term="ノーベル賞" /><summary type="html"><![CDATA[[部品](https://twitter.com/tjmlab)と[おか](https://twitter.com/nowohyeah)で推し研究者 (Nature＆Scienceに最も論文を出している日本人、チャームクォークを発見した日本人など)、ノーベル賞予想などについて話しました。 (2023/09/09 収録)]]></summary></entry></feed>
+</ul>]]></content><author><name></name></author><category term="J-PARC" /><category term="ミュオン" /><category term="&lt;i&gt;g&lt;/i&gt;–2" /><category term="キーボード" /><summary type="html"><![CDATA[[セゾン](https://twitter.com/ShowEachLow)さんと[おか](https://twitter.com/nowohyeah)で受賞おめでとう、ミュオンg–2の最新情報、ミュオンの応用などについて話しました。 (2023/10/01 東海村某所にて収録)]]></summary></entry></feed>

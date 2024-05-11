@@ -1,4 +1,167 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-04-20T10:06:38+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">Courrier 008: 生成AIによる論文が増えている？ 見分ける裏技は？</title><link href="https://interaxion-podcast.github.io/courrier/2024-04-20" rel="alternate" type="text/html" title="Courrier 008: 生成AIによる論文が増えている？ 見分ける裏技は？" /><published>2024-04-20T00:00:00+09:00</published><updated>2024-04-20T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-delve</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/2024-04-20"><![CDATA[<p>Jeremy Nguyen さんという方が、医学論文で “delve” という単語が含まれるものが増加していることを指摘されています。 (ざっと調べてこの方が最初に報告しているように見えましたが、もっと早い例をご存知の方は教えてください)</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-05-11T21:35:57+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">61:</title><link href="https://interaxion-podcast.github.io/61-draft" rel="alternate" type="text/html" title="61:" /><published>2024-05-11T00:00:00+09:00</published><updated>2024-05-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep61</id><content type="html" xml:base="https://interaxion-podcast.github.io/61-draft"><![CDATA[<details>
+  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
+  <summary>目次</summary>
+  <nav>
+<ul id="markdown-toc">
+  <li><a href="#000-のっぐちさんの紹介" id="markdown-toc-000-のっぐちさんの紹介">0:00 のっぐちさんの紹介</a></li>
+  <li><a href="#0200--博士時代の研究" id="markdown-toc-0200--博士時代の研究">02:00  博士時代の研究</a></li>
+  <li><a href="#section" id="markdown-toc-section">10:17 物性か素粒子・宇宙か</a></li>
+  <li><a href="#section-1" id="markdown-toc-section-1">13:38 トポロジカル絶縁体、強弱トポ</a></li>
+  <li><a href="#section-2" id="markdown-toc-section-2">25:32 研究第二段階</a></li>
+  <li><a href="#section-3" id="markdown-toc-section-3">47:49 ラシュバ系</a></li>
+  <li><a href="#section-4" id="markdown-toc-section-4">54:00　超高速分光って</a></li>
+  <li><a href="#section-5" id="markdown-toc-section-5">1:11:00 カリフォルニア生活</a></li>
+  <li><a href="#section-6" id="markdown-toc-section-6">1:24:00 円安</a></li>
+  <li><a href="#section-7" id="markdown-toc-section-7">1:27:00 おたより</a></li>
+  <li><a href="#section-8" id="markdown-toc-section-8">お知らせ</a></li>
+</ul>
+    <!-- https://stackoverflow.com/a/38419441/11480802 -->
+  </nav>
+</details>
+<p><br /></p>
+
+<h3 id="000-のっぐちさんの紹介">0:00 のっぐちさんの紹介</h3>
+
+<ul>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%95%E3%82%A9%E3%83%AB%E3%83%8B%E3%82%A2%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6">カリフォルニア工科大学 - Wikipedia</a> (CALTECH)</li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E5%85%89%E3%81%AE%E6%88%A6%E5%A3%AB">光の戦士 - Wikipedia</a></li>
+</ul>
+
+<h3 id="0200--博士時代の研究">02:00  博士時代の研究</h3>
+
+<ul>
+  <li><a href="https://www.jstage.jst.go.jp/article/butsuri/70/8/70_KJ00010008549/_article/-char/ja/">ラシュバ効果 : 2次元電子系のスピン軌道相互作用(現代物理のキーワード)</a></li>
+  <li><a href="https://interaxion-podcast.github.io/keywords/arpes/">ARPES - Interaxion Keywords</a></li>
+  <li><a href="https://shin.issp.u-tokyo.ac.jp/">Shin Lab. 辛研究室</a></li>
+  <li><a href="https://www.annualreviews.org/content/journals/10.1146/annurev-conmatphys-031016-025458">Topological Materials: Weyl Semimetals - Annual Reviews</a></li>
+  <li>柏キャンパス不人気問題</li>
+</ul>
+
+<blockquote class="twitter-tweet">
+  <p lang="ja" dir="ltr">謎の比較表を作っていた <a href="https://t.co/DR2sKDYY9F">pic.twitter.com/DR2sKDYY9F</a></p>
+  <p>— 部品（川口春奈） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1785501232460976571?ref_src=twsrc%5Etfw">May 1, 2024</a>&lt;/blockquote&gt; <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+  <h3 id="section">10:17 物性か素粒子・宇宙か</h3>
+
+  <h3 id="section-1">13:38 トポロジカル絶縁体、強弱トポ</h3>
+
+  <ul>
+    <li>
+      <p><a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%82%AB%E3%83%AB%E7%B5%B6%E7%B8%81%E4%BD%93">トポロジカル絶縁体 - Wikipedia</a></p>
+    </li>
+    <li>トポロジカル絶縁体の理論の論文: <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.76.045302">Phys. Rev. B 76, 045302 (2007) - Topological insulators with inversion symmetry</a> (<a href="https://arxiv.org/abs/cond-mat/0611341">arXiv: cond-mat/0611341</a>), <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.98.106803">Phys. Rev. Lett. 98, 106803 (2007) - Topological Insulators in Three Dimensions</a> (<a href="https://arxiv.org/abs/cond-mat/0607699">arXiv:cond-mat/060769</a>)</li>
+    <li>
+      <p><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.86.045102">Phys. Rev. B 86, 045102 (2012) - Strong side of weak topological insulators</a> (<a href="https://arxiv.org/abs/1105.4351">arXiv:1105.4351</a>)</p>
+    </li>
+    <li>強いトポロジカル絶縁体の実験論文
+      <ul>
+        <li>Bi-Sb: <a href="https://www.nature.com/articles/nature06843">A topological Dirac insulator in a quantum spin Hall phase - Nature</a>  <a href="https://arxiv.org/abs/0910.2420">arXiv:0910.2420</a> (トポロジカル絶縁体の実現)</li>
+        <li><a href="https://www.nature.com/articles/nphys1270">Topological insulators in Bi2Se3, Bi2Te3 and Sb2Te3 with a single Dirac cone on the surface - Nature Physics</a></li>
+        <li>TlBiS2, TlBidSe2:  <a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.125151">Phys. Rev. B 102, 125151 (2020) - Experimental verification of a temperature-induced topological phase transition in ${\mathrm{TlBiS}}<em>{2}$ and $\mathrm{Tl}\mathrm{Bi}{\mathrm{Se}}</em>{2}$</a></li>
+      </ul>
+    </li>
+    <li>弱いトポロジカル絶縁体の実験論文
+      <ul>
+        <li>Bi14Rh3I9 (取り下げ済み) <a href="https://arxiv.org/abs/1305.0121">arXiv:1305.0121</a></li>
+        <li>Bi4I4 (東大他) <a href="https://www.nature.com/articles/s41586-019-0927-7">A weak topological insulator state in quasi-one-dimensional bismuth iodide - Nature</a> (<a href="https://arxiv.org/abs/1802.03860">arXiv:1802.03860</a>)<br />
+プレスリリース: <a href="https://resou.osaka-u.ac.jp/ja/research/2019/20190212_1">超高速・超指向性・完全無散逸の3拍子がそろった理想スピン流の創発と制御 - ResOU</a></li>
+        <li>Bi4I4 (Rice 大学) <a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.11.031042">Phys. Rev. X 11, 031042 (2021) - Room-Temperature Topological Phase Transition in Quasi-One-Dimensional Material ${\mathrm{B}\mathrm{i}}<em>{\mathrm{4}}{\mathrm{I}}</em>{\mathrm{4}}$</a><br />
+プレスリリース: <a href="https://news.rice.edu/news/2021/physicists-find-room-temperature-2d-1d-topological-transition">Physicists find room-temperature, 2D-to-1D topological transition | Rice News | News and Media Relations | Rice University</a></li>
+        <li>ZrTe5: <a href="https://www.nature.com/articles/s41467-020-20564-8">Observation and control of the weak topological insulator state in ZrTe5 - Nature Communications</a></li>
+      </ul>
+    </li>
+    <li><a href="https://ja.wikipedia.org/wiki/%E3%81%B8%E3%81%8D%E9%96%8B">へき開 - Wikipedia</a></li>
+  </ul>
+
+  <h3 id="section-2">25:32 研究第二段階</h3>
+
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Nano-ARPES">Nano-ARPES - Wikipedia</a></li>
+    <li><a href="https://en.wikipedia.org/wiki/Diamond_Light_Source">Diamond Light Source - Wikipedia</a></li>
+    <li><a href="https://www.diamond.ac.uk/Instruments/Structures-and-Surfaces/I05.html">Welcome to I05 - - Diamond Light Source</a></li>
+    <li><a href="http://www.slitj.tagen.tohoku.ac.jp/outline/measurement_tech.html">SLIT-Jとは？｜東北大学・多元研・放射光産学連携準備室</a></li>
+    <li>位置分解ARPESについての質問 by ぶひん</li>
+    <li>光電子分光は表面が見えている？ by ボインゴ</li>
+    <li>高次トポロジカル絶縁体と強弱トポの関係は？ by ぶひん</li>
+    <li>対称性手法 (symmetry indicator) と Z4: <a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031070">Phys. Rev. X 8, 031070 (2018) - Symmetry Indicators and Anomalous Surface States of Topological Crystalline Insulators</a></li>
+    <li>強いトポロジカル絶縁体層と高次トポロジカル絶縁体層の共存: <a href="https://www.nature.com/articles/s41467-020-14443-5">Strong and fragile topological Dirac semimetals with higher-order Fermi arcs - Nature Communications</a></li>
+    <li>ライス大学の論文との食い違い</li>
+  </ul>
+
+  <h3 id="section-3">47:49 ラシュバ系</h3>
+
+  <ul>
+    <li><a href="https://ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E4%BA%95%E6%88%B8">量子井戸 - Wikipedia</a></li>
+    <li>スピン分解ARPES</li>
+  </ul>
+
+  <h3 id="section-4">54:00　超高速分光って</h3>
+
+  <ul>
+    <li><a href="https://phys.sci.hokudai.ac.jp/LABS/hikari/pump/pump.html">北海道大学理学部　光物性研究室　ポンププローブ分光法</a></li>
+  </ul>
+
+  <p>ドイツにのキャバレリグループ　キャバリエ</p>
+
+  <ul>
+    <li><a href="https://interaxion-podcast.github.io/keywords/floquet-state/">フロッケ状態 - Interaxion Keywords</a></li>
+    <li>たかさんさん出演回: <a href="https://interaxion-podcast.github.io/39">Interaxion 39: Ultracold Atoms Enable Everything</a></li>
+    <li>Nature Nursery: そんな雑誌は存在しないがググると自然派の子育てみたいなのが出てくる</li>
+    <li>K3C60　フラーレン</li>
+  </ul>
+
+  <h3 id="section-5">1:11:00 カリフォルニア生活</h3>
+
+  <ul>
+    <li><a href="https://scientaomicron.com/en/products-solutions/electron-spectroscopy/ARPES-Lab">ARPES Lab - Scienta Omicron</a></li>
+    <li><a href="https://ja.wikipedia.org/wiki/%E6%B5%85%E9%87%8E%E7%BF%94%E5%90%BE">浅野翔吾 - Wikipedia</a></li>
+  </ul>
+
+  <h3 id="section-6">1:24:00 円安</h3>
+
+  <h3 id="section-7">1:27:00 おたより</h3>
+
+  <ul>
+    <li>スさんからのおたより
+      <blockquote>
+        <p>LA旅行を計画中です。住んでるからこそ分かるオススメ観光スポットが知りたいです。</p>
+      </blockquote>
+    </li>
+    <li>ガストンさんからのおたより
+      <blockquote>
+        <p>ポスドクで論文を出すことは、今後のキャリアの上でどのくらい重要だと思いますか？</p>
+      </blockquote>
+    </li>
+    <li>美少女さんからのおたより
+      <blockquote>
+        <p>アメリカの生活はどんな感じですか</p>
+      </blockquote>
+    </li>
+  </ul>
+
+  <h2 id="section-8">お知らせ</h2>
+
+  <ul>
+    <li>出演して頂ける方や感想などをお待ちしております！ <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
+  </ul>
+
+  <blockquote class="twitter-tweet tw-align-center">
+    <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
+    <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
+  </blockquote>
+  <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+  <ul>
+    <li>エンディング BGM
+      <ul>
+        <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
+        <li>曲名: 弓</li>
+      </ul>
+    </li>
+  </ul>
+
+  <iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>
+</blockquote>]]></content><author><name></name></author><category term="放射光" /><category term="ARPES" /><category term="トポロジカル物質" /><category term="アメリカ" /><summary type="html"><![CDATA[[のぐっち](https://twitter.com/nogucchi36)さん、[部品](https://twitter.com/tjmlab)、[ボインゴ](https://twitter.com/toshakuukan)でXX、XX、カリフォルニア生活などについて話しました。]]></summary></entry><entry><title type="html">Courrier 008: 生成AIによる論文が増えている？ 見分ける裏技は？</title><link href="https://interaxion-podcast.github.io/courrier/2024-04-20" rel="alternate" type="text/html" title="Courrier 008: 生成AIによる論文が増えている？ 見分ける裏技は？" /><published>2024-04-20T00:00:00+09:00</published><updated>2024-04-20T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-delve</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/2024-04-20"><![CDATA[<p>Jeremy Nguyen さんという方が、医学論文で “delve” という単語が含まれるものが増加していることを指摘されています。 (ざっと調べてこの方が最初に報告しているように見えましたが、もっと早い例をご存知の方は教えてください)</p>
 
 <blockquote class="twitter-tweet tw-align-center">
   <p lang="en" dir="ltr">Are medical studies being written with ChatGPT? <br /><br />Well, we all know ChatGPT overuses the word "delve".<br /><br />Look below at how often the word 'delve' is used in papers on PubMed (2023 was the first full year of ChatGPT). <a href="https://t.co/iNxZfFLkxL">pic.twitter.com/iNxZfFLkxL</a></p>
@@ -1337,215 +1500,4 @@ Submitted 10:02 AM - 13 March 2022 (UTC)</p>
     <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
   </div>
-</blockquote>]]></content><author><name></name></author><category term="キャンプ" /><category term="浜松" /><summary type="html"><![CDATA[[ボインゴ](https://twitter.com/toshakuukan)と[oka](https://twitter.com/toshakuukan)で浜名湖でキャンプしました。(2023/11/18 収録) 中身はないので時間を持て余している人だけどうぞ。]]></summary></entry><entry><title type="html">55: Quo vadis?</title><link href="https://interaxion-podcast.github.io/55" rel="alternate" type="text/html" title="55: Quo vadis?" /><published>2023-10-11T00:00:00+09:00</published><updated>2023-10-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep55</id><content type="html" xml:base="https://interaxion-podcast.github.io/55"><![CDATA[<details>
-  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
-  <summary>目次</summary>
-  <nav>
-<ul id="markdown-toc">
-  <li><a href="#000-近況" id="markdown-toc-000-近況">0:00 近況</a></li>
-  <li><a href="#610-受賞内容" id="markdown-toc-610-受賞内容">6:10 受賞内容</a></li>
-  <li><a href="#830-g2" id="markdown-toc-830-g2">8:30 <i>g</i>–2</a>    <ul>
-      <li><a href="#2124-ジョンエリス" id="markdown-toc-2124-ジョンエリス">21:24 ジョン・エリス</a></li>
-      <li><a href="#2425-木下東一郎" id="markdown-toc-2425-木下東一郎">24:25 木下東一郎</a></li>
-    </ul>
-  </li>
-  <li><a href="#3131-ミュオンの応用" id="markdown-toc-3131-ミュオンの応用">31:31 ミュオンの応用</a>    <ul>
-      <li><a href="#海底ミュオグラフィ" id="markdown-toc-海底ミュオグラフィ">海底ミュオグラフィ</a></li>
-      <li><a href="#クフ王ピラミッド" id="markdown-toc-クフ王ピラミッド">クフ王ピラミッド</a></li>
-      <li><a href="#ミュオン暗号通信" id="markdown-toc-ミュオン暗号通信">ミュオン暗号通信</a></li>
-    </ul>
-  </li>
-  <li><a href="#4214-物理学会" id="markdown-toc-4214-物理学会">42:14 物理学会</a>    <ul>
-      <li><a href="#5456-キーボード" id="markdown-toc-5456-キーボード">54:56 キーボード</a></li>
-      <li><a href="#10018-海外出張" id="markdown-toc-10018-海外出張">1:00:18 海外出張</a></li>
-      <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
-      <li><a href="#editorial" id="markdown-toc-editorial">Editorial</a></li>
-    </ul>
-  </li>
-</ul>
-    <!-- https://stackoverflow.com/a/38419441/11480802 -->
-  </nav>
-</details>
-<p><br /></p>
-
-<h3 id="000-近況">0:00 近況</h3>
-
-<ul>
-  <li><a href="https://j-parc.jp/OPEN_HOUSE/2023/">J-PARC施設公開2023特設サイト</a></li>
-  <li><a href="https://wwwai.connpass.com/">Wako Weekday Workshop on AI (WWWAI) - connpass</a></li>
-  <li><a href="https://interaxion-podcast.github.io/19">Interaxion 19: A professional bonderman needs no microscopes</a></li>
-  <li>西川賞: <a href="https://www.heas.jp/award/jusyo.html">高エネルギー加速器科学研究奨励会 - 褒賞・授賞者一覧</a></li>
-  <li><a href="https://accel-kitchen.com/">加速キッチン</a></li>
-</ul>
-
-<h3 id="610-受賞内容">6:10 受賞内容</h3>
-
-<ul>
-  <li>詳しくは <a href="https://interaxion-podcast.github.io/19">Interaxion 19</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%93%E6%8C%AF%E5%8B%95">ラビ振動 - Wikipedia</a></li>
-  <li><a href="https://www2.kek.jp/imss/msl/muon-tour/MuSR.html">ミュオンスピン回転/緩和/共鳴（μSR） - ミュオン科学研究系 - KEK IMSS MSL</a></li>
-  <li><a href="https://site.ngk.co.jp/lab/no102/">【歳差運動】マクスウェルのコマ ｜ 自由研究におすすめ！家庭でできる科学実験シリーズ「試してフシギ」｜ NGKサイエンスサイト ｜ 日本ガイシ株式会社</a></li>
-  <li><a href="https://www2.kek.jp/ja/newskek/2009/janfeb/J-PARCmuon2.html">黄金の小判を壊さず検査  ～ いよいよ稼働、「崩壊ミュオン」 ～ - KEK:News＠KEK(前進しつづけるミュオン科学の最前線)</a></li>
-  <li><a href="https://www2.kek.jp/imss/news/2019/topics/0130Hirumo/">負ミュオンで蛭藻（ひるも）金の謎を解く～文理融合プロジェクト - KEK IMSS</a></li>
-  <li><a href="https://bunri.peatix.com/">【無料オンライン】文理融合シンポジウム 一般講演会 量子ビームで歴史を探る ー加速器が紡ぐ文理融合の地平ー - Peatix</a> 11/3 にミュオンと小判についてのイベントがあります！</li>
-</ul>
-
-<h3 id="830-g2">8:30 <i>g</i>–2</h3>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2302.08834">arXiv:2302.08834 Measurement of the $e^+e^-\toπ^+π^-$ cross section from threshold to 1.2 GeV with the CMD-3 detector</a><br />
-CMD-3 の電子・陽電子からパイオンができる反応断面積の測定結果</li>
-  <li><a href="https://news.fnal.gov/2023/08/muon-g-2-doubles-down-with-latest-measurement/">Muon g-2 doubles down with latest measurement, explores uncharted territory in search of new physics</a><br />
-Fermilab によるミュオン<i>g</i>–2測定結果のアップグレード</li>
-  <li><a href="https://arxiv.org/abs/2308.06230">arXiv:2308.06230 Measurement of the Positive Muon Anomalous Magnetic Moment to 0.20 ppm</a></li>
-  <li>専門家による解説 <a href="https://www2.kek.jp/ipns/ja/news/4937/">記者サロンを開催しました 「ミューオンg-2実験の最新結果を徹底解説」｜ニュース｜素粒子原子核研究所</a></li>
-  <li>J-PARC E34 実験: <a href="https://g-2.kek.jp/">J-PARC muon g-2/EDM experiment</a></li>
-  <li><a href="https://j-parc.jp/c/events/2021/12/06000773.html">「J-PARCハローサイエンス」ついに稼働するミュオンHライン｜イベント情報｜J-PARC｜大強度陽子加速器施設</a></li>
-  <li><a href="https://note.com/shoji_hashimoto/n/n0533c2c1e330">アノマリーはどこへ｜橋本省二</a>
-    <blockquote>
-      <p>いったいどこに落ち着くのか、いまのところまったくわからない。</p>
-    </blockquote>
-  </li>
-</ul>
-
-<h4 id="2124-ジョンエリス">21:24 ジョン・エリス</h4>
-
-<ul>
-  <li><a href="https://kds.kek.jp/event/46470/contributions/238555/attachments/168400/220576/QuoVadisg-2.pdf">Quo Vadis? <i>g</i>–2? (PDF)</a>
-Penguin diagramでおなじみJohn Ellis氏がJ-PARC muon <i>g</i>–2/EDM実験のコラボレーションミーティングでセミナー</li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A9%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%87%E3%82%A3%E3%82%B9">クォ・ヴァディス - Wikipedia</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Penguin_diagram">Penguin diagram - Wikipedia</a></li>
-</ul>
-
-<h4 id="2425-木下東一郎">24:25 木下東一郎</h4>
-
-<ul>
-  <li><a href="https://www.fukuishimbun.co.jp/articles/-/1753672">木下　東一郎さん（きのした・とういちろう＝米コーネル大名誉教授、量子電磁気学）米東部時間２３日午前、米マサチューセッツ州アマーストの自宅で死去、９８歳。 - 福井新聞Ｄ刊</a></li>
-  <li><a href="https://physicsworld.com/a/toichiro-kinoshita-the-theorist-whose-calculations-of-g-2-shed-light-on-our-understanding-of-nature/">Toichiro Kinoshita: the theorist whose calculations of g-2 shed light on our understanding of nature – Physics World</a><br />
-『世界で最も美しい10の科学実験』などのロバート・P・クリースによる追悼文</li>
-  <li><a href="https://kds.kek.jp/event/47493/contributions/244426/attachments/170025/223356/J-PARC2023.pptx">QED corrections to some processes involving muons - A Tribute to Toichiro Kinoshita -</a><br />
-木下先生と研究をしていらっしゃった仁尾さんによる木下先生の研究の歴史をまとめたスライド (pptx)</li>
-</ul>
-
-<h3 id="3131-ミュオンの応用">31:31 ミュオンの応用</h3>
-
-<h4 id="海底ミュオグラフィ">海底ミュオグラフィ</h4>
-
-<ul>
-  <li><a href="https://www.iis.u-tokyo.ac.jp/ja/news/3515/">【共同発表】ミュオグラフィの陸から海への展開（発表主体：国際ミュオグラフィ連携研究機構） - 東京大学生産技術研究所</a></li>
-  <li><a href="https://www.researchgate.net/figure/Muon-flux-as-a-function-of-depth-in-km-of-water-equivalent-for-various-underground_fig3_307868258">Muon flux as a function of depth in km of water equivalent for various… - Download Scientific Diagram</a><br />
-各地下実験の水換算 (water equivalent) の深さと宇宙線ミュオンの量を示した図</li>
-</ul>
-
-<h4 id="クフ王ピラミッド">クフ王ピラミッド</h4>
-
-<ul>
-  <li><a href="https://www.nagoya-u.ac.jp/researchinfo/result/2023/03/post-469.html">クフ王ピラミッドにある未知の空間を、 多地点宇宙線イメージングの技術により、高い精度で詳細に特定！ - 名古屋大学研究成果情報</a></li>
-  <li><a href="https://www.vill.tokai.ibaraki.jp/soshikikarasagasu/kyoikuiinkai/shogaigakushuka/9/1/2/8705.html">宇宙線ミュオンで古墳を透視プロジェクト！！／東海村</a></li>
-  <li><a href="https://j-parc.jp/c/topics/2023/08/24001193.html">「宇宙線ミュオンで古墳を透視プロジェクト！」を開催　- その1 -｜トピックス｜J-PARC｜大強度陽子加速器施設</a></li>
-  <li><a href="https://j-parc.jp/c/topics/2023/09/05001207.html">「宇宙線ミュオンで古墳を透視プロジェクト！」を開催　- その2 -｜トピックス｜J-PARC｜大強度陽子加速器施設</a></li>
-  <li><a href="https://www.sci.yamagata-u.ac.jp/news/detail/1070/">OSECHIを持って古墳の中へ　~高校と連携した宇宙線測定研究~ - 山形大学理学部・大学院理工学研究科</a></li>
-  <li><a href="https://www.waseda.jp/honjo/honjo/ssh/2022/izanai/kofun.htm">早稲田大学本庄高等学院 秋山庚申塚古墳の宇宙線透視測定（4月27日）</a></li>
-  <li><a href="https://syarenkei.kyushu-u.ac.jp/2019/12/13/%E7%AC%AC%EF%BC%97%EF%BC%92%E5%9B%9E%E3%80%8C%E5%AE%87%E5%AE%99%E3%81%AE%E8%AC%8E%E3%81%AB%E3%81%BF%E3%82%93%E3%81%AA%E3%81%A7%E8%BF%AB%E3%82%8B%EF%BC%81%E3%80%9C%E5%B8%82%E6%B0%91%E3%81%A8%E7%A0%94/">第７２回「宇宙の謎にみんなで迫る！〜市民と研究者の架け橋〜」開催レポート | 九州大学の社会連携</a><br />
-OSECHI の写真が載っている</li>
-  <li><a href="https://interaxion-podcast.github.io/2">Interaxion 2: The Year of Sparse Society</a><br />
-しょーたさん出演回</li>
-</ul>
-
-<h4 id="ミュオン暗号通信">ミュオン暗号通信</h4>
-
-<ul>
-  <li><a href="https://www.eri.u-tokyo.ac.jp/award/18137/">【プレスリリース】世界初、ミュー粒子によるワイヤレスセキュリティ技術 – 東京大学地震研究所</a></li>
-</ul>
-
-<h2 id="4214-物理学会">42:14 物理学会</h2>
-
-<ul>
-  <li><a href="https://www.jps.or.jp/activities/meetings/future.php">これからの年次大会・秋季(春季)大会（予定） - 日本物理学会</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%8E%E3%83%86%E3%83%A9%E3%82%B9">ナノテラス - Wikipedia</a></li>
-  <li><a href="https://web.tohoku.ac.jp/manabi/featured/sf01/">#01 NanoTerasu（ナノテラス）への期待 - まなびの杜</a></li>
-  <li><a href="https://interaxion-podcast.github.io/starring/#%E3%81%AA%E3%81%8C%E3%81%AA%E3%81%8A">ながなおさん出演回 - Interaxion Podcast</a></li>
-  <li><a href="https://www.issp.u-tokyo.ac.jp/maincontents/news2.html?pid=20062">物性犬ぬいぐるみストラップ販売開始のお知らせ - 物性研究所</a></li>
-  <li><a href="https://www-sk.icrr.u-tokyo.ac.jp/~hayato_s/hyperk-online.html">ハイパーカミオカンデ用エレクトロニクス・データ収集システムの開発</a>
-    <blockquote>
-      <p>スーパーカミオカンデにおいては全ての光センサー に70mのケーブルをつけることで、検出器タンクの上に設置 することを可能としました。しかし、ハイパーカミオカンデ においては、タンク外にこれらを設置しようとすると、 検出器が大型化したことから、１５０m から ２００m の ケーブル が必要となり、信号が大きく劣化してしまいます。</p>
-    </blockquote>
-  </li>
-  <li><a href="https://genedynamics.aori.u-tokyo.ac.jp/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%82%AB%E3%83%9F%E3%82%AA%E3%82%AB%E3%83%B3%E3%83%87%E3%81%AE%E6%B0%B4%E3%82%BF%E3%83%B3%E3%82%AF%E5%86%85%E3%81%AE%E5%BE%AE%E7%94%9F%E7%89%A9%E8%AA%BF%E6%9F%BB/">スーパーカミオカンデの水タンク内の微生物調査に行ってきました - 吉澤グループ（東大大海研）</a></li>
-  <li><a href="https://higgstan.com/sk-bacteria/">4コマ：スーパーカミオカンデとバクテリア（English ver. incl.) – HiggsTan</a></li>
-  <li>10/28 Dark Matter Day イベント準備中<br />
-<a href="https://kekweb.gitlab.io/darkmatterday/">https://kekweb.gitlab.io/darkmatterday/</a>で詳細お知らせ予定</li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%AA%E3%83%B3">アクシオン - Wikipedia</a></li>
-  <li><a href="https://www.kek.jp/ja/notice/202309081600/">次期機構長候補者について – KEK｜高エネルギー加速器研究機構</a></li>
-  <li><a href="https://becauselanguage.com/">Because Language – A podcast about linguistics, the science of language.</a></li>
-  <li><a href="https://interaxion-podcast.github.io/5">Interaxion 5: Sci-Fi is more fun with physics and linguistics</a> ピージェイさんが Because Language を紹介してくれている回(40分ごろ)</li>
-</ul>
-
-<h3 id="5456-キーボード">54:56 キーボード</h3>
-
-<ul>
-  <li><a href="https://amzn.to/3QbHJA7">Kinesis Advantage 2</a></li>
-  <li><a href="https://amzn.to/48LBgDj">REALFORCE リアルフォース 東プレ R3S</a></li>
-  <li><a href="https://yushakobo.jp/">遊舎工房 - 自作キーボード＆レーザーカット</a></li>
-  <li><a href="http://www.cas.cmc.osaka-u.ac.jp/~paoon/Lectures/2005-1Semester-InformationLiteracy/01.html#i-o">Information Literacy – Lecture note (No.1)</a> → 阪大の降旗先生のキーボードランク付け。 (<a href="https://interaxion-podcast.github.io/19">Ep. 19</a>)にも登場</li>
-  <li><a href="https://keychron.jp/">KeychronJP - Mac、Windows、電話用のワイヤレスメカニカルキーボード – Keychron Japan</a></li>
-</ul>
-
-<h3 id="10018-海外出張">1:00:18 海外出張</h3>
-
-<ul>
-  <li><a href="https://indico.cern.ch/event/1164804/">International Conference on Precision Physics and Fundamental Physical Constants FFK2023 (22-May 26, 2023): Overview · Indico</a></li>
-  <li><a href="https://taup2023.hephy.at/">Taup2023 – International Conference on Topics in Astroparticle and Underground Physics</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%A6%E3%83%AB%E3%83%BB%E3%82%B7%E3%82%A7%E3%83%A9%E3%83%BC%E7%A0%94%E7%A9%B6%E6%89%80">パウル・シェラー研究所 - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B6%E3%83%95%E3%82%A9%E3%83%BC%E3%83%89%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%83%88%E3%83%B3%E7%A0%94%E7%A9%B6%E6%89%80">ラザフォードアップルトン研究所 - Wikipedia</a></li>
-  <li><a href="https://visit.cern/shop">Shop - Visit CERN Science Gateway</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/List_of_streets_at_CERN">List of streets at CERN - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%83%E3%83%92%E5%B7%A5%E7%A7%91%E5%A4%A7%E5%AD%A6">チューリッヒ工科大学 - Wikipedia</a> (ETH)</li>
-  <li><a href="https://interaxion-podcast.github.io/keywords/wwwai/">WWWAI - Interaxion Keywords</a></li>
-  <li><a href="https://en.wikipedia.org/wiki/Crystal_Ball_function">Crystal Ball function - Wikipedia</a></li>
-  <li><a href="https://harapekojam.com/meal/delicious-hitachinaka-kasuga">【旬彩かすが】旬の美味しい魚をたっぷり味わえる小さな名店＠茨城県ひたちなか市│ぼっちメシ研究所</a> … 収録後、こちらで打ち上げしました。めっちゃおいしかった！</li>
-</ul>
-
-<h3 id="お知らせ">お知らせ</h3>
-
-<ul>
-  <li>10/28 Dark Matter Day イベント準備中
-    <ul>
-      <li><del><a href="https://kekweb.gitlab.io/darkmatterday/">https://kekweb.gitlab.io/darkmatterday/</a> で詳細お知らせ予定</del></li>
-      <li><a href="https://peatix.com/event/3724789">Peatix</a>から登録お願いします！</li>
-    </ul>
-  </li>
-  <li><a href="https://buhin-blog.blogspot.com/">ぶひんブログ</a></li>
-  <li><a href="https://store.line.me/stickershop/product/20651080/ja">ニムニムスタンプ</a></li>
-  <li>エンディング BGM 変わりました
-    <ul>
-      <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
-      <li>曲名: 弓</li>
-    </ul>
-  </li>
-</ul>
-
-<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">【動画やポッドキャストのBGMをお探しの方へ】<br /><br />サイトウが大量に制作したトラックの中から厳選された作品が、国内最大級の音源販売サイト Audiostock で販売開始されました。<br /><br />単品購入 or 定額制を選択可。<br />ぜひご活用ください！！<a href="https://t.co/7dSi0Mw6kG">https://t.co/7dSi0Mw6kG</a></p>
-  <p>— サイトウナヲキ (@sai_enlightened) <a href="https://twitter.com/sai_enlightened/status/1542127615959392256?ref_src=twsrc%5Etfw">June 29, 2022</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<h3 id="editorial">Editorial</h3>
-
-<ul>
-  <li>終わったあと、反物質の重力の話すれば良かったねとなった (oka)<br />
-<a href="https://www.itmedia.co.jp/news/articles/2309/28/news157.html">「反重力」存在せず　国際チームが証明 - ITmedia NEWS</a></li>
-</ul>]]></content><author><name></name></author><category term="J-PARC" /><category term="ミュオン" /><category term="&lt;i&gt;g&lt;/i&gt;–2" /><category term="キーボード" /><summary type="html"><![CDATA[[セゾン](https://twitter.com/ShowEachLow)さんと[おか](https://twitter.com/nowohyeah)で受賞おめでとう、ミュオンg–2の最新情報、ミュオンの応用などについて話しました。 (2023/10/01 東海村某所にて収録)]]></summary></entry></feed>
+</blockquote>]]></content><author><name></name></author><category term="キャンプ" /><category term="浜松" /><summary type="html"><![CDATA[[ボインゴ](https://twitter.com/toshakuukan)と[oka](https://twitter.com/toshakuukan)で浜名湖でキャンプしました。(2023/11/18 収録) 中身はないので時間を持て余している人だけどうぞ。]]></summary></entry></feed>

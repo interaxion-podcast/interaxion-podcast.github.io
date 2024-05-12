@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-05-11T22:00:14+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">61:</title><link href="https://interaxion-podcast.github.io/61-draft" rel="alternate" type="text/html" title="61:" /><published>2024-05-11T00:00:00+09:00</published><updated>2024-05-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep61</id><content type="html" xml:base="https://interaxion-podcast.github.io/61-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-05-12T20:02:02+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">61:</title><link href="https://interaxion-podcast.github.io/61-draft" rel="alternate" type="text/html" title="61:" /><published>2024-05-11T00:00:00+09:00</published><updated>2024-05-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep61</id><content type="html" xml:base="https://interaxion-podcast.github.io/61-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -9,10 +9,10 @@
   <li><a href="#1338-トポロジカル絶縁体強弱トポ" id="markdown-toc-1338-トポロジカル絶縁体強弱トポ">13:38 トポロジカル絶縁体、強弱トポ</a></li>
   <li><a href="#2532-研究第二段階" id="markdown-toc-2532-研究第二段階">25:32 研究第二段階</a></li>
   <li><a href="#4749-ラシュバ系" id="markdown-toc-4749-ラシュバ系">47:49 ラシュバ系</a></li>
-  <li><a href="#5400超高速分光って" id="markdown-toc-5400超高速分光って">54:00　超高速分光って</a></li>
-  <li><a href="#11100-カリフォルニア生活" id="markdown-toc-11100-カリフォルニア生活">1:11:00 カリフォルニア生活</a></li>
+  <li><a href="#5358-超高速分光って" id="markdown-toc-5358-超高速分光って">53:58 超高速分光って</a></li>
+  <li><a href="#11046-カリフォルニア生活" id="markdown-toc-11046-カリフォルニア生活">1:10:46 カリフォルニア生活</a></li>
   <li><a href="#12400-円安" id="markdown-toc-12400-円安">1:24:00 円安</a></li>
-  <li><a href="#12700-おたより" id="markdown-toc-12700-おたより">1:27:00 おたより</a></li>
+  <li><a href="#12730-おたより" id="markdown-toc-12730-おたより">1:27:30 おたより</a></li>
   <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
 </ul>
     <!-- https://stackoverflow.com/a/38419441/11480802 -->
@@ -98,18 +98,20 @@
   <li>ARPES の強みと弱み</li>
 </ul>
 
-<h3 id="5400超高速分光って">54:00　超高速分光って</h3>
+<h3 id="5358-超高速分光って">53:58 超高速分光って</h3>
 
 <ul>
   <li><a href="https://phys.sci.hokudai.ac.jp/LABS/hikari/pump/pump.html">北海道大学理学部　光物性研究室　ポンププローブ分光法</a></li>
-  <li>ドイツのキャバレリグループ？</li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%BF%E3%83%B3%E3%82%B5%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%AC%E3%83%BC%E3%82%B6%E3%83%BC">チタンサファイアレーザー - Wikipedia</a></li>
+  <li><a href="https://www.nature.com/articles/s41567-019-0698-y">Light-induced anomalous Hall effect in graphene - Nature Physics</a> (<a href="https://arxiv.org/abs/1811.03522">arXiv:1811.03522</a>)</li>
   <li><a href="https://interaxion-podcast.github.io/keywords/floquet-state/">フロッケ状態 - Interaxion Keywords</a></li>
   <li>たかさんさん出演回: <a href="https://interaxion-podcast.github.io/39">Interaxion 39: Ultracold Atoms Enable Everything</a></li>
   <li>Nature Nursery: そんな雑誌は存在しないがググると自然派の子育てみたいなのが出てくる</li>
-  <li>K3C60　フラーレン</li>
+  <li><a href="https://www.nature.com/articles/s41567-020-01148-1">Evidence for metastable photo-induced superconductivity in K3C60 - Nature Physics</a></li>
+  <li><a href="https://www.nature.com/articles/s41567-023-02235-9">Resonant enhancement of photo-induced superconductivity in K3C60 - Nature Physics</a></li>
 </ul>
 
-<h3 id="11100-カリフォルニア生活">1:11:00 カリフォルニア生活</h3>
+<h3 id="11046-カリフォルニア生活">1:10:46 カリフォルニア生活</h3>
 
 <ul>
   <li><a href="https://scientaomicron.com/en/products-solutions/electron-spectroscopy/ARPES-Lab">ARPES Lab - Scienta Omicron</a></li>
@@ -118,7 +120,7 @@
 
 <h3 id="12400-円安">1:24:00 円安</h3>
 
-<h3 id="12700-おたより">1:27:00 おたより</h3>
+<h3 id="12730-おたより">1:27:30 おたより</h3>
 
 <ul>
   <li>スさんからのおたより
@@ -126,6 +128,9 @@
       <p>LA旅行を計画中です。住んでるからこそ分かるオススメ観光スポットが知りたいです。</p>
     </blockquote>
   </li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%95%E3%82%A3%E3%82%B9%E5%A4%A9%E6%96%87%E5%8F%B0">グリフィス天文台 - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/J%E3%83%BB%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%82%B2%E3%83%86%E3%82%A3%E7%BE%8E%E8%A1%93%E9%A4%A8">J・ポール・ゲティ美術館 - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%A2%E3%83%8B%E3%82%AB">サンタモニカ - Wikipedia</a></li>
   <li>ガストンさんからのおたより
     <blockquote>
       <p>ポスドクで論文を出すことは、今後のキャリアの上でどのくらい重要だと思いますか？</p>

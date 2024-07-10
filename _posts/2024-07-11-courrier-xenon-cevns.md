@@ -7,7 +7,7 @@ authors:
   - oka
 author: oka
 excerpt: "XENONnT実験が太陽ニュートリノによる原子核反跳を観測"
-twitter_image: ../assets/courrier/ALTA-DEFINIZIONE_XENONnT_013-scaled.jpg
+twitter_image: assets/courrier/ALTA-DEFINIZIONE_XENONnT_013-scaled.jpg
 tags:
   - ダークマター
   - ニュートリノ

@@ -1,4 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-05-16T19:38:09+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">61: The Warrior of Diamond Light</title><link href="https://interaxion-podcast.github.io/61" rel="alternate" type="text/html" title="61: The Warrior of Diamond Light" /><published>2024-05-16T00:00:00+09:00</published><updated>2024-05-16T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep61</id><content type="html" xml:base="https://interaxion-podcast.github.io/61"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-07-11T08:05:39+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">Courrier 009: XENONnT実験が太陽ニュートリノによる原子核反跳を観測</title><link href="https://interaxion-podcast.github.io/courrier/2024-07-10" rel="alternate" type="text/html" title="Courrier 009: XENONnT実験が太陽ニュートリノによる原子核反跳を観測" /><published>2024-07-11T00:00:00+09:00</published><updated>2024-07-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-xenon-cevns</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/2024-07-10"><![CDATA[<p><a href="https://interaxion-podcast.github.io/keywords/dark-matter/">ダークマター</a>に関する国際会議<a href="https://www.idm2024.eu/">IDM2024</a>において、XENONnT実験が太陽ニュートリノによる原子核反跳を観測したという報告がありました。</p>
+
+<ul>
+  <li>スライド: <a href="https://agenda.infn.it/event/39713/contributions/237829/">IDM 2024 (8-July 12, 2024): New results from XENONnT · Agenda (Indico)</a></li>
+  <li>XENONnTのWebサイト記事: <a href="https://xenonexperiment.org/first-measurement-of-a-nuclear-recoil-signal-from-solar-neutrinos-with-xenonnt/">First measurement of a nuclear recoil signal from solar neutrinos with XENONnT – XENONnT experiment</a></li>
+</ul>
+
+<p>ただし統計的な有意性は2.7σで、素粒子物理学においてよく有意とされる3σや、発見とされる5σには到達していません。今後はより統計を溜めて論文として報告されるものと思われます。</p>
+
+<p>今回報告されたのは、太陽から来る<sup>8</sup>Bニュートリノがイタリアのグランサッソ山の地下にあるXENONnT検出器中のキセノン原子核とぶつかった信号を捉えたというものです。
+太陽ニュートリノは既に様々な検出器で観測されていますが、この原子核反跳 (nuclear recoil) を観測したというのが新しい点です。
+ニュートリノが原子核を反跳するような事象は coherent elastic neutrino nucleus scattering (CE𝜈NS, CEvNS: セヴンス) と呼ばれ、これまでは原子炉ニュートリノを使った COHERENT 実験でしか見つかっていませんでした。CE𝜈NSについては以下の記事でも解説しています。</p>
+
+<ul>
+  <li><a href="https://interaxion-podcast.github.io/keywords/neutrino-floor/">ニュートリノフロア - Interaxion Keywords</a></li>
+</ul>
+
+<p>今回の XENONnT の報告は初の太陽ニュートリノによる CE𝜈NS の観測であるとともに、ダークマター探索にとっても重要な意味を持ちます。
+上記の記事でも書いたように、XENONnT のような検出器では CE𝜈NS による信号とダークマターによる原子核反跳による信号が区別できません。
+これまではダークマターによる信号は太陽ニュートリノによる信号よりも多いかもしれないという淡い期待も持つことができましたが、今後はそれも許されなくなります。
+ダークマターによる信号は太陽ニュートリノよりも少ないため、埋もれてしまうことになります。</p>
+
+<p>しかし、ダークマターの信号を捉える手段はまだ残されています。
+XENONnT のような入射粒子の方向を区別できない検出器では、1年を通じてダークマターと地球の相対速度が変わることによる季節変動を観測するという手段があります。
+これを行うには検出器を1年を通じて安定的に稼動させ、辛抱強く統計を溜める必要があります。
+また、入射粒子の方向に感度を持つ検出器を利用するという方法も考えられます。
+この場合は太陽の方向からの信号を除くことで、太陽ニュートリノとダークマターの信号を区別できますが、XENONnTのようなタイプの検出器と比べると感度はまだまだ低い状況です。</p>
+
+<p>XENONnTのWebサイトにあるように、今回の報告によりダークマター探索は新しいチャプターを迎えました。</p>
+
+<blockquote>
+  <p>Moreover, such a significant result opens a new chapter in the direct dark matter detection field:</p>
+</blockquote>
+
+<p>今後少なくとも数年はダークマターが発見されることはないことが確定しましたが、太陽ニュートリノによる CE𝜈NS の観測は、人類が着実に歩みを進めていることを示す結果でもあります。
+XENONnT や世界中の数多あるダークマター探索実験からの報告を引き続き待ちましょう。</p>
+
+<h2 id="関連リンク">関連リンク</h2>
+
+<ul>
+  <li><a href="https://www.interactions.org/press-release/first-measurement">First measurement of a nuclear recoil signal from solar neutrinos with XENONnT</a></li>
+  <li><a href="https://home.infn.it/it/news-infn/6728-cercando-la-materia-oscura-l-esperimento-xenonnt-entra-per-la-prima-volta-nella-nebbia-di-neutrini">CERCANDO LA MATERIA OSCURA, L’ESPERIMENTO XENONnT ENTRA PER LA PRIMA VOLTA NELLA NEBBIA DI NEUTRINI</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="en" dir="ltr">XENONnT is the first experiment to measure nuclear recoils from solar neutrinos<br />Today, July 10, at the <a href="https://twitter.com/hashtag/IDM2024?src=hash&amp;ref_src=twsrc%5Etfw">#IDM2024</a> in L’Aquila (IT), Fei Gao, from Tsingua Universitiy, reported this result: we can say that XENONnT enters into the so-called “neutrino fog”.This is a great achievement! <a href="https://t.co/I3N4yxafo5">pic.twitter.com/I3N4yxafo5</a></p>
+  <p>— XENONexperiment (@XENONexperiment) <a href="https://twitter.com/XENONexperiment/status/1810989027123663091?ref_src=twsrc%5Etfw">July 10, 2024</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="en" dir="ltr">XENONnT have detected solar neutrinos… the neutrino fog has arrived <a href="https://t.co/nwyfjg2IKd">pic.twitter.com/nwyfjg2IKd</a></p>
+  <p>— Ciaran O'Hare (@cajohare) <a href="https://twitter.com/cajohare/status/1810981363371172180?ref_src=twsrc%5Etfw">July 10, 2024</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet">
+  <p lang="en" dir="ltr">Breaking news: the XENONnT experiment seems to have detected particles at 2.7 sigma confidence! But it's not dark matter, it's Solar 8^B neutrinos. Are DM detectors already turning into neutrino detectors? From IDM-2024 conference, Aquila, Italy. <a href="https://t.co/2ZrutvNnhz">pic.twitter.com/2ZrutvNnhz</a></p>
+  <p>— Federico Lelli (@lellifede) <a href="https://twitter.com/lellifede/status/1810987196012220429?ref_src=twsrc%5Etfw">July 10, 2024</a>&lt;/blockquote&gt; <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+</blockquote>]]></content><author><name>oka</name></author><category term="ダークマター" /><category term="ニュートリノ" /><category term="XENONnT" /><summary type="html"><![CDATA[XENONnT実験が太陽ニュートリノによる原子核反跳を観測]]></summary></entry><entry><title type="html">61: The Warrior of Diamond Light</title><link href="https://interaxion-podcast.github.io/61" rel="alternate" type="text/html" title="61: The Warrior of Diamond Light" /><published>2024-05-16T00:00:00+09:00</published><updated>2024-05-16T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep61</id><content type="html" xml:base="https://interaxion-podcast.github.io/61"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -1131,190 +1190,4 @@ Submitted 10:02 AM - 13 March 2022 (UTC)</p>
   </blockquote>
   <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-</blockquote>]]></content><author><name></name></author><category term="超伝導" /><category term="室温超伝導" /><category term="X線回折" /><category term="ラボラトリーオートメーション" /><summary type="html"><![CDATA[[部品](https://twitter.com/tjmlab)、[うってぃ](https://twitter.com/tmy_usgm)、[ブカ](https://twitter.com/elmizbuka)、[おか](https://twitter.com/nowohyeah)で Google DeepMind による新物質発見？、自動実験、2023年の超伝導情勢などについて話しました。]]></summary></entry><entry><title type="html">Courrier 007: アクシオン探索2023</title><link href="https://interaxion-podcast.github.io/courrier/2023-12-08" rel="alternate" type="text/html" title="Courrier 007: アクシオン探索2023" /><published>2023-12-08T00:00:00+09:00</published><updated>2023-12-08T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-axion2023</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/2023-12-08"><![CDATA[<p>アクシオンやそれに似た粒子の探索結果をまとめている <a href="https://github.com/cajohare/AxionLimits">AxionLimits</a> をメンテナンスしている <a href="https://twitter.com/cajohare">Ciaran O’Hare</a> さんが、X (旧: Twitter) に<a href="https://twitter.com/cajohare/status/1733005929493451102">2023年のまとめを投稿されていました</a>。日本語訳をブログに投稿する許可を頂いたので、ここに書きます。論文の画像はこのページには載せないので、<a href="https://twitter.com/cajohare/status/1733005929493451102">元のスレッド</a>や論文を参照してください。論文は全て arXiv なので無料で読めます。</p>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="en" dir="ltr">It's December, so time for my annual update from the world of axions. It’s been another busy year for maintaining my GitHub "AxionLimits" - my attempt to keep up with all of the people around the world desperately searching for these funny particles. <a href="https://t.co/j0os70F4o1">https://t.co/j0os70F4o1</a> <a href="https://t.co/LHUoMFPCHF">pic.twitter.com/LHUoMFPCHF</a></p>
-  <p>— Ciaran O'Hare (@cajohare) <a href="https://twitter.com/cajohare/status/1733005929493451102?ref_src=twsrc%5Etfw">December 8, 2023</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<hr />
-
-<h2 id="概略">概略</h2>
-
-<p>AxionLimits で 2020年に作った最初のプロットと、2023年現在のものを比べたのが以下の図です。AxionLimits は現在400を超える論文からのデータを保持していて、その数は毎週増え続けています。</p>
-
-<div style="text-align: center;">
-  <figure class="figure">
-    <div style="text-align: center;">
-
-      <p><img src="../assets/axion2023_comparison.jpeg" alt="2020年と2023年のアクシオンに対する制限" /></p>
-
-    </div>
-    <figcaption>
-      <p>2020年と2023年のアクシオンに対する制限</p>
-    </figcaption>
-  </figure>
-
-</div>
-
-<h2 id="2023年のハイライト">2023年のハイライト</h2>
-
-<h3 id="間接探索">間接探索</h3>
-
-<h4 id="光による探索">光による探索</h4>
-
-<p>アクシオンが銀河のハローを構成している場合、2つの光子に崩壊し、銀河や blank sky のエネルギースペクトルで未知の輝線として観測できる可能性があります。</p>
-
-<p>赤外線から紫外線の領域では、 超大型望遠鏡 (VLT) の MUSE、ハッブル宇宙望遠鏡、ジェイムズ・ウェッブ宇宙望遠鏡 (JWST) といった装置/望遠鏡による制限が付けられました。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2310.15395">[2310.15395] Hunting Dark Matter Lines in the Infrared Background with the James Webb Space Telescope</a></li>
-  <li><a href="https://arxiv.org/abs/2301.06560">[2301.06560] Probing the Blue Axion with Cosmic Optical Background Anisotropies</a></li>
-  <li><a href="https://arxiv.org/abs/2307.07403">[2307.07403] Robust bounds on ALP dark matter from dwarf spheroidal galaxies in the optical MUSE-Faint survey</a></li>
-</ul>
-
-<p>JWST によるアクシオン探索の最終到達地点も、 Roy et al. によって評価されました。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2311.04987">[2311.04987] Sensitivity of JWST to eV-Scale Decaying Axion Dark Matter</a></li>
-</ul>
-
-<h4 id="cmb-による初期宇宙アクシオン探索">CMB による初期宇宙アクシオン探索</h4>
-
-<p>アクシオンが2光子に崩壊し、それが初期宇宙での熱源となったと仮定した場合の証拠を、宇宙マイクロ波背景放射 (CMB) のデータから探す2つの論文 (Capozzi et al., Liu et al.) が同じ日に発表されました。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2303.07426">[2303.07426] CMB and Lyman-$α$ constraints on dark matter decays to photons</a></li>
-  <li><a href="https://arxiv.org/abs/2303.07370">[2303.07370] Exotic energy injection in the early universe II: CMB spectral distortions and constraints on light dark matter</a></li>
-</ul>
-
-<h4 id="アクシオン星">アクシオン星</h4>
-
-<p>アクシオンの宇宙論的な痕跡としては、アクシオン星が考えられます。 Escudero et al. はアクシオン星がちょうどいいエネルギーの光子によってくすぐられると、爆発して宇宙を再電離させる可能性を示しました。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2302.10206">[2302.10206] Axion Star Explosions: A New Source for Axion Indirect Detection</a></li>
-</ul>
-
-<h4 id="超新星による制限の修正">超新星による制限の修正</h4>
-
-<p>別の種類の爆発する星とアクシオンの関係として、 Diamond et al. は超新星爆発が期待通り複雑であることを示し、以前超新星 SN1987A によって付けられていたアクシオンに対する制限は、 fireball がアクシオンの脱出を妨げるため実際には制限になっていないことを報告しました。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2303.11395">[2303.11395] Axion-sourced fireballs from supernovae</a></li>
-</ul>
-
-<h3 id="直接探索">直接探索</h3>
-
-<p>さあ実験の話です。韓国の基礎科学研究院 (IBS) の <a href="https://capp.ibs.re.kr/html/capp_en/">Center for Axion Precision Physics (CAPP)</a> は一連の強磁場ハロスコープ (ハロー望遠鏡) でアクシオンの存在が許される領域を削り続けています。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2308.09077">[2308.09077] Extended Axion Dark Matter Search Using the CAPP18T Haloscope</a></li>
-</ul>
-
-<p>アメリカの HAYSTAC 実験によっても新しい制限が付きました。HAYSTAC の特徴は squeezed state receiver という特殊な装置を用いて量子力学で決まるレベル以下にノイズを落としていることです。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2301.09721">[2301.09721] New Results from HAYSTAC’s Phase II Operation with a Squeezed State Receiver</a></li>
-</ul>
-
-<p>O’Hare さんのいるオーストラリアにも、パースで行われている ORGAN 実験があります。 ORGAN のアクシオンハロスコープはこれまでで最高の周波数で動作しています。（訳注: 高周波数は低質量のアクシオンを探索することに対応します。）</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2310.00904">[2310.00904] Exclusion of ALP Cogenesis Dark Matter in a Mass Window Above 100 $μ$eV</a></li>
-</ul>
-
-<p>逆に非常に低い周波数では、日本の DANCE 実験が初めての結果を今年得ました。彼らはきれいな弓形のキャビティを使い、レーザーを反跳させています。これはアクシオンがレーザーの偏光を回転させるというアイディアに基づいたものです。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2303.03594">[2303.03594] First Results of Axion Dark Matter Search with DANCE</a></li>
-</ul>
-
-<p>あまり知られていないハロスコープに LIDA 実験があります。彼らは ナノ電子ボルトの質量領域を探索し、今年最初のリミットを付けました。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2307.01365">[2307.01365] First results of the Laser-Interferometric Detector for Axions (LIDA)</a></li>
-</ul>
-
-<p>O’Hare さんの今年のお気に入りの新しいアイディアは WISPFI 実験です。この実験はアクシオンを実験室で生成するため、アクシオンがダークマターとして存在していなくても探すことができるというものです。これは light-shining-through-walls (訳注: 壁に向けて光を打って、光がアクシオンに変わると壁を透過できる) と呼ばれるコンセプトを中空糸コイルを用いて見直したものです。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2305.12969">[2305.12969] WISP Searches on a Fiber Interferometer under a Strong Magnetic Field</a></li>
-</ul>
-
-<p>実験室でアクシオンを作る別の方法として、日本の SAPPHIRES 実験のようにレーザービーム同士をぶつける方法があります。SAPPHIRES 実験も今年新しいリミットを付けました。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2302.06016">[2302.06016] Pilot search for axion-like particles by a three-beam stimulated resonant photon collider with short pulse lasers</a></li>
-</ul>
-
-<h3 id="ダークフォトン">ダークフォトン</h3>
-
-<p>アクシオンをめぐる興奮から数年が経ち、多くのコラボレーションがパイロット実験を構築したところです。しかしながら、アクシオンを探すのは強力な磁石が必要なため難しいです。しかしさしあたり、アクシオン探索実験はダークフォトンを探すことでその機能を証明できます。ダークフォトンはアクシオンに似ていますが、磁場がなくても光子に変身できるという点が異なります。</p>
-
-<p>ダークフォトン探索実験のひとつに、 GigaBREAD という食欲をそそる名前のものがあります。GigaBREAD は巧妙な円錐形の皿によってダークフォトンが変身した光子を1点に集中させて検出します。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2310.13891">[2310.13891] First Results from a Broadband Search for Dark Photon Dark Matter in the $44$ to $52\,μ$eV range with a coaxial dish antenna</a></li>
-</ul>
-
-<p>中国のグループは超伝導高周波キャビティ (SRF Cavity) を使ってダークフォトンを探しています。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2305.09711">[2305.09711] SRF Cavity Searches for Dark Photon Dark Matter: First Scan Results</a></li>
-</ul>
-
-<p>お次もクールなアイディアです。アクシオンやダークフォトンが非常に軽く、そのために非常に長い波長の光になると、離れた場所に設置された検出器を同期させてそれらを検出した方が良いかもしれません。</p>
-
-<p>2つの独立したチームが離れた場所に置かれた磁力計のセットを使ってそのような実験を行いました。ひとつはアメリカの荒野の奥深くで行われた SNIPE Hunt、もうひとつは中国で行われた AMAILS です。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2306.11575">[2306.11575] A Hunt for Magnetic Signatures of Hidden-Photon and Axion Dark Matter in the Wilderness</a></li>
-  <li><a href="https://arxiv.org/abs/2305.00890">[2305.00890] Search for dark photons with synchronized quantum sensor network</a></li>
-</ul>
-
-<p>ダークフォトンは非常に興味深いものですが、強く制限もされています。制限を付ける一番良い方法のひとつは、星の進化に与える影響を考慮することです。</p>
-
-<p>今年 Hiskens et al. はダークフォトンによる冷却を恒星進化モデルに導入し、これまでの赤色巨星やヘリウム燃焼星による制限が見直されました。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2306.13335">[2306.13335] Constraining Dark Photons with Self-consistent Simulations of Globular Cluster Stars</a></li>
-</ul>
-
-<h3 id="背景重力波">背景重力波</h3>
-
-<p>最後に、今年はナノヘルツの確率的背景重力波の兆候がいくつかのパルサータイミングアレイ (PTA) のコラボレーションで見つかり、それをめぐって大きな興奮がありました。</p>
-
-<p>PTA はダークマター検出器でもあり、ナノヘルツ帯域以上の周波数で振動するスカラー場ダークマターに対しては最も強い制限を与えることが分かりました。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2306.16219">[2306.16219] The NANOGrav 15-year Data Set: Search for Signals from New Physics</a></li>
-</ul>
-
-<h3 id="ohare-さん自身の論文">O’Hare さん自身の論文</h3>
-
-<p>O’Hare さん自身の今年の論文もあります。この論文ではハロスコープ内のアクシオン信号が何百もの狭いストリームで構成されることを予測しています。</p>
-
-<ul>
-  <li><a href="https://arxiv.org/abs/2311.17367">[2311.17367] Axion minicluster streams in the solar neighbourhood</a></li>
-</ul>
-
-<h3 id="結論">結論</h3>
-
-<p>この分野の発展はとても速く、追い付くのは非常に大変です。地図だと分かりやすいでしょう。これがこれまでアクシオンなどを探索した人々です。この中のどれかがいつか成功し、この忌々しいウェブサイトのメンテナンスをやめられることを願っています。</p>
-
-<div style="text-align: center;">
-  <figure class="figure">
-    <div style="text-align: center;">
-
-      <p><img src="../assets/axion2023_Wavy_Map.png" alt="アクシオン実験の世界地図 &lt;https://github.com/cajohare/AxionLimits#experiment-map&gt;" /></p>
-
-    </div>
-    <figcaption>
-      <p>アクシオン実験の世界地図 <a href="https://github.com/cajohare/AxionLimits#experiment-map">https://github.com/cajohare/AxionLimits#experiment-map</a></p>
-    </figcaption>
-  </figure>
-
-</div>]]></content><author><name>oka</name></author><category term="アクシオン" /><summary type="html"><![CDATA[アクシオン探索の2023年についてまとめました。]]></summary></entry></feed>
+</blockquote>]]></content><author><name></name></author><category term="超伝導" /><category term="室温超伝導" /><category term="X線回折" /><category term="ラボラトリーオートメーション" /><summary type="html"><![CDATA[[部品](https://twitter.com/tjmlab)、[うってぃ](https://twitter.com/tmy_usgm)、[ブカ](https://twitter.com/elmizbuka)、[おか](https://twitter.com/nowohyeah)で Google DeepMind による新物質発見？、自動実験、2023年の超伝導情勢などについて話しました。]]></summary></entry></feed>

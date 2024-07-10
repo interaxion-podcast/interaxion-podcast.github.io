@@ -7,11 +7,16 @@ authors:
   - oka
 author: oka
 excerpt: "XENONnT実験が太陽ニュートリノによる原子核反跳を観測"
+twitter_image: ../assets/courrier/ALTA-DEFINIZIONE_XENONnT_013-scaled.jpg
 tags:
   - ダークマター
   - ニュートリノ
   - XENONnT
 ---
+
+<div style="text-align: center;">
+{% include figure.html url="../assets/courrier/ALTA-DEFINIZIONE_XENONnT_013-scaled.jpg" description="Credit: XENON Collaboration https://xenonexperiment.org/photos/" %}
+</div>
 
 [ダークマター](https://interaxion-podcast.github.io/keywords/dark-matter/)に関する国際会議[IDM2024](https://www.idm2024.eu/)において、XENONnT実験が太陽ニュートリノによる原子核反跳を観測したという報告がありました。
 
@@ -55,4 +60,4 @@ XENONnT や世界中の数多あるダークマター探索実験からの報告
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">XENONnT have detected solar neutrinos... the neutrino fog has arrived <a href="https://t.co/nwyfjg2IKd">pic.twitter.com/nwyfjg2IKd</a></p>&mdash; Ciaran O&#39;Hare (@cajohare) <a href="https://twitter.com/cajohare/status/1810981363371172180?ref_src=twsrc%5Etfw">July 10, 2024</a>
 </blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Breaking news: the XENONnT experiment seems to have detected particles at 2.7 sigma confidence! But it&#39;s not dark matter, it&#39;s Solar 8^B neutrinos. Are DM detectors already turning into neutrino detectors? From IDM-2024 conference, Aquila, Italy. <a href="https://t.co/2ZrutvNnhz">pic.twitter.com/2ZrutvNnhz</a></p>&mdash; Federico Lelli (@lellifede) <a href="https://twitter.com/lellifede/status/1810987196012220429?ref_src=twsrc%5Etfw">July 10, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Breaking news: the XENONnT experiment seems to have detected particles at 2.7 sigma confidence! But it&#39;s not dark matter, it&#39;s Solar 8^B neutrinos. Are DM detectors already turning into neutrino detectors? From IDM-2024 conference, Aquila, Italy. <a href="https://t.co/2ZrutvNnhz">pic.twitter.com/2ZrutvNnhz</a></p>&mdash; Federico Lelli (@lellifede) <a href="https://twitter.com/lellifede/status/1810987196012220429?ref_src=twsrc%5Etfw">July 10, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

@@ -46,15 +46,22 @@ XENONnTのWebサイトにあるように、今回の報告によりダークマ�
 
 >Moreover, such a significant result opens a new chapter in the direct dark matter detection field:
 
-今後少なくとも数年はダークマターが発見されることはないことが確定しましたが、太陽ニュートリノによる CE𝜈NS の観測は、人類が着実に歩みを進めていることを示す結果でもあります。
+~~今後少なくとも数年はダークマターが発見されることはないことが確定しましたが、~~[^1] 太陽ニュートリノによる CE𝜈NS の観測は、人類が着実に歩みを進めていることを示す結果でもあります。
 XENONnT や世界中の数多あるダークマター探索実験からの報告を引き続き待ちましょう。
+
+[^1]: XENONグループのコラボレーターの1人である名古屋大学の伊藤さんによれば、現時点では太陽ニュートリノの事象は数GeVの質量のダークマターの邪魔にはなりますが、それより大きい質量のダークマターの場合はまだ邪魔にならないとのことです。 <https://x.com/profjpyitow/status/1811259300053950571>
 
 ## 関連リンク
 
 - [First measurement of a nuclear recoil signal from solar neutrinos with XENONnT](https://www.interactions.org/press-release/first-measurement)
+- [XENONnT実験での太陽ニュートリノによる原子核散乱事象の測定結果 - 東京大学宇宙線研究所附属神岡宇宙素粒子研究施設](https://www-sk.icrr.u-tokyo.ac.jp/news/detail/1494/)
+- [【研究成果】XENONnT実験での太陽ニュートリノによる原子核散乱事象の測定結果 - 名古屋大学 素粒子宇宙起源研究所（KMI）](https://www.kmi.nagoya-u.ac.jp/blog/2024/07/11/5673/)
 - [CERCANDO LA MATERIA OSCURA, L’ESPERIMENTO XENONnT ENTRA PER LA PRIMA VOLTA NELLA NEBBIA DI NEUTRINI](https://home.infn.it/it/news-infn/6728-cercando-la-materia-oscura-l-esperimento-xenonnt-entra-per-la-prima-volta-nella-nebbia-di-neutrini)
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">XENONnT is the first experiment to measure nuclear recoils from solar neutrinos<br>Today, July 10, at the <a href="https://twitter.com/hashtag/IDM2024?src=hash&amp;ref_src=twsrc%5Etfw">#IDM2024</a> in L’Aquila (IT), Fei Gao, from Tsingua Universitiy, reported this result: we can say that XENONnT enters into the so-called “neutrino fog”.This is a great achievement! <a href="https://t.co/I3N4yxafo5">pic.twitter.com/I3N4yxafo5</a></p>&mdash; XENONexperiment (@XENONexperiment) <a href="https://twitter.com/XENONexperiment/status/1810989027123663091?ref_src=twsrc%5Etfw">July 10, 2024</a>
+</blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="ja" dir="ltr">今回の結果はエネルギーの低い太陽ニュートリノによるキセノン原子核反跳という事で、軽い数GeV暗黒物質の探索にしか邪魔にならない。本丸の重い暗黒物質の探索の邪魔になるのはエネルギーの高い大気ニュートリノによる反跳だが、あと一桁大きい検出器を作った時に問題になってくる。まだ前哨戦。</p>&mdash; Yoshitaka Itow (@profjpyitow) <a href="https://twitter.com/profjpyitow/status/1811259300053950571?ref_src=twsrc%5Etfw">July 11, 2024</a>
 </blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">XENONnT have detected solar neutrinos... the neutrino fog has arrived <a href="https://t.co/nwyfjg2IKd">pic.twitter.com/nwyfjg2IKd</a></p>&mdash; Ciaran O&#39;Hare (@cajohare) <a href="https://twitter.com/cajohare/status/1810981363371172180?ref_src=twsrc%5Etfw">July 10, 2024</a>

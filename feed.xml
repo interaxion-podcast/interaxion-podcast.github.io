@@ -1,4 +1,291 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-07-31T23:21:58+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">Courrier 009: XENONnT実験が太陽ニュートリノによる原子核反跳を観測</title><link href="https://interaxion-podcast.github.io/courrier/2024-07-10" rel="alternate" type="text/html" title="Courrier 009: XENONnT実験が太陽ニュートリノによる原子核反跳を観測" /><published>2024-07-11T00:00:00+09:00</published><updated>2024-07-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-xenon-cevns</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/2024-07-10"><![CDATA[<div style="text-align: center;">
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-08-04T22:55:28+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">62: Altermagnet</title><link href="https://interaxion-podcast.github.io/62" rel="alternate" type="text/html" title="62: Altermagnet" /><published>2024-08-04T00:00:00+09:00</published><updated>2024-08-04T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep62</id><content type="html" xml:base="https://interaxion-podcast.github.io/62"><![CDATA[<details>
+  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
+  <summary>目次</summary>
+  <nav>
+<ul id="markdown-toc">
+  <li><a href="#0109-そもそも交代磁性って" id="markdown-toc-0109-そもそも交代磁性って">01:09 そもそも交代磁性って？</a></li>
+  <li><a href="#1933-なんで定義がばらつくの" id="markdown-toc-1933-なんで定義がばらつくの">19:33 なんで定義がばらつくの</a></li>
+  <li><a href="#4123-交代磁性の代表的物質" id="markdown-toc-4123-交代磁性の代表的物質">41:23 交代磁性の代表的物質</a></li>
+  <li><a href="#5351-おたより" id="markdown-toc-5351-おたより">53:51 おたより</a></li>
+  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
+</ul>
+    <!-- https://stackoverflow.com/a/38419441/11480802 -->
+  </nav>
+</details>
+<p><br /></p>
+
+<ul>
+  <li><a href="https://twitter.com/Suguru_SgY/status/1759100684400541876">発端となった tweet</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center" data-media-max-width="560">
+  <p lang="ja" dir="ltr">交代磁性の盛り上がりに便乗して、spin groupが何かを解説するのって需要ありますか？それともこっちはもう皆さん十分に詳しいのでしょうか？<br />お世話になってる先生がこの論文の著者と仲良くて、なんかやる？という話をこの間したんですよね<a href="https://t.co/anHkEz2Chl">https://t.co/anHkEz2Chl</a></p>
+  <p>— Suguru Yoshida (@Suguru_SgY) <a href="https://twitter.com/Suguru_SgY/status/1759100684400541876?ref_src=twsrc%5Etfw">February 18, 2024</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h3 id="0109-そもそも交代磁性って">01:09 そもそも交代磁性って？</h3>
+
+<ul>
+  <li>交代磁性のはっきりした定義はないが「時間反転対称性が破れた反強磁性体」はおそらく必要条件</li>
+  <li>Libor Šmejkal らによる提唱
+    <ul>
+      <li><a href="https://www.science.org/doi/10.1126/sciadv.aaz8809">Crystal time-reversal symmetry breaking and spontaneous Hall effect in collinear antiferromagnets ー Science Advances</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
+      <li><a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031042">Phys. Rev. X 12, 031042 (2022) - Beyond Conventional Ferromagnetism and Antiferromagnetism: A Phase with Nonrelativistic Spin and Crystal Rotation Symmetry</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
+    </ul>
+  </li>
+  <li>I.Mazinの解説
+    <ul>
+      <li><a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040002">Phys. Rev. X 12, 040002 (2022) - Editorial: Altermagnetism—A New Punch Line of Fundamental Magnetism</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
+      <li><a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040501">Phys. Rev. X 12, 040501 (2022) - Emerging Research Landscape of Altermagnetism</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
+      <li><a href="https://physics.aps.org/articles/v17/4">Physics - Altermagnetism Then and Now</a></li>
+    </ul>
+  </li>
+</ul>
+
+<figure class="figure">
+  <div style="text-align: center;">
+
+    <p><img src="assets/ep62-4.png" alt="↑交代磁性の物質候補 ([Libor Šmejkal et al., Phys. Rev. X 12, 040501 (2022)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040501) より CC BY 4.0 で引用)" /></p>
+
+  </div>
+  <figcaption>
+    <p>↑交代磁性の物質候補 (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040501">Libor Šmejkal et al., Phys. Rev. X 12, 040501 (2022)</a> より CC BY 4.0 で引用)</p>
+  </figcaption>
+</figure>
+
+<figure class="figure">
+  <div style="text-align: center;">
+
+    <p><img src="assets/ep62-2.png" alt="↑物性ごとの強磁性、反強磁性、交代磁性の違い  ([Igor Mazin and The PRX Editors, Phys. Rev. X 12, 040002](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040002) より CC BY 4.0 で引用)" /></p>
+
+  </div>
+  <figcaption>
+    <p>↑物性ごとの強磁性、反強磁性、交代磁性の違い  (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040002">Igor Mazin and The PRX Editors,
+Phys. Rev. X 12, 040002</a> より CC BY 4.0 で引用)</p>
+  </figcaption>
+</figure>
+
+<figure class="figure">
+  <div style="text-align: center;">
+
+    <p><img src="assets/ep62-1.png" alt="↑磁性の区分 ([Igor Mazin and The PRX Editors, Phys. Rev. X 12, 040002](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040002) より CC BY 4.0 で引用)" /></p>
+
+  </div>
+  <figcaption>
+    <p>↑磁性の区分 (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040002">Igor Mazin and The PRX Editors,
+Phys. Rev. X 12, 040002</a> より CC BY 4.0 で引用)</p>
+  </figcaption>
+</figure>
+
+<figure class="figure">
+  <div style="text-align: center;">
+
+    <p><img src="assets/ep62-3.png" alt="↑共線的強磁性、反強磁性、交代磁性の比較 ([Libor Šmejkal et al., Phys. Rev. X 12, 040501 (2022)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040501) より CC BY 4.0 で引用)" /></p>
+
+  </div>
+  <figcaption>
+    <p>↑共線的強磁性、反強磁性、交代磁性の比較 (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040501">Libor Šmejkal et al., Phys. Rev. X 12, 040501 (2022)</a> より CC BY 4.0 で引用)</p>
+  </figcaption>
+</figure>
+
+<ul>
+  <li>最初に交代磁性と日本語訳したのは誰？</li>
+  <li>colinear: 共線的な</li>
+  <li>時間反転操作と反強磁性体のショート動画を作成しました！
+    <ul>
+      <li><a href="https://www.youtube.com/watch?v=GFOQVJvpbJw&amp;list=PL605zP2DZ1DlYLC2iSlBhEiQeHvh2EAW_">3分で分かる交代磁性</a></li>
+    </ul>
+  </li>
+  <li>磁気空間群: <a href="https://en.wikipedia.org/wiki/Magnetic_space_group">Magnetic space group - Wikipedia</a></li>
+</ul>
+
+<h3 id="1933-なんで定義がばらつくの">19:33 なんで定義がばらつくの</h3>
+
+<ul>
+  <li>有機物の反強磁性体理論論文: <a href="https://www.nature.com/articles/s41467-019-12229-y">Spin current generation in organic antiferromagnets - Nature Communications</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
+  <li>マンガン3スズ
+    <ul>
+      <li><a href="https://www.nature.com/articles/nature15723">Large anomalous Hall effect in a non-collinear antiferromagnet at room temperature - Nature</a> (Summary: <a href="https://www.nature.com/articles/nature19416">Large anomalous Hall effect in a non-collinear antiferromagnet at room temperature - Nature</a>)</li>
+      <li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.126302">Phys. Rev. Lett. 130, 126302 (2023) - Ultrafast Dynamics of Intrinsic Anomalous Hall Effect in the Topological Antiferromagnet ${\mathrm{Mn}}_{3}\mathrm{Sn}$</a> (<a href="https://arxiv.org/abs/2206.06627">arXiv: 2206.06627</a>)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="4123-交代磁性の代表的物質">41:23 交代磁性の代表的物質</h3>
+
+<ul>
+  <li>RuO2
+    <ul>
+      <li><a href="https://www.nature.com/articles/s41928-022-00866-z">An anomalous Hall effect in altermagnetic ruthenium dioxide - Nature Electronics</a> <a href="https://arxiv.org/abs/2002.08712">arXiv: 2002.08712</a> (<a href="https://buhin-blog.blogspot.com/2020/02/20202.html">2020年2月の気になった論文(完成版) - ぶひんブログ</a>)</li>
+      <li>μSR論文: <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.166702">Phys. Rev. Lett. 132, 166702 (2024) - Nonmagnetic Ground State in ${\mathrm{RuO}}_{2}$ Revealed by Muon Spin Rotation</a> (<a href="https://arxiv.org/abs/2403.10028">arXiv: 2403.10028</a>)
+        <ul>
+          <li><a href="https://buhin-blog.blogspot.com/2024/06/ruo2.html">交代磁性があるのかないのかどっちなんだい！～RuO2の場合～ - ぶひんブログ</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>クロムアンチモン
+    <ul>
+      <li><a href="https://www.nature.com/articles/s41467-024-46476-5">Direct observation of altermagnetic band splitting in CrSb thin films - Nature Communications</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
+    </ul>
+  </li>
+  <li>マンガンテルル
+    <ul>
+      <li><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.L100418">Phys. Rev. B 107, L100418 (2023) - Altermagnetism in MnTe: Origin, predicted manifestations, and routes to detwinning</a> (<a href="https://arxiv.org/abs/2301.08573">arXiv: 2301.08573</a>)</li>
+      <li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.036702">Phys. Rev. Lett. 132, 036702 (2024) - Broken Kramers Degeneracy in Altermagnetic MnTe</a> (<a href="https://arxiv.org/abs/2308.11180">arXiv: 2308.11180</a>)</li>
+      <li><a href="https://www.nature.com/articles/s41586-023-06907-7">Altermagnetic lifting of Kramers spin degeneracy - Nature</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="5351-おたより">53:51 おたより</h3>
+
+<ul>
+  <li><a href="https://x.com/QM_phys_kyoto">固体量子(研究室公認VTuber)（@QM_phys_kyoto）さん / X</a></li>
+  <li>こたいりょうこさんからのおたより
+    <blockquote>
+      <p>たくさんの質問すみません💦答えられるものだけで大丈夫です</p>
+
+      <p>Q1. altermagnet、日本語では交代磁性？交替磁性？
+Q2. altermagnetの定義を教えてください
+Q3. 磁気トロイダル四極子秩序がaltermagnetだと見ましたが、altermagnetは全て磁気トロイダル四極子秩序ですか？(altermagnet = 磁気トロイダル四極子秩序ですか？)
+Q4. altermagnetの特徴として非対称なバンド分裂と大きな異常ホール伝導度があると思いますが、他に特徴はありますか？
+Q5. altermagnetじゃない物質で上記の特徴(非対称なバンド分裂と大きな異常ホール伝導度)を持っている物質もあると思いますが、それらを区別する利点を教えてください</p>
+
+      <p>ラジオ楽しみにしてます！</p>
+    </blockquote>
+  </li>
+  <li>スピン点群の提唱者とのエピソードは前回のよしださん回の最後を参照 → <a href="https://interaxion-podcast.github.io/60">Interaxion 60: Welcome to the physics world</a></li>
+  <li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.176701">Phys. Rev. Lett. 132, 176701 (2024) - X-Ray Magnetic Circular Dichroism in Altermagnetic $\ensuremath{\alpha}$-MnTe</a> <a href="https://arxiv.org/abs/2305.03588">arXiv: 2305.03588</a>
+    <ul>
+      <li>プレスリリース: <a href="https://www.omu.ac.jp/info/research_news/entry-11151.html">理論予測と実証実験で明らかに！ 新しい磁性体「交替磁性体」特有の“指紋”を発見｜大阪公立大学</a></li>
+    </ul>
+  </li>
+  <li>結晶ホール効果
+    <ul>
+      <li>Šmejkal et al. <a href="https://www.science.org/doi/10.1126/sciadv.aaz8809">Crystal time-reversal symmetry breaking and spontaneous Hall effect in collinear antiferromagnets - Science Advances</a></li>
+      <li><a href="https://x.com/tjmlab/status/1784365299317551534">Xユーザーの部品（川口春奈）さん: 「Crystal time-reversal symmetry breaking and spontaneous Hall effect in collinear antiferromagnets https://t.co/6wqfPv7Spc 「非中心対称な位置にある非磁性原子と結合した共線的反強磁性から生じる、これまで見落とされていた堅牢なホール効果機構を特定」 結晶ホール効果なるほど」 / X</a></li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">Crystal time-reversal symmetry breaking and spontaneous Hall effect in collinear antiferromagnets<a href="https://t.co/6wqfPv7Spc">https://t.co/6wqfPv7Spc</a><br />「非中心対称な位置にある非磁性原子と結合した共線的反強磁性から生じる、これまで見落とされていた堅牢なホール効果機構を特定」<br />結晶ホール効果なるほど</p>
+  <p>— 部品（川口春奈） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1784365299317551534?ref_src=twsrc%5Etfw">April 27, 2024</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li>匿名さんからのおたより
+    <blockquote>
+      <p>創発インダクター、交代磁性の次はどのコンテンツを追いかけるとよさそうですか？</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.aist.go.jp/aist_j/magazine/20240207.html">ハイエントロピー合金とは？</a></li>
+  <li>量子幾何
+    <ul>
+      <li><a href="https://arxiv.org/abs/1012.1337">arXiv: 1012.1337 Quantum Geometric Tensor (Fubini-Study Metric) in Simple Quantum System: A pedagogical Introduction</a></li>
+      <li><a href="https://www.nature.com/articles/s41567-021-01465-z">Riemannian geometry of resonant optical responses - Nature Physics</a></li>
+      <li><a href="https://www.nature.com/articles/s41467-024-48808-x">The quantum geometric origin of capacitance in insulators - Nature Communications</a></li>
+      <li><a href="https://www.nature.com/articles/s41567-024-02486-0">Non-trivial quantum geometry and the strength of electron–phonon coupling - Nature Physics</a></li>
+      <li><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201603345">Concept of Quantum Geometry in Optoelectronic Processes in Solids: Application to Solar Cells - Nagaosa - 2017 - Advanced Materials - Wiley Online Library</a></li>
+      <li><a href="https://www.jstage.jst.go.jp/article/butsuri1946/59/8/59_8_520/_article/-char/en">Quantum Berry Phase of Electrons in Condensed Matter</a></li>
+    </ul>
+  </li>
+  <li>量子計量
+    <ul>
+      <li><a href="https://www.tohoku.ac.jp/japanese/2024/04/press20240422-01-magnet.html">磁石に潜む「電子の宇宙」の室温制御に成功 ～新規量… - プレスリリース・研究成果 - 東北大学 -TOHOKU UNIVERSITY-</a></li>
+      <li><a href="https://www.science.org/doi/10.1126/science.adf1506">Quantum metric nonlinear Hall effect in a topological antiferromagnetic heterostructure ー Science</a></li>
+      <li><a href="https://www.nature.com/articles/s41586-023-06363-3">Quantum-metric-induced nonlinear transport in a topological antiferromagnet ー Nature</a></li>
+    </ul>
+  </li>
+  <li><a href="https://pfwww.kek.jp/pf-sympo/29/posterprogram.html">ペロブスカイト型バナジウム酸化物の磁気・軌道秩序に対するランダムネス効果</a></li>
+  <li>査読のおわりさんからのおたより
+    <blockquote>
+      <p>研究を始めたばかりの大学院生です。いつも柿田さんのツイートを楽しく拝見させていただいております。今度PNASに論文を出すことにしたのですが、柿田さんが通されたあの素晴らしい論文の経緯について、査読がどうだったとか、裏話などあれば教訓にしたいです。よろしくお願いします。</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.pnas.org/doi/full/10.1073/pnas.2105422118">Emergent electromagnetic induction beyond room temperature - PNAS</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
+  <li><a href="https://www.nature.com/articles/s41467-024-47781-9#Sec10">査読コメント</a> も要チェックなよしださんの最新作！ → <a href="https://www.nature.com/articles/s41467-024-47781-9">High-entropy engineering of the crystal and electronic structures in a Dirac material - Nature Communications</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
+  <li>ちはやぶる雑コラ職人からのおたより
+    <blockquote>
+      <p>柿田さんのポストからは隠せぬハイソサエティ感を感じるのですが、そうした文化資本は生まれから来るものでしょうか？それとも育ちでしょうか？それぞれ過去エピソードとともに語っていただければ幸いです。</p>
+    </blockquote>
+  </li>
+  <li>柿田さんのハイソサイエティ感を感じられる<a href="https://adventar.org/calendars/5028">じゆうちょう Advent Calendar 2020</a>の記事 → <a href="https://note.com/s_kakita/n/ne08217f343e8">本は集める｜柿田 昭一郎</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E8%B3%87%E6%9C%AC">文化資本 - Wikipedia</a></li>
+  <li>さんてぃさんからのおたより
+    <blockquote>
+      <p>交代磁性体って何が嬉しいんですか？(何が面白くて研究されているんですか？)</p>
+    </blockquote>
+  </li>
+  <li>匿名さんからのおたより
+    <blockquote>
+      <p>結晶ホール効果は交代磁性体で発現し得ますか？</p>
+    </blockquote>
+  </li>
+  <li>匿名さんからのおたより
+    <blockquote>
+      <p>交代磁性の見つけ方、というか設計の仕方をつまびらかに教えてください
+私も真似したいです</p>
+    </blockquote>
+  </li>
+  <li><a href="https://www.sciencedirect.com/journal/journal-of-magnetism-and-magnetic-materials">Journal of Magnetism and Magnetic Materials - ScienceDirect.com by Elsevier</a>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Journal_of_Magnetism_and_Magnetic_Materials">Journal of Magnetism and Magnetic Materials - Wikipedia</a></li>
+    </ul>
+  </li>
+  <li><a href="https://www.cryst.ehu.es/">Bilbao Crystallographic Server</a>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Bilbao_Crystallographic_Server">Bilbao Crystallographic Server - Wikipedia</a></li>
+    </ul>
+  </li>
+  <li>匿名さんからのおたより
+    <blockquote>
+      <p>交代磁性と量子幾何って関係ありますか？</p>
+    </blockquote>
+  </li>
+  <li>匿名さんからのおたより
+    <blockquote>
+      <p>交代磁性が提唱される前から似たような話は合ったような気がするんですが、みんな忘れている知られざる先行研究があれば教えてください</p>
+    </blockquote>
+  </li>
+  <li>匿名さんからのおたより
+    <blockquote>
+      <p>交代磁性って結局ホニャララの焼き直しでしょ？っていう意見を聞きますが、そういう人を論破するためになにが本質的に新しいのかスバっとお願いします。ひろゆきっぽく</p>
+    </blockquote>
+  </li>
+  <li>次のコンテンツ柿田編</li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E7%A3%81%E6%B0%97%E3%82%B9%E3%82%AD%E3%83%AB%E3%83%9F%E3%82%AA%E3%83%B3">磁気スキルミオン - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E7%A3%81%E6%B0%97%E3%83%90%E3%83%96%E3%83%AB">磁気バブル - Wikipedia</a></li>
+  <li><a href="https://www.jstage.jst.go.jp/article/oubutsu/87/4/87_251/_article/-char/ja/">NV中心の物理と応用への魅力</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E6%BA%96%E7%B5%90%E6%99%B6">準結晶 - Wikipedia</a></li>
+  <li><a href="https://www.tus.ac.jp/today/archive/20211118_9223.html">強磁性準結晶の発見～準周期性が示す特異な磁性の解明に向けて飛躍的な前進～｜東京理科大学</a></li>
+</ul>
+
+<h2 id="お知らせ">お知らせ</h2>
+
+<ul>
+  <li>出演して頂ける方や感想などをお待ちしております！ <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
+  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li>エンディング BGM
+    <ul>
+      <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
+      <li>曲名: 弓</li>
+    </ul>
+  </li>
+</ul>
+
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="交代磁性" /><category term="スピントロニクス" /><category term="量子幾何" /><summary type="html"><![CDATA[[柿田](https://twitter.com/S_Kakita)さん、[よしだ](https://twitter.com/Suguru_SgY)さん[部品](https://twitter.com/tjmlab)、で交代磁性について話しました。]]></summary></entry><entry><title type="html">Courrier 009: XENONnT実験が太陽ニュートリノによる原子核反跳を観測</title><link href="https://interaxion-podcast.github.io/courrier/2024-07-10" rel="alternate" type="text/html" title="Courrier 009: XENONnT実験が太陽ニュートリノによる原子核反跳を観測" /><published>2024-07-11T00:00:00+09:00</published><updated>2024-07-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-xenon-cevns</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/2024-07-10"><![CDATA[<div style="text-align: center;">
   <figure class="figure">
     <div style="text-align: center;">
 
@@ -86,276 +373,7 @@ XENONnT や世界中の数多あるダークマター探索実験からの報告
       <p>XENONグループのコラボレーターの1人である名古屋大学の伊藤さんによれば、現時点では太陽ニュートリノの事象は数GeVの質量のダークマターの邪魔にはなりますが、それより大きい質量のダークマターの場合はまだ邪魔にならないとのことです。 <a href="https://x.com/profjpyitow/status/1811259300053950571">https://x.com/profjpyitow/status/1811259300053950571</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
   </ol>
-</div>]]></content><author><name>oka</name></author><category term="ダークマター" /><category term="ニュートリノ" /><category term="XENONnT" /><summary type="html"><![CDATA[XENONnT実験が太陽ニュートリノによる原子核反跳を観測]]></summary></entry><entry><title type="html">62: Altermagnet</title><link href="https://interaxion-podcast.github.io/62-draft" rel="alternate" type="text/html" title="62: Altermagnet" /><published>2024-07-01T00:00:00+09:00</published><updated>2024-07-01T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep62</id><content type="html" xml:base="https://interaxion-podcast.github.io/62-draft"><![CDATA[<details>
-  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
-  <summary>目次</summary>
-  <nav>
-<ul id="markdown-toc">
-  <li><a href="#0109-そもそも交代磁性って" id="markdown-toc-0109-そもそも交代磁性って">01:09 そもそも交代磁性って？</a></li>
-  <li><a href="#1900-なんで定義がばらつくの" id="markdown-toc-1900-なんで定義がばらつくの">19:00 なんで定義がばらつくの</a></li>
-  <li><a href="#4141-交代磁性の代表的物質" id="markdown-toc-4141-交代磁性の代表的物質">41:41 交代磁性の代表的物質</a></li>
-  <li><a href="#5300-おたより" id="markdown-toc-5300-おたより">53:00 おたより</a></li>
-  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
-</ul>
-    <!-- https://stackoverflow.com/a/38419441/11480802 -->
-  </nav>
-</details>
-<p><br /></p>
-
-<ul>
-  <li><a href="https://twitter.com/Suguru_SgY/status/1759100684400541876">発端となった tweet</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center" data-media-max-width="560">
-  <p lang="ja" dir="ltr">交代磁性の盛り上がりに便乗して、spin groupが何かを解説するのって需要ありますか？それともこっちはもう皆さん十分に詳しいのでしょうか？<br />お世話になってる先生がこの論文の著者と仲良くて、なんかやる？という話をこの間したんですよね<a href="https://t.co/anHkEz2Chl">https://t.co/anHkEz2Chl</a></p>
-  <p>— Suguru Yoshida (@Suguru_SgY) <a href="https://twitter.com/Suguru_SgY/status/1759100684400541876?ref_src=twsrc%5Etfw">February 18, 2024</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<h3 id="0109-そもそも交代磁性って">01:09 そもそも交代磁性って？</h3>
-
-<ul>
-  <li>交代磁性のはっきりした定義はないが「時間反転対称性が破れた反強磁性体」はおそらく必要条件</li>
-  <li>Libor Šmejkal らによる提唱
-    <ul>
-      <li><a href="https://www.science.org/doi/10.1126/sciadv.aaz8809">Crystal time-reversal symmetry breaking and spontaneous Hall effect in collinear antiferromagnets ー Science Advances</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
-      <li><a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.031042">Phys. Rev. X 12, 031042 (2022) - Beyond Conventional Ferromagnetism and Antiferromagnetism: A Phase with Nonrelativistic Spin and Crystal Rotation Symmetry</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
-      <li><a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040501">Phys. Rev. X 12, 040501 (2022) - Emerging Research Landscape of Altermagnetism</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
-    </ul>
-  </li>
-  <li>I.Mazinの解説
-    <ul>
-      <li><a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040002">Phys. Rev. X 12, 040002 (2022) - Editorial: Altermagnetism—A New Punch Line of Fundamental Magnetism</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
-      <li><a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040501">Phys. Rev. X 12, 040501 (2022) - Emerging Research Landscape of Altermagnetism</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
-      <li><a href="https://physics.aps.org/articles/v17/4">Physics - Altermagnetism Then and Now</a></li>
-    </ul>
-  </li>
-</ul>
-
-<figure class="figure">
-  <div style="text-align: center;">
-
-    <p><img src="assets/ep62-4.png" alt="↑交代磁性の物質候補 ([Libor Šmejkal et al., Phys. Rev. X 12, 040501 (2022)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040501) より CC BY 4.0 で引用)" /></p>
-
-  </div>
-  <figcaption>
-    <p>↑交代磁性の物質候補 (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040501">Libor Šmejkal et al., Phys. Rev. X 12, 040501 (2022)</a> より CC BY 4.0 で引用)</p>
-  </figcaption>
-</figure>
-
-<figure class="figure">
-  <div style="text-align: center;">
-
-    <p><img src="assets/ep62-2.png" alt="↑物性ごとの強磁性、反強磁性、交代磁性の違い  ([Igor Mazin and The PRX Editors, Phys. Rev. X 12, 040002](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040002) より CC BY 4.0 で引用)" /></p>
-
-  </div>
-  <figcaption>
-    <p>↑物性ごとの強磁性、反強磁性、交代磁性の違い  (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040002">Igor Mazin and The PRX Editors,
-Phys. Rev. X 12, 040002</a> より CC BY 4.0 で引用)</p>
-  </figcaption>
-</figure>
-
-<figure class="figure">
-  <div style="text-align: center;">
-
-    <p><img src="assets/ep62-1.png" alt="↑磁性の区分 ([Igor Mazin and The PRX Editors, Phys. Rev. X 12, 040002](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040002) より CC BY 4.0 で引用)" /></p>
-
-  </div>
-  <figcaption>
-    <p>↑磁性の区分 (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040002">Igor Mazin and The PRX Editors,
-Phys. Rev. X 12, 040002</a> より CC BY 4.0 で引用)</p>
-  </figcaption>
-</figure>
-
-<figure class="figure">
-  <div style="text-align: center;">
-
-    <p><img src="assets/ep62-3.png" alt="↑共線的強磁性、反強磁性、交代磁性の比較 ([Libor Šmejkal et al., Phys. Rev. X 12, 040501 (2022)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040501) より CC BY 4.0 で引用)" /></p>
-
-  </div>
-  <figcaption>
-    <p>↑共線的強磁性、反強磁性、交代磁性の比較 (<a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.12.040501">Libor Šmejkal et al., Phys. Rev. X 12, 040501 (2022)</a> より CC BY 4.0 で引用)</p>
-  </figcaption>
-</figure>
-
-<ul>
-  <li>最初に交代磁性と日本語訳したのは誰？</li>
-  <li>colinear: 共線的な</li>
-  <li>時間反転操作と強磁性体</li>
-  <li>磁気空間群: <a href="https://en.wikipedia.org/wiki/Magnetic_space_group">Magnetic space group - Wikipedia</a></li>
-</ul>
-
-<h3 id="1900-なんで定義がばらつくの">19:00 なんで定義がばらつくの</h3>
-
-<ul>
-  <li>有機物の反強磁性体理論論文: <a href="https://www.nature.com/articles/s41467-019-12229-y">Spin current generation in organic antiferromagnets - Nature Communications</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
-  <li>マンガン3スズ
-    <ul>
-      <li><a href="https://www.nature.com/articles/nature15723">Large anomalous Hall effect in a non-collinear antiferromagnet at room temperature - Nature</a> (Summary: <a href="https://www.nature.com/articles/nature19416">Large anomalous Hall effect in a non-collinear antiferromagnet at room temperature - Nature</a>)</li>
-      <li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.126302">Phys. Rev. Lett. 130, 126302 (2023) - Ultrafast Dynamics of Intrinsic Anomalous Hall Effect in the Topological Antiferromagnet ${\mathrm{Mn}}_{3}\mathrm{Sn}$</a> (<a href="https://arxiv.org/abs/2206.06627">arXiv: 2206.06627</a>)</li>
-    </ul>
-  </li>
-</ul>
-
-<h3 id="4141-交代磁性の代表的物質">41:41 交代磁性の代表的物質</h3>
-
-<ul>
-  <li>RuO2
-    <ul>
-      <li><a href="https://www.nature.com/articles/s41928-022-00866-z">An anomalous Hall effect in altermagnetic ruthenium dioxide - Nature Electronics</a> <a href="https://arxiv.org/abs/2002.08712">arXiv: 2002.08712</a> (<a href="https://buhin-blog.blogspot.com/2020/02/20202.html">2020年2月の気になった論文(完成版) - ぶひんブログ</a>)</li>
-      <li>μSR論文: <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.166702">Phys. Rev. Lett. 132, 166702 (2024) - Nonmagnetic Ground State in ${\mathrm{RuO}}_{2}$ Revealed by Muon Spin Rotation</a> (<a href="https://arxiv.org/abs/2403.10028">arXiv: 2403.10028</a>)
-        <ul>
-          <li><a href="https://buhin-blog.blogspot.com/2024/06/ruo2.html">交代磁性があるのかないのかどっちなんだい！～RuO2の場合～ - ぶひんブログ</a></li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>クロムアンチモン
-    <ul>
-      <li><a href="https://www.nature.com/articles/s41467-024-46476-5">Direct observation of altermagnetic band splitting in CrSb thin films - Nature Communications</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
-    </ul>
-  </li>
-  <li>マンガンテルル
-    <ul>
-      <li><a href="https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.L100418">Phys. Rev. B 107, L100418 (2023) - Altermagnetism in MnTe: Origin, predicted manifestations, and routes to detwinning</a> (<a href="https://arxiv.org/abs/2301.08573">arXiv: 2301.08573</a>)</li>
-      <li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.036702">Phys. Rev. Lett. 132, 036702 (2024) - Broken Kramers Degeneracy in Altermagnetic MnTe</a> (<a href="https://arxiv.org/abs/2308.11180">arXiv: 2308.11180</a>)</li>
-      <li><a href="https://www.nature.com/articles/s41586-023-06907-7">Altermagnetic lifting of Kramers spin degeneracy - Nature</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
-    </ul>
-  </li>
-</ul>
-
-<h3 id="5300-おたより">53:00 おたより</h3>
-
-<ul>
-  <li><a href="https://x.com/QM_phys_kyoto">固体量子(研究室公認VTuber)（@QM_phys_kyoto）さん / X</a></li>
-  <li>こたいりょうこさんからのおたより
-    <blockquote>
-      <p>たくさんの質問すみません💦答えられるものだけで大丈夫です</p>
-
-      <p>Q1. altermagnet、日本語では交代磁性？交替磁性？
-Q2. altermagnetの定義を教えてください
-Q3. 磁気トロイダル四極子秩序がaltermagnetだと見ましたが、altermagnetは全て磁気トロイダル四極子秩序ですか？(altermagnet = 磁気トロイダル四極子秩序ですか？)
-Q4. altermagnetの特徴として非対称なバンド分裂と大きな異常ホール伝導度があると思いますが、他に特徴はありますか？
-Q5. altermagnetじゃない物質で上記の特徴(非対称なバンド分裂と大きな異常ホール伝導度)を持っている物質もあると思いますが、それらを区別する利点を教えてください</p>
-
-      <p>ラジオ楽しみにしてます！</p>
-    </blockquote>
-  </li>
-  <li>スピン点群の提唱者とのエピソードは前回のよしださん回の最後を参照 → <a href="https://interaxion-podcast.github.io/60">Interaxion 60: Welcome to the physics world</a></li>
-  <li><a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.176701">Phys. Rev. Lett. 132, 176701 (2024) - X-Ray Magnetic Circular Dichroism in Altermagnetic $\ensuremath{\alpha}$-MnTe</a> <a href="https://arxiv.org/abs/2305.03588">arXiv: 2305.03588</a>
-    <ul>
-      <li>プレスリリース: <a href="https://www.omu.ac.jp/info/research_news/entry-11151.html">理論予測と実証実験で明らかに！ 新しい磁性体「交替磁性体」特有の“指紋”を発見｜大阪公立大学</a></li>
-    </ul>
-  </li>
-  <li>結晶ホール効果
-    <ul>
-      <li>Šmejkal et al. <a href="https://www.science.org/doi/10.1126/sciadv.aaz8809">Crystal time-reversal symmetry breaking and spontaneous Hall effect in collinear antiferromagnets - Science Advances</a></li>
-      <li><a href="https://x.com/tjmlab/status/1784365299317551534">Xユーザーの部品（川口春奈）さん: 「Crystal time-reversal symmetry breaking and spontaneous Hall effect in collinear antiferromagnets https://t.co/6wqfPv7Spc 「非中心対称な位置にある非磁性原子と結合した共線的反強磁性から生じる、これまで見落とされていた堅牢なホール効果機構を特定」 結晶ホール効果なるほど」 / X</a></li>
-    </ul>
-  </li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">Crystal time-reversal symmetry breaking and spontaneous Hall effect in collinear antiferromagnets<a href="https://t.co/6wqfPv7Spc">https://t.co/6wqfPv7Spc</a><br />「非中心対称な位置にある非磁性原子と結合した共線的反強磁性から生じる、これまで見落とされていた堅牢なホール効果機構を特定」<br />結晶ホール効果なるほど</p>
-  <p>— 部品（川口春奈） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1784365299317551534?ref_src=twsrc%5Etfw">April 27, 2024</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li>匿名さんからのおたより
-    <blockquote>
-      <p>創発インダクター、交代磁性の次はどのコンテンツを追いかけるとよさそうですか？</p>
-    </blockquote>
-  </li>
-  <li><a href="https://www.aist.go.jp/aist_j/magazine/20240207.html">ハイエントロピー合金とは？</a></li>
-  <li>量子幾何</li>
-  <li><a href="https://www.tohoku.ac.jp/japanese/2024/04/press20240422-01-magnet.html">磁石に潜む「電子の宇宙」の室温制御に成功 ～新規量… - プレスリリース・研究成果 - 東北大学 -TOHOKU UNIVERSITY-</a></li>
-  <li><a href="https://pfwww.kek.jp/pf-sympo/29/posterprogram.html">ペロブスカイト型バナジウム酸化物の磁気・軌道秩序に対するランダムネス効果</a></li>
-  <li>査読のおわりさんからのおたより
-    <blockquote>
-      <p>研究を始めたばかりの大学院生です。いつも柿田さんのツイートを楽しく拝見させていただいております。今度PNASに論文を出すことにしたのですが、柿田さんが通されたあの素晴らしい論文の経緯について、査読がどうだったとか、裏話などあれば教訓にしたいです。よろしくお願いします。</p>
-    </blockquote>
-  </li>
-  <li><a href="https://www.pnas.org/doi/full/10.1073/pnas.2105422118">Emergent electromagnetic induction beyond room temperature - PNAS</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
-  <li><a href="https://www.nature.com/articles/s41467-024-47781-9#Sec10">査読コメント</a> も要チェックなよしださんの最新作！ → <a href="https://www.nature.com/articles/s41467-024-47781-9">High-entropy engineering of the crystal and electronic structures in a Dirac material - Nature Communications</a> <span class="open-access-logo"><a href="https://interaxion-podcast.github.io/image-licenses"><img src="assets/Open_Access_PLoS.svg" height="30" alt="" /></a></span></li>
-  <li>ちはやぶる雑コラ職人からのおたより
-    <blockquote>
-      <p>柿田さんのポストからは隠せぬハイソサエティ感を感じるのですが、そうした文化資本は生まれから来るものでしょうか？それとも育ちでしょうか？それぞれ過去エピソードとともに語っていただければ幸いです。</p>
-    </blockquote>
-  </li>
-  <li>柿田さんのハイソサイエティ感を感じられる<a href="https://adventar.org/calendars/5028">じゆうちょう Advent Calendar 2020</a>の記事 → <a href="https://note.com/s_kakita/n/ne08217f343e8">本は集める｜柿田 昭一郎</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E6%96%87%E5%8C%96%E8%B3%87%E6%9C%AC">文化資本 - Wikipedia</a></li>
-  <li>さんてぃさんからのおたより
-    <blockquote>
-      <p>交代磁性体って何が嬉しいんですか？(何が面白くて研究されているんですか？)</p>
-    </blockquote>
-  </li>
-  <li>匿名さんからのおたより
-    <blockquote>
-      <p>結晶ホール効果は交代磁性体で発現し得ますか？</p>
-    </blockquote>
-  </li>
-  <li>匿名さんからのおたより
-    <blockquote>
-      <p>交代磁性の見つけ方、というか設計の仕方をつまびらかに教えてください
-私も真似したいです</p>
-    </blockquote>
-  </li>
-  <li><a href="https://www.sciencedirect.com/journal/journal-of-magnetism-and-magnetic-materials">Journal of Magnetism and Magnetic Materials - ScienceDirect.com by Elsevier</a>
-    <ul>
-      <li><a href="https://en.wikipedia.org/wiki/Journal_of_Magnetism_and_Magnetic_Materials">Journal of Magnetism and Magnetic Materials - Wikipedia</a></li>
-    </ul>
-  </li>
-  <li><a href="https://www.cryst.ehu.es/">Bilbao Crystallographic Server</a>
-    <ul>
-      <li><a href="https://en.wikipedia.org/wiki/Bilbao_Crystallographic_Server">Bilbao Crystallographic Server - Wikipedia</a></li>
-    </ul>
-  </li>
-  <li>匿名さんからのおたより
-    <blockquote>
-      <p>交代磁性と量子幾何って関係ありますか？</p>
-    </blockquote>
-  </li>
-  <li>匿名さんからのおたより
-    <blockquote>
-      <p>交代磁性が提唱される前から似たような話は合ったような気がするんですが、みんな忘れている知られざる先行研究があれば教えてください</p>
-    </blockquote>
-  </li>
-  <li>匿名さんからのおたより
-    <blockquote>
-      <p>交代磁性って結局ホニャララの焼き直しでしょ？っていう意見を聞きますが、そういう人を論破するためになにが本質的に新しいのかスバっとお願いします。ひろゆきっぽく</p>
-    </blockquote>
-  </li>
-  <li>次のコンテンツ柿田編</li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E7%A3%81%E6%B0%97%E3%82%B9%E3%82%AD%E3%83%AB%E3%83%9F%E3%82%AA%E3%83%B3">磁気スキルミオン - Wikipedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E7%A3%81%E6%B0%97%E3%83%90%E3%83%96%E3%83%AB">磁気バブル - Wikipedia</a></li>
-  <li><a href="https://www.jstage.jst.go.jp/article/oubutsu/87/4/87_251/_article/-char/ja/">NV中心の物理と応用への魅力</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/%E6%BA%96%E7%B5%90%E6%99%B6">準結晶 - Wikipedia</a></li>
-  <li><a href="https://www.tus.ac.jp/today/archive/20211118_9223.html">強磁性準結晶の発見～準周期性が示す特異な磁性の解明に向けて飛躍的な前進～｜東京理科大学</a></li>
-</ul>
-
-<h2 id="お知らせ">お知らせ</h2>
-
-<ul>
-  <li>出演して頂ける方や感想などをお待ちしております！ <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li>エンディング BGM
-    <ul>
-      <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
-      <li>曲名: 弓</li>
-    </ul>
-  </li>
-</ul>
-
-<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="交代磁性" /><category term="スピントロニクス" /><category term="量子幾何" /><summary type="html"><![CDATA[[柿田](https://twitter.com/S_Kakita)さん、[よしだ](https://twitter.com/Suguru_SgY)さん[部品](https://twitter.com/tjmlab)、で交代磁性について話しました。]]></summary></entry><entry><title type="html">61: The Warrior of Diamond Light</title><link href="https://interaxion-podcast.github.io/61" rel="alternate" type="text/html" title="61: The Warrior of Diamond Light" /><published>2024-05-16T00:00:00+09:00</published><updated>2024-05-16T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep61</id><content type="html" xml:base="https://interaxion-podcast.github.io/61"><![CDATA[<details>
+</div>]]></content><author><name>oka</name></author><category term="ダークマター" /><category term="ニュートリノ" /><category term="XENONnT" /><summary type="html"><![CDATA[XENONnT実験が太陽ニュートリノによる原子核反跳を観測]]></summary></entry><entry><title type="html">61: The Warrior of Diamond Light</title><link href="https://interaxion-podcast.github.io/61" rel="alternate" type="text/html" title="61: The Warrior of Diamond Light" /><published>2024-05-16T00:00:00+09:00</published><updated>2024-05-16T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep61</id><content type="html" xml:base="https://interaxion-podcast.github.io/61"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>

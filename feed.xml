@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-09-18T20:19:53+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">63:</title><link href="https://interaxion-podcast.github.io/63-draft" rel="alternate" type="text/html" title="63:" /><published>2024-09-15T00:00:00+09:00</published><updated>2024-09-15T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep63</id><content type="html" xml:base="https://interaxion-podcast.github.io/63-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-09-18T22:23:21+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">63:</title><link href="https://interaxion-podcast.github.io/63-draft" rel="alternate" type="text/html" title="63:" /><published>2024-09-15T00:00:00+09:00</published><updated>2024-09-15T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep63</id><content type="html" xml:base="https://interaxion-podcast.github.io/63-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
 <ul id="markdown-toc">
-  <li><a href="#section" id="markdown-toc-section">ニュース</a>    <ul>
-      <li><a href="#section-1" id="markdown-toc-section-1">田島先生の本</a></li>
-      <li><a href="#nims-" id="markdown-toc-nims-">NIMS 一般公開</a></li>
-      <li><a href="#section-2" id="markdown-toc-section-2">おたより</a></li>
+  <li><a href="#ニュース" id="markdown-toc-ニュース">ニュース</a>    <ul>
+      <li><a href="#田島先生の本" id="markdown-toc-田島先生の本">田島先生の本</a></li>
+      <li><a href="#nims-一般公開" id="markdown-toc-nims-一般公開">NIMS 一般公開</a></li>
+      <li><a href="#おたより" id="markdown-toc-おたより">おたより</a></li>
     </ul>
   </li>
-  <li><a href="#section-3" id="markdown-toc-section-3">お知らせ</a></li>
+  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
 </ul>
     <!-- https://stackoverflow.com/a/38419441/11480802 -->
   </nav>
@@ -22,131 +22,132 @@
 
 <blockquote class="twitter-tweet tw-align-center">
   <p lang="ja" dir="ltr">謎の比較表を作っていた <a href="https://t.co/DR2sKDYY9F">pic.twitter.com/DR2sKDYY9F</a></p>
-  <p>— 部品（川口春奈） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1785501232460976571?ref_src=twsrc%5Etfw">May 1, 2024</a>&lt;/blockquote&gt; <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+  <p>— 部品（川口春奈） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1785501232460976571?ref_src=twsrc%5Etfw">May 1, 2024</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-  <ul>
-    <li>ルテネイトについて
-      <ul>
-        <li>最初のp波超伝導の報告（1998）
-          <ul>
-            <li>
-              <table>
-                <tbody>
-                  <tr>
-                    <td>[Spin-triplet superconductivity in Sr2RuO4 identified by 17O Knight shift</td>
-                    <td>Nature](https://www.nature.com/articles/25315)</td>
-                  </tr>
-                </tbody>
-              </table>
-            </li>
-          </ul>
-        </li>
-        <li>p波超伝導を否定した論文（2019）
-          <ul>
-            <li><a href="https://www.nature.com/articles/s41586-019-1596-2">Constraints on the superconducting order parameter in Sr2RuO4 from oxygen-17 nuclear magnetic resonance - Nature</a></li>
-          </ul>
-        </li>
-        <li>最新のレビュー
-          <ul>
-            <li>
-              <table>
-                <tbody>
-                  <tr>
-                    <td>[Still Mystery after All These Years —Unconventional Superconductivity of Sr2RuO4—</td>
-                    <td>Journal of the Physical Society of Japan](https://journals.jps.jp/doi/10.7566/JPSJ.93.062001)</td>
-                  </tr>
-                </tbody>
-              </table>
-            </li>
-            <li><a href="https://amzn.to/3WQoZKh">高温超伝導の若きサムライたち</a></li>
-          </ul>
-        </li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>ルテネイトについて
+    <ul>
+      <li>最初のp波超伝導の報告（1998）
+        <ul>
+          <li>
+            <table>
+              <tbody>
+                <tr>
+                  <td>[Spin-triplet superconductivity in Sr2RuO4 identified by 17O Knight shift</td>
+                  <td>Nature](https://www.nature.com/articles/25315)</td>
+                </tr>
+              </tbody>
+            </table>
+          </li>
+        </ul>
+      </li>
+      <li>p波超伝導を否定した論文（2019）
+        <ul>
+          <li><a href="https://www.nature.com/articles/s41586-019-1596-2">Constraints on the superconducting order parameter in Sr2RuO4 from oxygen-17 nuclear magnetic resonance - Nature</a></li>
+        </ul>
+      </li>
+      <li>最新のレビュー
+        <ul>
+          <li>
+            <table>
+              <tbody>
+                <tr>
+                  <td>[Still Mystery after All These Years —Unconventional Superconductivity of Sr2RuO4—</td>
+                  <td>Journal of the Physical Society of Japan](https://journals.jps.jp/doi/10.7566/JPSJ.93.062001)</td>
+                </tr>
+              </tbody>
+            </table>
+          </li>
+          <li><a href="https://amzn.to/3WQoZKh">高温超伝導の若きサムライたち</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-  <h2 id="section">ニュース</h2>
+<h2 id="ニュース">ニュース</h2>
 
-  <ul>
-    <li>Jan Zaanen さん
-      <ul>
-        <li><a href="https://www.universiteitleiden.nl/en/news/2024/01/in-memoriam-jan-zaanen-1957-2024-the-universe-in-a-speck-of-rusting-copper">In memoriam Jan Zaanen 1957-2024: The universe in a speck of rusting copper - Leiden University</a></li>
-        <li><a href="https://www.nature.com/articles/nature14165">From quantum matter to high-temperature superconductivity in copper oxides - Nature</a></li>
-      </ul>
-    </li>
-    <li>Dias、 Nature マッチポンプ編
-      <ul>
-        <li><a href="https://buhin-blog.blogspot.com/2023/03/nature.html">【改題】室温超伝導ふたたび！～大丈夫じゃなかった、Natureの論文だもん！～ - ぶひんブログ</a></li>
-        <li><a href="https://www.nature.com/articles/d41586-024-00716-2">Superconductivity scandal: the inside story of deception in a rising star’s physics lab</a></li>
-      </ul>
-    </li>
-    <li><a href="https://pubs.aip.org/aip/apm/article/11/10/101128/2918237">Single crystal synthesis, structure, and magnetism of Pb10−xCux(PO4)6O - APL Materials - AIP Publishing</a>
-      <ul>
-        <li>LK99、ドイツグループの追試</li>
-      </ul>
-    </li>
-    <li><a href="https://www.jstage.jst.go.jp/article/oubutsu/92/12/92_706/_article/-char/ja">室温超伝導!? - 応用物理2023年92巻12号 p. 706-708</a>
-      <ul>
-        <li>清水先生のコメント</li>
-      </ul>
-    </li>
-    <li>物性夏の学校協賛しました
-      <ul>
-        <li>https://cmpss.jp/cooperation.php</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>Jan Zaanen さん
+    <ul>
+      <li><a href="https://www.universiteitleiden.nl/en/news/2024/01/in-memoriam-jan-zaanen-1957-2024-the-universe-in-a-speck-of-rusting-copper">In memoriam Jan Zaanen 1957-2024: The universe in a speck of rusting copper - Leiden University</a></li>
+      <li><a href="https://www.nature.com/articles/nature14165">From quantum matter to high-temperature superconductivity in copper oxides - Nature</a></li>
+    </ul>
+  </li>
+  <li>Dias、 Nature マッチポンプ編
+    <ul>
+      <li><a href="https://buhin-blog.blogspot.com/2023/03/nature.html">【改題】室温超伝導ふたたび！～大丈夫じゃなかった、Natureの論文だもん！～ - ぶひんブログ</a></li>
+      <li><a href="https://www.nature.com/articles/d41586-024-00716-2">Superconductivity scandal: the inside story of deception in a rising star’s physics lab</a></li>
+    </ul>
+  </li>
+  <li><a href="https://pubs.aip.org/aip/apm/article/11/10/101128/2918237">Single crystal synthesis, structure, and magnetism of Pb10−xCux(PO4)6O - APL Materials - AIP Publishing</a>
+    <ul>
+      <li>LK99、ドイツグループの追試</li>
+    </ul>
+  </li>
+  <li><a href="https://www.jstage.jst.go.jp/article/oubutsu/92/12/92_706/_article/-char/ja">室温超伝導!? - 応用物理2023年92巻12号 p. 706-708</a>
+    <ul>
+      <li>清水先生のコメント</li>
+    </ul>
+  </li>
+  <li>物性夏の学校協賛しました
+    <ul>
+      <li>https://cmpss.jp/cooperation.php</li>
+    </ul>
+  </li>
+</ul>
 
-  <h3 id="section-1">田島先生の本</h3>
+<h3 id="田島先生の本">田島先生の本</h3>
 
-  <ul>
-    <li><a href="https://amzn.to/4dW5hmw">高温超伝導体の電荷応答: 強い電子相互作用がもたらすエキゾチックな物性 (物質・材料テキストシリーズ)</a>
-      <ul>
-        <li>物質を調べるとき最初にする測定は？そう、サンプルを目で見ることですね？つまり、電荷応答こそ一番大切！</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li><a href="https://amzn.to/4dW5hmw">高温超伝導体の電荷応答: 強い電子相互作用がもたらすエキゾチックな物性 (物質・材料テキストシリーズ)</a>
+    <ul>
+      <li>物質を調べるとき最初にする測定は？そう、サンプルを目で見ることですね？つまり、電荷応答こそ一番大切！</li>
+    </ul>
+  </li>
+</ul>
 
-  <h3 id="nims-">NIMS 一般公開</h3>
+<h3 id="nims-一般公開">NIMS 一般公開</h3>
 
-  <ul>
-    <li><a href="https://www.nims.go.jp/openhouse/timetable_map.html">タイムテーブル・会場マップ - NIMS一般公開2024</a></li>
-  </ul>
+<ul>
+  <li><a href="https://www.nims.go.jp/openhouse/timetable_map.html">タイムテーブル・会場マップ - NIMS一般公開2024</a></li>
+</ul>
 
-  <h3 id="section-2">おたより</h3>
+<h3 id="おたより">おたより</h3>
 
-  <ul>
-    <li>匿名希望さんからのおたより
-      <blockquote>
-        <p>部品さんの声がクリアに聞こえる気がします！</p>
-      </blockquote>
-    </li>
-    <li><a href="https://amzn.to/3WU9YqI">HyperX SoloCast USBスタンドアロンマイク テレワーク/ストリーマー/コンテンツクリエーター/ゲーマー向け/PC,PS4,PS5使用可能 メーカー 2年保証 HMIS1X-XX-BK/G</a></li>
-  </ul>
+<ul>
+  <li>匿名希望さんからのおたより
+    <blockquote>
+      <p>部品さんの声がクリアに聞こえる気がします！</p>
+    </blockquote>
+  </li>
+  <li><a href="https://amzn.to/3WU9YqI">HyperX SoloCast USBスタンドアロンマイク テレワーク/ストリーマー/コンテンツクリエーター/ゲーマー向け/PC,PS4,PS5使用可能 メーカー 2年保証 HMIS1X-XX-BK/G</a></li>
+</ul>
 
-  <h2 id="section-3">お知らせ</h2>
+<h2 id="お知らせ">お知らせ</h2>
 
-  <ul>
-    <li>出演して頂ける方や感想などをお待ちしております！ <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-  </ul>
+<ul>
+  <li>出演して頂ける方や感想などをお待ちしております！ <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
+</ul>
 
-  <blockquote class="twitter-tweet tw-align-center">
-    <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-    <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-  </blockquote>
-  <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
+  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-  <ul>
-    <li>エンディング BGM
-      <ul>
-        <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
-        <li>曲名: 弓</li>
-      </ul>
-    </li>
-  </ul>
+<ul>
+  <li>エンディング BGM
+    <ul>
+      <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
+      <li>曲名: 弓</li>
+    </ul>
+  </li>
+</ul>
 
-  <iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>
-</blockquote>]]></content><author><name></name></author><category term="超伝導" /><summary type="html"><![CDATA[[ぐーする](https://twitter.com/goosle_l)さん、[部品](https://twitter.com/tjmlab)、[おか](https://twitter.com/nowohyeah)でについて話しました。 (2024/05/27 収録)]]></summary></entry><entry><title type="html">62.5:</title><link href="https://interaxion-podcast.github.io/62-5" rel="alternate" type="text/html" title="62.5:" /><published>2024-09-05T00:00:00+09:00</published><updated>2024-09-05T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep62.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/62-5"><![CDATA[<details>
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="超伝導" /><summary type="html"><![CDATA[[ぐーする](https://twitter.com/goosle_l)さん、[部品](https://twitter.com/tjmlab)、[おか](https://twitter.com/nowohyeah)でについて話しました。 (2024/05/27 収録)]]></summary></entry><entry><title type="html">62.5:</title><link href="https://interaxion-podcast.github.io/62-5" rel="alternate" type="text/html" title="62.5:" /><published>2024-09-05T00:00:00+09:00</published><updated>2024-09-05T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep62.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/62-5"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>

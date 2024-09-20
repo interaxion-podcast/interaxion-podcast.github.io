@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-09-19T19:07:44+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">63:</title><link href="https://interaxion-podcast.github.io/63-draft" rel="alternate" type="text/html" title="63:" /><published>2024-09-15T00:00:00+09:00</published><updated>2024-09-15T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep63</id><content type="html" xml:base="https://interaxion-podcast.github.io/63-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-09-20T12:33:05+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">63:</title><link href="https://interaxion-podcast.github.io/63-draft" rel="alternate" type="text/html" title="63:" /><published>2024-09-15T00:00:00+09:00</published><updated>2024-09-15T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep63</id><content type="html" xml:base="https://interaxion-podcast.github.io/63-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -31,16 +31,7 @@
     <ul>
       <li>最初のp波超伝導の報告（1998）
         <ul>
-          <li>
-            <table>
-              <tbody>
-                <tr>
-                  <td>[Spin-triplet superconductivity in Sr2RuO4 identified by 17O Knight shift</td>
-                  <td>Nature](https://www.nature.com/articles/25315)</td>
-                </tr>
-              </tbody>
-            </table>
-          </li>
+          <li><a href="https://www.nature.com/articles/25315">Spin-triplet superconductivity in Sr2RuO4 identified by 17O Knight shift - Nature</a></li>
         </ul>
       </li>
       <li>p波超伝導を否定した論文（2019）
@@ -50,16 +41,7 @@
       </li>
       <li>最新のレビュー
         <ul>
-          <li>
-            <table>
-              <tbody>
-                <tr>
-                  <td>[Still Mystery after All These Years —Unconventional Superconductivity of Sr2RuO4—</td>
-                  <td>Journal of the Physical Society of Japan](https://journals.jps.jp/doi/10.7566/JPSJ.93.062001)</td>
-                </tr>
-              </tbody>
-            </table>
-          </li>
+          <li><a href="https://journals.jps.jp/doi/10.7566/JPSJ.93.062001">Still Mystery after All These Years —Unconventional Superconductivity of Sr2RuO4— - Journal of the Physical Society of Japan</a></li>
           <li><a href="https://amzn.to/3WQoZKh">高温超伝導の若きサムライたち</a></li>
         </ul>
       </li>
@@ -69,30 +51,12 @@
     <ul>
       <li>RuCl3のRIXS
         <ul>
-          <li>
-            <table>
-              <tbody>
-                <tr>
-                  <td>[Proximate ferromagnetic state in the Kitaev model material α-RuCl3</td>
-                  <td>nature communications](https://www.nature.com/articles/s41467-021-24722-4)</td>
-                </tr>
-              </tbody>
-            </table>
-          </li>
+          <li><a href="https://www.nature.com/articles/s41467-021-24722-4">Proximate ferromagnetic state in the Kitaev model material α-RuCl3 - nature communications</a></li>
         </ul>
       </li>
       <li>RIXSの技術的レビュー
         <ul>
-          <li>
-            <table>
-              <tbody>
-                <tr>
-                  <td>[Resonant inelastic X-ray scattering</td>
-                  <td>nature reviews methods primers](https://www.nature.com/articles/s43586-024-00333-3)</td>
-                </tr>
-              </tbody>
-            </table>
-          </li>
+          <li><a href="https://www.nature.com/articles/s43586-024-00333-3">Resonant inelastic X-ray scattering - nature reviews methods primers</a></li>
         </ul>
       </li>
     </ul>

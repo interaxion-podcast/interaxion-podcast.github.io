@@ -18,7 +18,7 @@ Jeremy Nguyen さんという方が、医学論文で "delve" という単語が
 
 delve は「掘り下げる」などの意味ですが、2023年以降急激に増えているのは ChatGPT が普通に使われるよりも高い確率で出力するからではないかと言われています。Y Combinator のポール・グレアムも反応しています。
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">My point here is not that I dislike &quot;delve,&quot; though I do, but that it&#39;s a sign that text was written by ChatGPT. <a href="https://t.co/2i3GUgynuL">pic.twitter.com/2i3GUgynuL</a></p>&mdash; Paul Graham (@paulg) <a href="https://twitter.com/paulg/status/1777035484826349575?ref_src=twsrc%5Etfw">April 7, 2024</a>
+<blockquote class="twitter-tweet tw-align-center" data-media-max-width="560"><p lang="en" dir="ltr">My point here is not that I dislike &quot;delve,&quot; though I do, but that it&#39;s a sign that text was written by ChatGPT. <a href="https://t.co/2i3GUgynuL">pic.twitter.com/2i3GUgynuL</a></p>&mdash; Paul Graham (@paulg) <a href="https://twitter.com/paulg/status/1777035484826349575?ref_src=twsrc%5Etfw">April 7, 2024</a>
 </blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 なぜ delve が出力されやすいのか？ 原因は ChatGPT を RLHF (人間のフィードバックによる強化学習) するときに、アメリカなどよりも delve がよく使われるナイジェリアで作業が行われたためではないかと言われています。
@@ -27,7 +27,7 @@ delve は「掘り下げる」などの意味ですが、2023年以降急激に�
 
 物理分野でも delve は観測されています。素粒子分野の論文が検索できる [INSPIRE](https://inspirehep.net/) でも delve が増えていることが分かっています。
 
-<blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">Same result in particle physics too... <a href="https://twitter.com/inspirehep?ref_src=twsrc%5Etfw">@inspirehep</a> pretty damning. I will certainly not be using the word delve from now on, and will view anyone who does with suspicion...<a href="https://t.co/NhgA63EdtV">https://t.co/NhgA63EdtV</a> <a href="https://t.co/cXi4jqY6yy">https://t.co/cXi4jqY6yy</a> <a href="https://t.co/kvFbtjQZMK">pic.twitter.com/kvFbtjQZMK</a></p>&mdash; Ciaran O&#39;Hare (@cajohare) <a href="https://twitter.com/cajohare/status/1780612846491238715?ref_src=twsrc%5Etfw">April 17, 2024</a>
+<blockquote class="twitter-tweet tw-align-center" data-media-max-width="560"><p lang="en" dir="ltr">Same result in particle physics too... <a href="https://twitter.com/inspirehep?ref_src=twsrc%5Etfw">@inspirehep</a> pretty damning. I will certainly not be using the word delve from now on, and will view anyone who does with suspicion...<a href="https://t.co/NhgA63EdtV">https://t.co/NhgA63EdtV</a> <a href="https://t.co/cXi4jqY6yy">https://t.co/cXi4jqY6yy</a> <a href="https://t.co/kvFbtjQZMK">pic.twitter.com/kvFbtjQZMK</a></p>&mdash; Ciaran O&#39;Hare (@cajohare) <a href="https://twitter.com/cajohare/status/1780612846491238715?ref_src=twsrc%5Etfw">April 17, 2024</a>
 </blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 また、我らが Ranga Dias 先生のロチェスター大学の調査に対してのレスポンスにも、 delve が9回出てきます。 (ブカさん情報)

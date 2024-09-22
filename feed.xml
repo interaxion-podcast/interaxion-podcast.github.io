@@ -1,177 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-09-22T22:17:39+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">63:</title><link href="https://interaxion-podcast.github.io/63-draft" rel="alternate" type="text/html" title="63:" /><published>2024-09-15T00:00:00+09:00</published><updated>2024-09-15T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep63</id><content type="html" xml:base="https://interaxion-podcast.github.io/63-draft"><![CDATA[<details>
-  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
-  <summary>目次</summary>
-  <nav>
-<ul id="markdown-toc">
-  <li><a href="#ニュース" id="markdown-toc-ニュース">ニュース</a>    <ul>
-      <li><a href="#田島先生の本" id="markdown-toc-田島先生の本">田島先生の本</a></li>
-      <li><a href="#nims-一般公開" id="markdown-toc-nims-一般公開">NIMS 一般公開</a></li>
-      <li><a href="#おたより" id="markdown-toc-おたより">おたより</a></li>
-    </ul>
-  </li>
-  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
-</ul>
-    <!-- https://stackoverflow.com/a/38419441/11480802 -->
-  </nav>
-</details>
-<p><br /></p>
-
-<ul>
-  <li><a href="https://rebuild.fm/">Rebuild - Podcast by Tatsuhiko Miyagawa</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">謎の比較表を作っていた <a href="https://t.co/DR2sKDYY9F">pic.twitter.com/DR2sKDYY9F</a></p>
-  <p>— 部品（川口春奈） (@tjmlab) <a href="https://twitter.com/tjmlab/status/1785501232460976571?ref_src=twsrc%5Etfw">May 1, 2024</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li>ルテネイトについて
-    <ul>
-      <li>最初のp波超伝導の報告（1998）
-        <ul>
-          <li><a href="https://www.nature.com/articles/25315">Spin-triplet superconductivity in Sr2RuO4 identified by 17O Knight shift - Nature</a></li>
-        </ul>
-      </li>
-      <li>p波超伝導を否定した論文（2019）
-        <ul>
-          <li><a href="https://www.nature.com/articles/s41586-019-1596-2">Constraints on the superconducting order parameter in Sr2RuO4 from oxygen-17 nuclear magnetic resonance - Nature</a></li>
-        </ul>
-      </li>
-      <li>最新のレビュー
-        <ul>
-          <li><a href="https://journals.jps.jp/doi/10.7566/JPSJ.93.062001">Still Mystery after All These Years —Unconventional Superconductivity of Sr2RuO4— - Journal of the Physical Society of Japan</a></li>
-          <li><a href="https://amzn.to/3WQoZKh">高温超伝導の若きサムライたち</a></li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>RIXS（共鳴非弾性X線散乱）
-    <ul>
-      <li>RuCl3のRIXS
-        <ul>
-          <li><a href="https://www.nature.com/articles/s41467-021-24722-4">Proximate ferromagnetic state in the Kitaev model material α-RuCl3 - nature communications</a></li>
-        </ul>
-      </li>
-      <li>RIXSの技術的レビュー
-        <ul>
-          <li><a href="https://www.nature.com/articles/s43586-024-00333-3">Resonant inelastic X-ray scattering - nature reviews methods primers</a></li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>一軸圧測定
-    <ul>
-      <li>ピエゾ素子を用いた一軸ひずみ印加装置によるネマティック超伝導の制御(https://www.jstage.jst.go.jp/article/jshpreview/31/4/31_236/_article/-char/ja/)</li>
-    </ul>
-  </li>
-  <li>ラマン散乱分光
--強相関電子系のラマン散乱分光法のレビュー
-    <ul>
-      <li><a href="https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.79.175">Inelastic light scattering from correlated electrons</a></li>
-    </ul>
-  </li>
-  <li>銅酸化物超伝導はフォノン由来か？
-    <ul>
-      <li><a href="https://www.jstage.jst.go.jp/article/butsuri1946/58/3/58_3_182/_article/-char/ja/">高温超伝導と電子 : 格子相互作用</a></li>
-      <li><a href="https://www.jstage.jst.go.jp/article/materia1994/34/12/34_12_1340/_article/-char/ja/">高温超伝導における格子の役割</a></li>
-    </ul>
-  </li>
-  <li>マックス・プランク研究所
-    <ul>
-      <li><a href="https://www.jst.go.jp/innov-jinzai/sekai/survey/casestudy/overseas/article05.html">海外事例 マックス・プランク研究所（ドイツ）</a></li>
-      <li><a href="https://www.mpi-stuttgart.mpg.de/en">Max Planck Institutes Stuttgart</a></li>
-    </ul>
-  </li>
-</ul>
-
-<h2 id="ニュース">ニュース</h2>
-
-<ul>
-  <li>Jan Zaanen さん
-    <ul>
-      <li><a href="https://www.universiteitleiden.nl/en/news/2024/01/in-memoriam-jan-zaanen-1957-2024-the-universe-in-a-speck-of-rusting-copper">In memoriam Jan Zaanen 1957-2024: The universe in a speck of rusting copper - Leiden University</a></li>
-      <li>銅酸化物超伝導体の有名レビュー論文
-        <ul>
-          <li><a href="https://www.nature.com/articles/nature14165">From quantum matter to high-temperature superconductivity in copper oxides - Nature</a></li>
-        </ul>
-      </li>
-    </ul>
-  </li>
-  <li>Dias、 Nature マッチポンプ編
-    <ul>
-      <li><a href="https://buhin-blog.blogspot.com/2023/03/nature.html">【改題】室温超伝導ふたたび！～大丈夫じゃなかった、Natureの論文だもん！～ - ぶひんブログ</a></li>
-      <li><a href="https://www.nature.com/articles/d41586-024-00716-2">Superconductivity scandal: the inside story of deception in a rising star’s physics lab</a></li>
-    </ul>
-  </li>
-  <li><a href="https://pubs.aip.org/aip/apm/article/11/10/101128/2918237">Single crystal synthesis, structure, and magnetism of Pb10−xCux(PO4)6O - APL Materials - AIP Publishing</a>
-    <ul>
-      <li>LK99、ドイツグループの追試</li>
-    </ul>
-  </li>
-  <li><a href="https://www.jstage.jst.go.jp/article/oubutsu/92/12/92_706/_article/-char/ja">室温超伝導!? - 応用物理2023年92巻12号 p. 706-708</a>
-    <ul>
-      <li>清水先生のコメント</li>
-    </ul>
-  </li>
-  <li>物性夏の学校協賛しました
-    <ul>
-      <li>https://cmpss.jp/cooperation.php</li>
-    </ul>
-  </li>
-</ul>
-
-<h3 id="田島先生の本">田島先生の本</h3>
-
-<ul>
-  <li><a href="https://amzn.to/4dW5hmw">高温超伝導体の電荷応答: 強い電子相互作用がもたらすエキゾチックな物性 (物質・材料テキストシリーズ)</a>
-    <ul>
-      <li>物質を調べるとき最初にする測定は？そう、サンプルを目で見ることですね？つまり、電荷応答こそ一番大切！</li>
-      <li>赤外分光法だけじゃなくて、ラマン散乱分光法の説明もある名著</li>
-    </ul>
-  </li>
-</ul>
-
-<h3 id="nims-一般公開">NIMS 一般公開</h3>
-
-<ul>
-  <li><a href="https://www.nims.go.jp/openhouse/timetable_map.html">タイムテーブル・会場マップ - NIMS一般公開2024</a></li>
-</ul>
-
-<h3 id="おたより">おたより</h3>
-
-<ul>
-  <li>匿名希望さんからのおたより
-    <blockquote>
-      <p>部品さんの声がクリアに聞こえる気がします！</p>
-    </blockquote>
-  </li>
-  <li><a href="https://amzn.to/3WU9YqI">HyperX SoloCast USBスタンドアロンマイク テレワーク/ストリーマー/コンテンツクリエーター/ゲーマー向け/PC,PS4,PS5使用可能 メーカー 2年保証 HMIS1X-XX-BK/G</a></li>
-</ul>
-
-<h2 id="お知らせ">お知らせ</h2>
-
-<ul>
-  <li>出演して頂ける方や感想などをお待ちしております！ <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li>エンディング BGM
-    <ul>
-      <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
-      <li>曲名: 弓</li>
-    </ul>
-  </li>
-</ul>
-
-<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="超伝導" /><summary type="html"><![CDATA[[ぐーする](https://twitter.com/goosle_l)さん、[部品](https://twitter.com/tjmlab)、[おか](https://twitter.com/nowohyeah)でについて話しました。 (2024/05/27 収録)]]></summary></entry><entry><title type="html">62.5:</title><link href="https://interaxion-podcast.github.io/62-5" rel="alternate" type="text/html" title="62.5:" /><published>2024-09-05T00:00:00+09:00</published><updated>2024-09-05T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep62.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/62-5"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-09-22T22:39:07+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">62.5:</title><link href="https://interaxion-podcast.github.io/62-5" rel="alternate" type="text/html" title="62.5:" /><published>2024-09-05T00:00:00+09:00</published><updated>2024-09-05T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep62.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/62-5"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -666,7 +493,7 @@ XENONnT や世界中の数多あるダークマター探索実験からの報告
   <li>光電子分光は表面が見えている？ by ボインゴ</li>
   <li>高次トポロジカル絶縁体と強弱トポの関係は？ by ぶひん</li>
   <li>対称性手法 (symmetry indicator) と Z4: <a href="https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031070">Phys. Rev. X 8, 031070 (2018) - Symmetry Indicators and Anomalous Surface States of Topological Crystalline Insulators</a></li>
-  <li>[渡辺悠樹, <講義ノート>対称性指標の基礎から高次トポロジカル絶縁体への応用まで](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/245740) ([物性研究・電子版 Vol. 8 No. 1 （2020年2月号）](https://mercury.yukawa.kyoto-u.ac.jp/~bussei.kenkyu/archives/category/2020/vol08-1))</講義ノート></li>
+  <li><a href="https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/245740">渡辺悠樹, ＜講義ノート＞対称性指標の基礎から高次トポロジカル絶縁体への応用まで</a> (<a href="https://mercury.yukawa.kyoto-u.ac.jp/~bussei.kenkyu/archives/category/2020/vol08-1">物性研究・電子版 Vol. 8 No. 1 （2020年2月号）</a>)</li>
   <li>強いトポロジカル絶縁体層と高次トポロジカル絶縁体層の共存: <a href="https://www.nature.com/articles/s41467-020-14443-5">Strong and fragile topological Dirac semimetals with higher-order Fermi arcs - Nature Communications</a></li>
   <li>ライス大学の論文との食い違い</li>
 </ul>
@@ -1169,4 +996,254 @@ Liang Fu 共著の分数量子異常ホール効果の論文</li>
   </li>
 </ul>
 
-<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="超伝導" /><category term="アメリカ" /><category term="Julia" /><category term="SF" /><summary type="html"><![CDATA[[ながい](https://twitter.com/cometscome_phys)さんと[部品](https://twitter.com/tjmlab)で色んな分野の研究をする方法、MIT留学とLiang Fu、著書とおすすめのSFなどについて話しました。]]></summary></entry></feed>
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="超伝導" /><category term="アメリカ" /><category term="Julia" /><category term="SF" /><summary type="html"><![CDATA[[ながい](https://twitter.com/cometscome_phys)さんと[部品](https://twitter.com/tjmlab)で色んな分野の研究をする方法、MIT留学とLiang Fu、著書とおすすめのSFなどについて話しました。]]></summary></entry><entry><title type="html">58: Nostalgic Gadgets’ Night</title><link href="https://interaxion-podcast.github.io/58" rel="alternate" type="text/html" title="58: Nostalgic Gadgets’ Night" /><published>2024-02-21T00:00:00+09:00</published><updated>2024-02-21T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep58</id><content type="html" xml:base="https://interaxion-podcast.github.io/58"><![CDATA[<details>
+  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
+  <summary>目次</summary>
+  <nav>
+<ul id="markdown-toc">
+  <li><a href="#000-おたより" id="markdown-toc-000-おたより">0:00 おたより</a></li>
+  <li><a href="#10941-advent-calendar-2023" id="markdown-toc-10941-advent-calendar-2023">1:09:41 Advent Calendar 2023</a>    <ul>
+      <li><a href="#11600-天体観測" id="markdown-toc-11600-天体観測">1:16:00 天体観測</a></li>
+      <li><a href="#13620-地域コミュニティ" id="markdown-toc-13620-地域コミュニティ">1:36:20 地域コミュニティ</a></li>
+      <li><a href="#14532-アメフト" id="markdown-toc-14532-アメフト">1:45:32 アメフト</a></li>
+      <li><a href="#22038-西成の商店街の話" id="markdown-toc-22038-西成の商店街の話">2:20:38 西成の商店街の話</a></li>
+      <li><a href="#24256-万博と瀬戸内国際芸術祭" id="markdown-toc-24256-万博と瀬戸内国際芸術祭">2:42:56 万博と瀬戸内国際芸術祭</a></li>
+    </ul>
+  </li>
+  <li><a href="#31706-思い出ガジェット" id="markdown-toc-31706-思い出ガジェット">3:17:06 思い出ガジェット</a></li>
+  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
+</ul>
+    <!-- https://stackoverflow.com/a/38419441/11480802 -->
+  </nav>
+</details>
+<p><br /></p>
+
+<h3 id="000-おたより">0:00 おたより</h3>
+
+<ul>
+  <li><a href="https://interaxion-podcast.github.io/starring/#%E3%81%8B%E3%81%8B%E3%83%BC%E3%81%9F%E3%81%95%E3%82%93">かかーたさん登場回</a></li>
+</ul>
+
+<figure class="figure">
+  <div style="text-align: center;">
+
+    <p><img src="assets/ep58_marshmallow_1.png" alt="かかーたさんの再登場を希望します！できればべろんべろんに酔った状態で聞きたいです。" /></p>
+
+  </div>
+  <figcaption>
+    <p>かかーたさんの再登場を希望します！できればべろんべろんに酔った状態で聞きたいです。</p>
+  </figcaption>
+</figure>
+
+<ul>
+  <li><a href="https://gourmet.watch.impress.co.jp/docs/news/1563092.html">マクドナルド「チキンクリスプ」が「マックチキン」になっていよいよ発売！ - グルメ Watch</a><br />
+チキンクリスプがマックチキンに改名したけど前あったのは多分これじゃないです。</li>
+  <li><a href="https://twitter.com/rdias495/status/1748168980353691998/retweets">日本人しかいない Dias さんのリポスト欄</a></li>
+</ul>
+
+<figure class="figure">
+  <div style="text-align: center;">
+
+    <p><img src="assets/ep58_marshmallow_2.png" alt="まちかねこ調査隊という活動が楽しそうだなと思って聞いていました。当時の思い出エピソードを聞いてみたいと思いました。現役で活動している方の報告や対談も聞いてみたいです。でもOBとしてあまり口は出さないとも言っていたので難しいですかね。    まちかネコ回に登場された方の博士課程のお話は面白かったです。苦労されたようですが博士課程に興味ある人にはとても有益そうだなって思いました。物理専攻の博士課程学生の生活ってどんなのなのかもっと知りたいです。" /></p>
+
+  </div>
+  <figcaption>
+    <p>まちかねこ調査隊という活動が楽しそうだなと思って聞いていました。当時の思い出エピソードを聞いてみたいと思いました。現役で活動している方の報告や対談も聞いてみたいです。でもOBとしてあまり口は出さないとも言っていたので難しいですかね。    まちかネコ回に登場された方の博士課程のお話は面白かったです。苦労されたようですが博士課程に興味ある人にはとても有益そうだなって思いました。物理専攻の博士課程学生の生活ってどんなのなのかもっと知りたいです。</p>
+  </figcaption>
+</figure>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">昨晩は今年度最後のオンラインミーティングが行われました🐈<br />4月からオンライン新歓なども企画しておりますので詳細が気になる方はぜひメールやTwitter DMにご連絡ください！<br /><br />↓中の人が撮ったラオウちゃんの動画です　とてとて歩いてる姿がとても可愛らしいですね❣️ <a href="https://t.co/o40E8O0zOs">pic.twitter.com/o40E8O0zOs</a></p>
+  <p>— まちかねこ調査隊 (@s_machikaneko) <a href="https://twitter.com/s_machikaneko/status/1507560955072638979?ref_src=twsrc%5Etfw">March 26, 2022</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li>たりすけさんからのおたより
+    <blockquote>
+      <p>47: Out of Contextききました。<br />
+最近、くずし字勉強はじめたので、話題に出てびっくりしました。<br />
+「ぼっち・ざ・ろっく」見てみました。すごく面白いですね。<br />
+次回も楽しみにしています<br />
+Submitted 07:53 AM - 22 February 2023 (UTC)</p>
+    </blockquote>
+  </li>
+  <li><a href="https://interaxion-podcast.github.io/47">Interaxion 47: Out of Context</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E5%90%88%E7%95%A5%E4%BB%AE%E5%90%8D">合略仮名 - Wikipedia</a></li>
+  <li><a href="https://twitter.com/haruki_wtnb/status/1743576210201051198">XユーザーのHaruki Watanabeさん: 「古典力学における時間反転について調べていて、図書館で発見した昭和6年の書物。同じ日本語とは思えない… https://t.co/7JLSqOfoFH」 / X</a><br />
+「速度べくとる」「にうとんノ運動法則」「がりれいノ相對原理」「あいん志たいん」などなど</li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">古典力学における時間反転について調べていて、図書館で発見した昭和6年の書物。同じ日本語とは思えない… <a href="https://t.co/7JLSqOfoFH">pic.twitter.com/7JLSqOfoFH</a></p>
+  <p>— Haruki Watanabe (@haruki_wtnb) <a href="https://twitter.com/haruki_wtnb/status/1743576210201051198?ref_src=twsrc%5Etfw">January 6, 2024</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li><a href="https://dl.ndl.go.jp/pid/885481/1/35">新編浮雲 第１編 - NDL Digital Collections</a></li>
+</ul>
+
+<figure class="figure">
+  <div style="text-align: center;">
+
+    <p><img src="assets/ep58_ukigumo.png" alt="新編浮雲 第１編 - NDL Digital Collections" /></p>
+
+  </div>
+  <figcaption>
+    <p>新編浮雲 第１編 - NDL Digital Collections</p>
+  </figcaption>
+</figure>
+
+<ul>
+  <li><a href="https://interaxion-podcast.github.io/22">Interaxion 22: First Japanese on Phys. Rev.</a><br />
+国立国会図書館デジタルコレクションを活用した回</li>
+  <li>
+    <p><a href="https://kotobaken.jp/qa/yokuaru/qa-64/">漱石の当て字にはどんなものがありますか - ことばの疑問 - ことば研究館</a></p>
+  </li>
+  <li>匿名の方からのおたより
+    <blockquote>
+      <p>こんにちは、いつも楽しく拝聴しております。物理については高校レベルの全くの専門外なので雰囲気で聞いていますが、流れの中でokaさんやゲストさんから鋭い視点の質問があるとやはり博士持ちの人はすごいなあと思っております。今回はAmazonミュージックでの配信についてご検討いただけないかお便りいたしました。あらBfmさんやresearchatfmさんなどがAmazonミュージックでの配信もしていて、速度調節がiOSのPodcastアプリより細かくできて個人的に便利だと感じています。AmazonミュージックからPodcastに興味を持つ方もいるかもしれませんので、この機会始めてみるのはいかがでしょうか。これからも楽しみにしております。<br />
+Submitted 10:02 AM - 13 March 2022 (UTC)</p>
+    </blockquote>
+  </li>
+  <li><a href="https://music.amazon.co.jp/podcasts/342b6d21-3c6f-4c3a-93ae-781cf8fabcf0/interaxion-%E7%89%A9%E7%90%86%E7%B3%BB%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88">Interaxion - 物理系ポッドキャスト Podcast on Amazon Music</a><br />
+2年近くお待たせしましたが配信開始しました</li>
+  <li><a href="https://jgrad.nistep.go.jp/">博士人材データベース（JGRAD）</a></li>
+  <li><a href="https://note.com/drikeko_science/n/nc02ca6e94487">【博士なちょこっと情報】登録者２万人超え！？博士人材向け大規模SNS”SDSG”に登録してみた！【博士号もちアラサー主婦の独り言。】｜Dr. りけ子（Tsugumi）</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">こんだけ博士を買い被ってくれる人達を日本社会に増殖させていこうな…。 <a href="https://t.co/kAhYTRx7hf">https://t.co/kAhYTRx7hf</a></p>
+  <p>— かかーたさん🙇 a.k.a 屑奴@ハクシノカクレガ (@Kuzz_pontie_Kak) <a href="https://twitter.com/Kuzz_pontie_Kak/status/1743216406496530712?ref_src=twsrc%5Etfw">January 5, 2024</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h3 id="10941-advent-calendar-2023">1:09:41 Advent Calendar 2023</h3>
+
+<ul>
+  <li>一人 Advent Calendar
+    <ul>
+      <li><a href="https://adventar.org/calendars/9642">かかーたさん</a></li>
+      <li><a href="https://adventar.org/calendars/9232">おか</a></li>
+      <li><a href="https://adventar.org/calendars/9189">あらBさん</a></li>
+      <li><a href="https://adventar.org/calendars/9303">まにーさん</a></li>
+      <li><a href="https://adventar.org/calendars/9731">雛形さん</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h4 id="11600-天体観測">1:16:00 天体観測</h4>
+
+<ul>
+  <li><a href="https://hommusubi.shop/">みんなの図書室 ほんむすび</a></li>
+  <li><a href="https://note.com/kuzz_pontie_kak/n/ncbb19a7cc025">ハクシノカクレガ 書籍入れ替え情報(2023/05/09)｜かかーたさん🙇a.k.a屑奴@ハクシノカクレガ</a></li>
+  <li><a href="https://note.com/kuzz_pontie_kak/n/nc4dc0abc1109">12/03 星について書きます。｜かかーたさん🙇a.k.a屑奴@ハクシノカクレガ</a></li>
+  <li><a href="https://amzn.to/3IaQOEk">スコープテック ラプトル60</a></li>
+  <li><a href="https://amzn.to/3UT1T4u">コルキット スピカ 天体望遠鏡工作キット</a></li>
+  <li><a href="https://amzn.to/3ONBRMp">NEWTONY</a></li>
+  <li><a href="https://amzn.to/3uItlaD">ポルタIIR</a>
+おかが使用している反射式望遠鏡</li>
+  <li><a href="https://sites.google.com/site/hoshizoraannaishikakunintei/">星空案内人 資格認定制度</a></li>
+  <li><a href="https://kadcul.com/">角川武蔵野ミュージアム</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">NHK紅白歌合戦、YOASOBIさんの「夜に駆ける」を当館の本棚劇場からお送りしました！<br />本棚劇場は高さ8mの巨大本棚に3万冊の本が並び、本棚にはプロジェクションマッピングを行っています。<br />今回は楽曲とともに、一夜限りのスペシャル映像をお届けしました。<a href="https://twitter.com/hashtag/NHK%E7%B4%85%E7%99%BD?src=hash&amp;ref_src=twsrc%5Etfw">#NHK紅白</a> <a href="https://twitter.com/hashtag/YOASOBI?src=hash&amp;ref_src=twsrc%5Etfw">#YOASOBI</a> <a href="https://twitter.com/hashtag/%E8%A7%92%E5%B7%9D%E6%AD%A6%E8%94%B5%E9%87%8E%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%A0?src=hash&amp;ref_src=twsrc%5Etfw">#角川武蔵野ミュージアム</a> <a href="https://t.co/DEfYC6GlVZ">pic.twitter.com/DEfYC6GlVZ</a></p>
+  <p>— 角川武蔵野ミュージアム (@Kadokawa_Museum) <a href="https://twitter.com/Kadokawa_Museum/status/1344633252171038724?ref_src=twsrc%5Etfw">December 31, 2020</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h4 id="13620-地域コミュニティ">1:36:20 地域コミュニティ</h4>
+
+<ul>
+  <li><a href="https://peatix.com/event/3724789?lang=ja">暗黒物質ってなんなん？ ー What’s the matter with dark matter? ー　Dark Matter Day 2023 in Japan - Peatix</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">0νbbってことで6/6にやりますか！</p>
+  <p>— oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1713893888652706242?ref_src=twsrc%5Etfw">October 16, 2023</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<p>二重ベータの日を一緒にやってくれる人募集！</p>
+
+<h4 id="14532-アメフト">1:45:32 アメフト</h4>
+
+<ul>
+  <li><a href="https://note.com/kuzz_pontie_kak/n/ne62f7b333737">12/02 アメフトについて書きます。｜かかーたさん🙇a.k.a屑奴@ハクシノカクレガ</a></li>
+  <li><a href="https://youtu.be/54MpYBpdH7M">【ハイライト】2023年12月16日【関西学生Div.1-2入替戦】甲南大学vs大阪大学</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%B3">タージン - Wikipedia</a></li>
+</ul>
+
+<h4 id="22038-西成の商店街の話">2:20:38 西成の商店街の話</h4>
+
+<ul>
+  <li><a href="https://note.com/kuzz_pontie_kak/n/n3753c4cb44fc">西成にある商店街の話</a></li>
+  <li><a href="https://syoutengai-net.jp/nishitengatyaya.html">西天下茶屋商店街｜大阪市西成区</a></li>
+  <li><a href="https://www.nikkei.com/article/DGXMZO48430140Z00C19A8AA1P00/">都会に思わぬローカル線 大阪・南海汐見橋線の歴史 - 日本経済新聞</a></li>
+  <li><a href="https://www.travel.co.jp/guide/article/31184/">大都会の中のローカル線！「南海汐見橋線」で昭和レトロ体験 - 大阪府 - トラベルjp 旅行ガイド</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E7%8C%AA%E8%B0%B7%E9%A7%85">猪谷駅 - Wikipedia</a></li>
+  <li><a href="https://maps.app.goo.gl/BtH6fNUxZFWzH4d5A">舟渡ストアー</a></li>
+</ul>
+
+<h4 id="24256-万博と瀬戸内国際芸術祭">2:42:56 万博と瀬戸内国際芸術祭</h4>
+
+<ul>
+  <li><a href="https://setouchi-artfest.jp/">瀬戸内国際芸術祭</a></li>
+  <li><a href="https://benesse-artsite.jp/art/tom-na-h-iu.html">トムナフーリ - アート・建築をみる - ベネッセアートサイト直島</a></li>
+  <li><a href="https://researchat.fm/episode/20">20. Seen/unseen Known/unknown - Researchat.fm</a></li>
+  <li><a href="https://benesse-artsite.jp/art/teshima-artmuseum.html">豊島美術館 - アート・建築をみる - ベネッセアートサイト直島</a></li>
+  <li><a href="https://note.com/kuzz_pontie_kak/n/n1f8f6fd8b085">いつもと違う世界を見た、という話 (一年振り返りZENタイルその2)｜かかーたさん🙇a.k.a屑奴@ハクシノカクレガ</a><br />
+かかーたさんが瀬戸内国際芸術祭2022に行ったときの話</li>
+  <li><a href="https://www.teshima-school.jp/struggle/history/">豊島事件の経緯 - 豊島事件を見る - 豊島（てしま）・島の学校</a></li>
+</ul>
+
+<h3 id="31706-思い出ガジェット">3:17:06 思い出ガジェット</h3>
+
+<ul>
+  <li><a href="https://note.com/kuzz_pontie_kak/n/nec6a1805b6d7">これなんで盛り上がんなかったんだろうね大賞｜かかーたさん🙇a.k.a屑奴@ハクシノカクレガ</a></li>
+  <li><a href="https://plaza.rakuten.co.jp/tomomax/diary/201003270000/">ゆるゆるガジェットNight! in 大阪 - Tomo’s WebSpace - 楽天ブログ</a></li>
+  <li><a href="https://guide.line.me/ja/update/0003.html">「ふるふる」機能終了のお知らせ｜LINEみんなの使い方ガイド</a><br />
+2020年5月に終了</li>
+  <li><a href="https://en.wikipedia.org/wiki/Bump_(application)">Bump (application) - Wikipedia</a><br />
+2014年1月に終了</li>
+  <li><a href="https://ja.wikipedia.org/wiki/Symbian_OS">Symbian OS - Wikipedia</a><br />
+一時期 Nokia が保有していた OS</li>
+  <li><a href="https://ja.wikipedia.org/wiki/Docomo_PRO_series">docomo PRO series - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%82%B1%E3%83%B3">ポーケン - Wikipedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/W-ZERO3">W-ZERO3 - Wikipedia</a></li>
+  <li><a href="https://amzn.to/3SJ5lMt">カシオ スタンプメーカー ポムリエ</a></li>
+  <li><a href="http://ezaurus.com/lineup/sl/">Zaurus - SLシリーズ</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/Eee_PC">Eee PC - Wikipedia</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Acer_Aspire_One">Acer Aspire One - Wikipedia</a></li>
+  <li><a href="https://amzn.to/49mjSVq">キングジム ポメラ DM250</a></li>
+  <li><a href="https://www.sony.jp/vaio/products/P/">VAIO type P</a></li>
+  <li><a href="https://www.itmedia.co.jp/pcuser/articles/2304/27/news148.html">VAIO P復活!?　リファービッシュPCと周辺デバイスで「VAIO第2章」スタート：スクープ！ - ITmedia PC USER</a><br />
+復活するらしい！ 買うぞ！！</li>
+  <li><a href="https://jp.sharp/netwalker/">NetWalkerポータル：シャープ</a></li>
+  <li><a href="https://www.rabbit.tech/">rabbit — home</a></li>
+</ul>
+
+<h3 id="お知らせ">お知らせ</h3>
+
+<ul>
+  <li>エンディング BGM
+    <ul>
+      <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
+      <li>曲名: 弓</li>
+    </ul>
+  </li>
+</ul>
+
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>
+
+<ul>
+  <li>出演して頂ける方や感想などをお待ちしております！ <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
+  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="ガジェット" /><category term="天体観測" /><summary type="html"><![CDATA[[かかーたさん](https://twitter.com/Kuzz_pontie_Kak)と[おか](https://twitter.com/nowohyeah)で 博士課程、Advent Calendar、阪大アメフト部、万博と瀬戸内国際芸術祭、思い出ガジェットなどについて話しました。 (箸休め回)]]></summary></entry></feed>

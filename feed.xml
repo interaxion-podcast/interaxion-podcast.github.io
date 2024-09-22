@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-09-21T09:58:56+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">63:</title><link href="https://interaxion-podcast.github.io/63-draft" rel="alternate" type="text/html" title="63:" /><published>2024-09-15T00:00:00+09:00</published><updated>2024-09-15T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep63</id><content type="html" xml:base="https://interaxion-podcast.github.io/63-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-09-22T10:42:38+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">63:</title><link href="https://interaxion-podcast.github.io/63-draft" rel="alternate" type="text/html" title="63:" /><published>2024-09-15T00:00:00+09:00</published><updated>2024-09-15T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep63</id><content type="html" xml:base="https://interaxion-podcast.github.io/63-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -70,6 +70,12 @@
 -強相関電子系のラマン散乱分光法のレビュー
     <ul>
       <li><a href="https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.79.175">Inelastic light scattering from correlated electrons</a></li>
+    </ul>
+  </li>
+  <li>銅酸化物超伝導はフォノン由来か？
+    <ul>
+      <li><a href="https://www.jstage.jst.go.jp/article/butsuri1946/58/3/58_3_182/_article/-char/ja/">高温超伝導と電子 : 格子相互作用</a></li>
+      <li><a href="https://www.jstage.jst.go.jp/article/materia1994/34/12/34_12_1340/_article/-char/ja/">高温超伝導における格子の役割</a></li>
     </ul>
   </li>
 </ul>

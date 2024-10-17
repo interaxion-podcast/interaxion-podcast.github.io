@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-10-17T22:00:15+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">64:</title><link href="https://interaxion-podcast.github.io/64-draft" rel="alternate" type="text/html" title="64:" /><published>2024-10-17T00:00:00+09:00</published><updated>2024-10-17T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep64</id><content type="html" xml:base="https://interaxion-podcast.github.io/64-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2024-10-17T22:09:13+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">64:</title><link href="https://interaxion-podcast.github.io/64-draft" rel="alternate" type="text/html" title="64:" /><published>2024-10-17T00:00:00+09:00</published><updated>2024-10-17T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep64</id><content type="html" xml:base="https://interaxion-podcast.github.io/64-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
 <ul id="markdown-toc">
+  <li><a href="#おたより" id="markdown-toc-おたより">おたより</a></li>
   <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
 </ul>
     <!-- https://stackoverflow.com/a/38419441/11480802 -->
@@ -10,9 +11,59 @@
 </details>
 <p><br /></p>
 
-<p>###</p>
+<h3 id="おたより">おたより</h3>
+
+<ul>
+  <li>赤NVIDIA青NVIDIA黄NVIDIAさんからのおたより
+    <blockquote>
+      <p>濵村様，ご無沙汰しております．濵村様とNVIDIAが今後どのような量子事業を推進していくのかが気になり，筆を取らせていただきました．NVIDIAは以前から量子回路シミュレーション用SDKを提供しており，あくまでGPUのみを用いた古典アプリの1つとして量子関連事業を推進していくものだと思っておりました．しかし，今年3月にcuda-Qという量子古典混合開発環境や．ABCI-Qという量子古典混合計算システムが納入予定であることなどが発表され，NVIDIAが量子計算機開発にも直接関与している内容で驚きました．
+●NVIDIAはこれまで培ってきたCPU-GPUヘテロジーニアスコンピューティングに関する深い知見を活かし，GPU-QPUヘテロジーニアスコンピューティングソリューションも提供できるということでしょうか？
+●ABCI-QではQPUにはQuEraのものが使われる予定とのことですが，NVIDIAは今後もQPUとの組み合わせを想定したGPUソリューションの提供を行なっていくのか，QPUの開発にも着手するのかも気になります．
+●濵村様はcuda-Qに使われているであろう量子側の開発環境の開発に取り組まれているのでしょうか？
+●IBM時代には何をなさっていたのかにも興味があります．Qiskit関連業務を行なっておられたとお見受けしますが，NVIDIAに入社して業務内容がどう変化したのかなどお伺いできれば幸いです．
+●ところで普段は東京におられるのでしょうか？すでに回答済みなら申し訳ございません．<br />
+末筆ながら今後の濱村様のご活躍とご健勝をお祈りしております．
+長文失礼いたしました．</p>
+    </blockquote>
+  </li>
+  <li>匿名さんからのおたより
+    <blockquote>
+      <p>nvidiaの量子コンピュータへの今後の関わり方やロードマップが知りたい!</p>
+    </blockquote>
+  </li>
+  <li>開放量子系（理論系）が専門のD1 20代男性さんからのおたより
+    <blockquote>
+      <p>濱村さん，部品さん こんにちは．</p>
+
+      <p>開放量子系の理論と絡めた量子情報，量子計算の, 心に響いたおすすめの論文ってありますか．</p>
+
+      <p>もしあったら教えてくれませんか．</p>
+    </blockquote>
+  </li>
+  <li>Aさんからのおたより
+    <blockquote>
+      <p>量子コンピュータ、ハードのプレイヤー少なくないですか？お金かかるから皆あんまりやりたがらないんでしょうか。</p>
+    </blockquote>
+  </li>
+  <li>匿名さんからのおたより
+    <blockquote>
+      <p>量子コンピュータの物理的な実現方法(超伝導量子ビット、イオントラップ、etc)のそれぞれの長所と短所を教えて欲しいです！</p>
+    </blockquote>
+  </li>
+</ul>
 
 <h3 id="お知らせ">お知らせ</h3>
+
+<ul>
+  <li><a href="https://www.jps.or.jp/information/2024/05/kaiyu.php">中高生、学部学生の方は無料で会友登録いただけるようになりました。 - お知らせ一覧 - 一般社団法人　日本物理学会</a></li>
+  <li><a href="https://x.com/lunto_integral/status/1790846999211741662">Xユーザーの∫るんとう📡dxさん: 「高校生・学部生に大ニュース！ 日本物理学会のオンラインコンテンツが無料になったで！ 会友に申し込むだけで、物理学会誌の電子版が見れたり、2ヶ月に1回開催しているオンライン物理講話というイベントを聴講できます！ 次の物理講話(5/18)のテーマは宇宙初期の銀河とブラックホール！ https://t.co/z3zukXBhbZ」 / X</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center" data-media-max-width="560">
+  <p lang="ja" dir="ltr">高校生・学部生に大ニュース！<br />日本物理学会のオンラインコンテンツが無料になったで！<br /><br />会友に申し込むだけで、物理学会誌の電子版が見れたり、2ヶ月に1回開催しているオンライン物理講話というイベントを聴講できます！<br /><br />次の物理講話(5/18)のテーマは宇宙初期の銀河とブラックホール！… <a href="https://t.co/z3zukXBhbZ">pic.twitter.com/z3zukXBhbZ</a></p>
+  <p>— ∫るんとう📡dx (@lunto_integral) <a href="https://twitter.com/lunto_integral/status/1790846999211741662?ref_src=twsrc%5Etfw">May 15, 2024</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <ul>
   <li>出演して頂ける方や感想などをお待ちしております！ <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>

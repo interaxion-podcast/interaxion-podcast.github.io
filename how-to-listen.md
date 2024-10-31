@@ -15,4 +15,4 @@ Interaxion はこのサイトからでもお聴き頂けますが、スマート
 - [Overcast](https://overcast.fm/itunes1503487109/interaxion) (iOS)
   - 人気技術系ポッドキャストの [Accidental Tech Podcast](https://atp.fm/) の [Marco Arment](https://marco.org/) さんが作っているポッドキャストクライアントです。
 - [Pocket Casts](https://pca.st/mmqdtpox) (Android/iOS)
-
+- [Amazon Music](https://music.amazon.co.jp/podcasts/342b6d21-3c6f-4c3a-93ae-781cf8fabcf0/interaxion-%E7%89%A9%E7%90%86%E7%B3%BB%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88) (Android/iOS/PC)

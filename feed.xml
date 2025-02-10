@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-02-10T15:47:43+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">66:</title><link href="https://interaxion-podcast.github.io/66-draft" rel="alternate" type="text/html" title="66:" /><published>2024-12-07T00:00:00+09:00</published><updated>2024-12-07T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep66</id><content type="html" xml:base="https://interaxion-podcast.github.io/66-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-02-10T15:56:52+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">66:</title><link href="https://interaxion-podcast.github.io/66-draft" rel="alternate" type="text/html" title="66:" /><published>2024-12-07T00:00:00+09:00</published><updated>2024-12-07T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep66</id><content type="html" xml:base="https://interaxion-podcast.github.io/66-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -313,7 +313,7 @@
   <summary>目次</summary>
   <nav>
 <ul id="markdown-toc">
-  <li><a href="#濵村さんの紹介" id="markdown-toc-濵村さんの紹介">濵村さんの紹介</a></li>
+  <li><a href="#046-濵村さんの紹介" id="markdown-toc-046-濵村さんの紹介">0:46 濵村さんの紹介</a></li>
   <li><a href="#150-量子コンピュータって何" id="markdown-toc-150-量子コンピュータって何">1:50 量子コンピュータって何？</a></li>
   <li><a href="#830-どんな方式がある" id="markdown-toc-830-どんな方式がある">8:30 どんな方式がある？</a>    <ul>
       <li><a href="#超伝導方式" id="markdown-toc-超伝導方式">超伝導方式</a></li>
@@ -327,8 +327,9 @@
   <li><a href="#印象に残った研究" id="markdown-toc-印象に残った研究">印象に残った研究</a></li>
   <li><a href="#日本の量子コンピュータ事情" id="markdown-toc-日本の量子コンピュータ事情">日本の量子コンピュータ事情</a></li>
   <li><a href="#民間企業に行った理由" id="markdown-toc-民間企業に行った理由">民間企業に行った理由</a></li>
-  <li><a href="#物性若手夏の学校" id="markdown-toc-物性若手夏の学校">物性若手夏の学校</a></li>
-  <li><a href="#おたより" id="markdown-toc-おたより">おたより</a></li>
+  <li><a href="#11008-物性若手夏の学校" id="markdown-toc-11008-物性若手夏の学校">1:10:08 物性若手夏の学校</a></li>
+  <li><a href="#11716-本を出版した経緯" id="markdown-toc-11716-本を出版した経緯">1:17:16 本を出版した経緯</a></li>
+  <li><a href="#11959-おたより" id="markdown-toc-11959-おたより">1:19:59 おたより</a></li>
   <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
 </ul>
     <!-- https://stackoverflow.com/a/38419441/11480802 -->
@@ -336,7 +337,7 @@
 </details>
 <p><br /></p>
 
-<h3 id="濵村さんの紹介">濵村さんの紹介</h3>
+<h3 id="046-濵村さんの紹介">0:46 濵村さんの紹介</h3>
 
 <ul>
   <li><a href="https://business.nikkei.com/atcl/report/17/ai/051700001/">詳報：トヨタが頼った謎のAI半導体メーカー：日経ビジネス電子版</a></li>
@@ -448,7 +449,7 @@
   <li><a href="https://www.nvidia.com/ja-jp/about-nvidia/press-releases/2024/nvidia-powers-japans-abci-q-supercomputer-for-quantum-research/">NVIDIA、日本の量子研究向け ABCI-Q スーパーコンピューターを支援</a></li>
 </ul>
 
-<h3 id="物性若手夏の学校">物性若手夏の学校</h3>
+<h3 id="11008-物性若手夏の学校">1:10:08 物性若手夏の学校</h3>
 
 <ul>
   <li>物性夏の学校協賛しました
@@ -464,7 +465,9 @@
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<h3 id="おたより">おたより</h3>
+<h3 id="11716-本を出版した経緯">1:17:16 本を出版した経緯</h3>
+
+<h3 id="11959-おたより">1:19:59 おたより</h3>
 
 <ul>
   <li>赤NVIDIA青NVIDIA黄NVIDIAさんからのおたより

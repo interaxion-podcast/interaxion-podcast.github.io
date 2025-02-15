@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-02-10T16:07:48+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">66:</title><link href="https://interaxion-podcast.github.io/66-draft" rel="alternate" type="text/html" title="66:" /><published>2024-12-07T00:00:00+09:00</published><updated>2024-12-07T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep66</id><content type="html" xml:base="https://interaxion-podcast.github.io/66-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-02-15T09:40:30+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">66:</title><link href="https://interaxion-podcast.github.io/66-draft" rel="alternate" type="text/html" title="66:" /><published>2024-12-07T00:00:00+09:00</published><updated>2024-12-07T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep66</id><content type="html" xml:base="https://interaxion-podcast.github.io/66-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -322,7 +322,7 @@
       <li><a href="#マヨラナ" id="markdown-toc-マヨラナ">マヨラナ</a></li>
     </ul>
   </li>
-  <li><a href="#3038-量子コンピュータの研究を始めたきっかけ" id="markdown-toc-3038-量子コンピュータの研究を始めたきっかけ">30:38 量子コンピュータの研究を始めたきっかけ</a></li>
+  <li><a href="#2130-量子コンピュータの研究を始めたきっかけ" id="markdown-toc-2130-量子コンピュータの研究を始めたきっかけ">21:30 量子コンピュータの研究を始めたきっかけ</a></li>
   <li><a href="#3038-量子情報の教科書" id="markdown-toc-3038-量子情報の教科書">30:38 量子情報の教科書</a></li>
   <li><a href="#4712-印象に残った研究" id="markdown-toc-4712-印象に残った研究">47:12 印象に残った研究</a></li>
   <li><a href="#5403-日本の量子コンピュータ事情" id="markdown-toc-5403-日本の量子コンピュータ事情">54:03 日本の量子コンピュータ事情</a></li>
@@ -330,7 +330,7 @@
   <li><a href="#11008-物性若手夏の学校" id="markdown-toc-11008-物性若手夏の学校">1:10:08 物性若手夏の学校</a></li>
   <li><a href="#11716-本を出版した経緯" id="markdown-toc-11716-本を出版した経緯">1:17:16 本を出版した経緯</a></li>
   <li><a href="#11959-おたより" id="markdown-toc-11959-おたより">1:19:59 おたより</a></li>
-  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
+  <li><a href="#14314-お知らせ" id="markdown-toc-14314-お知らせ">1:43:14 お知らせ</a></li>
 </ul>
     <!-- https://stackoverflow.com/a/38419441/11480802 -->
   </nav>
@@ -374,7 +374,7 @@
   <li><a href="https://buhin-blog.blogspot.com/2022/08/blog-post.html">マイクロソフトはマヨラナの夢を見るか～固体中におけるマヨラナ粒子観測論争について～ - ぶひんブログ</a></li>
 </ul>
 
-<h3 id="3038-量子コンピュータの研究を始めたきっかけ">30:38 量子コンピュータの研究を始めたきっかけ</h3>
+<h3 id="2130-量子コンピュータの研究を始めたきっかけ">21:30 量子コンピュータの研究を始めたきっかけ</h3>
 
 <ul>
   <li><a href="https://ja.wikipedia.org/wiki/%E8%97%A4%E4%BA%95%E5%95%93%E7%A5%90">藤井啓祐 - Wikipedia</a></li>
@@ -508,7 +508,7 @@
   </li>
 </ul>
 
-<h3 id="お知らせ">お知らせ</h3>
+<h3 id="14314-お知らせ">1:43:14 お知らせ</h3>
 
 <ul>
   <li><a href="https://www.jps.or.jp/information/2024/05/kaiyu.php">中高生、学部学生の方は無料で会友登録いただけるようになりました。 - お知らせ一覧 - 一般社団法人　日本物理学会</a></li>

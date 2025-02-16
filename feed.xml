@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-02-15T10:17:34+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">66:</title><link href="https://interaxion-podcast.github.io/66-draft" rel="alternate" type="text/html" title="66:" /><published>2024-12-07T00:00:00+09:00</published><updated>2024-12-07T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep66</id><content type="html" xml:base="https://interaxion-podcast.github.io/66-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-02-16T16:25:04+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">66:</title><link href="https://interaxion-podcast.github.io/66-draft" rel="alternate" type="text/html" title="66:" /><published>2024-12-07T00:00:00+09:00</published><updated>2024-12-07T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep66</id><content type="html" xml:base="https://interaxion-podcast.github.io/66-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -429,9 +429,22 @@
 <h3 id="4712-印象に残った研究">47:12 印象に残った研究</h3>
 
 <ul>
-  <li>Google の error correction</li>
-  <li>中性原子の error correction</li>
-  <li>IBM error correction</li>
+  <li>Google の error correction
+    <ul>
+      <li><a href="https://www.nature.com/articles/s41586-024-08449-y">Quantum error correction below the surface code threshold - Nature</a></li>
+    </ul>
+  </li>
+  <li>中性原子の error correction
+    <ul>
+      <li><a href="https://www.nature.com/articles/s41586-023-06927-3">Logical quantum processor based on reconfigurable atom arrays - Nature</a></li>
+    </ul>
+  </li>
+  <li>IBM の error correction
+    <ul>
+      <li><a href="https://www.nature.com/articles/s41586-024-07107-7">High-threshold and low-overhead fault-tolerant quantum memory - Nature</a></li>
+      <li><a href="https://www.ibm.com/blogs/systems/jp-ja/nature-qldpc-error-correction/">IBMのランドマーク的エラー訂正論文がNature誌の表紙に掲載 - IBM Systems Japan blog</a></li>
+    </ul>
+  </li>
   <li><a href="https://www.ibm.com/quantum/blog/heavy-hex-lattice">The IBM Quantum heavy hex lattice - IBM Quantum Computing Blog</a></li>
 </ul>
 

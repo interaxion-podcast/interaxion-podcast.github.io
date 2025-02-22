@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-02-22T11:14:34+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">64: Quantum Evangelist</title><link href="https://interaxion-podcast.github.io/64" rel="alternate" type="text/html" title="64: Quantum Evangelist" /><published>2025-02-22T00:00:00+09:00</published><updated>2025-02-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep64</id><content type="html" xml:base="https://interaxion-podcast.github.io/64"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-02-22T19:17:41+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">64: Quantum Evangelist</title><link href="https://interaxion-podcast.github.io/64" rel="alternate" type="text/html" title="64: Quantum Evangelist" /><published>2025-02-22T00:00:00+09:00</published><updated>2025-02-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep64</id><content type="html" xml:base="https://interaxion-podcast.github.io/64"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -455,23 +455,151 @@
 <h3 id="030-キノコ老師さんの紹介">0:30 キノコ老師さんの紹介</h3>
 
 <ul>
-  <li>宇宙暗黒時代</li>
-  <li>宇宙の夜明け</li>
-  <li>再電離</li>
-  <li>21cm線</li>
-  <li>LHAASO</li>
-  <li>FAST</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[宇宙の暗黒時代</td>
+          <td>天文学辞典](https://astro-dic.jp/dark-age-of-the-universe/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[宇宙の夜明け</td>
+          <td>天文学辞典](https://astro-dic.jp/cosmic-dawn/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[宇宙の再電離</td>
+          <td>天文学辞典](https://astro-dic.jp/cosmic-reionization/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[21cm線</td>
+          <td>天文学辞典](https://astro-dic.jp/21cm-line-of-hydrogen/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>FAST [500メートル球面電波望遠鏡</td>
+          <td>天文学辞典](https://astro-dic.jp/five-hundred-meter-aperture-spherical-radio-telescope/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[LHAASO実験</td>
+          <td>天文学辞典](https://astro-dic.jp/lhaaso/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
   <li>MWA</li>
-  <li>HERA</li>
-  <li>暗黒物質</li>
-  <li>アクシオン</li>
-  <li>WIMP</li>
-  <li>原子重力波</li>
-  <li>宇宙マイクロ波背景放射</li>
-  <li>背景重力波</li>
-  <li>パルサー</li>
-  <li>SKA</li>
-  <li>月面望遠鏡</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[ヘラ探査機</td>
+          <td>天文学辞典](https://astro-dic.jp/hera-spacecraft/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>暗黒物質 [ダークマター</td>
+          <td>天文学辞典](https://astro-dic.jp/dark-matter-2/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li><a href="https://interaxion-podcast.github.io/keywords/dark-matter/">暗黒物質 - Interaxion Keywords</a></li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[アクシオン</td>
+          <td>天文学辞典](https://astro-dic.jp/axion/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[WIMP</td>
+          <td>天文学辞典](https://astro-dic.jp/wimp/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li><a href="https://www.jstage.jst.go.jp/article/butsuri/72/3/72_156/_article/-char/ja/">原始重力波とは何か？　その検出がなぜ大事なのか？ - 日本物理学会誌 現代物理のキーワード</a></li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[宇宙マイクロ波背景放射</td>
+          <td>天文学辞典](https://astro-dic.jp/cosmic-microwave-background-radiation/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[天文学界を沸かせた大発見「背景重力波」をわかりやすく解説</td>
+          <td>Forbes JAPAN 公式サイト（フォーブス ジャパン）](https://forbesjapan.com/articles/detail/64277)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[パルサー</td>
+          <td>天文学辞典](https://astro-dic.jp/pulsar/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>SKA [1平方キロメートル電波干渉計</td>
+          <td>天文学辞典](https://astro-dic.jp/square-kilometre-array/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>月面望遠鏡 <a href="https://www.nasa.gov/general/lunar-crater-radio-telescope-lcrt-on-the-far-side-of-the-moon/">Lunar Crater Radio Telescope (LCRT) on the Far-Side of the Moon - NASA</a></li>
+  <li><a href="https://gigazine.net/news/20200410-nasa-lunar-crater-radio-telescope/">NASAが「月面のクレーターを巨大電波望遠鏡に変える」プロジェクトを発表 - GIGAZINE</a></li>
 </ul>
 
 <h3 id="4602-研究で重要なこと">46:02 研究で重要なこと</h3>
@@ -485,9 +613,18 @@
 <h4 id="フランス生活">フランス生活</h4>
 
 <ul>
-  <li>ルーブル美術館</li>
-  <li>オルセー美術館</li>
-  <li>パリ天文台</li>
+  <li><a href="https://www.louvre.fr/en">ルーブル美術館</a></li>
+  <li><a href="https://www.musee-orsay.fr/en">オルセー美術館</a></li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[パリ天文台</td>
+          <td>天文学辞典](https://astro-dic.jp/paris-observatory/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
 </ul>
 
 <h4 id="中国生活">中国生活</h4>
@@ -575,7 +712,7 @@
   </li>
 </ul>
 
-<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="XENONnT" /><category term="暗黒物質" /><category term="ニュートリノ" /><summary type="html"><![CDATA[たかちおさんと[oka](https://twitter.com/nowohyeah)で XENONnT 実験の太陽ニュートリノ検出について話しました。 (2024/07/13 収録)]]></summary></entry><entry><title type="html">63: Solid State Surveyor</title><link href="https://interaxion-podcast.github.io/63" rel="alternate" type="text/html" title="63: Solid State Surveyor" /><published>2024-09-22T00:00:00+09:00</published><updated>2024-09-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep63</id><content type="html" xml:base="https://interaxion-podcast.github.io/63"><![CDATA[<details>
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="XENONnT" /><category term="ダークマター" /><category term="ニュートリノ" /><summary type="html"><![CDATA[たかちおさんと[oka](https://twitter.com/nowohyeah)で XENONnT 実験の太陽ニュートリノ検出について話しました。 (2024/07/13 収録)]]></summary></entry><entry><title type="html">63: Solid State Surveyor</title><link href="https://interaxion-podcast.github.io/63" rel="alternate" type="text/html" title="63: Solid State Surveyor" /><published>2024-09-22T00:00:00+09:00</published><updated>2024-09-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep63</id><content type="html" xml:base="https://interaxion-podcast.github.io/63"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -836,40 +973,7 @@ NIMS と言えばながなおさん</li>
   </li>
 </ul>
 
-<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="超伝導" /><category term="ドイツ" /><category term="放射光" /><category term="海外ポスドク" /><category term="海外大学院" /><summary type="html"><![CDATA[[ぐーする](https://twitter.com/goosle_l)さん、[部品](https://twitter.com/tjmlab)、[おか](https://twitter.com/nowohyeah)で高温超伝導、一軸圧測定、海外博士課程などについて話しました。 (2024/05/27 収録)]]></summary></entry><entry><title type="html">62.5:</title><link href="https://interaxion-podcast.github.io/62-5" rel="alternate" type="text/html" title="62.5:" /><published>2024-09-05T00:00:00+09:00</published><updated>2024-09-05T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep62.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/62-5"><![CDATA[<details>
-  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
-  <summary>目次</summary>
-  <nav>
-<ul id="markdown-toc">
-  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
-</ul>
-    <!-- https://stackoverflow.com/a/38419441/11480802 -->
-  </nav>
-</details>
-<p><br /></p>
-
-<h2 id="お知らせ">お知らせ</h2>
-
-<ul>
-  <li>出演して頂ける方や感想などをお待ちしております！ <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<ul>
-  <li>エンディング BGM
-    <ul>
-      <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
-      <li>曲名: 弓</li>
-    </ul>
-  </li>
-</ul>
-
-<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="ダークマター" /><summary type="html"><![CDATA[さんと、[おか](https://twitter.com/nowohyeah)、でXXXについて話しました。]]></summary></entry><entry><title type="html">62: Altermagnet</title><link href="https://interaxion-podcast.github.io/62" rel="alternate" type="text/html" title="62: Altermagnet" /><published>2024-08-04T00:00:00+09:00</published><updated>2024-08-04T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep62</id><content type="html" xml:base="https://interaxion-podcast.github.io/62"><![CDATA[<details>
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="超伝導" /><category term="ドイツ" /><category term="放射光" /><category term="海外ポスドク" /><category term="海外大学院" /><summary type="html"><![CDATA[[ぐーする](https://twitter.com/goosle_l)さん、[部品](https://twitter.com/tjmlab)、[おか](https://twitter.com/nowohyeah)で高温超伝導、一軸圧測定、海外博士課程などについて話しました。 (2024/05/27 収録)]]></summary></entry><entry><title type="html">62: Altermagnet</title><link href="https://interaxion-podcast.github.io/62" rel="alternate" type="text/html" title="62: Altermagnet" /><published>2024-08-04T00:00:00+09:00</published><updated>2024-08-04T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep62</id><content type="html" xml:base="https://interaxion-podcast.github.io/62"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -1443,4 +1547,38 @@ XENONnT や世界中の数多あるダークマター探索実験からの報告
   <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
   <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="自転車" /><category term="栃木" /><summary type="html"><![CDATA[[カソクキセンパイ](https://twitter.com/AccSempai)、[ピージェイ](https://twitter.com/xiPJ)、[セゾン](https://twitter.com/ShowEachLow)、[おか](https://twitter.com/nowohyeah)でもてぎエンデューロ春2024に出場しました。 (後編)]]></summary></entry></feed>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="自転車" /><category term="栃木" /><summary type="html"><![CDATA[[カソクキセンパイ](https://twitter.com/AccSempai)、[ピージェイ](https://twitter.com/xiPJ)、[セゾン](https://twitter.com/ShowEachLow)、[おか](https://twitter.com/nowohyeah)でもてぎエンデューロ春2024に出場しました。 (後編)]]></summary></entry><entry><title type="html">60.5: Step by Step Radio</title><link href="https://interaxion-podcast.github.io/60-5" rel="alternate" type="text/html" title="60.5: Step by Step Radio" /><published>2024-05-14T00:00:00+09:00</published><updated>2024-05-14T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep60.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/60-5"><![CDATA[<details>
+  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
+  <summary>目次</summary>
+  <nav>
+<ul id="markdown-toc">
+  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
+</ul>
+    <!-- https://stackoverflow.com/a/38419441/11480802 -->
+  </nav>
+</details>
+<p><br /></p>
+
+<ul>
+  <li><a href="https://motegi7h.jp/haru/">第10回もてぎエンデューロ 春 2024｜モビリティリゾートもてぎ</a></li>
+  <li><a href="https://www.oppenheimermovie.jp/">映画『オッペンハイマー』公式｜3月29日(金)公開</a></li>
+  <li>ラビ振動の話をしている(?)回: <a href="https://interaxion-podcast.github.io/55">Interaxion 55: Quo vadis?</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">普段イオン源しか運転してないカソクキセンパイの運転する車でなんとか栃木来れた <a href="https://t.co/CezbPY3WiO">pic.twitter.com/CezbPY3WiO</a></p>
+  <p>— oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1787324669689053626?ref_src=twsrc%5Etfw">May 6, 2024</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<h3 id="お知らせ">お知らせ</h3>
+
+<ul>
+  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
+  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="自転車" /><category term="栃木" /><summary type="html"><![CDATA[[カソクキセンパイ](https://twitter.com/AccSempai)、[ピージェイ](https://twitter.com/xiPJ)、[セゾン](https://twitter.com/ShowEachLow)、[おか](https://twitter.com/nowohyeah)でもてぎエンデューロ春2024に出場しました。 (前編)]]></summary></entry></feed>

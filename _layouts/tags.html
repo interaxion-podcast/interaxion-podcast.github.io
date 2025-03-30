@@ -6,7 +6,13 @@ layout: default
 <div class="tag-list">
   <h2>タグ一覧</h2>
   {% for tag in sortedTags %}
-  <span class="span-tag"><a href="#{{ tag[0] }}">{{ tag[0] }}</a></span>
+    <!-- tag[0] はタグ名、tag[1]はそのタグの着いた記事のリスト -->
+    {% assign tag_name = tag[0] %}
+    {% assign tag_count = tag[1] | size %}
+    <!-- tag_count の2倍の大きさにする-->
+    <span class="span-tag" style="font-size: {{ tag_count | times: 2 }}px">
+      <a href="#{{ tag_name }}">{{ tag_name }}</a>
+    </span>
   {% endfor %}
 </div>
 <br><br>

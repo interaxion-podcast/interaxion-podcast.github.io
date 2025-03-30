@@ -2,6 +2,9 @@
 layout: default
 ---
 {% assign sortedTags = site.tags | sort %}
+{% assign max_count = site.tags | map: "size" | max %} <!-- 最大頻度 -->
+{% assign min_count = site.tags | map: "size" | min %} <!-- 最小頻度 -->
+{% assign range = max_count | minus: min_count | divided_by: 5 %} <!-- 1段階の範囲 -->
 
 <div class="tag-list">
   <h2>タグ一覧</h2>
@@ -9,8 +12,21 @@ layout: default
     <!-- tag[0] はタグ名、tag[1]はそのタグの着いた記事のリスト -->
     {% assign tag_name = tag[0] %}
     {% assign tag_count = tag[1] | size %}
-    <!-- tag_count の2倍の大きさにする-->
-    <span class="span-tag" style="font-size: {{ tag_count | times: 2 }}px">
+
+    <!-- 出現頻度を5段階に分ける -->
+    {% if tag_count <= min_count | plus: range %}
+      {% assign font_size = 1 %}
+    {% elsif tag_count <= min_count | plus: range | times: 2 %}
+      {% assign font_size = 2 %}
+    {% elsif tag_count <= min_count | plus: range | times: 3 %}
+      {% assign font_size = 3 %}
+    {% elsif tag_count <= min_count | plus: range | times: 4 %}
+      {% assign font_size = 4 %}
+    {% else %}
+      {% assign font_size = 5 %}
+    {% endif %}
+  
+    <span class="span-tag" style="font-size: {{ font_size }}em">
       <a href="#{{ tag_name }}">{{ tag_name }}</a>
     </span>
   {% endfor %}

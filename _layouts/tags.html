@@ -2,9 +2,25 @@
 layout: default
 ---
 {% assign sortedTags = site.tags | sort %}
-{% assign max_count = site.tags | map: "size" | max %} <!-- 最大頻度 -->
-{% assign min_count = site.tags | map: "size" | min %} <!-- 最小頻度 -->
+{% assign max_count = 0 %} <!-- 最大頻度 -->
+{% assign min_count = 9999 %} <!-- 最小頻度 -->
+
+{% for tag in site.tags %}
+  {% assign current_size = tag[1] | size %}
+  {% if current_size > max_count %}
+    {% assign max_count = current_size %}
+  {% endif %}
+  {% if current_size < min_count %}
+    {% assign min_count = current_size %}
+  {% endif %}
+{% endfor %}
+
 {% assign range = max_count | minus: min_count | divided_by: 5 %} <!-- 1段階の範囲 -->
+{% assign div1 = min_count | plus: range %}
+{% assign div2 = min_count | plus: range | times:2 %}
+{% assign div3 = min_count | plus: range | times:3 %}
+{% assign div4 = min_count | plus: range | times:4 %}
+
 
 <div class="tag-list">
   <h2>タグ一覧</h2>
@@ -14,16 +30,16 @@ layout: default
     {% assign tag_count = tag[1] | size %}
 
     <!-- 出現頻度を5段階に分ける -->
-    {% if tag_count <= min_count | plus: range %}
+    {% if tag_count <= div1 %}
       {% assign font_size = 1 %}
-    {% elsif tag_count <= min_count | plus: range | times: 2 %}
-      {% assign font_size = 2 %}
-    {% elsif tag_count <= min_count | plus: range | times: 3 %}
-      {% assign font_size = 3 %}
-    {% elsif tag_count <= min_count | plus: range | times: 4 %}
-      {% assign font_size = 4 %}
+    {% elsif tag_count <= div2 %}
+      {% assign font_size = 1.2 %}
+    {% elsif tag_count <= div2 %}
+      {% assign font_size = 1.4 %}
+    {% elsif tag_count <= div3 %}
+      {% assign font_size = 1.6 %}
     {% else %}
-      {% assign font_size = 5 %}
+      {% assign font_size = 1.8 %}
     {% endif %}
   
     <span class="span-tag" style="font-size: {{ font_size }}em">

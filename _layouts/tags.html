@@ -15,12 +15,26 @@ layout: default
   {% endif %}
 {% endfor %}
 
-{% assign range = max_count | minus: min_count | divided_by: 5 %} <!-- 1段階の範囲 -->
-{% assign div1 = min_count | plus: range %}
-{% assign div2 = min_count | plus: range | times:2 %}
-{% assign div3 = min_count | plus: range | times:3 %}
-{% assign div4 = min_count | plus: range | times:4 %}
+{% assign thresholds = "" %}
+{% assign font_sizes = "" %}
+{% assign font_factor = 0.05 %}
 
+<!--50段階にする-->
+{% assign range = max_count | minus: min_count | divided_by: 50 %}
+{% for i in (1..50) %}
+  {% if thresholds == "" %}
+    {% assign thresholds =  min_count | plus: range | times: i %}
+    {% assign font_sizes =  1 %}
+  {% else %}
+    {% assign th = min_count | plus: range | times: i %}
+    {% assign fs = 1 | times: i | times: font_factor | plus: 1 %}
+    {% assign thresholds = thresholds | append: "," | append: th %}
+    {% assign font_sizes =  font_sizes | append: "," | append: fs %}
+  {% endif %}
+{% endfor %}
+
+{% assign thresholds = thresholds | split: "," %}
+{% assign font_sizes = font_sizes | split: "," %}
 
 <div class="tag-list">
   <h2>タグ一覧</h2>
@@ -29,19 +43,16 @@ layout: default
     {% assign tag_name = tag[0] %}
     {% assign tag_count = tag[1] | size %}
 
-    <!-- 出現頻度を5段階に分ける -->
-    {% if tag_count <= div1 %}
-      {% assign font_size = 1 %}
-    {% elsif tag_count <= div2 %}
-      {% assign font_size = 1.2 %}
-    {% elsif tag_count <= div2 %}
-      {% assign font_size = 1.4 %}
-    {% elsif tag_count <= div3 %}
-      {% assign font_size = 1.6 %}
-    {% else %}
-      {% assign font_size = 1.8 %}
-    {% endif %}
-  
+    {% assign i = 0 %}
+    {% assign font_size = 1 %}
+    {% for thre in thresholds %}
+      <!-- 数値型に変換-->
+      {% assign thre_num = thre | plus: 0 %}
+      {%if tag_count >= thre_num %}
+        {% assign font_size = font_sizes[i] %}
+      {% endif %}
+      {% assign i = i | plus: 1 %}
+    {% endfor %}  
     <span class="span-tag" style="font-size: {{ font_size }}em">
       <a href="#{{ tag_name }}">{{ tag_name }}</a>
     </span>
@@ -51,7 +62,7 @@ layout: default
 
 <h2>タグを含むエピソード一覧</h2>
 {% for tag in sortedTags %}
-  <div id="{{ tag[0]}}">
+  <div id="{{tag[0]}}">
     <h3>{{ tag[0] }}</h3>
     <ul>
     {% for post in tag[1] reversed %}

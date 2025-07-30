@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-03-30T22:52:10+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">65: Telescope on the Moon</title><link href="https://interaxion-podcast.github.io/65" rel="alternate" type="text/html" title="65: Telescope on the Moon" /><published>2025-03-22T00:00:00+09:00</published><updated>2025-03-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep65</id><content type="html" xml:base="https://interaxion-podcast.github.io/65"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-07-30T13:00:23+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">65: Telescope on the Moon</title><link href="https://interaxion-podcast.github.io/65" rel="alternate" type="text/html" title="65: Telescope on the Moon" /><published>2025-03-22T00:00:00+09:00</published><updated>2025-03-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep65</id><content type="html" xml:base="https://interaxion-podcast.github.io/65"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -374,11 +374,12 @@
   <li><a href="#4439-passcard-パスワード生成カード" id="markdown-toc-4439-passcard-パスワード生成カード">44:39 PassCard (パスワード生成カード)</a></li>
   <li><a href="#pokemon-go-plus" id="markdown-toc-pokemon-go-plus">Pokemon GO Plus</a></li>
   <li><a href="#nintendo-3ds-と-game-and-watch" id="markdown-toc-nintendo-3ds-と-game-and-watch">Nintendo 3DS と Game and Watch</a></li>
-  <li><a href="#arduboy" id="markdown-toc-arduboy">Arduboy</a></li>
-  <li><a href="#m5stack-m5stickc" id="markdown-toc-m5stack-m5stickc">M5Stack M5StickC</a></li>
-  <li><a href="#biblio" id="markdown-toc-biblio">biblio</a></li>
+  <li><a href="#arduboy-arduino-ゲーム機" id="markdown-toc-arduboy-arduino-ゲーム機">Arduboy (Arduino ゲーム機)</a></li>
+  <li><a href="#m5stack-m5stickc-ディスプレイ付きマイコン" id="markdown-toc-m5stack-m5stickc-ディスプレイ付きマイコン">M5Stack M5StickC (ディスプレイ付きマイコン)</a></li>
+  <li><a href="#biblio-ガラケー" id="markdown-toc-biblio-ガラケー">biblio (ガラケー)</a></li>
   <li><a href="#ipod-shuffle" id="markdown-toc-ipod-shuffle">iPod shuffle</a></li>
   <li><a href="#rabbit-r1" id="markdown-toc-rabbit-r1">Rabbit r1</a></li>
+  <li><a href="#まんがタイムきらら" id="markdown-toc-まんがタイムきらら">まんがタイムきらら</a></li>
   <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
 </ul>
     <!-- https://stackoverflow.com/a/38419441/11480802 -->
@@ -447,7 +448,7 @@
 その後、 Intel 主導で Ultrabook という概念が提唱され、今もある ASUS Zenbook などが生まれた。</li>
   <li><a href="https://kakaku.com/item/K0000962758/">価格.com - パナソニック Let’s note RZ6 CF-RZ6RDRVS 価格比較</a></li>
   <li><a href="https://nippon-bashi.biz/news/20181030_sofmap_namba.html">ソフマップ、オタロードの2店舗を統合　11月からは新「なんば店」に │ NIPPON-BASHI SHOP HEADLINE</a><br />
-偶然なのか、店の名前もザウルスだった！</li>
+偶然なのか、そういえば店の名前もザウルスだった！</li>
 </ul>
 
 <h3 id="2140-プレーリーカード-デジタル名刺">21:40 プレーリーカード (デジタル名刺)</h3>
@@ -544,20 +545,16 @@
 ゲーム&amp;ウオッチ復刻版が出て来る動画</li>
 </ul>
 
-<h3 id="arduboy">Arduboy</h3>
+<h3 id="arduboy-arduino-ゲーム機">Arduboy (Arduino ゲーム機)</h3>
 
-<h3 id="m5stack-m5stickc">M5Stack M5StickC</h3>
+<h3 id="m5stack-m5stickc-ディスプレイ付きマイコン">M5Stack M5StickC (ディスプレイ付きマイコン)</h3>
 
 <ul>
-  <li>
-    <p>スタックチャン</p>
-  </li>
-  <li>
-    <p><a href="https://ja.wikipedia.org/wiki/SoftBank_001HT">SoftBank 001HT - Wikipedia</a></p>
-  </li>
+  <li><a href="https://protopedia.net/prototype/2345">スタックチャン（Stack-chan） - ProtoPedia</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/SoftBank_001HT">SoftBank 001HT - Wikipedia</a></li>
 </ul>
 
-<h3 id="biblio">biblio</h3>
+<h3 id="biblio-ガラケー">biblio (ガラケー)</h3>
 
 <ul>
   <li><a href="https://ja.wikipedia.org/wiki/Biblio">biblio - Wikipedia</a></li>
@@ -573,16 +570,34 @@
   <li><a href="https://play.date/jp/">Playdate</a></li>
 </ul>
 
+<h3 id="まんがタイムきらら">まんがタイムきらら</h3>
+
+<ul>
+  <li><a href="https://amzn.to/4maaXwq">ぼっちざろっく</a></li>
+  <li><a href="https://amzn.to/46XYmbf">まちカドまぞく</a></li>
+  <li><a href="https://amzn.to/4kNvdTn">なぜ働いていると本が読めなくなるのか</a></li>
+</ul>
+
 <h3 id="お知らせ">お知らせ</h3>
 
-<blockquote class="twitter-tweet tw-align-center" data-media-max-width="560">
-  <p lang="ja" dir="ltr">高校生・学部生に大ニュース！<br />日本物理学会のオンラインコンテンツが無料になったで！<br /><br />会友に申し込むだけで、物理学会誌の電子版が見れたり、2ヶ月に1回開催しているオンライン物理講話というイベントを聴講できます！<br /><br />次の物理講話(5/18)のテーマは宇宙初期の銀河とブラックホール！… <a href="https://t.co/z3zukXBhbZ">pic.twitter.com/z3zukXBhbZ</a></p>
-  <p>— ∫るんとう📡dx (@lunto_integral) <a href="https://twitter.com/lunto_integral/status/1790846999211741662?ref_src=twsrc%5Etfw">May 15, 2024</a></p>
+<ul>
+  <li><a href="https://www.arkbfm.com/">あらB.fm</a></li>
+  <li><a href="https://x.com/laforet_gfk">らふぉれ</a>のおばちゃん</li>
+</ul>
+
+<blockquote class="twitter-tweet">
+  <p lang="ja" dir="ltr">阪大の夫曰く <a href="https://t.co/kV2eGB2T1x">https://t.co/kV2eGB2T1x</a> <a href="https://t.co/b1nwJ8HFVY">pic.twitter.com/b1nwJ8HFVY</a></p>
+  <p>— おかださいこ (@okada_saiko) <a href="https://twitter.com/okada_saiko/status/1858830887112372280?ref_src=twsrc%5Etfw">November 19, 2024</a></p>
 </blockquote>
 <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <ul>
-  <li>出演して頂ける方や感想などをお待ちしております！ <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
+  <li>
+    <p>ハクシノカクレガ: <a href="https://note.com/kuzz_pontie_kak/n/nbf8edbc98c82">読んだ本の感想 2023/04 &amp; お知らせ｜かかーたさん🙇a.k.a屑奴@ハクシノカクレガ</a></p>
+  </li>
+  <li>
+    <p>出演して頂ける方や感想などをお待ちしております！ <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></p>
+  </li>
 </ul>
 
 <blockquote class="twitter-tweet tw-align-center">

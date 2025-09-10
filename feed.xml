@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-09-10T18:09:15+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">65: Telescope on the Moon</title><link href="https://interaxion-podcast.github.io/65" rel="alternate" type="text/html" title="65: Telescope on the Moon" /><published>2025-03-22T00:00:00+09:00</published><updated>2025-03-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep65</id><content type="html" xml:base="https://interaxion-podcast.github.io/65"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-09-10T18:20:08+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">65: Telescope on the Moon</title><link href="https://interaxion-podcast.github.io/65" rel="alternate" type="text/html" title="65: Telescope on the Moon" /><published>2025-03-22T00:00:00+09:00</published><updated>2025-03-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep65</id><content type="html" xml:base="https://interaxion-podcast.github.io/65"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -407,16 +407,7 @@
   <li>PDA <a href="https://ja.wikipedia.org/wiki/%E6%90%BA%E5%B8%AF%E6%83%85%E5%A0%B1%E7%AB%AF%E6%9C%AB">携帯情報端末 - Wikipedia</a></li>
   <li><a href="https://ja.wikipedia.org/wiki/SoftBank_X">SoftBank X - Wikipedia</a></li>
   <li><a href="https://ja.wikipedia.org/wiki/BlackBerry">BlackBerry - Wikipedia</a></li>
-  <li>
-    <table>
-      <tbody>
-        <tr>
-          <td>[WN-B11/CF</td>
-          <td>CF Type2スロット対応無線LANアダプタ - アイ・オー・データ機器 I-O DATA](https://www.iodata.jp/product/network/adp/wn-b11cf/)</td>
-        </tr>
-      </tbody>
-    </table>
-  </li>
+  <li><a href="https://www.iodata.jp/product/network/adp/wn-b11cf/">WN-B11/CF - CF Type2スロット対応無線LANアダプタ - アイ・オー・データ機器 I-O DATA</a></li>
   <li><a href="https://www.nintendo.co.jp/n01/n64/option/kakucyop/index.html">メモリー拡張パック</a></li>
   <li><a href="https://blog.jp.sharp/2024/03/22/43883/">【ザウルス誕生30年記念】企画担当同窓会！＜前編＞ - SHARP Blog</a></li>
   <li><a href="https://scrapbox.io/PDA-museum/">PDA博物館</a><br />

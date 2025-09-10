@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-09-10T23:56:53+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">65: Telescope on the Moon</title><link href="https://interaxion-podcast.github.io/65" rel="alternate" type="text/html" title="65: Telescope on the Moon" /><published>2025-03-22T00:00:00+09:00</published><updated>2025-03-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep65</id><content type="html" xml:base="https://interaxion-podcast.github.io/65"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-09-10T23:58:48+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">65: Telescope on the Moon</title><link href="https://interaxion-podcast.github.io/65" rel="alternate" type="text/html" title="65: Telescope on the Moon" /><published>2025-03-22T00:00:00+09:00</published><updated>2025-03-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep65</id><content type="html" xml:base="https://interaxion-podcast.github.io/65"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -376,7 +376,6 @@
   <li><a href="#5503-nintendo-3ds-と-game-and-watch" id="markdown-toc-5503-nintendo-3ds-と-game-and-watch">55:03 Nintendo 3DS と Game and Watch</a></li>
   <li><a href="#10913-arduboy-arduino-ゲーム機" id="markdown-toc-10913-arduboy-arduino-ゲーム機">1:09:13 Arduboy (Arduino ゲーム機)</a></li>
   <li><a href="#11313-m5stack-m5stickc-ディスプレイ付きマイコン" id="markdown-toc-11313-m5stack-m5stickc-ディスプレイ付きマイコン">1:13:13 M5Stack M5StickC (ディスプレイ付きマイコン)</a></li>
-  <li><a href="#12042-rabbit-r1" id="markdown-toc-12042-rabbit-r1">1:20:42 Rabbit r1</a></li>
   <li><a href="#12235--スマホ歴" id="markdown-toc-12235--スマホ歴">1:22:35  スマホ歴</a></li>
   <li><a href="#13611-pomrie-ついに起動" id="markdown-toc-13611-pomrie-ついに起動">1:36:11 pOmrie ついに起動</a></li>
   <li><a href="#14050-htc-j-butterfly-の子機" id="markdown-toc-14050-htc-j-butterfly-の子機">1:40:50 HTC J Butterfly の子機</a></li>
@@ -523,12 +522,6 @@
   <li>店を出る前に使い切れ</li>
 </ul>
 
-<h3 id="12042-rabbit-r1">1:20:42 Rabbit r1</h3>
-
-<ul>
-  <li><a href="https://play.date/jp/">Playdate</a></li>
-</ul>
-
 <h3 id="12235--スマホ歴">1:22:35  スマホ歴</h3>
 
 <ul>
@@ -558,7 +551,10 @@
 
 <h3 id="15654-rabbit-r1">1:56:54 rabbit r1</h3>
 
-<p>バルミューダフォン</p>
+<ul>
+  <li><a href="https://play.date/jp/">Playdate</a>
+バルミューダフォン</li>
+</ul>
 
 <p>今は日本語モードもあります</p>
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-07-31T18:11:14+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">65: Telescope on the Moon</title><link href="https://interaxion-podcast.github.io/65" rel="alternate" type="text/html" title="65: Telescope on the Moon" /><published>2025-03-22T00:00:00+09:00</published><updated>2025-03-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep65</id><content type="html" xml:base="https://interaxion-podcast.github.io/65"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-09-10T18:09:15+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">65: Telescope on the Moon</title><link href="https://interaxion-podcast.github.io/65" rel="alternate" type="text/html" title="65: Telescope on the Moon" /><published>2025-03-22T00:00:00+09:00</published><updated>2025-03-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep65</id><content type="html" xml:base="https://interaxion-podcast.github.io/65"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -372,13 +372,19 @@
   <li><a href="#3025-dji-osmo-mobile-ジンバル" id="markdown-toc-3025-dji-osmo-mobile-ジンバル">30:25 DJI Osmo Mobile (ジンバル)</a></li>
   <li><a href="#3319-kingjim-pomera-dm-20-小型ワープロ" id="markdown-toc-3319-kingjim-pomera-dm-20-小型ワープロ">33:19 KINGJIM POMERA DM-20 (小型ワープロ)</a></li>
   <li><a href="#4439-passcard-パスワード生成カード" id="markdown-toc-4439-passcard-パスワード生成カード">44:39 PassCard (パスワード生成カード)</a></li>
-  <li><a href="#pokemon-go-plus" id="markdown-toc-pokemon-go-plus">Pokemon GO Plus</a></li>
-  <li><a href="#nintendo-3ds-と-game-and-watch" id="markdown-toc-nintendo-3ds-と-game-and-watch">Nintendo 3DS と Game and Watch</a></li>
-  <li><a href="#arduboy-arduino-ゲーム機" id="markdown-toc-arduboy-arduino-ゲーム機">Arduboy (Arduino ゲーム機)</a></li>
-  <li><a href="#m5stack-m5stickc-ディスプレイ付きマイコン" id="markdown-toc-m5stack-m5stickc-ディスプレイ付きマイコン">M5Stack M5StickC (ディスプレイ付きマイコン)</a></li>
-  <li><a href="#biblio-ガラケー" id="markdown-toc-biblio-ガラケー">biblio (ガラケー)</a></li>
-  <li><a href="#ipod-shuffle" id="markdown-toc-ipod-shuffle">iPod shuffle</a></li>
-  <li><a href="#rabbit-r1" id="markdown-toc-rabbit-r1">Rabbit r1</a></li>
+  <li><a href="#5224-pokemon-go-plus" id="markdown-toc-5224-pokemon-go-plus">52:24 Pokemon GO Plus</a></li>
+  <li><a href="#5503-nintendo-3ds-と-game-and-watch" id="markdown-toc-5503-nintendo-3ds-と-game-and-watch">55:03 Nintendo 3DS と Game and Watch</a></li>
+  <li><a href="#10913-arduboy-arduino-ゲーム機" id="markdown-toc-10913-arduboy-arduino-ゲーム機">1:09:13 Arduboy (Arduino ゲーム機)</a></li>
+  <li><a href="#11313-m5stack-m5stickc-ディスプレイ付きマイコン" id="markdown-toc-11313-m5stack-m5stickc-ディスプレイ付きマイコン">1:13:13 M5Stack M5StickC (ディスプレイ付きマイコン)</a></li>
+  <li><a href="#12042-rabbit-r1" id="markdown-toc-12042-rabbit-r1">1:20:42 Rabbit r1</a></li>
+  <li><a href="#12235--スマホ歴" id="markdown-toc-12235--スマホ歴">1:22:35  スマホ歴</a></li>
+  <li><a href="#13611-pomrie-ついに起動" id="markdown-toc-13611-pomrie-ついに起動">1:36:11 pOmrie ついに起動</a></li>
+  <li><a href="#14050-htc-j-butterfly-の子機" id="markdown-toc-14050-htc-j-butterfly-の子機">1:40:50 HTC J Butterfly の子機</a></li>
+  <li><a href="#14737-ipod-shuffle" id="markdown-toc-14737-ipod-shuffle">1:47:37 iPod Shuffle</a></li>
+  <li><a href="#15654-rabbit-r1" id="markdown-toc-15654-rabbit-r1">1:56:54 rabbit r1</a></li>
+  <li><a href="#20805-はんこ完成" id="markdown-toc-20805-はんこ完成">2:08:05 はんこ完成</a></li>
+  <li><a href="#21058-思い出ガジェットまとめ" id="markdown-toc-21058-思い出ガジェットまとめ">2:10:58 思い出ガジェットまとめ</a></li>
+  <li><a href="#22501-落穂拾い" id="markdown-toc-22501-落穂拾い">2:25:01 落穂拾い</a></li>
   <li><a href="#まんがタイムきらら" id="markdown-toc-まんがタイムきらら">まんがタイムきらら</a></li>
   <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
 </ul>
@@ -492,51 +498,109 @@
   <li><a href="https://www.maruoka-digital.jp/blogcontent/3401144119/">認証方式「What you know」「What you have」「What you are」「What calls you」：4つで考えるべき - まるおかディジタル株式会社</a></li>
 </ul>
 
-<h3 id="pokemon-go-plus">Pokemon GO Plus</h3>
+<h3 id="5224-pokemon-go-plus">52:24 Pokemon GO Plus</h3>
 
-<h3 id="nintendo-3ds-と-game-and-watch">Nintendo 3DS と Game and Watch</h3>
+<h3 id="5503-nintendo-3ds-と-game-and-watch">55:03 Nintendo 3DS と Game and Watch</h3>
 
 <ul>
   <li><a href="https://www.nintendo.com/jp/topics/article/69765b61-fc9c-11e5-8360-063b7ac45a6d">ご注文受付開始！スーパーファミコン柄のNewニンテンドー3DS LL本体をご紹介します。 - トピックス - Nintendo</a></li>
   <li><a href="https://www.nintendo.com/jp/hardware/alarmo/index.html">ニンテンドーサウンドクロック Alarmo - 任天堂</a></li>
-  <li>
-    <p><a href="https://www.nintendo.com/jp/nintendo-music/index.html">Nintendo Music - 任天堂</a></p>
-  </li>
+  <li><a href="https://www.nintendo.com/jp/nintendo-music/index.html">Nintendo Music - 任天堂</a></li>
   <li><a href="https://www.nintendo.co.jp/hardware/gamewatch/mario/history.html">HISTORY｜ゲーム&amp;ウオッチ スーパーマリオブラザーズ｜任天堂</a></li>
   <li><a href="https://www.nintendo.co.jp/hardware/gamewatch/mario/index.html">ゲーム&amp;ウオッチ スーパーマリオブラザーズ｜任天堂</a></li>
   <li><a href="https://gametech.co.jp/collaborate/tetris/index.html">テトリス®ミニ｜テトリス社公式ライセンス取得！あのキーホルダー型携帯ゲーム機が帰ってきた！</a></li>
   <li><a href="https://youtu.be/qDYNcFzYV68&amp;t=940">【ルームツアー】森のなかの作業部屋。映像作家のデスク周りと仕事道具たち｜RoomTour</a><br />
 ゲーム&amp;ウオッチ復刻版が出て来る動画</li>
+  <li>グリーングリーン</li>
+  <li>横井軍平</li>
 </ul>
 
-<h3 id="arduboy-arduino-ゲーム機">Arduboy (Arduino ゲーム機)</h3>
+<h3 id="10913-arduboy-arduino-ゲーム機">1:09:13 Arduboy (Arduino ゲーム機)</h3>
 
-<h3 id="m5stack-m5stickc-ディスプレイ付きマイコン">M5Stack M5StickC (ディスプレイ付きマイコン)</h3>
+<h3 id="11313-m5stack-m5stickc-ディスプレイ付きマイコン">1:13:13 M5Stack M5StickC (ディスプレイ付きマイコン)</h3>
 
 <ul>
   <li><a href="https://protopedia.net/prototype/2345">スタックチャン（Stack-chan） - ProtoPedia</a></li>
   <li><a href="https://ja.wikipedia.org/wiki/SoftBank_001HT">SoftBank 001HT - Wikipedia</a></li>
+  <li>m5paper</li>
+  <li>rustで動くやつ</li>
+  <li>ガジェットは熱いうちに使え</li>
+  <li>店を出る前に使い切れ</li>
 </ul>
 
-<h3 id="biblio-ガラケー">biblio (ガラケー)</h3>
-
-<ul>
-  <li><a href="https://ja.wikipedia.org/wiki/Biblio">biblio - Wikipedia</a></li>
-</ul>
-
-<p>HTC</p>
-
-<h3 id="ipod-shuffle">iPod shuffle</h3>
-
-<h3 id="rabbit-r1">Rabbit r1</h3>
+<h3 id="12042-rabbit-r1">1:20:42 Rabbit r1</h3>
 
 <ul>
   <li><a href="https://play.date/jp/">Playdate</a></li>
 </ul>
 
+<h3 id="12235--スマホ歴">1:22:35  スマホ歴</h3>
+
+<ul>
+  <li><a href="https://ja.wikipedia.org/wiki/Biblio">biblio - Wikipedia</a></li>
+  <li>HTC EVo</li>
+  <li>HTC J</li>
+  <li>日経 DOCOMO iPhone</li>
+  <li>HTC Desire HD</li>
+  <li>トラックに轢かれても無傷</li>
+  <li>今のHTCスマホ</li>
+  <li>Nexus5</li>
+  <li>iPad よくできてる</li>
+</ul>
+
+<h3 id="13611-pomrie-ついに起動">1:36:11 pOmrie ついに起動</h3>
+
+<h3 id="14050-htc-j-butterfly-の子機">1:40:50 HTC J Butterfly の子機</h3>
+
+<h3 id="14737-ipod-shuffle">1:47:37 iPod Shuffle</h3>
+
+<p>iPod終了の回</p>
+
+<p>iPod nano につなぐ ナイキのやつ</p>
+
+<p>https://x.com/nowohyeah/status/1252694199562051585</p>
+
+<h3 id="15654-rabbit-r1">1:56:54 rabbit r1</h3>
+
+<p>バルミューダフォン</p>
+
+<p>今は日本語モードもあります</p>
+
+<p>anthropic compute use 自動化のやつ</p>
+
+<h3 id="20805-はんこ完成">2:08:05 はんこ完成</h3>
+
+<h3 id="21058-思い出ガジェットまとめ">2:10:58 思い出ガジェットまとめ</h3>
+
+<ul>
+  <li>rabbit r1 teach mode</li>
+  <li>air tag 2</li>
+</ul>
+
+<h3 id="22501-落穂拾い">2:25:01 落穂拾い</h3>
+
+<p>-coral TPU
+-M5Stack AWS
+-ROS2</p>
+<ul>
+  <li>ROS2 用マイコン GRROSE</li>
+  <li>Amazon Car</li>
+  <li>Rabbit R1 のあらBfm回</li>
+  <li>Steam Deck あらBfm回</li>
+  <li>Wine Steam deck</li>
+  <li>ガジェットへの感度衰える問題</li>
+  <li>aura ring</li>
+  <li>rebuild回
+-雛形さん回</li>
+  <li>クラウドファンディング top joy butterfly なんとかの回
+e ink color</li>
+</ul>
+
 <h3 id="まんがタイムきらら">まんがタイムきらら</h3>
 
 <ul>
+  <li>逃げ上手</li>
+  <li>次にくるきらら作品は？</li>
   <li><a href="https://amzn.to/4maaXwq">ぼっちざろっく</a></li>
   <li><a href="https://amzn.to/46XYmbf">まちカドまぞく</a></li>
   <li><a href="https://amzn.to/4kNvdTn">なぜ働いていると本が読めなくなるのか</a></li>

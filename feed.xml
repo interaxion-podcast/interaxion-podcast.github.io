@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-09-10T23:46:56+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">65: Telescope on the Moon</title><link href="https://interaxion-podcast.github.io/65" rel="alternate" type="text/html" title="65: Telescope on the Moon" /><published>2025-03-22T00:00:00+09:00</published><updated>2025-03-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep65</id><content type="html" xml:base="https://interaxion-podcast.github.io/65"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-09-10T23:56:53+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">65: Telescope on the Moon</title><link href="https://interaxion-podcast.github.io/65" rel="alternate" type="text/html" title="65: Telescope on the Moon" /><published>2025-03-22T00:00:00+09:00</published><updated>2025-03-22T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep65</id><content type="html" xml:base="https://interaxion-podcast.github.io/65"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -513,10 +513,12 @@
 <h3 id="11313-m5stack-m5stickc-ディスプレイ付きマイコン">1:13:13 M5Stack M5StickC (ディスプレイ付きマイコン)</h3>
 
 <ul>
+  <li>M5Stack</li>
+  <li>M5StickC</li>
+  <li>M5StickC 自立アルゴリズム</li>
   <li><a href="https://protopedia.net/prototype/2345">スタックチャン（Stack-chan） - ProtoPedia</a></li>
-  <li><a href="https://ja.wikipedia.org/wiki/SoftBank_001HT">SoftBank 001HT - Wikipedia</a></li>
   <li>m5paper</li>
-  <li>rustで動くやつ</li>
+  <li>rustで動くやつ wio</li>
   <li>ガジェットは熱いうちに使え</li>
   <li>店を出る前に使い切れ</li>
 </ul>
@@ -535,6 +537,7 @@
   <li>HTC J</li>
   <li>日経 DOCOMO iPhone</li>
   <li>HTC Desire HD</li>
+  <li><a href="https://ja.wikipedia.org/wiki/SoftBank_001HT">SoftBank 001HT - Wikipedia</a></li>
   <li>トラックに轢かれても無傷</li>
   <li>今のHTCスマホ</li>
   <li>Nexus5</li>

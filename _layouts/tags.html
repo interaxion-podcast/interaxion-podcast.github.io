@@ -2,8 +2,8 @@
 layout: default
 ---
 {% assign sortedTags = site.tags | sort %}
-{% assign max_count = 0 %} <!-- 最大頻度 -->
-{% assign min_count = 9999 %} <!-- 最小頻度 -->
+{% assign max_count = 0 %} {% comment %} 最大頻度 {% endcomment %}
+{% assign min_count = 9999 %} {% comment %} 最小頻度 {% endcomment %}
 
 {% for tag in site.tags %}
   {% assign current_size = tag[1] | size %}
@@ -19,7 +19,7 @@ layout: default
 {% assign font_sizes = "" %}
 {% assign font_factor = 0.05 %}
 
-<!--50段階にする-->
+{% comment %} 50段階にする {% endcomment %}
 {% assign range = max_count | minus: min_count | divided_by: 50 %}
 {% for i in (1..50) %}
   {% if thresholds == "" %}
@@ -39,14 +39,18 @@ layout: default
 <div class="tag-list">
   <h2>タグ一覧</h2>
   {% for tag in sortedTags %}
-    <!-- tag[0] はタグ名、tag[1]はそのタグの着いた記事のリスト -->
+    {% comment %}
+      tag[0] はタグ名、tag[1]はそのタグの着いた記事のリスト
+    {% endcomment %}
     {% assign tag_name = tag[0] %}
     {% assign tag_count = tag[1] | size %}
 
     {% assign i = 0 %}
     {% assign font_size = 1 %}
     {% for thre in thresholds %}
-      <!-- 数値型に変換-->
+      {% comment %}
+        数値型に変換
+      {% endcomment %}
       {% assign thre_num = thre | plus: 0 %}
       {%if tag_count >= thre_num %}
         {% assign font_size = font_sizes[i] %}

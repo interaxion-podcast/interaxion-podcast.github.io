@@ -1,4 +1,40 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2025-09-21T17:17:27+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">66: Nostalgic Gadgets Meetup vol. 1</title><link href="https://interaxion-podcast.github.io/66" rel="alternate" type="text/html" title="66: Nostalgic Gadgets Meetup vol. 1" /><published>2025-09-21T00:00:00+09:00</published><updated>2025-09-21T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep66</id><content type="html" xml:base="https://interaxion-podcast.github.io/66"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2026-01-10T19:21:00+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">67: シーズン2</title><link href="https://interaxion-podcast.github.io/67-draft" rel="alternate" type="text/html" title="67: シーズン2" /><published>2026-01-01T00:00:00+09:00</published><updated>2026-01-01T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep67</id><content type="html" xml:base="https://interaxion-podcast.github.io/67-draft"><![CDATA[<details>
+  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
+  <summary>目次</summary>
+  <nav>
+<ul id="markdown-toc">
+  <li><a href="#000" id="markdown-toc-000">0:00</a></li>
+  <li><a href="#000000-お知らせ" id="markdown-toc-000000-お知らせ">00:00:00 お知らせ</a></li>
+</ul>
+    <!-- https://stackoverflow.com/a/38419441/11480802 -->
+  </nav>
+</details>
+<p><br /></p>
+
+<h3 id="000">0:00</h3>
+
+<h3 id="000000-お知らせ">00:00:00 お知らせ</h3>
+
+<ul>
+  <li>出演して頂ける方や感想などをお待ちしております！ <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
+</ul>
+
+<blockquote class="twitter-tweet tw-align-center">
+  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
+  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
+</blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<ul>
+  <li>エンディング BGM
+    <ul>
+      <li><a href="https://audiostock.jp/audio/1409484">夜に合うクールなトラック (No.1409484) 著作権フリー音源・音楽素材 [mp3/WAV] - Audiostock(オーディオストック)</a></li>
+      <li>曲名: 弓</li>
+    </ul>
+  </li>
+</ul>
+
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="ダークマター" /><summary type="html"><![CDATA[[ぶひん](https://x.com/tjmlab)、[ブカ](https://x.com/elmizbuka)、[ボインゴ](https://x.com/toshakuukan)、[oka](https://x.com/nowohyeah)でシーズン2の幕開けを高らかに宣言しました。 (2025/12 収録)]]></summary></entry><entry><title type="html">66: Nostalgic Gadgets Meetup vol. 1</title><link href="https://interaxion-podcast.github.io/66" rel="alternate" type="text/html" title="66: Nostalgic Gadgets Meetup vol. 1" /><published>2025-09-21T00:00:00+09:00</published><updated>2025-09-21T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep66</id><content type="html" xml:base="https://interaxion-podcast.github.io/66"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -1552,38 +1588,4 @@ XENONnT や世界中の数多あるダークマター探索実験からの報告
   <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
   <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
 </blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="自転車" /><category term="栃木" /><summary type="html"><![CDATA[[カソクキセンパイ](https://twitter.com/AccSempai)、[ピージェイ](https://twitter.com/xiPJ)、[セゾン](https://twitter.com/ShowEachLow)、[おか](https://twitter.com/nowohyeah)でもてぎエンデューロ春2024に出場しました。 (後編)]]></summary></entry><entry><title type="html">60.5: Step by Step Radio</title><link href="https://interaxion-podcast.github.io/60-5" rel="alternate" type="text/html" title="60.5: Step by Step Radio" /><published>2024-05-14T00:00:00+09:00</published><updated>2024-05-14T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep60.5</id><content type="html" xml:base="https://interaxion-podcast.github.io/60-5"><![CDATA[<details>
-  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
-  <summary>目次</summary>
-  <nav>
-<ul id="markdown-toc">
-  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
-</ul>
-    <!-- https://stackoverflow.com/a/38419441/11480802 -->
-  </nav>
-</details>
-<p><br /></p>
-
-<ul>
-  <li><a href="https://motegi7h.jp/haru/">第10回もてぎエンデューロ 春 2024｜モビリティリゾートもてぎ</a></li>
-  <li><a href="https://www.oppenheimermovie.jp/">映画『オッペンハイマー』公式｜3月29日(金)公開</a></li>
-  <li>ラビ振動の話をしている(?)回: <a href="https://interaxion-podcast.github.io/55">Interaxion 55: Quo vadis?</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">普段イオン源しか運転してないカソクキセンパイの運転する車でなんとか栃木来れた <a href="https://t.co/CezbPY3WiO">pic.twitter.com/CezbPY3WiO</a></p>
-  <p>— oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1787324669689053626?ref_src=twsrc%5Etfw">May 6, 2024</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<h3 id="お知らせ">お知らせ</h3>
-
-<ul>
-  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="自転車" /><category term="栃木" /><summary type="html"><![CDATA[[カソクキセンパイ](https://twitter.com/AccSempai)、[ピージェイ](https://twitter.com/xiPJ)、[セゾン](https://twitter.com/ShowEachLow)、[おか](https://twitter.com/nowohyeah)でもてぎエンデューロ春2024に出場しました。 (前編)]]></summary></entry></feed>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="自転車" /><category term="栃木" /><summary type="html"><![CDATA[[カソクキセンパイ](https://twitter.com/AccSempai)、[ピージェイ](https://twitter.com/xiPJ)、[セゾン](https://twitter.com/ShowEachLow)、[おか](https://twitter.com/nowohyeah)でもてぎエンデューロ春2024に出場しました。 (後編)]]></summary></entry></feed>

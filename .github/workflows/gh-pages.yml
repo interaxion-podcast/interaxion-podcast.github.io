@@ -7,22 +7,35 @@ on:
 
 jobs:
   deploy:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
-      - name: checkout
-        uses: actions/checkout@v2
-      - name: setup ruby
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 2.7
-      - name: bundle install, jekyll build
+          ruby-version: '2.7'
+          bundler-cache: true
+
+      - name: Cache Jekyll
+        uses: actions/cache@v4
+        with:
+          path: |
+            .jekyll-cache
+            _site
+          key: ${{ runner.os }}-jekyll-${{ hashFiles('**/*.md', '**/*.html', '_config.yml', 'Gemfile.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-jekyll-
+
+      - name: Build Jekyll site
         env:
           TZ: "Asia/Tokyo"
-        run: |
-          bundle install
-          bundle exec jekyll build
+          JEKYLL_ENV: production
+        run: bundle exec jekyll build
+
       - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
+        uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./_site

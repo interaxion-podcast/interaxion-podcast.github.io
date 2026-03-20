@@ -1,4 +1,196 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2026-03-20T11:29:37+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">67: シーズン2</title><link href="https://interaxion-podcast.github.io/67" rel="alternate" type="text/html" title="67: シーズン2" /><published>2026-02-10T00:00:00+09:00</published><updated>2026-02-10T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep67</id><content type="html" xml:base="https://interaxion-podcast.github.io/67"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2026-03-20T11:30:52+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">Blog: 『プロジェクト・ヘイル・メアリー』とマヨラナ・ニュートリノについて</title><link href="https://interaxion-podcast.github.io/blog/2026-03-20" rel="alternate" type="text/html" title="Blog: 『プロジェクト・ヘイル・メアリー』とマヨラナ・ニュートリノについて" /><published>2026-03-20T00:00:00+09:00</published><updated>2026-03-20T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/blog/blog-phm</id><content type="html" xml:base="https://interaxion-podcast.github.io/blog/2026-03-20"><![CDATA[<p>『プロジェクト・ヘイル・メアリー』 (以下 PHM) の映画がいよいよ本日2026年3月20日に日本で公開されます！</p>
+
+<p>2022年に原作を読んでマヨラナ・ニュートリノという未発見の素粒子が出てきて衝撃を受け、そのことについて書こうと思ってなかなかやらずにいましたが、今ならネタバレなどを気にせずかけるので、書いてみようと思います。もし、映画や小説を何のネタバレもなく楽しみたいという方は、鑑賞が終わってから読みに来てください。</p>
+
+<p>（公開日までに間に合わなかったのでとりあえず書きかけでリリースします。)</p>
+
+<h2 id="phm-のあらすじ">PHM のあらすじ</h2>
+
+<p>マヨラナ・ニュートリノの話をする前に、いくつか説明しておきたい物語の前提があります。</p>
+
+<p>PHM の物語では太陽のエネルギーが何らかの原因によって減少し続け、それによって地球が危機に瀕しています。これを解決するために宇宙に送られた主人公の活躍がストーリーの主軸ですが、途中で太陽のエネルギーが失われていたのはアストロファージという生物が原因だったことが明かされます。そして、アストロファージが太陽からエネルギーを持ち出し、蓄えるメカニズムとしてマヨラナ・ニュートリノが出てくるのです。</p>
+
+<h2 id="ニュートリノとマヨラナニュートリノ">ニュートリノとマヨラナ・ニュートリノ</h2>
+
+<p>ここからはニュートリノおよびマヨラナ・ニュートリノについて、本文を引きながら見ていきたいと思います。</p>
+
+<blockquote>
+  <p>「かれらはアストロファージがどうやってエネルギーを蓄えているか解明したの」 「ほんとに?!」喘ぎ声になってしまった。そして咳払いして、いい直した。「ほんとうに？」 「ええ。率直にいって、びっくりよ」彼女は最初のページのグラフを指さした。「手っ取り早くいうと──ニュートリノなの」</p>
+</blockquote>
+
+<p>ニュートリノという言葉は上巻の最後の方 (第13章)で登場します。そもそもニュートリノというのは何でしょうか。物質を構成する最小単位とされる素粒子の種類の1つですが、2002年と2015年にカミオカンデとスーパーカミオカンデでの実験がノーベル物理学賞の対象となったため、聞き憶えのある人も多いかもしれません。</p>
+
+<p>2002年のノーベル物理学賞 (の一部) はカミオカンデ実験で大マゼラン雲中の超新星 SN1987A からのニュートリノを検出したことに対して与えられました。このとき十の何十乗個もの膨大な数のニュートリノがカミオカンデ検出器を通り抜けましたが、検出されたのは11個でした。このようにニュートリノは、物質と反応する確率がとんでもなく低いという性質を持ち、幽霊粒子と呼ばれたりします。</p>
+
+<p>2015年のノーベル物理学賞はスーパーカミオカンデ実験と Sudbury Neutrino Observatory (SNO) 実験がニュートリノ振動という現象を発見したことに対して与えられました。現在ではニュートリノには3種類のものが存在し、それぞれが別の種類に変化することあると知られています。また、この性質によって、ニュートリノが非常に小さな質量を持つことも分かっています (質量は上限値のみ分かっており、絶対値は分かっていません)。</p>
+
+<blockquote>
+  <p>「わかるわ。完全に直観に反しているものね。でもアストロファージを殺すたびに大きなニュートリノ・バーストが起きたのよ。試料をわざわざアイスキューブ・ニュートリノ観測所に持ちこんでメインの検知プールで破裂させたら、大量のヒットが確認された。アストロファージは生きているときだけニュートリノを体内にとどめておけるの。それも大量に」</p>
+</blockquote>
+
+<p>ニュートリノを検出する方法にはいくつか種類がありますが、反応しにくいという性質から、大型の検出器を用意する必要があります。代表的なニュートリノ検出器では以下の物質を使っています。</p>
+
+<dl>
+  <dt>水</dt>
+  <dd>
+    <div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>粒子が媒質中の光の速さを超えたときに出るチェレンコフ光を検出する。カミオカンデ、スーパーカミオカンデ、ハイパーカミオカンデなどで利用。
+</code></pre></div>    </div>
+  </dd>
+  <dt>液体シンチレーター</dt>
+  <dd>
+    <p>粒子が通ると光る液体 (シンチレーター) を使用する。 SNO、カムランドなど。&lt;/dd&gt;</p>
+    <dt>南極の氷</dt>
+    <dd>
+      <p>水と同様、チェレンコフ光を検出する。IceCube が該当する。&lt;/dd&gt;
+&lt;/dl&gt;</p>
+
+      <p>PHM に出てくるアイスキューブというのは南極の氷の中に作られた検出器で、特に高エネルギーのニュートリノを検出するのに向いています。現在までにペタ電子ボルトという大きなエネルギーのニュートリノを検出しています。
+これは先ほど言及した超新星からのニュートリノ (10メガ電子ボルト程度) と比べると8桁も異なります。
+なぜ PHM に出てくるのがニュートリノ検出器として最も有名なスーパーカミオカンデではなく、 IceCube だったのかについては後で考察したいと思います。</p>
+
+      <blockquote>
+        <p>「ＣＥＲＮは、どういうメカニズムでやったのかわたしたちには理解できないけれど、とにかくその陽子同士が高速でぶつかると、その運動エネルギーが反対方向の運動ベクトルを持つ二つのニュートリノに転換されることを確認したの
+ (中略)
+ガンマ線はときどき、原子核のそばを通過したときに自然発生的に電子と陽電子になってしまうことがあるの。〝対生成〟というやつよ。だから、前代未聞というわけではないの。でもニュートリノがそんなふうにつくられるのは誰も見たことがなかった」</p>
+      </blockquote>
+
+      <p>次に述べられているのは CERN が、陽子同士をぶつけてニュートリノを生成することで、アストロファージの内部で起こっている現象を再現したという話です。
+CERN は実在し、陽子同士をぶつける加速器 (LHC) も実在しますが、この実験は架空です。
+対生成という現象はまさにここに書かれている現象のことで、
+例として光子から電子とその反粒子である陽電子が対になって生成される現象が挙げられています。
+何でも知ってる万能な主人公が対生成を知らないのは意外でした。対生成の逆の現象として対消滅というものがありますが、例えば陽電子がその辺にある電子と反応しガンマ線(光子)に変わる現象があります。これは PET (ポジトロン断層法) として癌の診断に使われているので、割と身近な現象です。</p>
+
+      <p>そんな対生成ですが、ニュートリノの対生成は見つかっていません。粒子や反粒子という概念を知っている人だと、当たり前だと思われるかもしれません。
+ニュートリノの反粒子は反ニュートリノなので、ニュートリノとニュートリノではそうなってないため対生成とならないためです。
+ただし、反ニュートリノはニュートリノと特に区別されないこともあります。
+例えばカムランドではニュートリノではなく反ニュートリノを検出しますが (KamLAND の AN は anti-neutrino を示す)、通常あまり意識しない気がします。
+スーパーカミオカンデではニュートリノと反ニュートリノのどちらも観測しますが、これらもわざわざ区別して言及されることは多くありません。
+じゃあニュートリノと反ニュートリノの対生成はこれまで観測されていないのかと言うと、普通にあります。
+例えばZボソンという素粒子は割と高い確率でニュートリノと反ニュートリノに崩壊します。
+これはまさに CERN の LHC で行われている実験でもよく見られる反応です。
+ということで、今の文脈ではニュートリノと反ニュートリノの区別を省略しているわけではなく、ニュートリノとニュートリノの対生成を意味しているようです。
+ややこしいですね。</p>
+
+      <p>なお、上記のニュートリノ、反ニュートリノ生成過程は光子から電子と陽電子が対生成するのと似ているのですが、Zボソンは質量が大きめです。
+PHM の主人公は光子が質量を持たないのに電子と陽電子が生まれることに驚いたようなので、Zボソンからニュートリノと反ニュートリノが生まれても特に驚かないのかもしれませんが、アインシュタインが \(E=mc^2\) という式で示したように質量とエネルギーは等価なため、元の粒子の質量の有無は関係ありません。</p>
+
+      <p>(ここでファインマン図を用いた説明を入れようとしましたが、またあとで)</p>
+
+      <!-- 
+ここでファインマン図という図を用いて、それぞれの反応を描いてみます。
+光子、Zボソンはゲージ粒子、電子、陽電子、ニュートリノ、反ニュートリノはレプトンという素粒子の種類で、2つの反応はとても似ているのがお分かりいただけるでしょうか？
+
+-->
+
+      <p>というわけで整理すると、</p>
+
+      <ul>
+        <li>ガンマ線からは電子と陽電子が対生成することがある (ただし原子核の電場などが必要)</li>
+        <li>ニュートリノと反ニュートリノはZボソンなどから生成される</li>
+        <li>ニュートリノとニュートリノが生成されるような反応はこれまで見つかっていない</li>
+      </ul>
+
+      <p>というのが現在までの現実での観測的事実です。</p>
+
+      <blockquote>
+        <p>「ニュートリノには、わたしとしては踏みこみたくない複雑なものが山盛りなの──何種類かあって、べつの種類に変わったりするし。でも、けっきょく大事なのはこれ──ものすごく小さい粒子だということ。質量は陽子の二〇〇億分の一程度しかないの」</p>
+      </blockquote>
+
+      <p>ここで述べられているのは、上述した2015年のノーベル物理学賞の対象となった、ニュートリノ振動のことです。 
+このあと、本文ではアストロファージの核心にせまり、物語の序盤から出てきていた「ペトロヴァ波長」の謎が説明されます。</p>
+
+      <blockquote>
+        <p>「待った、待った、待った」とぼくはいった。「アストロファージの温度がつねに摂氏九六・四一五度だということはわかっている。ものの温度、すなわち内部の粒子の速度だ。だからなかの粒子の速度を──」 「なかの粒子の速度が計算できるはず。ええ、そうよ。陽子の平均速度はわかっている。質量もわかっている。だから運動エネルギーもわかっている。あなたがなにをいいたいのか、わかっているわ。そしてその答えはイエスなの。バランスが取れているのよ」</p>
+      </blockquote>
+
+      <p>この温度の計算はまたあとで言及したいと思います。</p>
+
+      <blockquote>
+        <p>「オーケイ。アストロファージはニュートリノをつくる」とぼくはいった。「しかしそれをエネルギーにもどすのはどうやって?」「それはいちばん簡単なところよ」と彼女はいった。「ニュートリノはマヨラナ粒子と呼ばれる粒子なの。つまりニュートリノはそれ自身の反粒子でもあるわけ。基本的に二つのニュートリノがぶつかるたびに、それは物質・反物質の相互作用になる。そしてニュートリノは対消滅して光子になる。おなじ波長で反対方向に向かう二つの光子にね。そして光子の波長は光子のなかのエネルギーに基づくものだ</p>
+      </blockquote>
+
+      <p>ついにマヨラナ・ニュートリノの登場です！ ここではニュートリノ同士の対消滅ということが明確に示されていて、やはり先ほどニュートリノの対生成という話をしていたのはニュートリノと反ニュートリノではなく、ニュートリノ同士の話だったのです。
+そしてニュートリノがマヨラナ粒子であればたしかにそれはあり得る！
+この部分を読んだとき筆者は「やられた！」と思いました。
+学部4年生のときにマヨラナ・ニュートリノを探している研究室に所属していたのにこの可能性に気付けなかったのです。
+しかし無理もないと思います。
+ニュートリノのマヨラナ性というマニアックな題材を物語の重要なピースにしてしまうアンディ・ウィアーがすごすぎるのです。
+さて、マヨラナ・ニュートリノについて説明していきましょう。</p>
+
+      <p>さきほどからマヨラナ・ニュートリノと繰り返し述べてきましたが、上の文章を読むと分かるように、そのような名前の粒子があるわけではありません。
+ニュートリノの質量を記述する式にディラック質量と呼ばれるものとマヨラナ質量と呼ばれるものの2種類があり、このうちマヨラナ質量では本文にあるようにニュートリノがそれ自身の反粒子になるという性質を持ちます。
+このようなニュートリノのモデルを「マヨラナ性を持つニュートリノ」、略して「マヨラナ・ニュートリノ」と呼んでいます。</p>
+
+      <p>ニュートリノがマヨラナ粒子かどうかを調べるための実験の一つに<strong>ニュートリノを放出しない二重ベータ崩壊探索実験</strong>というものがあります。
+原子核の中にはベータ崩壊という、原子核中の中性子が陽子に変化し、電子と反電子ニュートリノを放出するという事象を起こすものがあります。
+一方、ベータ崩壊はエネルギー (または角運動量) の制限により起こらないが、中性子2つが同時に陽子2つに変化する、<strong>二重ベータ崩壊</strong>というものを起こす核種もあります。
+二重ベータ崩壊では電子2つと反電子ニュートリノ2が放出されます。
+このような崩壊は既にいくつかの核種で見つかっています。
+一方ニュートリノがマヨラナ粒子だと、ニュートリノを放出しない二重ベータ崩壊というのが起こり得ます。
+こちらは様々な核種を使って世界中で探索実験が行われていますが、まだ発見されていません。
+もし発見されればノーベル賞は間違いないですが、近い将来見つかる日が来るのでしょうか…?
+日本では KamLAND-Zen 実験、 CANDLES 実験、 PIKACHU 実験などが行われています。</p>
+
+      <ul>
+        <li><a href="[https://www.awa.tohoku.ac.jp/rcns/Research_profiles.html](https://www.sci.tohoku.ac.jp/news/20171215-9458.html)">ニュートリノと反ニュートリノは同じか？ 〜物質優勢の宇宙の謎に迫るカムランド禅実験〜</a></li>
+        <li><a href="https://www.rcnp.osaka-u.ac.jp/candles/index.html?Lang=JP&amp;InputContents=Study">CANDLES</a></li>
+        <li><a href="https://hep-www.px.tsukuba.ac.jp/PIKACHU.html">PIKACHU実験</a></li>
+      </ul>
+
+      <!--
+
+
+
+>「ペトロヴァ波長!」とぼくは叫んだ。
+
+>彼女がうなずいた。「そう。ニュートリノの質量エネルギーはペトロヴァ波長の光の光子一個が持つエネルギーとぴったり一致するの。 この論文はまちがいなく革新的といえるわ」
+
+>ぼくは両手に顎をのせた。「ワオ……まさにワオだな。あとひとつだけ疑問なんだが、アストロファージはどうやってニュートリノを体内に閉じこめているんだろう?」
+
+
+
+>「それはわたしたちもわからない。ニュートリノはふつう、ひとつの原子に当たることもなく地球を通り抜けていくそれくらい小さ い。まあ、量子の波長と衝突の可能性の問題という側面が大きいけれど。でもニュートリノはほかのものと反応しにくいことで有名といえば充分でしょう。ところがアストロファージはなんらかの理由で、いわゆる『超断面積性”なるものを持っている。これはね、なにも のも量子トンネル効果で通り抜けることができないということを意味するステキな言葉なの。わたしたちが理解できたと思っていた素粉 子物理学のありとあらゆる法則に反することだけれど、何度も何度もくりかえし立証されているのよ」
+
+-->
+
+      <h2 id="section">ペトロヴァ波長とニュートリノのエネルギー領域について</h2>
+
+      <p>あとで書きます。。</p>
+
+      <blockquote class="twitter-tweet tw-align-center">
+        <p lang="ja" dir="ltr">あーもしかするとエネルギー計算するとSKよりもIceCubeの領域なのかも</p>
+        <p>— oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1544384304460886016?ref_src=twsrc%5Etfw">July 5, 2022</a></p>
+      </blockquote>
+      <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+      <!--
+
+[Majorana particles - I thought i recognized that term!! : r/ProjectHailMary](https://www.reddit.com/r/ProjectHailMary/comments/1iutr6p/majorana_particles_i_thought_i_recognized_that/)
+ 
+
+
+https://www.digipen.edu/about/our-faculty/physics?utm_source=chatgpt.com#CharlesDubaPhD
+-->
+
+      <h2 id="section-1">おまけ</h2>
+
+      <p>PHM フィーバー</p>
+
+      <blockquote class="twitter-tweet tw-align-center">
+        <p lang="ja" dir="ltr">PHM を語る回 <a href="https://t.co/HHZYEdL6DR">pic.twitter.com/HHZYEdL6DR</a></p>
+        <p>— oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1555525137209835521?ref_src=twsrc%5Etfw">August 5, 2022</a></p>
+      </blockquote>
+      <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+      <blockquote class="twitter-tweet tw-align-center">
+        <p lang="ja" dir="ltr">タウメーバ採りに来た！ <a href="https://twitter.com/hashtag/StarField?src=hash&amp;ref_src=twsrc%5Etfw">#StarField</a> <a href="https://t.co/31NDrfVlHM">pic.twitter.com/31NDrfVlHM</a></p>
+        <p>— oka ఒక (@nowohyeah) <a href="https://twitter.com/nowohyeah/status/1707029766031761511?ref_src=twsrc%5Etfw">September 27, 2023</a></p>
+      </blockquote>
+      <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+    </dd>
+  </dd>
+</dl>]]></content><author><name>oka</name></author><category term="SF" /><category term="ニュートリノ" /><category term="二重ベータ崩壊" /><summary type="html"><![CDATA[『プロジェクト・ヘイル・メアリー』とマヨラナ・ニュートリノについて]]></summary></entry><entry><title type="html">67: シーズン2</title><link href="https://interaxion-podcast.github.io/67" rel="alternate" type="text/html" title="67: シーズン2" /><published>2026-02-10T00:00:00+09:00</published><updated>2026-02-10T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep67</id><content type="html" xml:base="https://interaxion-podcast.github.io/67"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -1613,31 +1805,4 @@ XENONnT や世界中の数多あるダークマター探索実験からの報告
   </li>
 </ul>
 
-<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="放射光" /><category term="ARPES" /><category term="トポロジカル物質" /><category term="アメリカ" /><summary type="html"><![CDATA[[のぐっち](https://twitter.com/nogucchi36)さん、[部品](https://twitter.com/tjmlab)、[ボインゴ](https://twitter.com/toshakuukan)でトポロジカル物質、ARPES、LA生活などについて話しました。]]></summary></entry><entry><title type="html">60.75: Site by Site Radio</title><link href="https://interaxion-podcast.github.io/60-75" rel="alternate" type="text/html" title="60.75: Site by Site Radio" /><published>2024-05-15T00:00:00+09:00</published><updated>2024-05-15T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep60.75</id><content type="html" xml:base="https://interaxion-podcast.github.io/60-75"><![CDATA[<details>
-  <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
-  <summary>目次</summary>
-  <nav>
-<ul id="markdown-toc">
-  <li><a href="#お知らせ" id="markdown-toc-お知らせ">お知らせ</a></li>
-</ul>
-    <!-- https://stackoverflow.com/a/38419441/11480802 -->
-  </nav>
-</details>
-<p><br /></p>
-
-<ul>
-  <li><a href="https://motegi7h.jp/haru/">第10回もてぎエンデューロ 春 2024｜モビリティリゾートもてぎ</a></li>
-  <li><a href="https://sidebysideradio.libsyn.com/">Side by Side Radio</a> のまねをしてみました。</li>
-</ul>
-
-<h3 id="お知らせ">お知らせ</h3>
-
-<ul>
-  <li>出演して頂ける方や感想などをお待ちしております。 <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">おたよりコーナーを作りました。質問、感想、要望などお待ちしております。<a href="https://t.co/rz0mlRKZU3">https://t.co/rz0mlRKZU3</a></p>
-  <p>— Interaxion Podcast (@interaxion) <a href="https://twitter.com/interaxion/status/1348936492488421378?ref_src=twsrc%5Etfw">January 12, 2021</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name></name></author><category term="自転車" /><category term="栃木" /><summary type="html"><![CDATA[[カソクキセンパイ](https://twitter.com/AccSempai)、[ピージェイ](https://twitter.com/xiPJ)、[セゾン](https://twitter.com/ShowEachLow)、[おか](https://twitter.com/nowohyeah)でもてぎエンデューロ春2024に出場しました。 (後編)]]></summary></entry></feed>
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="放射光" /><category term="ARPES" /><category term="トポロジカル物質" /><category term="アメリカ" /><summary type="html"><![CDATA[[のぐっち](https://twitter.com/nogucchi36)さん、[部品](https://twitter.com/tjmlab)、[ボインゴ](https://twitter.com/toshakuukan)でトポロジカル物質、ARPES、LA生活などについて話しました。]]></summary></entry></feed>

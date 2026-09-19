@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2026-09-19T19:42:38+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">68:</title><link href="https://interaxion-podcast.github.io/68-draft" rel="alternate" type="text/html" title="68:" /><published>2026-06-19T00:00:00+09:00</published><updated>2026-06-19T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep68</id><content type="html" xml:base="https://interaxion-podcast.github.io/68-draft"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2026-09-19T19:57:29+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">68:</title><link href="https://interaxion-podcast.github.io/68-draft" rel="alternate" type="text/html" title="68:" /><published>2026-06-19T00:00:00+09:00</published><updated>2026-06-19T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep68</id><content type="html" xml:base="https://interaxion-podcast.github.io/68-draft"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -20,22 +20,74 @@
 <h3 id="155-日本科学未来館リニューアル">1:55 日本科学未来館リニューアル</h3>
 
 <ul>
-  <li>量子コンピュータディスコ</li>
-  <li>物理インターネット</li>
-  <li>未読の宇宙</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[量子コンピュータ・ディスコ</td>
+          <td>日本科学未来館](https://www.miraikan.jst.go.jp/exhibitions/future/qcdisco/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[インターネット物理モデル</td>
+          <td>日本科学未来館](https://www.miraikan.jst.go.jp/exhibitions/future/internet/)（2025年1月13日公開終了）</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[未読の宇宙</td>
+          <td>日本科学未来館](https://www.miraikan.jst.go.jp/exhibitions/world/unread/)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
 </ul>
 
 <h3 id="1717-osechi">17:17 OSECHI</h3>
 
+<ul>
+  <li><a href="https://accel-kitchen.com/tanq/detector.php">宇宙線探究活動 探Q - OSECHI</a></li>
+</ul>
+
 <h3 id="2156-ダークマター">21:56 ダークマター</h3>
 
 <ul>
-  <li>ダークマターデイのページ</li>
-  <li>26:45ごろ回転速度間違ってる</li>
-  <li>ベラルービン Nvidia</li>
-  <li>XRISM XMM-Newton</li>
-  <li>名古屋プレスリリース XENON 10月 ラドン低減</li>
-  <li>T2KとNOVA</li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[Dark Matter Day</td>
+          <td>Interactions](https://www.interactions.org/dark-matter-day)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li>（26:45ごろ 銀河の回転速度の値が間違っていました）</li>
+  <li><a href="https://en.wikipedia.org/wiki/Vera_C._Rubin_Observatory">Vera C. Rubin Observatory - Wikipedia</a></li>
+  <li><a href="https://www.cnbc.com/2025/03/13/nvidia-to-detail-vera-rubin-chips-at-gtc-conference.html">Nvidia’s next chips are named after Vera Rubin - CNBC</a></li>
+  <li>
+    <table>
+      <tbody>
+        <tr>
+          <td>[X-Ray Imaging and Spectroscopy Mission (XRISM)</td>
+          <td>ISAS](https://www.isas.jaxa.jp/en/missions/spacecraft/current/xrism.html)</td>
+        </tr>
+      </tbody>
+    </table>
+  </li>
+  <li><a href="https://ja.wikipedia.org/wiki/XMM-Newton">XMM-Newton - Wikipedia</a></li>
+  <li><a href="https://www.kmi.nagoya-u.ac.jp/blog/2025/10/14/6308/">XENONnT実験、暗黒物質探索に向けた前人未踏の純度を実現 〜液体キセノン中のラドンを太陽ニュートリノレベルまで低減〜 - 名古屋大学 KMI</a></li>
+  <li><a href="https://www.kek.jp/en/press/202510230000t2knova">“Rival” neutrino experiments NOvA and T2K publish first joint analysis - KEK</a></li>
+  <li><a href="https://www.nature.com/articles/s41586-025-09599-3">Joint neutrino oscillation analysis from the T2K and NOvA experiments - Nature</a></li>
   <li>しょーたさんポッドキャスト ep.2</li>
 </ul>
 

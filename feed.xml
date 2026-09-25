@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2026-09-25T22:29:28+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">68: Dark Matter Day 2025</title><link href="https://interaxion-podcast.github.io/68" rel="alternate" type="text/html" title="68: Dark Matter Day 2025" /><published>2026-09-25T00:00:00+09:00</published><updated>2026-09-25T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep68</id><content type="html" xml:base="https://interaxion-podcast.github.io/68"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2026-09-26T01:09:20+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">68: Dark Matter Day 2025</title><link href="https://interaxion-podcast.github.io/68" rel="alternate" type="text/html" title="68: Dark Matter Day 2025" /><published>2026-09-25T00:00:00+09:00</published><updated>2026-09-25T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep68</id><content type="html" xml:base="https://interaxion-podcast.github.io/68"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -34,6 +34,7 @@
 <h3 id="1717-osechi">17:17 OSECHI</h3>
 
 <ul>
+  <li><a href="https://osechi.gitlab.io/">OSECHI - Outreach and Science Education Cosmic Hunting Instrument</a></li>
   <li><a href="https://nakamori-lab.sakura.ne.jp/research/cr_outreach/">宇宙線アウトリーチ - 山形大学理学部中森研究室</a></li>
 </ul>
 

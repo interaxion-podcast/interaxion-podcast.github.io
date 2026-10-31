@@ -1,4 +1,140 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2026-10-31T23:20:33+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">68: Dark Matter Day 2025</title><link href="https://interaxion-podcast.github.io/68" rel="alternate" type="text/html" title="68: Dark Matter Day 2025" /><published>2026-09-25T00:00:00+09:00</published><updated>2026-09-25T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep68</id><content type="html" xml:base="https://interaxion-podcast.github.io/68"><![CDATA[<details>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://interaxion-podcast.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interaxion-podcast.github.io/" rel="alternate" type="text/html" /><updated>2026-10-31T23:27:26+09:00</updated><id>https://interaxion-podcast.github.io/feed.xml</id><title type="html">Interaxion Podcast</title><subtitle>Interaxion [ˌɪntəˈrækʃən] は物理やテクノロジーなどについてゆるく話すポッドキャストです。</subtitle><entry><title type="html">Courrier 010: Dark Matter Day 2026 — この一年のまとめ</title><link href="https://interaxion-podcast.github.io/courrier/2026-10-31" rel="alternate" type="text/html" title="Courrier 010: Dark Matter Day 2026 — この一年のまとめ" /><published>2026-10-31T00:00:00+09:00</published><updated>2026-10-31T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-dmd2026</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/2026-10-31"><![CDATA[<p>今日10月31日は <a href="https://www.interactions.org/dark-matter-day">Dark Matter Day</a> です！
+ということでここ一年のダークマター業界のニュースを振り返ってみたいと思います。</p>
+
+<h2 id="2025年11月-天の川銀河のハローから-20-gev-のガンマ線超過">2025年11月: 天の川銀河のハローから 20 GeV のガンマ線超過</h2>
+
+<p>東京大学から「暗黒物質がついに見えた！？」というプレスリリースが出て話題になりました。
+天の川銀河のハローから 20 GeV 付近のガンマ線の超過が見つかり、暗黒物質の対消滅で説明できるかもしれない、という内容でした。
+これについては2月にリリースしたポッドキャストのエピソードでも話しています。</p>
+
+<ul>
+  <li><a href="https://www.s.u-tokyo.ac.jp/ja/press/10983/">暗黒物質がついに見えた！？ー天の川銀河のハローから高エネルギーガンマ線放射を発見ー - 東京大学 大学院理学系研究科・理学部</a></li>
+  <li><a href="https://iopscience.iop.org/article/10.1088/1475-7516/2025/11/080">20 GeV halo-like excess of the Galactic diffuse emission and implications for dark matter annihilation - IOPscience</a></li>
+  <li><a href="https://interaxion-podcast.github.io/67">Interaxion 67: シーズン2</a></li>
+</ul>
+
+<h2 id="2026年8月-xenonnt-が-pp-太陽ニュートリノを観測">2026年8月: XENONnT が pp 太陽ニュートリノを観測</h2>
+
+<p>2026年8月31日、XENON コラボレーションがイタリアのグランサッソ国立研究所 (LNGS) でのセミナーで、XENONnT 検出器で低エネルギーの太陽ニュートリノが電子を散乱する事象を初めて観測したと発表しました。
+信号の大部分は、太陽の中心で陽子同士が融合する反応 (pp 反応) から出てくる pp ニュートリノによるものです。統計的有意度は発見の基準とされる 5σ に達しています。
+電子反跳のエネルギー閾値を 1 keV まで下げたことと、ラドン (<sup>222</sup>Rn) 由来の <sup>214</sup>Pb バックグラウンドを抑えたことが効いているそうです。
+ラドンの低減については去年の Dark Matter Day の X Spaces でも話していました。</p>
+
+<ul>
+  <li><a href="https://interaxion-podcast.github.io/68">Interaxion 68: Dark Matter Day 2025</a></li>
+</ul>
+
+<p>XENONnT は2024年に <sup>8</sup>B 太陽ニュートリノによる原子核反跳 (CEνNS) の兆候も捉えていて、ダークマター検出器によるニュートリノ検出器としての成果が続いています。
+これは太陽ニュートリノがどんどん見えてきて、ダークマター探索にとっては手強いバックグラウンドになる (ニュートリノフォグ) という意味でもあります。
+なお PandaX-4T も2026年6月の Neutrino 2026 で pp ニュートリノのフラックスの暫定結果を発表しています。</p>
+
+<ul>
+  <li><a href="https://arxiv.org/abs/2608.29450">arXiv:2608.29450 First Measurement of Solar Neutrinos through Elastic Neutrino-Electron Scattering at the keV Scale</a></li>
+  <li><a href="https://www.physics.columbia.edu/news/xenonnt-first-measurement-low-energy-solar-neutrinos-scattering-electrons">XENONnT: First Measurement of Low-Energy Solar Neutrinos Scattering off Electrons - Columbia University Physics</a></li>
+  <li><a href="https://phys.org/news/2026-09-energy-solar-neutrinos-electrons.html">First measurement of low-energy solar neutrinos scattering off electrons - Phys.org</a></li>
+  <li><a href="https://interaxion-podcast.github.io/63-5">Interaxion 63.5: Straying into the Neutrino Fog</a></li>
+  <li><a href="https://interaxion-podcast.github.io/keywords/neutrino-floor/">ニュートリノフロア - Interaxion Keywords</a></li>
+</ul>
+
+<h2 id="2026年9月-lz-実験で-wimp-候補が1イベント">2026年9月: LZ 実験で WIMP 候補が1イベント</h2>
+
+<p>同じく液体キセノンを使った LZ (LUX-ZEPLIN) 実験が、2023年に取得したデータの中にバックグラウンドでは説明しにくいイベントを1つ見つけたと日本で開催された TeVPA 2026 で発表しました。
+有意度は 2.6σ (バックグラウンドで説明できる確率は約0.5%) で、発見の基準の 5σ には届いていません。
+もしこれが WIMP によるものなら、質量は 200 GeV/c² 以上と考えられるそうです。</p>
+
+<p>このイベントは原子核反跳のエネルギーが約 248 keV と大きく、期待されるバックグラウンドは約 0.01 イベントしかありません。
+一方で、普通の WIMP の弾性散乱ならもっと低いエネルギーの反跳もたくさん来るはずなので、248 keV のイベントが1個だけというのは説明しにくいようです。
+この発表のあと、結果を理論的に解釈する論文がたくさん arXiv に出ました。
+2015年に LHC で検出された 750 GeV ダイフォトンピーク (3σ以上ありましたが後に消えました) のときもたくさんの理論論文が出ましたが、そのときと同じような盛り上がりを感じます。</p>
+
+<ul>
+  <li><a href="https://www.cnn.com/2026/09/14/science/dark-matter-lz-experiment-potential-signal">LZ experiment may have detected dark matter for the first time - CNN</a></li>
+  <li><a href="https://science.psu.edu/news/experiment-sees-surprising-result-in-search-dark-matter">Experiment sees surprising result in search for dark matter - Penn State</a></li>
+  <li><a href="https://www.bristol.ac.uk/news/2026/september/new-research-reveals-surprising-result-in-search-for-dark-matter.html">New research reveals surprising result in search for dark matter - University of Bristol</a></li>
+  <li>理論論文の例
+    <ul>
+      <li><a href="https://arxiv.org/abs/2609.01583">arXiv:2609.01583 Higgsino Dark Matter Interpretation of the LUX-ZEPLIN 248 keV Nuclear-Recoil Event</a></li>
+      <li><a href="https://arxiv.org/abs/2609.02608">arXiv:2609.02608 Dark Matter at the Kinematic Edge: Interpreting the 248 keV LZ Nuclear-Recoil Candidate</a></li>
+      <li><a href="https://arxiv.org/abs/2609.07742">arXiv:2609.07742 Boosted dark particles and the LZ nuclear recoil event</a></li>
+      <li><a href="https://arxiv.org/abs/2609.14799">arXiv:2609.14799 Boosted or Inelastic? Discriminating Interpretations of the LZ 248 keV Event</a></li>
+      <li><a href="https://arxiv.org/abs/2610.25423">arXiv:2610.25423 Exothermic Dark Matter with a Dark Higgs: The LZ 248 keV Event and the Galactic Center Excess</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="nvidia-の-vera-rubin-が登場">NVIDIA の Vera Rubin が登場</h2>
+
+<p>ダークマターの存在を銀河の回転曲線から示したヴェラ・ルービンの名前を冠した、NVIDIA の新しいアーキテクチャ「Vera Rubin」が今年登場しました。
+CPU が Vera、GPU が Rubin という名前だそうです。
+CESで革ジャンがダークマターの話をしていたのが印象的でした。</p>
+
+<figure class="figure">
+  <div style="text-align: center;">
+
+    <p><img src="../assets/courrier/dmd2026_ces_vera_rubin.webp" alt="CES 2026 の NVIDIA 基調講演で映し出された銀河の回転曲線とヴェラ・ルービン (画像: YouTube)" /></p>
+
+  </div>
+  <figcaption>
+    <p>CES 2026 の NVIDIA 基調講演で映し出された銀河の回転曲線とヴェラ・ルービン (画像: YouTube)</p>
+  </figcaption>
+</figure>
+
+<p>ちなみにロードマップでは、Rubin Ultra のさらに次のアーキテクチャは我らが「Feynman」だそうです。</p>
+
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Rubin_(microarchitecture)">Rubin (microarchitecture) - Wikipedia</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Vera_C._Rubin_Observatory">Vera C. Rubin Observatory - Wikipedia</a></li>
+  <li><a href="https://finance.yahoo.com/news/nvidia-ceo-jensen-huang-says-190108804.html">Nvidia CEO Jensen Huang Says Blackwell Successor Vera Rubin Is In ‘Full Production’ At CES 2026 - Yahoo Finance (Benzinga)</a></li>
+</ul>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0NBILspM4c4?si=XI7HZUTXwdBPBhE1&amp;start=3327" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen=""></iframe>
+
+<h2 id="ニュートリノ界隈-スーパーカミオカンデと-icecube">ニュートリノ界隈: スーパーカミオカンデと IceCube</h2>
+
+<p>ダークマターからは少し外れますが、ニュートリノ関連の一年できごともおさらいしておきます。</p>
+
+<h3 id="2026年6月-スーパーカミオカンデが超新星背景ニュートリノの兆候">2026年6月: スーパーカミオカンデが超新星背景ニュートリノの兆候</h3>
+
+<p>スーパーカミオカンデが、宇宙の歴史の中で起きたすべての超新星爆発から届くニュートリノの重ね合わせ、超新星背景ニュートリノ (DSNB) の兆候を初めて捉えたと2026年6月の国際会議 Neutrino 2026 で発表されました。
+純水期間とガドリニウム導入後をあわせた約5000日分のデータを使い、有意度は 2.6σ です。
+ガドリニウムを入れた SK-Gd の成果が出てきたのは素晴らしいです。</p>
+
+<ul>
+  <li><a href="https://www.icrr.u-tokyo.ac.jp/en/news/18046/">【Press Release】Super-Kamiokande Reports the First Indication of the Diffuse Supernova Neutrino Background - 東京大学宇宙線研究所</a></li>
+  <li><a href="https://www.ipmu.jp/en/20260806-SK">Super-Kamiokande finds clue to faint “whispers” imprinted across cosmic history - Kavli IPMU</a></li>
+  <li><a href="https://phys.org/news/2026-07-cosmic-neutrino-surface-day-super.html">Cosmic neutrino ‘whispers’ may surface in 5,000-day Super-Kamiokande signal - Phys.org</a></li>
+</ul>
+
+<h3 id="2026年10月-icecube-の-francis-halzen-がノーベル物理学賞">2026年10月: IceCube の Francis Halzen がノーベル物理学賞</h3>
+
+<p>2026年のノーベル物理学賞は、IceCube を率いてきた Francis Halzen が単独で受賞しました。
+受賞理由は「IceCube ニュートリノ観測所への決定的な貢献と、天体起源の高エネルギーニュートリノの発見」です。
+めでたい！</p>
+
+<ul>
+  <li><a href="https://www.nobelprize.org/prizes/physics/2026/summary/">Nobel Prize in Physics 2026 - NobelPrize.org</a></li>
+  <li><a href="https://interaxion-podcast.github.io/blog/2026-03-20">Blog: 『プロジェクト・ヘイル・メアリー』とマヨラナ・ニュートリノについて</a></li>
+</ul>
+
+<h2 id="これまでの-dark-matter-day">これまでの Dark Matter Day</h2>
+
+<h3 id="2023年">2023年</h3>
+
+<p>カミオカラボとオンライン配信で小林雅俊さんの講演会を行いました。</p>
+
+<ul>
+  <li><a href="https://peatix.com/event/3724789">暗黒物質ってなんなん？ ー What’s the matter with dark matter? ー　Dark Matter Day 2023 in Japan - Peatix</a></li>
+</ul>
+
+<h3 id="2025年">2025年</h3>
+
+<p>去年の Dark Matter Day には<a href="https://x.com/shotakaha">しょーたさん</a>と X Spaces で収録をしました。</p>
+
+<ul>
+  <li><a href="https://interaxion-podcast.github.io/68">Interaxion 68: Dark Matter Day 2025</a></li>
+</ul>
+
+<p>ポッドキャスト出演して頂ける方や感想などをお待ちしております！ <a href="https://twitter.com/hashtag/interaxion">#interaxion</a></p>]]></content><author><name>oka</name></author><category term="ダークマター" /><category term="ニュートリノ" /><category term="XENONnT" /><category term="LZ" /><category term="スーパーカミオカンデ" /><category term="IceCube" /><category term="ノーベル賞" /><summary type="html"><![CDATA[Dark Matter Day 2026 に合わせて、前回の Dark Matter Day からの一年を振り返ります。]]></summary></entry><entry><title type="html">68: Dark Matter Day 2025</title><link href="https://interaxion-podcast.github.io/68" rel="alternate" type="text/html" title="68: Dark Matter Day 2025" /><published>2026-09-25T00:00:00+09:00</published><updated>2026-09-25T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/ep68</id><content type="html" xml:base="https://interaxion-podcast.github.io/68"><![CDATA[<details>
   <!-- https://github.com/gettalong/kramdown/issues/155#issuecomment-339793629 -->
   <summary>目次</summary>
   <nav>
@@ -1641,92 +1777,4 @@ Q5. altermagnetじゃない物質で上記の特徴(非対称なバンド分裂�
   </li>
 </ul>
 
-<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="交代磁性" /><category term="スピントロニクス" /><category term="量子幾何" /><summary type="html"><![CDATA[[柿田](https://twitter.com/S_Kakita)さん、[よしだ](https://twitter.com/Suguru_SgY)さん、[部品](https://twitter.com/tjmlab)で交代磁性について話しました。]]></summary></entry><entry><title type="html">Courrier 009: XENONnT実験が太陽ニュートリノによる原子核反跳を観測</title><link href="https://interaxion-podcast.github.io/courrier/2024-07-10" rel="alternate" type="text/html" title="Courrier 009: XENONnT実験が太陽ニュートリノによる原子核反跳を観測" /><published>2024-07-11T00:00:00+09:00</published><updated>2024-07-11T00:00:00+09:00</updated><id>https://interaxion-podcast.github.io/courrier/courrier-xenon-cevns</id><content type="html" xml:base="https://interaxion-podcast.github.io/courrier/2024-07-10"><![CDATA[<div style="text-align: center;">
-  <figure class="figure">
-    <div style="text-align: center;">
-
-      <p><img src="../assets/courrier/ALTA-DEFINIZIONE_XENONnT_013-scaled.jpg" alt="Credit: XENON Collaboration https://xenonexperiment.org/photos/" /></p>
-
-    </div>
-    <figcaption>
-      <p>Credit: XENON Collaboration https://xenonexperiment.org/photos/</p>
-    </figcaption>
-  </figure>
-
-</div>
-
-<p><a href="https://interaxion-podcast.github.io/keywords/dark-matter/">ダークマター</a>に関する国際会議<a href="https://www.idm2024.eu/">IDM2024</a>において、XENONnT実験が太陽ニュートリノによる原子核反跳を観測したという報告がありました。</p>
-
-<ul>
-  <li>スライド: <a href="https://agenda.infn.it/event/39713/contributions/237829/">IDM 2024 (8-July 12, 2024): New results from XENONnT · Agenda (Indico)</a></li>
-  <li>XENONnTのWebサイト記事: <a href="https://xenonexperiment.org/first-measurement-of-a-nuclear-recoil-signal-from-solar-neutrinos-with-xenonnt/">First measurement of a nuclear recoil signal from solar neutrinos with XENONnT – XENONnT experiment</a></li>
-</ul>
-
-<p>ただし統計的な有意性は2.7σで、素粒子物理学においてよく有意とされる3σや、発見とされる5σには到達していません。今後はより統計を溜めて論文として報告されるものと思われます。</p>
-
-<p>今回報告されたのは、太陽から来る<sup>8</sup>Bニュートリノがイタリアのグランサッソ山の地下にあるXENONnT検出器中のキセノン原子核とぶつかった信号を捉えたというものです。
-太陽ニュートリノは既に様々な検出器で観測されていますが、この原子核反跳 (nuclear recoil) を観測したというのが新しい点です。
-ニュートリノが原子核を反跳するような事象は coherent elastic neutrino nucleus scattering (CE𝜈NS, CEvNS: セヴンス) と呼ばれ、これまでは原子炉ニュートリノを使った COHERENT 実験でしか見つかっていませんでした。CE𝜈NSについては以下の記事でも解説しています。</p>
-
-<ul>
-  <li><a href="https://interaxion-podcast.github.io/keywords/neutrino-floor/">ニュートリノフロア - Interaxion Keywords</a></li>
-</ul>
-
-<p>今回の XENONnT の報告は初の太陽ニュートリノによる CE𝜈NS の観測であるとともに、ダークマター探索にとっても重要な意味を持ちます。
-上記の記事でも書いたように、XENONnT のような検出器では CE𝜈NS による信号とダークマターによる原子核反跳による信号が区別できません。
-これまではダークマターによる信号は太陽ニュートリノによる信号よりも多いかもしれないという淡い期待も持つことができましたが、今後はそれも許されなくなります。
-ダークマターによる信号は太陽ニュートリノよりも少ないため、埋もれてしまうことになります。</p>
-
-<p>しかし、ダークマターの信号を捉える手段はまだ残されています。
-XENONnT のような入射粒子の方向を区別できない検出器では、1年を通じてダークマターと地球の相対速度が変わることによる季節変動を観測するという手段があります。
-これを行うには検出器を1年を通じて安定的に稼動させ、辛抱強く統計を溜める必要があります。
-また、入射粒子の方向に感度を持つ検出器を利用するという方法も考えられます。
-この場合は太陽の方向からの信号を除くことで、太陽ニュートリノとダークマターの信号を区別できますが、XENONnTのようなタイプの検出器と比べると感度はまだまだ低い状況です。</p>
-
-<p>XENONnTのWebサイトにあるように、今回の報告によりダークマター探索は新しいチャプターを迎えました。</p>
-
-<blockquote>
-  <p>Moreover, such a significant result opens a new chapter in the direct dark matter detection field:</p>
-</blockquote>
-
-<p><del>今後少なくとも数年はダークマターが発見されることはないことが確定しましたが、</del><sup id="fnref:1"><a href="#fn:1" class="footnote" rel="footnote" role="doc-noteref">1</a></sup> 太陽ニュートリノによる CE𝜈NS の観測は、人類が着実に歩みを進めていることを示す結果でもあります。
-XENONnT や世界中の数多あるダークマター探索実験からの報告を引き続き待ちましょう。</p>
-
-<h2 id="関連リンク">関連リンク</h2>
-
-<ul>
-  <li><a href="https://www.interactions.org/press-release/first-measurement">First measurement of a nuclear recoil signal from solar neutrinos with XENONnT</a></li>
-  <li><a href="https://www-sk.icrr.u-tokyo.ac.jp/news/detail/1494/">XENONnT実験での太陽ニュートリノによる原子核散乱事象の測定結果 - 東京大学宇宙線研究所附属神岡宇宙素粒子研究施設</a></li>
-  <li><a href="https://www.kmi.nagoya-u.ac.jp/blog/2024/07/11/5673/">【研究成果】XENONnT実験での太陽ニュートリノによる原子核散乱事象の測定結果 - 名古屋大学 素粒子宇宙起源研究所（KMI）</a></li>
-  <li><a href="https://home.infn.it/it/news-infn/6728-cercando-la-materia-oscura-l-esperimento-xenonnt-entra-per-la-prima-volta-nella-nebbia-di-neutrini">CERCANDO LA MATERIA OSCURA, L’ESPERIMENTO XENONnT ENTRA PER LA PRIMA VOLTA NELLA NEBBIA DI NEUTRINI</a></li>
-</ul>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="en" dir="ltr">XENONnT is the first experiment to measure nuclear recoils from solar neutrinos<br />Today, July 10, at the <a href="https://twitter.com/hashtag/IDM2024?src=hash&amp;ref_src=twsrc%5Etfw">#IDM2024</a> in L’Aquila (IT), Fei Gao, from Tsingua Universitiy, reported this result: we can say that XENONnT enters into the so-called “neutrino fog”.This is a great achievement! <a href="https://t.co/I3N4yxafo5">pic.twitter.com/I3N4yxafo5</a></p>
-  <p>— XENONexperiment (@XENONexperiment) <a href="https://twitter.com/XENONexperiment/status/1810989027123663091?ref_src=twsrc%5Etfw">July 10, 2024</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="ja" dir="ltr">今回の結果はエネルギーの低い太陽ニュートリノによるキセノン原子核反跳という事で、軽い数GeV暗黒物質の探索にしか邪魔にならない。本丸の重い暗黒物質の探索の邪魔になるのはエネルギーの高い大気ニュートリノによる反跳だが、あと一桁大きい検出器を作った時に問題になってくる。まだ前哨戦。</p>
-  <p>— Yoshitaka Itow (@profjpyitow) <a href="https://twitter.com/profjpyitow/status/1811259300053950571?ref_src=twsrc%5Etfw">July 11, 2024</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="en" dir="ltr">XENONnT have detected solar neutrinos… the neutrino fog has arrived <a href="https://t.co/nwyfjg2IKd">pic.twitter.com/nwyfjg2IKd</a></p>
-  <p>— Ciaran O'Hare (@cajohare) <a href="https://twitter.com/cajohare/status/1810981363371172180?ref_src=twsrc%5Etfw">July 10, 2024</a></p>
-</blockquote>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet tw-align-center">
-  <p lang="en" dir="ltr">Breaking news: the XENONnT experiment seems to have detected particles at 2.7 sigma confidence! But it's not dark matter, it's Solar 8^B neutrinos. Are DM detectors already turning into neutrino detectors? From IDM-2024 conference, Aquila, Italy. <a href="https://t.co/2ZrutvNnhz">pic.twitter.com/2ZrutvNnhz</a></p>
-  <p>— Federico Lelli (@lellifede) <a href="https://twitter.com/lellifede/status/1810987196012220429?ref_src=twsrc%5Etfw">July 10, 2024</a>&lt;/blockquote&gt; <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-</blockquote>
-<div class="footnotes" role="doc-endnotes">
-  <ol>
-    <li id="fn:1">
-      <p>XENONグループのコラボレーターの1人である名古屋大学の伊藤さんによれば、現時点では太陽ニュートリノの事象は数GeVの質量のダークマターの邪魔にはなりますが、それより大きい質量のダークマターの場合はまだ邪魔にならないとのことです。 <a href="https://x.com/profjpyitow/status/1811259300053950571">https://x.com/profjpyitow/status/1811259300053950571</a> <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
-    </li>
-  </ol>
-</div>]]></content><author><name>oka</name></author><category term="ダークマター" /><category term="ニュートリノ" /><category term="XENONnT" /><summary type="html"><![CDATA[XENONnT実験が太陽ニュートリノによる原子核反跳を観測]]></summary></entry></feed>
+<iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://audiostock.jp/embed?id=1409484"></iframe>]]></content><author><name></name></author><category term="交代磁性" /><category term="スピントロニクス" /><category term="量子幾何" /><summary type="html"><![CDATA[[柿田](https://twitter.com/S_Kakita)さん、[よしだ](https://twitter.com/Suguru_SgY)さん、[部品](https://twitter.com/tjmlab)で交代磁性について話しました。]]></summary></entry></feed>
